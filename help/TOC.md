@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
+source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1834'
+source-wordcount: '1846'
 ht-degree: 18%
 
 ---
@@ -94,6 +94,7 @@ ht-degree: 18%
       + [在Analysis Workspace自动构建自由形式表](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由形式表中使用Dimension](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [在自由形式表中使用度量](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [在Analysis Workspace使用参与指标](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
       + [自由格式表中的行和列设置](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [使用自由形式表生成器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [重新排序Analysis Workspace中的静态行](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -145,6 +146,7 @@ ht-degree: 18%
       + [在Analysis Workspace为您的项目添加Dimension和指标](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [转换事件简介](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由形式表中使用度量](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [在Analysis Workspace使用参与指标](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + 维度 {#dimensions}
       + [在Analysis Workspace为您的项目添加Dimension和指标](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量变量简介(Prop)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
