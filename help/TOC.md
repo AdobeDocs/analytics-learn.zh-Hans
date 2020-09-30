@@ -209,7 +209,7 @@ ht-degree: 18%
    + 管理报表包 {#manage-report-suites}
       + [配置邮政编码设置](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [在Admin Console中配置变量](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-   + 数据治理与GDPR {数据治理与GDPR}
+   + 数据治理与GDPR {#data-governance-and-gdpr}
       + [Adobe Analytics的数据治理与GDPR](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [让您的分析团队中的合适人员](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + 流量管理 {#traffic-management}
