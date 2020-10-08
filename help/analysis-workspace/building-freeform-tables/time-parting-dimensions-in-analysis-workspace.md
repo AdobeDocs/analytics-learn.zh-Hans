@@ -3,14 +3,14 @@ title: Analysis Workspace分时Dimension
 description: 分时段功能会采用收集的点击时间戳，并将其分解为更有意义的维度，如“小时（一天）”或“星期几”。 这些维度现在在Analysis Workspace开箱即用。
 feature: freeform tables
 topics: null
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
+thumbnail: 23727.jpg
 kt: 1903
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%
