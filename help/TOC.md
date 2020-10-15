@@ -1,14 +1,14 @@
 ---
 user-guide-title: Adobe Analytics 教程
-user-guide-description: A collection of videos and tutorials for Adobe Analytics.
-breadcrumb-title: Analytics Tutorials
+user-guide-description: Adobe Analytics 的视频和教程集合。
+breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1846'
-ht-degree: 18%
+source-wordcount: '1857'
+ht-degree: 22%
 
 ---
 
@@ -90,10 +90,10 @@ ht-degree: 18%
       + [细分拖放区改进](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace 中的多个报表包](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + 构建自由形式表 {#building-freeform-tables}
-      + [用左边栏在Analysis Workspace构建自由表](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [在Analysis Workspace自动构建自由形式表](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
-      + [在自由形式表中使用Dimension](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [在自由形式表中使用度量](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [使用左边栏在 Analysis Workspace 中构建自由格式表](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中自动构建自由格式表](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [在自由格式表中使用维度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [在自由格式表中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [在Analysis Workspace使用参与指标](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
       + [自由格式表中的行和列设置](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [使用自由形式表生成器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
@@ -110,7 +110,7 @@ ht-degree: 18%
       + [可视化图表类型](analysis-workspace/visualizations/visualization-types.md)
       + [使用Analysis Workspace的表格、可视化和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [Analysis Workspace线路可视化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Analysis Workspace 中的折线图可视化图表](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [项目符号图可视化](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [直方图可视化图表](analysis-workspace/visualizations/histogram-visualization.md)
       + [地图可视化图表](analysis-workspace/visualizations/map-visualization.md)
@@ -145,13 +145,13 @@ ht-degree: 18%
       + [了解基本访客指标](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [在Analysis Workspace为您的项目添加Dimension和指标](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [转换事件简介](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [在自由形式表中使用度量](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [在自由格式表中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [在Analysis Workspace使用参与指标](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + 维度 {#dimensions}
       + [在Analysis Workspace为您的项目添加Dimension和指标](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量变量简介(Prop)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [转换变量简介(eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [在自由形式表中使用Dimension](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [在自由格式表中使用维度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
    + 日历和日期范围 {#calendar-and-date-ranges}
       + [在Analysis Workspace使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [在Analysis Workspace使用日期范围和比较](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
@@ -172,7 +172,7 @@ ht-degree: 18%
       + [Analysis Workspace 项目的保存、共享和协作](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace 中的管理和共享](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [项目的直接链接](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [以CSV形式下载50,000个项目](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
+      + [以 CSV 形式下载 50,000 个项目](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [从Analysis Workspace导出到CSV](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
       + [共享嵌入的组件](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [计划和可下载项目](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
