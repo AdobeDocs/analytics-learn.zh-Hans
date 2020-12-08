@@ -1,7 +1,7 @@
 ---
 title: 改进了 Experience Cloud 受众发布
-description: 了解发布受众（细分）并以前所未有的速度提供它们。
-seo-description: Experience Cloud 受众发布功能得到了改进。您现在可以发布受众（区段）并将其发布速度提高六倍，从而将当前延迟时间从48小时缩短到约8小时，并且速度可能更快，具体取决于流量和区段大小。
+landing-page-description: Learn publish audiences (segments) and make them available faster than ever.
+description: Experience Cloud 受众发布功能得到了改进。您现在可以发布受众（区段）并将其发布速度提高六倍，从而将当前延迟时间从48小时缩短到约8小时，并且速度可能更快，具体取决于流量和区段大小。
 feature: integration with experience cloud
 topics: null
 audience: analyst
@@ -10,10 +10,10 @@ doc-type: feature video
 team: Technical Marketing
 kt: 4819
 translation-type: tm+mt
-source-git-commit: 56049a25261318663349309164744fbb9bcfc952
+source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 34%
+source-wordcount: '158'
+ht-degree: 29%
 
 ---
 
