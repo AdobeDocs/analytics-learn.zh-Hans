@@ -10,18 +10,18 @@ team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: 7629db3735eb4b81c6a1787cce71b350a603ac3a
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 10%
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
 
-# 在Analysis Workspace [!DNL Flow visualization] 扩张 {#expanding-on-flow-visualization-in-analysis-workspace}
+# 在Analysis Workspace{#expanding-on-flow-visualization-in-analysis-workspace}展开[!DNL Flow visualization]
 
-此视频显示了Analysis Workspace的各种可用右键单击 [!DNL Flow visualization] 选项。 选项包括从路径创建区段、折叠列等。
+此视频显示Analysis Workspace[!DNL Flow visualization]中提供的各种右键单击选项。 选项包括从路径创建区段、折叠列等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
 
-有关此功能的详细信息，请访问 [文档](https://marketing.adobe.com/resources/help/zh_CN/analytics/analysis-workspace/flow.html)。
+有关此功能的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace)。
