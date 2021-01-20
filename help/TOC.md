@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 30868ad30134f1233c643dc7ed23ef060a94e61b
+source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
 workflow-type: tm+mt
-source-wordcount: '1869'
+source-wordcount: '1872'
 ht-degree: 22%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 22%
    + 提示和技巧 {#tips-and-tricks}
       + [Analysis Workspace的7大技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [提高Analysis Workspace生产率的技巧](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
-      + [继续您的Adobe Analytics学习旅程的客户提示](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
+      + [继续您的Adobe Analytics学习历程的客户技巧](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + 导航工作区项目{#navigating-workspace-projects}
       + [在Analysis Workspace启动您的第一个项目](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Analysis Workspace 中的培训教程模板](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
@@ -161,8 +161,8 @@ ht-degree: 22%
       + [创建自定义日期范围](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace的日期比较](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [向趋势中添加前一个月和前一年的比较](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + 分析客户旅程{#analyzing-customer-journeys}
-      + [旅程IQ —— 跨设备分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+   + 分析客户历程{#analyzing-customer-journeys}
+      + [历程IQ —— 跨设备分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [流失可视化](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [流失可视化增强功能](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
       + [多维流失](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
@@ -203,7 +203,7 @@ ht-degree: 22%
       + [寻找机会提高语音应用的参与度](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
       + [降低语音应用程序的错误率并提高成功率](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [了解语音助理上的用户行为](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
-      + [了解用户的语音旅程](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
+      + [了解用户的语音历程](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
 + Reports and Analytics {#reports-and-analytics}
    + [实时报告在Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
@@ -236,7 +236,8 @@ ht-degree: 22%
       + [在启动分析扩展中配置全局变量](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [在启动分析扩展中配置Cookie设置](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [配置启动分析扩展时使用自定义代码](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [使用数据层通过Experience Platform Launch设置页面名称和其他变量](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [使用数据层通过启动设置页面名称和其他变量](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [在Launch中添加实施插件](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [在Adobe Analytics扩展中使用doPlugins](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [配置轻松下载链接跟踪](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [配置轻松退出链接跟踪](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
@@ -363,7 +364,7 @@ ht-degree: 22%
       + [在Android应用程序中实施](https://docs.adobe.com/content/help/zh-Hans/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + 测量移动分析{#measuring-mobile-analytics}
       + [Adobe移动分析入门](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
-      + [接触点在移动旅程中的影响](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [触点在移动历程中的影响](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [分析不同渠道的用户行为](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [如何提高参与度和保留率](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API {#apis}
