@@ -1,6 +1,6 @@
 ---
-title: 在站点上使用数据层
-description: 在处理Experience Cloud时(包括与Adobe Analytics合作时)，最好在您的站点上使用数据层。 本视频介绍了数据层、显示和示例。
+title: 在网站上使用数据层
+description: 在您使用 Experience Cloud 时（包括使用 Adobe Analytics 时），我们将在您的网站上使用数据层视为最佳实践。此视频介绍数据层并展示一个例子。
 feature: implementation basics
 topics: null
 audience: implementer
@@ -8,17 +8,17 @@ activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3585
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 在站点上使用数据层
+# 在网站上使用数据层
 
-在您处理Experience Cloud时（包括您处理Analytics时），在您的站点上使用数据层被视为最佳实践。 本视频介绍了数据层、显示和示例。
+在您使用 Experience Cloud 时（包括使用 Analytics 时），我们将在您的网站上使用数据层视为最佳实践。此视频介绍数据层并展示一个例子。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28775/?quality=12)
