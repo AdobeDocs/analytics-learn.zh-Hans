@@ -1,6 +1,6 @@
 ---
-title: 客户用例——重音组投资于客户体验以推动销售
-description: Accent Group是澳大利亚最大的鞋类零售商，通过在实体和数字接触点中提供出色的客户体验来提高其销售额和转化率。 观看 Accent Group 如何使用 Adobe Experience Cloud 来创建无缝数字体验。
+title: 客户用例 - Accent Group 在客户体验方面加大投入以提高销量
+description: 澳大利亚最大的鞋类零售商 Accent Group 通过在实体和数字接触点营造优秀的客户体验而提高销量和转化率。观看 Accent Group 如何使用 Adobe Experience Cloud 创造无缝的数字体验。
 feature: use cases
 topics: null
 audience: all
@@ -8,17 +8,17 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4386
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
 
-# Customer Use Case: [!DNL Accent Group] Invests in Customer Experience to Drive Sales
+# 客户用例：[!DNL Accent Group] 在客户体验方面加大投入以提高销量
 
-[!DNL Accent Group]这家澳大利亚最大的鞋类零售商通过在实体和数字接触点上提供出色的客户体验，提高了销售和转化率。 Watch how the [!DNL Accent Group] uses the Adobe Experience Cloud to create seamless digital experiences.
+澳大利亚最大的鞋类零售商 [!DNL Accent Group] 通过在实体和数字接触点营造优秀的客户体验而提高销量和转化率。观看 [!DNL Accent Group] 如何使用 Adobe Experience Cloud 创造无缝的数字体验。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12)
