@@ -1,8 +1,8 @@
 ---
-title: 使用Analysis Workspace的使用日志跟踪
-seo-title: 使用Analysis Workspace的使用日志跟踪
-description: 此视频演示如何在Workspace项目上使用使用日志跟踪，这有助于您更好地了解用户对Adobe Analytics的使用情况。
-seo-description: 此视频演示如何在Workspace项目上使用使用日志跟踪，这有助于您更好地了解用户对Adobe Analytics的使用情况。
+title: 使用 Analysis Workspace 的使用日志跟踪
+seo-title: 使用 Analysis Workspace 的使用日志跟踪
+description: 此视频介绍如何将使用日志跟踪用于 Workspace 项目，这样可帮助您更好地了解用户对 Adobe Analytics 的使用情况。
+seo-description: 此视频介绍如何将使用日志跟踪用于 Workspace 项目，这样可帮助您更好地了解用户对 Adobe Analytics 的使用情况。
 feature: data configuration and collection
 topics: null
 audience: analyst, marketer
@@ -11,35 +11,35 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '184'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# 使用Analysis Workspace [!UICONTROL 的使用日志] 跟踪功能 {#using-the-usage-log-tracking-for-analysis-workspace}
+# 将[!UICONTROL 使用日志跟踪]用于 Analysis Workspace{#using-the-usage-log-tracking-for-analysis-workspace}
 
-此视频展示如何对项目 [!UICONTROL 使用使用日志][!DNL Workspace] 跟踪，这有助于您更好地了解用户对Adobe Analytics的使用情况。
+此视频介绍如何将[!UICONTROL 使用日志跟踪]用于 [!DNL Workspace] 项目，这样可帮助您更好地了解用户对 Adobe Analytics 的使用情况。
 
 >[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12)
 
 [!DNL Workspace] 跟踪选项包括：
 
 * 项目创建（保存新项目）
-* 项目更新（将编辑保存到项目）
+* 项目更新（保存对项目的编辑）
 * 项目共享
 * 项目取消共享
 * 项目删除
-* 项目视图
+* 项目查看
 
-项目视图将是最好的指示，表明您的用户是否在使用或 [!DNL Workspace] 打开与他们共享的项目。
+项目查看将是用户是否使用 [!DNL Workspace] 或甚至是否打开与其共享的项目的最佳指标。
 
 ## 其他资源 {#additional-resources}
 
-* [有关日志的更多信息](https://marketing.adobe.com/resources/help/en_US/reference/logs.html)
+* [关于日志的详细信息](https://marketing.adobe.com/resources/help/en_US/reference/logs.html)
 * [下载演示仪表板](https://adobe.ly/2ygP5ws)
 
-下一步：我们致力于在不久的将来在友好的UI中展示这些信息(并提供更多详细 [!DNL Analytics] 信息)。
+新增功能：我们力争尽快在 [!DNL Analytics] 中用一个简单易用的 UI（并具有更多细节）展示这些信息。
