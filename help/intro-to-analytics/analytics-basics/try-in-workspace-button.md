@@ -1,6 +1,6 @@
 ---
-title: 在Reports and Analytics试用工作区按钮
-description: Reports and Analytics的大多数报告都包含一个“在工作区中试用”按钮，允许您在Analysis Workspace重现当前视图以进一步自定义。
+title: Reports and Analytics 中的“在 Workspace 中尝试”按钮
+description: Reports and Analytics 中的大多数报告都有一个“在 Workspace 中尝试”按钮，通过它可在 Analysis Workspace 中重现当前视图以供进一步自定义。
 feature: analytics basics
 topics: null
 audience: all
@@ -8,17 +8,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '64'
+ht-degree: 100%
 
 ---
 
 
-# &quot;Try in Workspace&quot; Button in [!DNL Reports & Analytics] {#try-in-workspace-button-in-reports-analytics}
+# [!DNL Reports & Analytics] 中的“在 Workspace 中尝试”按钮{#try-in-workspace-button-in-reports-analytics}
 
-Most reports in [!UICONTROL Reports &amp; Analytics] include a **[!UICONTROL Try in Workspace]** button to allow you to reproduce the current view in [!UICONTROL Analysis Workspace] for further customization.
+[!UICONTROL Reports and Analytics] 中的大多数报告都有一个&#x200B;**[!UICONTROL “在 Workspace 中尝试”]**&#x200B;按钮，通过它可在 [!UICONTROL Analysis Workspace] 中重现当前视图以供进一步自定义。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12)
