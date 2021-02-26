@@ -1,6 +1,6 @@
 ---
-title: 如何识别分析跟踪服务器和报表包
-description: 在设置Adobe Analytics时，或在其他Experience Cloud解决方案中引用它时，通常有帮助甚至有必要了解您使用的Analytics“跟踪服务器”，或者您向其中发送数据的“报告包”。 此视频向您展示如何找到这两个值，无论您是否已实现Adobe Analytics。
+title: 如何识别 Analytics Tracking Server 和报告包
+description: 在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 Analytics“Tracking Server”或您将数据发送到其中的“报告包”一般都很有帮助，甚至必须这样做。此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
 feature: implementation basics
 topics: null
 audience: implementer
@@ -8,33 +8,33 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 60f4ce4f563a990576b3331b01cd87c29d424f43
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '303'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# 如何识别分析 [!DNL Tracking Server] 和报 [!UICONTROL 表包] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
+# 如何识别 Analytics [!DNL Tracking Server] 和[!UICONTROL 报告包]{#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
-在设置Adobe Analytics时，或在其他Experience Cloud解决方案中引用它时，通常有帮助甚至有必要了解您正在使用的 [!DNL Analytics] “[!DNL Tracking Server]”，或者您正在向其发送数据的“[!UICONTROL 报告包]”。 此视频向您展示如何找到这两个值，无论您是否已实现Adobe Analytics。
+在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 [!DNL Analytics]“[!DNL Tracking Server]”或您将数据发送到其中的“[!UICONTROL 报告包]”一般都很有帮助，甚至必须这样做。此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
 
-## 实施后 {#after-implementation}
+## 实施 {#after-implementation} 之后
 
-在网 [!DNL Analytics] 站上实施后，您可以在跟踪 [!DNL tracking server] 信标中 [!DNL report suite ID] 找到相应的和右侧。 信标 [!DNL tracking server] 中的主机名是主机名，因此很容易找到。 报 [!UICONTROL 表包] ID是信标路径名中“/b/ss/”后以逗号分隔的列表。
+在网站上实施 [!DNL Analytics] 之后，即可直接在跟踪信标中找到 [!DNL tracking server] 和 [!DNL report suite ID]。[!DNL tracking server] 就是信标中的主机名，因此很方便就能找到。[!UICONTROL 报告包] ID 是信标的路径名称中紧接在“/b/ss/”后面的一个用逗号分隔的列表。
 
-要查看信标以及所有其他Experience Cloud解决方案 [!DNL Analytics] 的信息，请安装“ [Experience Cloud Debugger”Chrome扩展](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=en)。
+要查看信标以及发往 [!DNL Analytics] 和其他 Experience Cloud 解决方案的所有其他信息，请安装[“Experience Cloud Debugger”Chrome 扩展](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=en)。
 
-## 实施前 {#before-implementation}
+## 实施 {#before-implementation} 之前
 
-**[!DNL Tracking Server]** -如果您尚未开始Adobe Analytics实施，则将为“.sc.omtrdc.net”选择子域 [!DNL tracking server]。 例如，假设我有一个名为“Jim’s Brims”的在线帽子商店。 我只需设置 [!DNL tracking server] 为：
+**[!DNL Tracking Server]** - 如果尚未开始使用您的 Adobe Analytics 实施，则您将为“.sc.omtrdc.net”选择一个子域[!DNL tracking server]。例如，我有一个在线帽子商店，称为“Jim’s Brims”。我就可以将 [!DNL tracking server] 设置为：
 
 “jimsbrims.sc.omtrdc.net”。
 
-**[!UICONTROL 报表包]** -要查找已创建的报 [!UICONTROL 表包的列表] ，请登录并转到顶部菜单中的“管 [!DNL Analytics] 理员 [!UICONTROL ”>“报]表包”，查看列表报告包的，包括ID和标题。
+**[!UICONTROL 报告包]** - 要查找您已创建的[!UICONTROL 报告包]的列表，请登录到 [!DNL Analytics]，然后在顶部菜单中转到[!UICONTROL “管理员”]>[!UICONTROL “报告包”]以查看[!UICONTROL 报告包]的列表，包括其 ID 和标题。
 
-有关详细信息，请观看以下视频。
+有关详细信息，请观看下方的视频。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12)
