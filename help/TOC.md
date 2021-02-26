@@ -350,7 +350,7 @@ ht-degree: 100%
       + [将基本零售业变量和事件添加到 Launch 规则](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [添加针对购买事件的 Launch 规则](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Summit 2019 超级讲座 - 零售业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-+ Media Analytics {#media-analytics}
++ 媒体分析{#media-analytics}
    + 度量语音或音频{#measuring-voice-or-audio}
       + [使用 Analysis Workspace 中的“音频消耗量”模板](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
 + 移动应用程序分析{#mobile-app-analytics}
