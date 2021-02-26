@@ -1,61 +1,61 @@
 ---
-title: 分析视频和Tutorials
-description: Adobe Analytics的视频和教程集合。
+title: Analytics 视频和教程
+description: Adobe Analytics 的视频和教程集合。
 feature: overview
 topics: null
 audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
 
 # 概述
 
-欢迎访问 [!DNL Analytics] Tutorials站点。  将这些教程与文 [档结合使](https://docs.adobe.com/content/help/zh-Hans/analytics/landing/home.html) 用，您将更好地了解如何使用Adobe Analytics以前所未有的速度获得客户洞察。  若要开始，请在您的动态标签管理帐户中
-* 请参 **阅下面的“新增功能** ”部分，了解最新特性
-* **“员工挑选** ”重点介绍我们最喜爱的一些内容
-* 在左侧导航中按主题和子主题浏 **览内容**
-* 如果 **您知** 道要查找的内容，请使用页面顶部的搜索字段
+欢迎访问 [!DNL Analytics] 教程网站。配合[文档](https://docs.adobe.com/content/help/en/analytics/landing/home.html)一起使用这些教程将让您更好地了解如何使用 Adobe Analytics 比以往更快地获得客户洞察。要开始教程，请
+* 查看下方的&#x200B;**“新增功能”**&#x200B;部分以了解最新的实用组件
+* **员工精选**&#x200B;重点介绍我们喜爱的一些内容
+* 在&#x200B;**左侧导航**&#x200B;中按主题和副标题浏览内容
+* 如果您知道自己在寻找什么，请使用页面顶部的&#x200B;**搜索**&#x200B;字段
 
 ## 新增功能
 
-* **[右键单击可实现工作区效率（视频）](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[用右键单击提高 Workspace 效率（视频）](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
-   *了解我们喜欢的所有 Analysis Workspace 的右键单击操作及其使用方法。From[!UICONTROL Freeform Tables]to[!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in[!DNL Workspace].*
+   *了解我们喜欢的各种 Analysis Workspace 右键单击及其用法。从[!UICONTROL 自由格式表]到[!UICONTROL 流失可视化]，右键单击将使您在 [!DNL Workspace] 中更加高效和熟练。*
 
-* **[Analysis Workspace的“快速洞察”专题讨论（视频）](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
-
-   <br>
-   *Quick Insights 可为 Analysis Workspace 的非分析师和新用户了解如何快速轻松地回答业务问题提供指导。*
-
-* **[Analysis Workspace项目共享（视频）](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
+* **[Analysis Workspace 中的“Quick Insights”面板（视频）](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
 
    <br>
-   *项目共享是一种通过 Analysis Workspace 向组织中的用户普及数据和见解的方法。您可以根据希望收件人获得的项目体验，为收件人提供以下三个项目角色之一：编辑、复制和查看。*
+   *Quick Insights 为非分析师和 Analysis Workspace 的新用户提供指导，帮助他们了解如何快速而轻松地回答业务问题。*
 
-## 员工挑选
+* **[Analysis Workspace 中的项目共享（视频）](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
+
+   <br>
+   *项目共享是一种让从 Analysis Workspace 获得的数据和见解惠及组织中各个用户的方法。可根据希望接收方拥有的项目体验，为其安排三种项目角色之一：“编辑”、“复制”和“查看”。*
+
+## 员工精选
 
 <table>
 <tr>
   <td>
     <a href="analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md">
-      <img alt="归因 IQ 中的算法模型" src="assets/36205.jpg" />
+      <img alt="Attribution IQ 中的算法模型" src="assets/36205.jpg" />
     </a>
     <div>
       <a href="analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md">
-    <strong>归因 IQ 中的算法模型</strong>
+    <strong>Attribution IQ 中的算法模型</strong>
     </a>
     </div>
     <p>
-    <em>Analysis Workspace 中的“算法归因”模型可使用统计技术动态确定所选量度的最佳点数分配方式。</em>
+    <em>Analysis Workspace 中的“算法归因”模型使用统计学方法动态地判断为所选指标分配积分的最佳方式。</em>
     <p>
   </td>
    <td>
@@ -68,12 +68,12 @@ ht-degree: 46%
     </a>
     </div>
     <p>
-    <em>Analysis Workspace培训教程向用户逐步介绍在Workspace中构建其第一个分析的常用术语和步骤。</em>
+    <em>Analysis Workspace 培训教程向用户介绍常见的术语以及在 Workspace 中构建其第一个分析的各个步骤。</em>
     <p>
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="“Analysis Workspace概述”视频的缩略图图像" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="“Analysis Workspace 概述”视频的缩略图" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
@@ -81,7 +81,7 @@ ht-degree: 46%
     </a>
     </div>
     <p>
-    <em>Analysis Workspace高层概述。</em>
+    <em>Analysis Workspace 的整体概述。</em>
     <p>
   </td>
 </tr>
