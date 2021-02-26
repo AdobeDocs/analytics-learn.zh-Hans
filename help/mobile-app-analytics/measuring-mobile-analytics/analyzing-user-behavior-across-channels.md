@@ -1,6 +1,6 @@
 ---
-title: 分析不同渠道的用户行为
-description: 了解如何使用Flow在移动应用程序中发现用户转化的路径，并将其与Web等其他体验进行比较。 定义和衡量多步骤流程中的转化率，推动移动App的成功。
+title: 分析各个渠道的用户行为
+description: 了解如何使用 Flow 发现用户在移动应用程序中转化的路径并将它与 Web 等其他体验进行比较。定义多步过程并度量其中的转化情况以促使您的移动应用程序取得成功。
 feature: workspace basics
 topics: mobile
 audience: analyst
@@ -8,17 +8,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3053
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 分析不同渠道的用户行为 {#analyzing-user-behavior-across-channels}
+# 分析各个渠道的用户行为{#analyzing-user-behavior-across-channels}
 
-了解如何使用移动应用程序发现用户转化的路径， [!DNL Flow] 并将其与Web等其他体验进行比较。 定义和衡量多步骤流程中的转化率，推动移动App的成功。
+了解如何使用 [!DNL Flow] 发现用户在移动应用程序中转化的路径并将它与 Web 等其他体验进行比较。定义多步过程并度量其中的转化情况以促使您的移动应用程序取得成功。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12)
