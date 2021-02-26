@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics人物指标
-description: Adobe Analytics现在将人员指标优惠到基于Adobe Experience Cloud设备合作计划的去重复访客! 此视频提供更多信息并向您展示如何开始。
+title: Adobe Analytics 中的人员指标
+description: Adobe Analytics 现在提供一个人员指标，以根据 Adobe Experience Cloud Device Co-op 为访客去重！此视频提供更多信息并介绍如何着手。
 feature: metrics
 topics: null
 audience: all
@@ -9,23 +9,23 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 73421344a22dbdc839e4d5fa2d7f38c8db7725a4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Adobe Analytics][!UICONTROL 人物] 指标 {#people-metric-in-adobe-analytics}
+# Adobe Analytics 中的[!UICONTROL 人员][!UICONTROL 指标]{#people-metric-in-adobe-analytics}
 
-Adobe Analytics现在将人 [!UICONTROL 员指] 标优惠到基于Adobe Experience Cloud设 [!UICONTROL 备合作社的去重复访客]! 此视频提供更多信息并向您展示如何开始。
+Adobe Analytics 现在提供一个[!UICONTROL 人员]指标，以根据 Adobe Experience Cloud [!UICONTROL Device Co-op] 为访客去重！此视频提供更多信息并介绍如何着手。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24037/?quality=12)
 
-如果您是Device Co-op [!UICONTROL 的一部分]，则可以根据人员而非访客计算指标。
+如果您参与 [!UICONTROL Device Co-op]，则您可根据人员而非仅仅访客计算指标。
 
-有关设备 [!UICONTROL 合作社的更多信息]，请转 [到此文档](https://marketing.adobe.com/resources/help/zh_CN/mcdc/)。
+有关 [!UICONTROL Device Co-op] 的详细信息，请转到[此文档](https://marketing.adobe.com/resources/help/en_US/mcdc/)。
 
-有关“人员” [!UICONTROL 度量的] 更多信息，请 [转到此文档](https://marketing.adobe.com/resources/help/zh_CN/mcdc/mcdc-people.html)。
+有关[!UICONTROL 人员]指标的详细信息，请转到[此文档](https://marketing.adobe.com/resources/help/en_US/mcdc/mcdc-people.html)。
