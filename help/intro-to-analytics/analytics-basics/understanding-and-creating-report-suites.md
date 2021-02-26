@@ -1,6 +1,6 @@
 ---
-title: 了解和创建报表包
-description: 此视频将帮助您了解哪些报表包，并将向您展示如何在界面中创建报表包，以便跟踪和优化访问您网站的人员。
+title: 了解和创建报告包
+description: 此视频将帮助您了解报告包是什么，并将介绍如何在界面中创建它们，以使您可跟踪和优化访问您网站的人员。
 feature: analytics basics
 topics: null
 audience: analyst
@@ -8,17 +8,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3574
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 了解和创 [!UICONTROL 建报表包]
+# 了解和创建[!UICONTROL 报告包]
 
-此视频可帮助您了 [!UICONTROL 解报表包] ，并向您展示如何在界面中创建报表包，以便跟踪和优化来到您网站的流量。
+此视频帮助您了解[!UICONTROL 报告包]是什么，并介绍如何在界面中创建它们，以使您可跟踪和优化访问您网站的流量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12)
