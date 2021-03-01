@@ -1,8 +1,8 @@
 ---
 title: 改进了 Experience Cloud 受众发布
-landing-page-description: Learn publish audiences (segments) and make them available faster than ever.
-description: Experience Cloud 受众发布功能得到了改进。您现在可以发布受众（区段）并将其发布速度提高六倍，从而将当前延迟时间从48小时缩短到约8小时，并且速度可能更快，具体取决于流量和区段大小。
-feature: integration with experience cloud
+landing-page-description: 了解发布受众（区段），并按照比以往更快的速度使其成为可用受众。
+description: Experience Cloud 的受众发布功能得到增强。如今，发布受众（区段）并成为可用受众的过程速度提升了 6 倍，延迟时间由当前的 48 小时缩短为大约 8 小时，而且速度有可能还会更快，具体情况取决于流量和区段的大小。
+feature: 与experience cloud集成
 topics: null
 audience: analyst
 activity: setup
@@ -12,19 +12,19 @@ kt: 4819
 translation-type: tm+mt
 source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 29%
+source-wordcount: '173'
+ht-degree: 52%
 
 ---
 
 
 # 改进了 Experience Cloud 受众发布
 
-Experience Cloud 受众发布功能得到了改进。您现在可以发布受众([!UICONTROL 区段])并将其发布速度提高六倍，从而将当前延迟时间从48小时缩短到约8小时，并且可能会更快，具体取决于流量和 [!UICONTROL 区段大小] 。
+Experience Cloud 的受众发布功能得到增强。您现在可以发布受众（[!UICONTROL 区段]），并使其可用速度提高六倍，将当前延迟时间从48小时缩短到约8小时，并且可能会更快，具体取决于流量和[!UICONTROL 区段]大小。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
 
-此外，一次可 [!UICONTROL 发布] 的区段数量从每个报告包的20个增 [!UICONTROL 加到75个]。
-有关详细信息，请参 [阅Analytics帮助中的将区段发](https://docs.adobe.com/content/help/zh-Hans/analytics/components/segmentation/segmentation-workflow/seg-publish.html) 布到Experience Cloud。
+此外，可一次发布的[!UICONTROL 区段]的数目已从每个[!UICONTROL 报表包]的20个增加到75个。
+有关详细信息，请参阅Analytics帮助中的[将区段发布到Experience Cloud](https://docs.adobe.com/content/help/zh-Hans/analytics/components/segmentation/segmentation-workflow/seg-publish.html)。
 
-另外，请阅读 [受众](https://docs.adobe.com/content/help/zh-Hans/core-services/interface/audiences/audience-library.html) 帮助中的Experience Cloud，以了解有关 [!UICONTROL 受众库的信息]。
+另外，请阅读Experience Cloud帮助中的[受众](https://docs.adobe.com/content/help/zh-Hans/core-services/interface/audiences/audience-library.html)，以了解有关[!UICONTROL 受众库]的信息。
