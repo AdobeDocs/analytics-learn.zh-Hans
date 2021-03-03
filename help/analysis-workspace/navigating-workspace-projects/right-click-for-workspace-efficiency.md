@@ -1,25 +1,26 @@
 ---
-title: 右键单击以提高工作区效率
-description: 了解我们喜欢的所有 Analysis Workspace 的右键单击操作及其使用方法。从自由格式表到流失可视化图表，右键单击操作可以让您更高效、更熟练地在工作区中进行操作。
-feature: workspace basics
+title: 用右键单击提高 Workspace 效率
+description: 了解我们喜欢的各种 Analysis Workspace 右键单击及其用法。从自由格式表到流失可视化图表，右键单击操作可以让您更高效、更熟练地在工作区中进行操作。
+feature: 工作区基础知识
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 72%
+source-wordcount: '71'
+ht-degree: 88%
 
 ---
 
 
-# 右键单击以提高效 [!DNL Workspace] 率
+# 右键单击[!DNL Workspace]效率
 
-了解我们喜欢的所有 Analysis Workspace 的右键单击操作及其使用方法。From [!UICONTROL Freeform Tables] to [!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in [!DNL Workspace].
+了解我们喜欢的各种 Analysis Workspace 右键单击及其用法。从[!UICONTROL 自由格式表]到[!UICONTROL 流失可视化]，右键单击将使您在 [!DNL Workspace] 中更加高效和熟练。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
