@@ -1,25 +1,26 @@
 ---
-title: '在Analysis Workspace将细分用作Dimension '
-description: 此视频展示了如何通过将区段用作Analysis Workspace的维度来比较和可视化区段。
-feature: segmentation
+title: '在 Analysis Workspace 中将区段用作维度 '
+description: 此视频显示了如何将区段用作Analysis Workspace中的维度来比较和可视化区段。
+feature: 区段划分
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2009
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 26%
 
 ---
 
 
-# Using Segments as Dimensions in Analysis Workspace {#using-segments-as-dimensions-in-analysis-workspace}
+# 在 Analysis Workspace 中将区段用作维度 {#using-segments-as-dimensions-in-analysis-workspace}
 
-此视频展示了如何通过将区段用作Analysis Workspace的维度来比较和可视化区段。
+此视频显示了如何将区段用作Analysis Workspace中的维度来比较和可视化区段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12)
