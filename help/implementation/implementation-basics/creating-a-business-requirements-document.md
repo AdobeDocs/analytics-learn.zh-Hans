@@ -1,18 +1,19 @@
 ---
 title: 创建业务要求文档
 description: '此视频介绍定义要用 Adobe Analytics 跟踪什么内容的首要步骤。关于您的网站想要了解什么？让我们写下这些内容，然后开始决定将如何追踪它们。 '
-feature: implementation basics
+feature: 实施基础
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
-translation-type: ht
-source-git-commit: 21a399b7c29562f03dfe7ba90cd1676224e50af8
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+role: “开发人员、数据工程师”
+level: 初学者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 97%
 
 ---
 
