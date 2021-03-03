@@ -1,24 +1,25 @@
 ---
 title: 在 Analysis Workspace 中使用日期范围和日历
-description: 您可以在Analysis Workspace项目的日历中将自定义日期范围用作预设。 您还可以将它们拖放到日历上，以便在项目中作为日期范围快速应用它们。 这段视频展示了如何在Adobe Analytics的Analysis Workspace做这两件事。
-feature: calendar
+description: 您可以在Analysis Workspace项目的日历中将自定义日期范围用作预设。 您还可以将它们拖放到日历上，以便在项目中将它们快速应用为日期范围。 此视频向您展示了如何在Adobe Analytics的Analysis Workspace中同时执行这两项操作。
+feature: 日历
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2013
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 6%
+source-wordcount: '125'
+ht-degree: 7%
 
 ---
 
 
-# Using [!UICONTROL Date Ranges] &amp; [!UICONTROL Calendar] in Analysis Workspace {#using-date-ranges-calendar-in-analysis-workspace}
+# 在Analysis Workspace {#using-date-ranges-calendar-in-analysis-workspace}中使用[!UICONTROL 日期范围]和[!UICONTROL 日历]
 
-您可以在Analysis Workspace [!UICONTROL 项目的日历] 中将自定 [!UICONTROL 日期范围] 用作预设。 您还可以将它们拖放到日历 [!UICONTROL 上] ，以在项目中快 [!UICONTROL 速应用] 它们作为日期范围。 这段视频展示了如何在Adobe Analytics的Analysis Workspace做这两件事。
+您可以在Analysis Workspace项目的[!UICONTROL 日历]中使用自定义[!UICONTROL 日期范围]作为预设。 您还可以将它们拖放到[!UICONTROL calendar]上，以在您的项目中作为[!UICONTROL 日期范围]快速应用它们。 此视频向您展示了如何在Adobe Analytics的Analysis Workspace中同时执行这两项操作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23973/?quality=12)
