@@ -1,24 +1,25 @@
 ---
-title: Analysis Workspace数据可视化
-description: 本次会议主要讨论Analysis Workspace的可视化。 您将学习技能和操作，帮助您以最易用的格式向组织提供强有力的洞察。
-feature: visualizations
+title: Analysis Workspace 中的数据可视化
+description: 本课程的重点是Analysis Workspace内的可视化。 您将学习技能和操作，帮助您以最易消费的格式向组织提供强有力的洞察。
+feature: 可视化图表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2114
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 8%
 
 ---
 
 
-# Analysis Workspace [!UICONTROL 的数据] 可视化 {#data-visualization-in-analysis-workspace}
+# Analysis Workspace {#data-visualization-in-analysis-workspace}中的数据[!UICONTROL 可视化]
 
-本次会议的重点是 [!UICONTROL Analysis Workspace] 的可视化。 您将学习技能和操作，帮助您以最易用的格式向组织提供强有力的洞察。
+此会话在Analysis Workspace中大致为[!UICONTROL 可视化]。 您将学习技能和操作，帮助您以最易消费的格式向组织提供强有力的洞察。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25036/?quality=12)
