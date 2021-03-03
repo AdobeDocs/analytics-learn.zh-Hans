@@ -1,24 +1,25 @@
 ---
-title: 计算指标——函数
-description: 了解如何在Adobe Analytics的计算指标中使用函数
-feature: calculated metrics
+title: 计算指标 - 函数
+description: 了解如何在Adobe Analytics中使用计算量度中的函数
+feature: 计算量度
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2321
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 0%
+source-wordcount: '33'
+ht-degree: 15%
 
 ---
 
 
-# [!UICONTROL 计算指标]: [!UICONTROL 函数] {#calculated-metrics-functions}
+# [!UICONTROL 计算量度]: [!UICONTROL 函数] {#calculated-metrics-functions}
 
-了解如何在Adobe Analytics [!UICONTROL 的计] 算 [!UICONTROL 指标中使] 用函数。
+了解如何在Adobe Analytics的[!UICONTROL 计算量度]中使用[!UICONTROL 函数]
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12)
