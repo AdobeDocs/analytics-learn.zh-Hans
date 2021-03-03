@@ -1,24 +1,25 @@
 ---
-title: 撤消Analysis Workspace行动
-description: Analysis WorkspaceAdobe Analytics现在允许您“撤消”操作，如将项目拖动到画布或执行细分。 此视频展示了如何使用撤消提高分析效率。
-feature: workspace basics
+title: 在 Analysis Workspace 中撤消操作
+description: Adobe Analytics中的Analysis Workspace现在允许您执行“撤消”操作，如将项目拖动到画布或执行划分。 此视频显示了如何使用撤消提高分析的效率。
+feature: 工作区基础知识
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2032
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
-# 撤消Analysis Workspace行动 {#undoing-actions-in-analysis-workspace}
+# 在 Analysis Workspace 中撤消操作 {#undoing-actions-in-analysis-workspace}
 
-Analysis Workspace现在允许您“[!UICONTROL 撤消]”操作，如将项目拖动到画布或执行细分。 此视频展示了如何使 [!UICONTROL 用撤消] ，提高分析的效率。
+Adobe Analytics中的Analysis Workspace现在允许您“[!UICONTROL 撤消]”操作，如将项目拖动到画布上或执行划分。 此视频显示了如何使用[!UICONTROL undo]在分析中提高效率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23983/?quality=12)
