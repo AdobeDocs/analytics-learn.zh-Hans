@@ -1,18 +1,19 @@
 ---
 title: 登录到 Adobe Analytics
 description: 在此视频中，您将了解如何登录和管理 Analytics 并开始进行您的分析。
-feature: analytics basics
+feature: Analytics 基础
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3566
-translation-type: ht
-source-git-commit: 757f04cd1c45a893fd1e7f0a41044f832487dbe0
-workflow-type: ht
-source-wordcount: '49'
-ht-degree: 100%
+role: 业务从业者
+level: 初学者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '54'
+ht-degree: 94%
 
 ---
 
