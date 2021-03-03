@@ -1,18 +1,19 @@
 ---
 title: 使用 Analysis Workspace 构建 Adobe Analytics API 2.0 请求
 description: 在此视频中，我们介绍如何利用 Analysis Workspace 自动构建 API 2.0 请求。通过调试 UI，复制 JSON 请求并直接粘贴到任何 API 客户端中即可返回 Analytics 数据。
-feature: api
+feature: API
 topics: null
-audience: implementer, developer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2386
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '119'
-ht-degree: 100%
+role: “开发人员、数据工程师”
+level: 富有经验
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '124'
+ht-degree: 96%
 
 ---
 
