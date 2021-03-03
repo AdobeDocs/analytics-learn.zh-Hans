@@ -1,24 +1,25 @@
 ---
-title: 更改Analysis Workspace可视化的比例／轴
-description: 此视频显示了如何轻松更改Analysis Workspace线形图上Y轴的比例（或轴限制），使数据更难被您和其他人误解。
-feature: visualizations
+title: 更改Analysis Workspace中可视化的缩放/轴
+description: 此视频显示了您如何轻松更改Analysis Workspace中线形图上Y轴的缩放（或轴限制），以使您和其他人更难误解数据。
+feature: 可视化图表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2133
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
 
-# 更改Analysis Workspace可视化 [!UICONTROL 的缩放] /轴 {#changing-the-scale-axis-on-visualizations-in-analysis-workspace}
+# 更改Analysis Workspace {#changing-the-scale-axis-on-visualizations-in-analysis-workspace}中[!UICONTROL 可视化]上的缩放/轴
 
-此视频显示了如何轻松更改Analysis Workspace线图上Y轴的 [!UICONTROL 比例] （或轴限制），以使您和其他人更难误解数据。
+此视频显示了如何轻松更改Analysis Workspace中[!UICONTROL 线]图形上Y轴的缩放（或轴限制），以使您和其他人更难误解数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12)
