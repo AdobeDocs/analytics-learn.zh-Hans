@@ -1,24 +1,25 @@
 ---
-title: Analysis Workspace视图密度
-description: “项目”>“信息和设置”下的“视图密度”设置允许您控制应用于左边栏和表（自由格式和同期群）的垂直填充。 您可以选择“扩展”（默认）、“舒适”或“紧凑”。
-feature: projects
+title: Analysis Workspace 中的“视图密度”
+description: “项目”>“信息和设置”下的“视图密度”设置允许您控制应用于左边栏和表（自由格式和队列）的垂直填充。 可以选择“扩展”（默认）、“舒适”或“紧凑”。
+feature: 项目
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 13%
 
 ---
 
 
-# [!UICONTROL 视图密度] (Analysis Workspace) {#view-density-in-analysis-workspace}
+# Analysis Workspace 中的“视图密度”{#view-density-in-analysis-workspace}
 
-“项 [!UICONTROL 目”] >“项目信息和设 [!UICONTROL 置”下] 的“视图密度”设置允许您控制应用于左边栏和左边栏（自由形式和同期群） 的垂直填充。 您可以选择“扩展”（默认）、“舒适”或“紧凑”。
+在[!UICONTROL Project]>[!UICONTROL 项目信息和设置]下的[!UICONTROL 视图密度]设置允许您控制应用于左边栏和表的垂直填充（[!UICONTROL Freeform]和[!UICONTROL Coother]）。 可以选择“扩展”（默认）、“舒适”或“紧凑”。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12)
