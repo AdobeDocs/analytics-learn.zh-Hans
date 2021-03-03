@@ -1,27 +1,28 @@
 ---
-title: 在Analysis Workspace使用参与指标
-description: 使用这个简单的技巧随时获取Analysis Workspace的任何参与度量。
-feature: metrics
+title: 在 Analysis Workspace 中使用参与指标
+description: 使用这一简单技巧，随时获取 Analysis Workspace 中的任意参与量度。
+feature: 量度
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 41266.jpg
 kt: 6355
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: fb755fa698e2803249a354a1db533f0d49111db3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 18%
+source-wordcount: '59'
+ht-degree: 94%
 
 ---
 
 
-# 在Analysis Workspace使用参与指标
+# 在 Analysis Workspace 中使用参与指标
 
-使用这个简单的技巧随时获取Analysis Workspace的任何参与度量。
+使用这一简单技巧，随时获取 Analysis Workspace 中的任意参与量度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
-For more information, please see the [documentation](https://docs.adobe.com/content/help/zh-Hans/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html).
+有关详细信息，请参阅[文档](https://docs.adobe.com/content/help/zh-Hans/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html)。
