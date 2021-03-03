@@ -1,24 +1,25 @@
 ---
-title: 使用面板组织您的Analysis Workspace项目
-description: 专题讨论是Analysis Workspace的一系列可视化内容。 空白面板和自由面板是开始分析的场所，而Attribution IQ和区段比较则是进行更高级分析的重点。 我们现在还添加了“+”面板按钮，以便您可以动态添加空白面板。
-feature: panels
+title: 使用面板组织您的 Analysis Workspace 项目
+description: 面板是Analysis Workspace中的可视化集合。 空白面板和自由面板是开始分析的场所，而Attribution IQ和区段比较对于更高级的分析来说是一项繁重的工作。 我们还添加了“+”面板按钮，以便您可以动态添加空白面板。
+feature: 面板
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1756
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 14%
 
 ---
 
 
-# 使用面板组织您的Analysis Workspace项目 {#using-panels-to-organize-your-analysis-workspace-projects}
+# 使用面板组织您的 Analysis Workspace 项目 {#using-panels-to-organize-your-analysis-workspace-projects}
 
-专题讨论是Analysis Workspace的一系列可视化内容。 [!UICONTROL 空白面板] 和 [!UICONTROL 自由面板是开始分析的] 场所，而“ [!DNL Attribution IQ] 段 [!UICONTROL 比较] ”和“段比较”则要进行许多较高级的分析。 我们现在还添加了“+”面板按钮，以便您可以动态添加空白面板。
+面板是Analysis Workspace中的可视化集合。 [!UICONTROL 空白面板] 和自 [!UICONTROL 由] 式面板共享位置以开始分析, [!DNL Attribution IQ] 而Segment   Comparisondo则需要大量繁重的工作来进行更高级的分析。我们还添加了“+”面板按钮，以便您可以动态添加空白面板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23388/?quality=12)
