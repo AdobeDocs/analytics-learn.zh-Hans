@@ -1,26 +1,27 @@
 ---
-title: Analysis Workspace 中的队列分析
-description: 如何在Analysis Workspace建立群组分析表。
-feature: visualizations
+title: Analysis Workspace 中的同类群组分析
+description: 如何在Analysis Workspace中构建队列分析表。
+feature: 可视化图表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2135
+role: 业务从业者
+level: 中间
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 40%
+source-wordcount: '54'
+ht-degree: 38%
 
 ---
 
 
-# Analysis Workspace 中的队列分析 {#cohort-analysis-in-analysis-workspace}
+# Analysis Workspace 中的同类群组分析 {#cohort-analysis-in-analysis-workspace}
 
-如何在Analysis Workspace [!UICONTROL 建立] 分析表。
+如何在Analysis Workspace中构建[!UICONTROL 同期群]分析表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12)
 
-有关此功能的详细信息，请参阅 [文档](https://marketing.adobe.com/resources/help/zh_CN/analytics/analysis-workspace/cohort_analysis.html)。
+有关此功能的详细信息，请参阅[文档](https://marketing.adobe.com/resources/help/zh_CN/analytics/analysis-workspace/cohort_analysis.html)。
