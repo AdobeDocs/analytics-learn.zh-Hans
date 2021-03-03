@@ -1,24 +1,25 @@
 ---
-title: 在Analysis Workspace建立分时制热图
-description: 了解如何通过创建行为的热图可视化，将时间分段分析提升到新的高度。
-feature: visualizations
+title: 在Analysis Workspace中构建分时热图
+description: 了解如何通过创建行为的热图可视化，将分时分析提升到新的高度。
+feature: 可视化图表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2813
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
 
-# 在Analysis Workspace建立分时制热图 {#build-a-time-parting-heatmap-in-analysis-workspace}
+# 在Analysis Workspace中构建分时热图{#build-a-time-parting-heatmap-in-analysis-workspace}
 
-了解如何通过创建行为的热图可视化，将时间分段分析提升 [!UICONTROL 到] 更高水平。
+了解如何通过创建行为的热图[!UICONTROL 可视化]，将时间分段分析提升到新的高度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12)
