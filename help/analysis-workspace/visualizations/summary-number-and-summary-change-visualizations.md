@@ -1,26 +1,27 @@
 ---
-title: Analysis Workspace的汇总数字和汇总变化可视化
-description: 此视频演示如何使用分析员工作区中的“摘要编号”和“摘要更改”可视化。
-feature: visualizations
+title: 汇总编号和汇总变更可视化Analysis Workspace
+description: 此视频显示如何使用Analyst Workspace中的Summary Number和Summary Change可视化。
+feature: 可视化图表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2136
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL 摘要编号] 和摘 [!UICONTROL 要更改][!UICONTROL 可视化] (在Analysis Workspace) {#summary-number-and-summary-change-visualizations-in-analysis-workspace}
+# [!UICONTROL 摘要编] 号和摘 [!UICONTROL 要更改]  可视化Analysis Workspace  {#summary-number-and-summary-change-visualizations-in-analysis-workspace}
 
-此视频演示如何使用分 [!UICONTROL 析员工作] 区中 [!UICONTROL 的“摘要][!UICONTROL 编号”和“] 摘要更改”可视化。
+此视频说明如何使用Analyst Workspace中的[!UICONTROL 摘要编号]和[!UICONTROL 摘要更改] [!UICONTROL 可视化]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23992/?quality=12)
 
-有关此功能的详细信息，请参阅 [文档](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/summary-number-change.html)。
+有关此功能的详细信息，请参阅[文档](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/summary-number-change.html)。
