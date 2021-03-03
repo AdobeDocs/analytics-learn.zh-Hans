@@ -1,28 +1,30 @@
 ---
-title: 在搜索引擎中实现Advertising Analytics跟踪模板
-description: 此视频将引导您逐步从Advertising Analytics将跟踪模板应用到支持的搜索引擎中。 实施跟踪模板是收集数据并将其传递给Adobe Analytics的关键步骤。
-feature: integration with ad cloud
+title: 将跟踪模板从Advertising Analytics实施到搜索引擎
+description: 此视频将引导您逐步将跟踪模板从Advertising Analytics实施到受支持的搜索引擎中。 实施跟踪模板是收集数据并将数据传递到Adobe Analytics的关键步骤。
+feature: Advertising Cloud集成
 topics: null
-audience: administrator
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 1651
+topic: 集成
+role: 管理员
+level: 中间
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 1%
+source-wordcount: '107'
+ht-degree: 3%
 
 ---
 
 
-# 在搜索引擎中实 [!DNL Advertising Analytics] 施跟踪模板 {#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
+# 将跟踪模板从[!DNL Advertising Analytics]导入搜索引擎{#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
 
-此视频将引导您逐步将跟踪模板从支持的 [!DNL Advertising Analytics] 搜索引擎中实施到其中。 实施跟踪模板是收集数据并将其传递给Adobe Analytics的关键步骤。
+此视频将引导您完成从[!DNL Advertising Analytics]到支持的搜索引擎中实施跟踪模板的步骤。 实施跟踪模板是收集数据并将数据传递到Adobe Analytics的关键步骤。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12)
 
-## 其他资源 {#additional-resources}
+## 其他资源{#additional-resources}
 
-* [配置 [!DNL Advertising Analytics] 在Adobe Analytics](https://helpx.adobe.com/analytics/kt/using/advertising-analytics-feature-video-configure.html)
+* [在Adobe Analytics [!DNL Advertising Analytics] 中配置](https://helpx.adobe.com/analytics/kt/using/advertising-analytics-feature-video-configure.html)
