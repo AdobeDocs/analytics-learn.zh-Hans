@@ -1,28 +1,29 @@
 ---
-title: Analysis Workspace区段落带改进
+title: Analysis Workspace中的区段拖放区改进
 description: 细分拖放区域已得到改进，因此您可以真正将任何内容拖放到项目中的任何位置。
-feature: panels
+feature: 面板
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2008
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 0%
+source-wordcount: '109'
+ht-degree: 9%
 
 ---
 
 
-# [!UICONTROL Analysis Workspace] 区段落带改进 {#segment-drop-zone-improvements-in-analysis-workspace}
+# [!UICONTROL Analysis Workspace] 中的SegmentDrop Zone改进  {#segment-drop-zone-improvements-in-analysis-workspace}
 
-[!UICONTROL 细分] 拖放区域已得到改进，因此您可以真正将任何内容拖放到项目中的任何位置。
+[!UICONTROL Segmentdrop] 区域已得到改进，因此您可以真正将任何内容放置到项目中的任何位置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
 
-现在，除了对维 [!UICONTROL 度项] 、日期范 [!UICONTROL 围和段的现有支持外]，您还 [!UICONTROL 可以删除]完整维度和指标。 此外，我们还改进了在 [!UICONTROL 段] 拖放区中删除“未指定”和“无”的维项 [!UICONTROL 的处理] 方式。
+现在，除了对[!UICONTROL dimension]项目、[!UICONTROL 日期范围]和[!UICONTROL 段]的现有支持外，您还可以删除完整的[!UICONTROL dimensions]和[!UICONTROL metrics]。 此外，我们还改进了在[!UICONTROL segment]拖放区中放置“unspecified”和“none”项时处理[!UICONTROL dimension]项的方式。
 
-有关此功能的详细信息，请访问 [文档](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html)。
+有关此功能的详细信息，请访问[文档](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html)。
