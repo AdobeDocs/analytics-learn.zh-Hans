@@ -1,24 +1,25 @@
 ---
 title: Analytics 视频和教程
 description: Adobe Analytics 的视频和教程集合。
-feature: overview
+feature: Analytics 基础
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
-translation-type: ht
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 初学者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '309'
+ht-degree: 96%
 
 ---
 
 
 # 概述
 
-欢迎访问 [!DNL Analytics] 教程网站。配合[文档](https://docs.adobe.com/content/help/en/analytics/landing/home.html)一起使用这些教程将让您更好地了解如何使用 Adobe Analytics 比以往更快地获得客户洞察。要开始教程，请
+欢迎访问 [!DNL Analytics] 教程网站。配合[文档](https://docs.adobe.com/content/help/zh/analytics/landing/home.html)一起使用这些教程将让您更好地了解如何使用 Adobe Analytics 比以往更快地获得客户洞察。要开始教程，请
 * 查看下方的&#x200B;**“新增功能”**&#x200B;部分以了解最新的实用组件
 * **员工精选**&#x200B;重点介绍我们喜爱的一些内容
 * 在&#x200B;**左侧导航**&#x200B;中按主题和副标题浏览内容
