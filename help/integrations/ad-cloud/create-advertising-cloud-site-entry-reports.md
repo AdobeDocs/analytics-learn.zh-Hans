@@ -1,25 +1,27 @@
 ---
-title: 创建Advertising Cloud站点条目报告
-description: 创建Advertising Cloud站点条目报告，以监视每周的某天、某天的时间、浏览器和地理影响。
-feature: integration with ad cloud
+title: 创建 Advertising Cloud 网站进入报告
+description: 创建 Advertising Cloud 站点登入报表，以监控每周的某天、每天的某个时间、浏览器和地理影响。
+feature: Advertising Cloud集成
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35120.jpg
 kt: 5477
+topic: 集成
+role: 业务从业者
+level: 中间
 translation-type: tm+mt
-source-git-commit: f7065aa474339cc90c00a6ac13924ec8d4e41e5d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 0%
+source-wordcount: '57'
+ht-degree: 89%
 
 ---
 
 
-# 创建Advertising Cloud站点条目报告
+# 创建 Advertising Cloud 网站进入报告
 
-创建Advertising Cloud站点条目报告，以监视每周的某天、某天的时间、浏览器和地理影响。
+创建 Advertising Cloud 站点登入报表，以监控每周的某天、每天的某个时间、浏览器和地理影响。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35120/?quality=12&learn=on)
