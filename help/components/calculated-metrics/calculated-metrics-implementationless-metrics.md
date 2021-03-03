@@ -1,24 +1,25 @@
 ---
-title: 计算指标——无实施指标
-description: 了解如何在Adobe Analytics创建新的指标而不更改实施。
-feature: calculated metrics
+title: 计算指标 - 无实施指标
+description: 了解如何在Adobe Analytics中创建新量度，而不更改您的实施。
+feature: 计算量度
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2320
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 0%
+source-wordcount: '39'
+ht-degree: 15%
 
 ---
 
 
-# [!UICONTROL 计算指标]:无实施指标 {#calculated-metrics-implementation-less-metrics}
+# [!UICONTROL 计算量度]:无实施指标  {#calculated-metrics-implementation-less-metrics}
 
-了解如何在Adobe Analytics创建 [!UICONTROL 新指标] ，而无需更改您的实施。
+了解如何在Adobe Analytics中创建新的[!UICONTROL metrics] ，而不更改实施。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12)
