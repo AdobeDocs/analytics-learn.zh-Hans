@@ -1,18 +1,19 @@
 ---
 title: 了解和创建报告包
 description: 此视频将帮助您了解报告包是什么，并将介绍如何在界面中创建它们，以使您可跟踪和优化访问您网站的人员。
-feature: analytics basics
+feature: Analytics 基础
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3574
-translation-type: ht
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+role: 业务从业者
+level: 初学者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 96%
 
 ---
 
