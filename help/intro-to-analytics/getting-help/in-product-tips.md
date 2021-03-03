@@ -1,24 +1,25 @@
 ---
-title: Analysis Workspace产品内提示
-description: 工作区提示可直接在Analysis Workspace提供快速学习，其中包含相关视频的链接，让您能够亲身体验每个提示的实际操作。
-feature: workspace basics
+title: Analysis Workspace 产品内提示
+description: 工作区提示可直接在Analysis Workspace中提供快速学习，并提供相关视频的链接，以便您查看每个提示的实际操作情况。
+feature: 工作区基础知识
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1672
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 11%
 
 ---
 
 
-# Analysis Workspace产品内提示 {#analysis-workspace-in-product-tips}
+# Analysis Workspace 产品内提示 {#analysis-workspace-in-product-tips}
 
-[!UICONTROL Analysis Workspace] ·提示可直接在Analysis Workspace [!UICONTROL 州提供快]速学习，并提供相关视频的链接，让您能够查看每个提示的实际操作情况。
+[!UICONTROL 分析 ] WorkspaceTips在Analysis Workspace中直接提供快速学 [!UICONTROL 习]，并提供相关视频的链接，让您可以查看每个提示的实际操作情况。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23135/?quality=12)
