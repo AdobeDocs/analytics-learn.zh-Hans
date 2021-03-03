@@ -1,24 +1,26 @@
 ---
-title: 为激活和报表创建分析区段
+title: 创建 Analytics 区段以供激活和报告
 description: 使用 Advertising Cloud 维度创建区段，以实现更简洁的报表和分析。
-feature: integration with ad cloud
+feature: Advertising Cloud集成
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35117.jpg
 kt: 5474
+topic: 集成
+role: 业务从业者
+level: 中间
 translation-type: tm+mt
-source-git-commit: f7065aa474339cc90c00a6ac13924ec8d4e41e5d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 86%
 
 ---
 
 
-# 为激活和报表创建分析区段
+# 创建 Analytics 区段以供激活和报告
 
 使用 Advertising Cloud 维度创建区段，以实现更简洁的报表和分析。
 
