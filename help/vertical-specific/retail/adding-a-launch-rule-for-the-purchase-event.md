@@ -1,24 +1,25 @@
 ---
-title: 为购买事件添加启动规则
-description: 此视频演示如何使用Launch中的产品字符串扩展跟踪您网站上的购买情况，从而在您的分析中生成收入、订单和单位量度。
-feature: launch implementation
+title: 添加针对购买事件的 Launch 规则
+description: 此视频显示如何使用Launch中的产品字符串扩展来跟踪您网站上的购买，从而在您的分析中生成收入、订单和件数量量度。
+feature: 启动实施
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
+role: “开发人员、数据工程师”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 10%
 
 ---
 
 
-# 为 [!DNL Launch] 事件 [!UICONTROL 添加] 规则 [!DNL Purchase]
+# 为[!DNL Purchase]事件添加[!DNL Launch] [!UICONTROL 规则]
 
-此视频演示如何使用产品字符串 [!UICONTROL 扩展] 跟踪您网站上的购买情况，从而 [!DNL Experience Platform Launch] 在您的分析中生成 [!UICONTROL 收入]、订 [!UICONTROL 单]、Orders [!UICONTROL 和Units] 中度。
+此视频说明如何使用[!DNL Experience Platform Launch]中的产品字符串[!UICONTROL extension]跟踪您的网站上的购买，从而在您的分析中生成[!UICONTROL 收入]、[!UICONTROL 订单]和[!UICONTROL 单位][!UICONTROL 量度]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12)
