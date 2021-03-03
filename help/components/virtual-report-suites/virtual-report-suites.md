@@ -1,26 +1,27 @@
 ---
-title: Adobe Analytics虚拟报告套件
-description: Adobe Analytics允许您为用户创建“虚拟报告套件”，从而对数据进行细分，并将用户／组限制在允许的数据段。 此视频向您展示了如何创建和使用虚拟报表包。
-feature: vrs
+title: Adobe Analytics中的虚拟报表包
+description: Adobe Analytics允许您为用户创建“虚拟报表包”，从而对您的数据进行细分并将用户/用户组限制为仅允许的数据区段。 此视频向您展示如何创建和使用虚拟报表包。
+feature: VRS
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2325
+role: 业务从业者
+level: 中间
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 7%
 
 ---
 
 
-# [!UICONTROL Adobe Analytics虚拟报告] 套件 {#virtual-report-suites-in-adobe-analytics}
+# [!UICONTROL Adobe Analytics中的虚] 拟报表包  {#virtual-report-suites-in-adobe-analytics}
 
-Adobe Analytics允许您为用[!UICONTROL 户创建“虚拟报表包]”，从而对数据进行细分，并将用户／组限制为允许的数据细分。 此视频向您展示了如何创建和使用虚 [!UICONTROL 拟报表包]。
+Adobe Analytics允许您为用户创建“[!UICONTROL 虚拟报表包]”，从而对数据进行细分并将用户/组限制为仅允许的数据区段。 此视频向您展示如何创建和使用[!UICONTROL 虚拟报表包]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12)
 
-有关此功能的详细信息，请访问 [文档](https://marketing.adobe.com/resources/help/en_US/reference/vrs-about.html)。
+有关此功能的详细信息，请访问[文档](https://marketing.adobe.com/resources/help/en_US/reference/vrs-about.html)。
