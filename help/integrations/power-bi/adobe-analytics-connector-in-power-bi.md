@@ -1,18 +1,19 @@
 ---
 title: Power BI 中的 Adobe Analytics 连接器
 description: 在此视频中，我们将介绍 Adobe Analytics 连接器，其中创建并加载请求、更改数据的格式、构建可视化并发布到在线服务。
-feature: third-party integration
+feature: “第三方集成”
 topics: null
-audience: developer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1655
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 中间
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 86%
 
 ---
 
@@ -25,4 +26,4 @@ ht-degree: 100%
 
 ## 其他资源{#additional-resources}
 
-* [功能文档](https://docs.microsoft.com/en-us/power-bi/desktop-connect-adobe-analytics)
+* [功能文档](https://docs.microsoft.com/zh-cn/power-bi/desktop-connect-adobe-analytics)
