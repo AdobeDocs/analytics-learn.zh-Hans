@@ -1,25 +1,26 @@
 ---
 title: 适用于 Analysis Workspace 的深色模式扩展
 description: 启用 Dark Reader Chrome 扩展程序以使 Analysis Workspace 变为深色。
-feature: workspace basics
+feature: 工作区基础知识
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5034
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 47%
+source-wordcount: '53'
+ht-degree: 43%
 
 ---
 
 
 # 适用于 Analysis Workspace 的深色模式扩展
 
-Enable the Dark Reader Chrome extension to turn [!UICONTROL Analysis Workspace] dark.
+启用“深色Reader镶边”扩展，将[!UICONTROL Analysis Workspace]变暗。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33774/?quality=12)
 
