@@ -1,26 +1,27 @@
 ---
-title: 在Analysis Workspace使用日期范围和比较
-description: 在此视频中，您将学习如何使用日期、日期范围和日期比较来自定义表格，并将可视化效果显示到正确的时间范围。
-feature: calendar
+title: 在 Analysis Workspace 中使用日期范围和比较
+description: 在此视频中，您将学习如何使用日期、日期范围和日期比较来自定义您的表格和可视化，使其适合适当的时间范围。
+feature: 日历
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 12%
+source-wordcount: '89'
+ht-degree: 29%
 
 ---
 
 
-# Using [!UICONTROL Date Ranges] and Comparisons in Analysis Workspace
+# 在Analysis Workspace中使用[!UICONTROL 日期范围]和比较
 
-在此视频中，您将学习如何使用日期、日 [!UICONTROL 期范围]和日期比较来自定义您的表并将可视化显示到正确的时间范围。
+在此视频中，您将学习如何使用日期、[!UICONTROL 日期范围]和日期比较，以将表和可视化自定义到正确的时间范围。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).
+有关详细信息，请访问[文档](https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html)。
