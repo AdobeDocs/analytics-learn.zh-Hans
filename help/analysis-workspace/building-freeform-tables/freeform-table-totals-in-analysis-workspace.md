@@ -1,25 +1,26 @@
 ---
-title: Analysis Workspace自由形式表总计
-description: 在此视频中，您将看到对自由形式表总计的一些更新，包括删除总计的功能。
-feature: freeform tables
+title: Analysis Workspace 中的自由格式表总计
+description: 在此视频中，您将看到对自由格式表总计的一些更新，包括删除总计的功能。
+feature: 自由格式表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29273.jpg
 kt: 3857
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 20%
 
 ---
 
 
-# Analysis Workspace自由形式表总计
+# Analysis Workspace 中的自由格式表总计
 
-在此视频中，您将看到对自由格式表 [!UICONTROL 总计的一些更] 新，包括删除总计的功能。 它还将向您显示如何删除“未指定”或“无”行。
+在此视频中，您将看到对[!UICONTROL 自由格式表]总计的一些更新，包括删除总计的功能。 它还将向您显示如何删除“未指定”或“无”行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12)
