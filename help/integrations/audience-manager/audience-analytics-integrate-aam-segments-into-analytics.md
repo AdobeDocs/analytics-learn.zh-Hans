@@ -1,19 +1,21 @@
 ---
-title: Audience Analytics — 将AAM细分集成到Analytics中
+title: Audience Analytics - 将 AAM 区段集成到 Analytics 中
 description: Audience Analytics是新的集成，允许您实时共享从Audience Manager(AAM)到Analytics(AA)的细分，以通知受众发现、细分和优化。
-feature: 与experience cloud集成
+feature: Experience Cloud集成
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25450.jpg
 kt: 2354
+topic: 集成
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 中间
 translation-type: tm+mt
-source-git-commit: 6e227494650e3905560973ba7c3ad336a34ac9d0
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 0%
+source-wordcount: '139'
+ht-degree: 5%
 
 ---
 
