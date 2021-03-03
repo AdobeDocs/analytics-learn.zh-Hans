@@ -1,24 +1,25 @@
 ---
-title: 降低语音应用程序的错误率并提高成功率
-description: 了解如何通过流失、成功和错误率以及备用意向等功能，找到语音应用程序的改进方向。
-feature: visualizations
+title: 在语音应用程序中降低错误率和提高成功率
+description: 了解如何通过客户参与、成功率、错误率和回退意向等功能，找到语音应用程序的改进方向。
+feature: 可视化图表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2907
+role: 业务从业者
+level: 中间
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 31%
 
 ---
 
 
-# 降低语音应用程序的错误率并提高成功率 {#reducing-error-rates-and-improving-success-rates-in-your-voice-app}
+# 在语音应用程序中降低错误率和提高成功率 {#reducing-error-rates-and-improving-success-rates-in-your-voice-app}
 
-了解如何通过客户流失、成功率和错误率以及备用方 [!UICONTROL 法]等功能找到语音应用的改进方向。
+了解如何通过[!UICONTROL churn]、成功率和错误率以及回退意图等功能，找到语音应用程序的改进方向。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=9)
