@@ -1,24 +1,25 @@
 ---
-title: 在Launch中创建数据元素以用于Analytics实施
-description: 此视频展示如何根据决定并记录在解决方案设计参考(SDR)文档中的变量和事件，在Launch中为Analytics实施创建数据元素。
-feature: launch implementation
+title: 在 Launch 中为 Analytics 实施配置数据要素
+description: 此视频显示如何根据在解决方案设计参考(SDR)文档中确定并记录的变量和事件，在Launch中为Analytics实施创建数据元素。
+feature: 启动实施
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
+role: “开发人员、数据工程师”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 11%
 
 ---
 
 
-# 在 [!UICONTROL 中创建][!DNL Launch] 用于实施的 [!DNL Analytics] 数据
+# 在[!DNL Launch]中为[!DNL Analytics]实现创建[!UICONTROL 数据元素]
 
-此视频显示如何根 [!UICONTROL 据(SDR)] 文档中决 [!DNL Analytics] 定并记录的变量和事件，为 [!DNL Experience Platform Launch]实施创建 [!DNL Solution Design Reference] 数据元素。
+此视频根据在[!DNL Solution Design Reference](SDR)文档中确定和记录的变量和事件，说明如何为[!DNL Experience Platform Launch]中的[!DNL Analytics]实现创建[!UICONTROL 数据元素]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12)
