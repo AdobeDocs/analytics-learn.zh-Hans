@@ -1,25 +1,26 @@
 ---
-title: 在启动分析扩展中配置常规设置
-description: 如果您刚开始使用Launch(按Adobe)和Adobe Analytics扩展，此视频可以帮助您完成配置的常规设置部分，包括设置跟踪服务器。
-feature: launch implementation
+title: 配置 Launch Analytics 扩展中的常规设置
+description: 如果您刚开始使用Launch、Adobe和Adobe Analytics扩展，此视频可以帮助您处理配置的常规设置部分，包括设置跟踪服务器。
+feature: 启动实施
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
+role: “开发人员、数据工程师”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 16%
+source-wordcount: '136'
+ht-degree: 21%
 
 ---
 
 
-# 在扩 [!UICONTROL 展] 中配置常规设 [!DNL Launch Analytics][!UICONTROL 置] {#configuring-general-settings-in-the-launch-analytics-extension}
+# 配置[!UICONTROL [!DNL Launch Analytics] [!UICONTROL 扩展] {#configuring-general-settings-in-the-launch-analytics-extension}中的常规]设置
 
-如果您刚开始使用Experience Platform Launch和Adobe Analytics [!UICONTROL 扩展]，此视频可以帮助您处理配 [!UICONTROL 置的] “常规”设置部分，包括设置跟踪服务器。
+如果您刚开始使用Experience Platform Launch,Adobe Analytics [!UICONTROL 扩展]，则此视频可以帮助您使用配置的[!UICONTROL 常规]设置部分，包括设置跟踪服务器。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 
