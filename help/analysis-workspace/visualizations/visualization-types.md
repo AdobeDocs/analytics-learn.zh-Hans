@@ -1,24 +1,25 @@
 ---
 title: Analysis Workspace 中的可视化类型
-description: Analysis Workspace包含面积图、圆环图、水平条形图和许多其他可视化功能，可帮助您处理分析。
-feature: visualizations
+description: Analysis Workspace包含面积图、圆环图、横条图和许多其他可视化功能，可帮助您进行分析。
+feature: 可视化图表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2132
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 20%
 
 ---
 
 
 # Analysis Workspace 中的可视化类型 {#visualization-types-in-analysis-workspace}
 
-Analysis Workspace包含面 [!UICONTROL 积图] 、圆环图 [!UICONTROL 、水平条] 形图 [!UICONTROL 和许多其] 它可视化，帮助您完成分析。
+Analysis Workspace包括面积图、[!UICONTROL 圆环]图、水平[!UICONTROL 条形图和许多其他[!UICONTROL 可视化]，以帮助您进行分析。]
 
 >[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12)
