@@ -1,25 +1,26 @@
 ---
-title: 在Analysis Workspace使用自由表格生成器
-description: 自由表格生成器允许您在许多维度、细分、指标和细分中拖放，以构建可解答更复杂业务问题的表格。 数据不会即时更新；而是在您单击“Build”后更新它，从而节省了时间，因为表只更新一次。
-feature: freeform tables
+title: 使用Analysis Workspace中的自由格式表生成器
+description: 自由表格生成器允许您在许多维度、细分、量度和细分中进行拖放，以构建可回答更复杂业务问题的表格。 数据不会即时更新；相反，它将在您单击“构建”后更新，从而节省您的时间，因为表只更新一次。
+feature: 自由格式表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31318.jpg
 kt: 4217
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 1%
 
 ---
 
 
-# 在Analysis Workspace [!DNL Freeform Table Builder] 使用
+# 在Analysis Workspace中使用[!DNL Freeform Table Builder]
 
-[!DNL Freeform Table Builder] 允许您拖放多个维度、细分、指标和细分，以构建可回答更复杂业务问题的表。 数据不会即时更新；而是在您单击“Build”后更新它，从而节省了时间，因为表只更新一次。
+[!DNL Freeform Table Builder] 允许您在许多维度、细分、量度和细分中拖放，以构建可回答更复杂业务问题的表。数据不会即时更新；相反，它将在您单击“构建”后更新，从而节省您的时间，因为表只更新一次。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12)
