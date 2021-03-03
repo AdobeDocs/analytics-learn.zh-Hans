@@ -21,13 +21,13 @@ ht-degree: 100%
 
 在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 [!DNL Analytics]“[!DNL Tracking Server]”或您将数据发送到其中的“[!UICONTROL 报告包]”一般都很有帮助，甚至必须这样做。此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
 
-## 实施 {#after-implementation} 之后
+## 实施之后 {#after-implementation} 
 
 在网站上实施 [!DNL Analytics] 之后，即可直接在跟踪信标中找到 [!DNL tracking server] 和 [!DNL report suite ID]。[!DNL tracking server] 就是信标中的主机名，因此很方便就能找到。[!UICONTROL 报告包] ID 是信标的路径名称中紧接在“/b/ss/”后面的一个用逗号分隔的列表。
 
 要查看信标以及发往 [!DNL Analytics] 和其他 Experience Cloud 解决方案的所有其他信息，请安装[“Experience Cloud Debugger”Chrome 扩展](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=en)。
 
-## 实施 {#before-implementation} 之前
+## 实施之前 {#before-implementation} 
 
 **[!DNL Tracking Server]** - 如果尚未开始使用您的 Adobe Analytics 实施，则您将为“.sc.omtrdc.net”选择一个子域[!DNL tracking server]。例如，我有一个在线帽子商店，称为“Jim’s Brims”。我就可以将 [!DNL tracking server] 设置为：
 
