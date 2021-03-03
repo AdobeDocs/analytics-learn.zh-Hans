@@ -1,24 +1,25 @@
 ---
-title: 让您的分析团队中的合适人员
-description: 实施Adobe Analytics和分析网站活动时，务必让团队中的适当人员参与。 此视频将快速显示您要填写的不同角色。
-feature: analytics basics
+title: 让合适的人员加入您的 Analytics 团队
+description: 在您实施Adobe Analytics和分析站点活动时，让团队中的合适人员参与非常重要。 此视频将快速列出您要填写的不同角色。
+feature: Analytics 基础
 topics: null
-audience: administrator
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3563
+role: 管理员
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 10%
 
 ---
 
 
-# 让您的团队中的合适人 [!DNL Analytics] 员
+# 让您的[!DNL Analytics]团队中的合适人员
 
-实施Adobe Analytics和分析网站活动时，务必让团队中的适当人员参与。 此视频将快速显示您要填写的不同角色。
+在您实施Adobe Analytics和分析站点活动时，让团队中的合适人员参与非常重要。 此视频将快速列出您要填写的不同角色。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12)
