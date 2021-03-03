@@ -1,24 +1,25 @@
 ---
-title: 提高Analysis Workspace生产率的技巧
-description: 在此视频中，我们将介绍在Analysis Workspace提高您的工作效率并节省时间的4个技巧。
-feature: workspace basics
+title: 在 Analysis Workspace 中提高生产力的提示
+description: 在此视频中，我们将介绍在Analysis Workspace中提高您的工作效率和节省时间的4个技巧。
+feature: 工作区基础知识
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4110
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 0%
+source-wordcount: '53'
+ht-degree: 26%
 
 ---
 
 
-# 提高Analysis Workspace生产率的技巧
+# 在 Analysis Workspace 中提高生产力的提示
 
-在此视频中，我们将介绍在Analysis Workspace提高您的工作效率并节省时间的4个技巧。
+在此视频中，我们将介绍在Analysis Workspace中提高您的工作效率和节省时间的4个技巧。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31157/?quality=12)
