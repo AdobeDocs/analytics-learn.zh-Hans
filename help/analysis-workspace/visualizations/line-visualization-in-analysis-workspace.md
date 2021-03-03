@@ -1,27 +1,28 @@
 ---
-title: Analysis Workspace线路可视化
-description: “行”可视化描述趋势时段内的指标。 可视化设置允许您自定义每行可视化的外观，并包括“显示X/Y轴”、“显示最小／最大标签”和“显示趋势线”的设置。
-feature: visualizations
+title: Analysis Workspace 中的线可视化
+description: 折线图可视化图表描述趋势时段内的量度。可视化图表设置允许您自定义每个折线图可视化的外观，并包括“显示 X/Y 轴”、“显示最小值/最大值标签”和“显示趋势线”的设置。
+feature: 可视化图表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40384.jpg
 kt: 6277
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 5d8c660a4974936f9f3ec1132430d42b1d261965
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 10%
+source-wordcount: '101'
+ht-degree: 92%
 
 ---
 
 
-# Analysis Workspace线路可视化
+# Analysis Workspace 中的线可视化
 
-“行”可视化描述趋势时段内的指标。 可视化设置允许您自定义每行可视化的外观，并包括“显示X/Y轴”、“显示最小／最大标签”和“显示趋势线”的设置。
+折线图可视化图表描述趋势时段内的量度。可视化图表设置允许您自定义每个折线图可视化的外观，并包括“显示 X/Y 轴”、“显示最小值/最大值标签”和“显示趋势线”的设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-在文档中了解更 [多信息](https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/analysis-workspace/visualizations/line.html)。
+请阅读[文档](https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/analysis-workspace/visualizations/line.html)了解更多信息。
