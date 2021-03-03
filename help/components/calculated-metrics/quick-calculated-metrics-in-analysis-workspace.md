@@ -1,25 +1,26 @@
 ---
-title: Analysis Workspace的快速计算指标
-description: 现在您可以在Analysis Workspace内立即构建计算指标。  如果您希望对自由形式表中的几个指标进行快速的百分比更改或划分，只需从标题中选择指标，右键单击并选择所需的运算符。  新的计算量度将显示在右侧。
-feature: calculated metrics
+title: Analysis Workspace 中的快速计算指标
+description: 现在，您可以在Analysis Workspace中快速构建计算量度。  如果您希望对自由格式表中的几个量度进行快速百分比更改或划分，只需从标题中选择量度，右键单击并选择所需的运算符。  新计算量度将显示在右侧。
+feature: 计算量度
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 6%
 
 ---
 
 
-# Analysis Workspace [!UICONTROL 的快速计] 算指标 {#quick-calculated-metrics-in-analysis-workspace}
+# Analysis Workspace {#quick-calculated-metrics-in-analysis-workspace}中的快速[!UICONTROL 计算量度]
 
-现在您可以在 [!UICONTROL Analysis Workspace] ，立即构建计算指标。  如果您希望在自由形式表中快速更改或 [!UICONTROL 划分] ，只需从标题 [!UICONTROL 中选择]“量度  ”，右击并选取所需的运算符。  新的计 [!UICONTROL 算量度] 将显示在右侧。
+现在，您可以在Analysis Workspace中快速构建[!UICONTROL 计算量度]。  如果您希望在[!UICONTROL 自由表格]中使用几个[!UICONTROL 量度]快速更改百分比或划分，只需从标题中选择[!UICONTROL 量度]，右键单击并选择所需的运算符。  右侧将显示新的[!UICONTROL 计算量度]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
