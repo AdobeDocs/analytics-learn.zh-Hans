@@ -1,24 +1,25 @@
 ---
 title: 在启动项中创建全局页面规则
-description: 您希望在每个页面上将一些数据点发送到Adobe Analytics。 此视频演示如何设置全局页面加载规则以发送这些数据点。
-feature: launch implementation
+description: 每个页面上都有一些数据点要发送到Adobe Analytics。 此视频演示如何设置全局页面加载规则以发送这些数据点。
+feature: 启动实施
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3588
+role: “开发人员、数据工程师”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 
-# 创建全局页 [!UICONTROL 面规] 则 [!DNL Launch]
+# 在[!DNL Launch]中创建全局页[!UICONTROL 规则]
 
-您希望在每个页面上将一些数据点发送到Adobe Analytics。 此视频演示如何设置全局页面加载规则，在该规则中发送这些数据点。
+每个页面上都有一些数据点要发送到Adobe Analytics。 此视频显示如何设置全局页面加载规则，以在其中发送这些数据点。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12)
