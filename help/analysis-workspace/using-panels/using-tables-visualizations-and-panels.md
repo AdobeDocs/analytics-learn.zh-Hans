@@ -1,26 +1,27 @@
 ---
-title: 使用Analysis Workspace的表格、可视化和面板
-description: 在此视频中，您将学习如何使用您的Analysis Workspace项目的构件，即面板、表和可视化。 这些元素是绘制数据时所依据的画布。
-feature: panels
+title: 使用 Analysis Workspace 中的表、可视化和面板
+description: 在此视频中，您将学习如何使用Analysis Workspace项目的构件块，即面板、表和可视化。 这些元素是绘制数据的画布。
+feature: 面板
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4103
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 31%
 
 ---
 
 
-# 使用Analysis Workspace的表格、可视化和面板
+# 使用 Analysis Workspace 中的表、可视化和面板
 
-在此视频中，您将学习如何使用您的Analysis Workspace项目的构件，即面板、表和可视化。 这些元素是绘制数据时所依据的画布。
+在此视频中，您将学习如何使用Analysis Workspace项目的构件块，即面板、表和可视化。 这些元素是绘制数据的画布。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12)
 
-有关详细信息，请访问面板和可 [视化](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/panels.html)[文档](https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)。
+有关详细信息，请访问[面板](https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/analysis-workspace/panels/panels.html)和[可视化](https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)的文档。
