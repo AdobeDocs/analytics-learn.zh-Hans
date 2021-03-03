@@ -1,28 +1,29 @@
 ---
-title: 在计算量度中使用Dimension
-description: Dimension现在可在计算量度生成器中使用。 可以将它们添加到任何计算的度量公式中，以立即创建内部段。
-feature: calculated metrics
+title: 在计算指标中使用维度
+description: Dimension现在在计算量度生成器中可用。 可以将它们添加到任何计算量度公式中，以便立即创建内部区段。
+feature: 计算量度
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1904
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 11%
+source-wordcount: '99'
+ht-degree: 27%
 
 ---
 
 
-# 在计 [!UICONTROL 算量] 度中 [!UICONTROL 使用Dimension] {#using-dimensions-in-calculated-metrics}
+# 在[!UICONTROL 计算量度] {#using-dimensions-in-calculated-metrics}中使用[!UICONTROL Dimension]
 
-[!UICONTROL Dimension] 现在可在计算 [!UICONTROL 量度生成器中使用]。 可以将它们添加到 [!UICONTROL 任何计][!UICONTROL 算] 公式，以立即创建内部段。
+[!UICONTROL “] 计算量度生成器”中 [!UICONTROL 现在提供维]。可以将它们添加到任何[!UICONTROL 计算量度] [!UICONTROL 公式]中，以便立即创建内部段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12)
 
-此功能简化了在计算指标中创建和 [!UICONTROL 使用] 细分 [!UICONTROL 的工作流]。
+此功能简化了在[!UICONTROL 计算量度]中创建和使用[!UICONTROL 区段]的工作流。
 
-有关此功能的详细信息，请访问 [文档](https://marketing.adobe.com/resources/help/zh_CN/analytics/calcmetrics/cm_build_metrics.html)。
+有关此功能的详细信息，请访问[文档](https://marketing.adobe.com/resources/help/zh_CN/analytics/calcmetrics/cm_build_metrics.html)。
