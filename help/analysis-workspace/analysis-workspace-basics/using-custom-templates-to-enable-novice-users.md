@@ -3,19 +3,20 @@ title: 使用自定义模板让 Analysis Workspace 的新手用户也能用好
 seo-title: 使用自定义模板让 Analysis Workspace 的新手用户也能用好
 description: 此视频演示如何将自定义模板与复制 + 粘贴/插入功能相结合以更好地为组织中的新手用户服务。
 seo-description: 此视频演示如何将自定义模板与复制 + 粘贴/插入功能相结合以更好地为组织中的新手用户服务。
-feature: projects
+feature: 项目
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '145'
-ht-degree: 100%
+role: 业务从业者
+level: 中间
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 97%
 
 ---
 
