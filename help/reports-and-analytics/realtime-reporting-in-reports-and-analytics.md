@@ -1,24 +1,25 @@
 ---
-title: 实时报告在Reports and Analytics
-description: 此视频展示了Adobe对Adobe AnalyticsReports & Analytics中的实时报告所做的少量更新。
-feature: analytics basics
+title: Reports and Analytics 中的实时报告
+description: 此视频显示了Adobe在Adobe Analytics的Reports & Analytics中对实时报表所做的一些更新。
+feature: Analytics 基础
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2360
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 14%
 
 ---
 
 
-# 实时报告 [!DNL Reports & Analytics] {#real-time-reporting-in-reports-analytics}
+# [!DNL Reports & Analytics] {#real-time-reporting-in-reports-analytics}中的实时报告
 
-此视频展示了Adobe对Adobe AnalyticsReports &amp; Analytics中 [!UICONTROL 的实时报告][!UICONTROL 所做的少量] 更新。
+此视频显示了Adobe对Adobe Analytics中[!UICONTROL Reports &amp; Analytics]中的[!UICONTROL Real-Time Report]所做的一些更新。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12)
