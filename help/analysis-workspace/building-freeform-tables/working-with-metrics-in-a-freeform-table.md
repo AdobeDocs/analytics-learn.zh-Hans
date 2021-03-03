@@ -1,25 +1,26 @@
 ---
-title: 在自由形式表中使用度量
-description: 了解在Analysis Workspace的自由表格中使用度量的各种方法。
-feature: freeform tables
+title: 在自由格式表中使用指标
+description: 了解在自由格式表（位于 Analysis Workspace 中）中可以使用量度的各种方式。
+feature: 自由格式表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40817.jpg
 kt: 6291
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 95f0f2e224f8eab785b3d283ca84e9ce5371a5a6
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 94%
 
 ---
 
 
-# 在自由形式表中使用度量
+# 在自由格式表中使用指标
 
-了解在Analysis Workspace的自由表格中使用度量的各种方法。
+了解在自由格式表（位于 Analysis Workspace 中）中可以使用量度的各种方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40817/?quality=12&learn=on)
