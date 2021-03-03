@@ -1,18 +1,19 @@
 ---
 title: Reports and Analytics 中的“在 Workspace 中尝试”按钮
 description: Reports and Analytics 中的大多数报告都有一个“在 Workspace 中尝试”按钮，通过它可在 Analysis Workspace 中重现当前视图以供进一步自定义。
-feature: analytics basics
+feature: Analytics 基础
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
-translation-type: ht
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: ht
-source-wordcount: '64'
-ht-degree: 100%
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 初学者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '77'
+ht-degree: 85%
 
 ---
 
