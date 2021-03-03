@@ -1,24 +1,26 @@
 ---
-title: 利用 Advertising Cloud 数据创建分析自定义量度
+title: 用 Advertising Cloud 数据创建 Analytics 自定义指标
 description: 在 Adobe Analytics 中使用 Advertising Cloud 数据时创建的有用自定义量度。
-feature: integration with ad cloud
+feature: Advertising Cloud集成
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35119.jpg
 kt: 5476
+topic: 集成
+role: 业务从业者
+level: 中间
 translation-type: tm+mt
-source-git-commit: f7065aa474339cc90c00a6ac13924ec8d4e41e5d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '49'
+ht-degree: 87%
 
 ---
 
 
-# 利用 Advertising Cloud 数据创建分析自定义量度
+# 用 Advertising Cloud 数据创建 Analytics 自定义指标
 
 在 Adobe Analytics 中使用 Advertising Cloud 数据时创建的有用自定义量度。
 
