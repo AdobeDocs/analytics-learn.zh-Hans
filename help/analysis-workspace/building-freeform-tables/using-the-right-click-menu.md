@@ -1,26 +1,27 @@
 ---
-title: 使用Analysis Workspace的右键菜单
-description: 了解如何使用Analysis Workspace的右键单击菜单更快地进行细分等。
-feature: freeform tables
+title: 使用 Analysis Workspace 中的右键单击菜单
+description: 了解如何使用Analysis Workspace中的右键单击菜单更快地划分等。
+feature: 自由格式表
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 23%
 
 ---
 
 
-# 使用Analysis Workspace的右键菜单 {#using-the-right-click-menu-in-analysis-workspace}
+# 使用 Analysis Workspace 中的右键单击菜单 {#using-the-right-click-menu-in-analysis-workspace}
 
-了解如何使用Analysis Workspace的右键单击菜单更快地进行细分等。
+了解如何使用Analysis Workspace中的右键单击菜单更快地划分等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23981/?quality=12)
 
-注意：右击菜单已开发得更多，包括 [!DNL Date comparisons]、创 [!UICONTROL 建警报]、复制、上下 [!UICONTROL 文流] 失操作等。
+注意：右键单击菜单已开发得更多，包括[!DNL Date comparisons]、创建[!UICONTROL 警报]、复制、上下文内[!UICONTROL 流失]操作等。
