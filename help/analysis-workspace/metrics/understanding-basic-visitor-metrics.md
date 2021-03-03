@@ -1,24 +1,25 @@
 ---
 title: 了解基本访客指标
-description: 页面视图、访问和访客（哦，我的？）。 此简短的视频将为您提供一些基本信息，帮助您了解这些主要内容以了解网站流量。
-feature: metrics
+description: 页面视图、访问和访客（哦，我的？）。 此简短的视频将为您提供一些基本信息，帮助您了解这些主题，以了解网站流量。
+feature: 量度
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3575
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: e1dd43f24db21161b51556a3756567cfcb583038
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 14%
 
 ---
 
 
 # 了解基本访客指标
 
-[!UICONTROL 页面视图][!UICONTROL 、]访问  和访客（哦，我的？）。 此简短的视频将为您提供一些基本信息，帮助您了解这些主要内容以了解网站流量。
+[!UICONTROL 页面视图]、 [!UICONTROL 访问]、 [!UICONTROL 访客] （哦，我的？）。此简短的视频将为您提供一些基本信息，帮助您了解这些主题，以了解网站流量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12)
