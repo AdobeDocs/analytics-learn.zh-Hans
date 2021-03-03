@@ -1,24 +1,25 @@
 ---
 title: 为特殊页面创建启动规则
-description: 除了每个页面上的数据外，您还需要在一个页面上加入一些数据。 此视频向您展示如何将数据与每页数据合并，并将其发送到Adobe Analytics。
-feature: launch implementation
+description: 除了每个页面上的数据外，您还会有一些只需在一个页面上登录的数据。 此视频向您展示如何将该数据与每页数据合并，并将其发送到Adobe Analytics。
+feature: 启动实施
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3590
+role: “开发人员、数据工程师”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 
-# 为特 [!DNL Launch] 殊 [!UICONTROL 页面] 创建规则
+# 为特殊页面创建[!DNL Launch] [!UICONTROL 规则]
 
-除了每个页面上的数据外，您还需要在一个页面上加入一些数据。 此视频向您展示如何将数据与每页数据合并，并将其发送到Adobe Analytics。
+除了每个页面上的数据外，您还会有一些只需在一个页面上登录的数据。 此视频向您展示如何将该数据与每页数据合并，并将其发送到Adobe Analytics。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12)
