@@ -1,25 +1,26 @@
 ---
-title: 在Analysis Workspace自动构建自由形式表
-description: 将组件直接放入空白项目、面板或自由形式表中，将自动以建议的格式为您构建一个表。
-feature: freeform tables
+title: 在 Analysis Workspace 中自动构建自由格式表
+description: 将组件直接放入空白项目、面板或自由格式表中，系统会按照建议的格式自动为您构建一个表。
+feature: 自由格式表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40855.jpg
 kt: 6308
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: f466b570c27ab0f40657250e67b366ad8beae354
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 95%
 
 ---
 
 
-# 在Analysis Workspace自动构建自由形式表
+# 在 Analysis Workspace 中自动构建自由格式表
 
-将组件直接放入空白项目、面板或自由形式表中，将自动以建议的格式为您构建一个表。
+将组件直接放入空白项目、面板或自由格式表中，系统会按照建议的格式自动为您构建一个表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40855/?quality=12&learn=on)
