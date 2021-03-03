@@ -1,18 +1,19 @@
 ---
 title: 用于定义自定义调色板的颜色吸管扩展
 description: 了解如何使用 ColorPick EyeDropper Chrome 扩展轻松地在工作区中找到自定义调色板所需的十六进制值。
-feature: workspace basics
+feature: 工作区基础知识
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5035
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 82%
+source-wordcount: '85'
+ht-degree: 77%
 
 ---
 
