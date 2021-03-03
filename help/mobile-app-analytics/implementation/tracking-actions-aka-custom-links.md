@@ -1,18 +1,20 @@
 ---
 title: 用 Experience Platform SDK 跟踪移动应用程序中的行为（又称自定义链接）
 description: '行为是在移动应用程序中发生的事件。在此视频中，了解如何使用 trackAction API 跟踪和度量某种行为。 '
-feature: mobile sdk
+feature: Mobile SDK
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2563
-translation-type: ht
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: ht
-source-wordcount: '174'
-ht-degree: 100%
+topic: 移动设备
+role: “开发人员、数据工程师”
+level: 富有经验
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 97%
 
 ---
 
