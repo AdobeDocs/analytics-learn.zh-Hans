@@ -1,24 +1,25 @@
 ---
-title: '使用Adobe Analytics分类规则构建器 '
-description: '了解如何使用分类规则构建器在Adobe Analytics自动应用基于规则的分类。 '
-feature: classifications
+title: '在Adobe Analytics中使用分类规则生成器 '
+description: '了解如何使用分类规则生成器在Adobe Analytics中自动应用基于规则的分类。 '
+feature: 分类
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 2%
 
 ---
 
 
-# 在Adobe Analytics [!UICONTROL 使用分类规则构] 建器 {#using-the-classification-rule-builder-in-adobe-analytics}
+# 使用Adobe Analytics {#using-the-classification-rule-builder-in-adobe-analytics}中的[!UICONTROL 分类规则生成器]
 
-了解如何使用 [!UICONTROL 分类规则构建器] ，在Adobe Analytics自动应用基于 [!UICONTROL 规则的] 分类。
+了解如何使用[!UICONTROL 分类规则生成器]在Adobe Analytics中自动应用基于规则的[!UICONTROL 分类]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12)
