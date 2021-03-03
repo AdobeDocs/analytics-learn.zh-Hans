@@ -1,18 +1,19 @@
 ---
 title: 客户用例 - ServiceNow 获得与潜在客户建立联系的正确见解
 description: 了解 ServiceNow 如何通过 Adobe Advertising Cloud 和 Adobe Analytics，从其营销渠道中获得切实可行的数据并提高付费搜索广告的 ROI。
-feature: use cases
+feature: 用例
 topics: null
-audience: all
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4385
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '95'
-ht-degree: 100%
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 初学者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '108'
+ht-degree: 89%
 
 ---
 
