@@ -1,36 +1,37 @@
 ---
-title: Analysis Workspace地图可视化
-description: 此视频向您展示如何使用Analysis Workspace的新地图可视化。 “地图”视图将允许您根据动态地图视图移动（纬度／长）或Web（IP地址）数据，从而了解客户在其位置环境中的使用情况。
-feature: visualizations
+title: Analysis Workspace中的地图可视化
+description: 此视频向您展示如何使用Analysis Workspace中新的地图可视化。 “地图”视图将允许您根据动态地图视图移动（纬度/经度）或Web（IP地址）数据，以便您了解客户在其位置上下文中的使用情况。
+feature: 可视化图表
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Analysis Workspace] 地图可视化 {#map-visualization-in-analysis-workspace}
+# [!UICONTROL Analysis Workspace中的]  MapVisualization  {#map-visualization-in-analysis-workspace}
 
-此视频向您展示如何使用Analysis Workspace [!UICONTROL 的地图][!UICONTROL 可视] 化效果。 “ [!UICONTROL 地图] ”视图将允许您对动态地图 [!UICONTROL 视图移动纬度] /长数据或Web（IP地址） [!UICONTROL 数据]，从而了解客户在其位置环境中的使用情况。
+此视频向您介绍如何在Analysis Workspace中使用[!UICONTROL Map] [!UICONTROL  visualization]。 [!UICONTROL Map] viz将允许您针对动态[!UICONTROL map]视图[!UICONTROL 移动纬度/long]或Web（IP地址）数据，以便您了解客户在其位置上下文中的使用情况。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12)
 
 此视频中的部分：
 
-0:00 —— 功能概述和设置
+0:00 — 功能概述和设置
 
-1:05 —— 与地图交 [!UICONTROL 互]
+1:05 — 与[!UICONTROL Map]交互
 
-2:55 —— 调整地 [!UICONTROL 图设] 置
+2:55 — 调整[!UICONTROL 映射]设置
 
-7:00 —— 热图视图
+7:00 — 热图视图
 
-有关此可视化的更 [!UICONTROL 多信]息，请访 [问文档](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html)。
+有关此[!UICONTROL 可视化]的详细信息，请访问[文档](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html)。
