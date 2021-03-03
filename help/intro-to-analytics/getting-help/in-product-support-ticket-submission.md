@@ -1,24 +1,25 @@
 ---
-title: 产品内支持票证提交
+title: 在产品内提交支持服务单
 description: 您现在可以直接在UI中提交客户关怀支持票证，从而简化解决流程。
-feature: analytics basics
+feature: Analytics 基础
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1664
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 18%
 
 ---
 
 
-# 产品内支持票证提交 {#in-product-support-ticket-submission}
+# 在产品内提交支持服务单 {#in-product-support-ticket-submission}
 
-您现在可以直接在 [!DNL Customer Care] UI中提交支持票证，从而简化解决流程。
+您现在可以直接在UI中提交[!DNL Customer Care]支持票证，从而简化解决流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12)
