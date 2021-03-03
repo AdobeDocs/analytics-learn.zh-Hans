@@ -1,24 +1,25 @@
 ---
-title: 将基本零售变量和事件添加到启动规则
-description: 此视频演示如何在Launch中使用特殊的产品字符串扩展来跟踪基本零售变量和事件，如产品视图、添加到购物车、结帐等。
-feature: launch implementation
+title: 将基本零售业变量和事件添加到 Launch 规则
+description: 此视频演示如何使用Launch中的特殊产品字符串扩展来跟踪基本零售变量和事件，如产品视图、添加到购物车、结帐等。
+feature: 启动实施
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3592
+role: “开发人员、数据工程师”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 10%
 
 ---
 
 
-# 将基本零售变量和事件添加到 [!DNL Launch] 规 [!UICONTROL 则]
+# 将基本零售变量和事件添加到[!DNL Launch] [!UICONTROL Rules]
 
-此视频演示如何使用特殊的产品 [!UICONTROL 字符串][!DNL Experience Platform Launch] 扩展来跟踪基本零售变量和事件，如产品视图、添加到购物车、结帐等。
+此视频说明如何使用[!DNL Experience Platform Launch]中的特殊产品字符串[!UICONTROL extension]跟踪基本零售变量和事件，如产品视图、添加到购物车、结帐等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12)
