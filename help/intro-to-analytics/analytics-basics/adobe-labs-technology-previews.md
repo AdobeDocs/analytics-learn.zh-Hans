@@ -9,11 +9,11 @@ team: Technical Marketing
 kt: 4818
 role: 架构师
 level: 初学者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 98%
 
 在使用 [!DNL Labs] 原型时，您可在自身的业务用例和数据的背景下评估该功能。
 
-有关详细信息，请访问[文档](https://docs.adobe.com/content/help/zh/analytics/analyze/tech-previews/overview.html)。
+有关详细信息，请访问[文档](https://docs.adobe.com/content/help/zh_CN/analytics/analyze/tech-previews/overview.html)。
