@@ -7,13 +7,13 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: “开发人员、数据工程师”
+role: '"开发人员、数据工程师"'
 level: 初学者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '309'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 98%
 
 在网站上实施 [!DNL Analytics] 之后，即可直接在跟踪信标中找到 [!DNL tracking server] 和 [!DNL report suite ID]。[!DNL tracking server] 就是信标中的主机名，因此很方便就能找到。[!UICONTROL 报告包] ID 是信标的路径名称中紧接在“/b/ss/”后面的一个用逗号分隔的列表。
 
-要查看信标以及发往 [!DNL Analytics] 和其他 Experience Cloud 解决方案的所有其他信息，请安装[“Experience Cloud Debugger”Chrome 扩展](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=en)。
+要查看信标以及发往 [!DNL Analytics] 和其他 Experience Cloud 解决方案的所有其他信息，请安装[“Experience Cloud Debugger”Chrome 扩展](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=zh-Hans)。
 
 ## 实施 之前 {#before-implementation}
 
