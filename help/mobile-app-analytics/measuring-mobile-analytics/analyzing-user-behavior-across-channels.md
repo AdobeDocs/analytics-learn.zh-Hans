@@ -1,19 +1,19 @@
 ---
 title: 分析各个渠道的用户行为
 description: 了解如何使用 Flow 发现用户在移动应用程序中转化的路径并将它与 Web 等其他体验进行比较。定义多步过程并度量其中的转化情况以促使您的移动应用程序取得成功。
-feature: 工作区基础知识
+feature: Workspace 基础
 topics: mobile
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3053
-role: 业务从业者
+role: 业务员
 level: 初学者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
