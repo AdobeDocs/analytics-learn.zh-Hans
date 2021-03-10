@@ -7,13 +7,13 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2386
-role: “开发人员、数据工程师”
-level: 富有经验
-translation-type: tm+mt
+role: '"开发人员、数据工程师"'
+level: 熟练
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
