@@ -7,13 +7,13 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+role: '"业务员、开发人员、数据工程师、架构师、数据架构师、管理员、领导者"'
 level: 初学者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
