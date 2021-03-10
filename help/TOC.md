@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df326b0711ad05c3a0ae73480d66d1980901216f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1871'
 ht-degree: 100%
 
@@ -229,7 +229,7 @@ ht-degree: 100%
       + [创建和维护 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [在网站上使用数据层](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + 通过 Experience Platform Launch{#via-adobe-launch}
-      + [用 Experience Platform Launch 在网站中实施 Experience Cloud](https://docs.adobe.com/content/help/zh/experience-cloud/implementing-in-websites-with-launch/index.html)
+      + [用 Experience Platform Launch 在网站中实施 Experience Cloud](https://docs.adobe.com/content/help/zh_CN/experience-cloud/implementing-in-websites-with-launch/index.html)
       + [Analytics Launch 扩展的基本配置](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [配置 Analytics 的库管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [配置 Launch Analytics 扩展中的常规设置](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
@@ -359,9 +359,9 @@ ht-degree: 100%
       + [用 Experience Platform SDK 初始化和查看生命周期指标](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [跟踪行为（又称自定义链接）](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [跟踪状态（又称页面或屏幕）](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [在 iOS Swift 应用程序中实施](https://docs.adobe.com/content/help/zh/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [在 iOS Objective-C 应用程序中实施](https://docs.adobe.com/content/help/zh/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-      + [在 Android 应用程序中实施](https://docs.adobe.com/content/help/zh/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+      + [在 iOS Swift 应用程序中实施](https://docs.adobe.com/content/help/zh_CN/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [在 iOS Objective-C 应用程序中实施](https://docs.adobe.com/content/help/zh_CN/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [在 Android 应用程序中实施](https://docs.adobe.com/content/help/zh_CN/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + 测量移动分析{#measuring-mobile-analytics}
       + [Adobe 移动分析快速入门](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [接触点对移动历程的影响](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
