@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 2362
 role: 业务员
 level: 初学者
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 
