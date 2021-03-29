@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399
 translation-type: tm+mt
-source-git-commit: 8d9763564d1bbef6d55f2dff4827cd6f83c75596
+source-git-commit: 646380f871927120f3f59ba4ee0ac84d8c6782aa
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 4%
