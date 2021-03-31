@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 666d453c392119ed6bffdd8bb9c074a9570c1c99
+source-git-commit: 3e5b0118822722b9c7c00132a995e387bfe7449f
 workflow-type: tm+mt
-source-wordcount: '1881'
+source-wordcount: '1885'
 ht-degree: 99%
 
 ---
@@ -111,6 +111,7 @@ ht-degree: 99%
       + [可视化类型](analysis-workspace/visualizations/visualization-types.md)
       + [使用 Analysis Workspace 中的表、可视化和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [将数据纳入可视化](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Analysis Workspace 中的线可视化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [将趋势线添加到线可视化](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [靶心图可视化](analysis-workspace/visualizations/bullet-graph-visualization.md)
