@@ -8,16 +8,16 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4382
-role: '"业务员、开发人员、数据工程师、架构师、数据架构师、管理员、领导者"'
-level: 初学者
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
 translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '164'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Analysis Workspace 可怎样变革您的业务
 
