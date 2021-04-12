@@ -5,10 +5,10 @@ breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 3e5b0118822722b9c7c00132a995e387bfe7449f
+source-git-commit: 38e0c9fdf0d5033c176d822de8a218f82bcd333c
 workflow-type: tm+mt
 source-wordcount: '1885'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -95,7 +95,7 @@ ht-degree: 99%
       + [在 Analysis Workspace 中自动构建自由格式表](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由格式表中使用维度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [在自由格式表中使用指标](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [在 Analysis Workspace 中使用参与指标](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中使用参与指标](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [自由格式表中的行和列设置](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [使用自由格式表生成器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [在 Analysis Workspace 为静态行重新排序](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -149,7 +149,7 @@ ht-degree: 99%
       + [在 Analysis Workspace 中将维度和指标添加到您的项目](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [转化事件简介](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由格式表中使用指标](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [在 Analysis Workspace 中使用参与指标](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中使用参与指标](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + 维度{#dimensions}
       + [在 Analysis Workspace 中将维度和指标添加到您的项目](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量变量简介 (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
