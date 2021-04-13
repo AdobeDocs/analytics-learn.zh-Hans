@@ -8,16 +8,16 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2562
 topic: 移动设备
-role: '"开发人员、数据工程师"'
-level: 熟练
+role: Developer, Data Engineer
+level: Experienced
+exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '171'
+source-wordcount: '167'
 ht-degree: 100%
 
 ---
-
 
 # 用 Experience Platform SDK 跟踪移动应用程序中的状态（又称页面或屏幕）{#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
 
