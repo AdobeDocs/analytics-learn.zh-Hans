@@ -10,16 +10,16 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1963
-role: 业务员
-level: 初学者
+role: Business Practitioner
+level: Beginner
+exl-id: 1234f64e-f5e5-4bb1-a553-da438bde46e0
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '109'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
-
 
 # Analysis Workspace 中的 Standard Templates{#standard-templates-in-analysis-workspace}
 
