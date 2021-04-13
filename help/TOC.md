@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: b33c6d1d22758f1fb88dec9beed83fde823aba79
+source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '1980'
 ht-degree: 93%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 93%
       + [了解和创建报告包](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Adobe Labs（技术预览版）](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
    + 自定义 UI{#customizing-the-ui}
+      + [Adobe Analytics中的用户首选项](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [添加维度和指标说明](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [在 Analysis Workspace 中使用自定义调色板](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [用于定义自定义调色板的颜色吸管扩展](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
@@ -107,6 +108,7 @@ ht-degree: 93%
       + [可视化类型](analysis-workspace/visualizations/visualization-types.md)
       + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [将数据纳入可视化](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+      + [使用Workspace中的组件下拉](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Analysis Workspace 中的线可视化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [将趋势线添加到线可视化](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [靶心图可视化](analysis-workspace/visualizations/bullet-graph-visualization.md)
