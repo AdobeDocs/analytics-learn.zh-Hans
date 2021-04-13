@@ -8,16 +8,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: '"业务员、开发人员、数据工程师、架构师、数据架构师、管理员、领导者"'
-level: 初学者
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '135'
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Analytics 中的[!UICONTROL 人员][!UICONTROL 指标]{#people-metric-in-adobe-analytics}
 
