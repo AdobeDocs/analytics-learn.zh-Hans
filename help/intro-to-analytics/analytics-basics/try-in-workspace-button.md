@@ -7,16 +7,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
-role: '"业务员、开发人员、数据工程师、架构师、数据架构师、管理员、领导者"'
-level: 初学者
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: d5aab59f-ff73-4ef5-82d6-fd4ada90a7cd
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '77'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Reports & Analytics] 中的“在 Workspace 中尝试”按钮{#try-in-workspace-button-in-reports-analytics}
 
