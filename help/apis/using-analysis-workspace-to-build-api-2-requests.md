@@ -7,16 +7,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2386
-role: '"开发人员、数据工程师"'
-level: 熟练
+role: Developer, Data Engineer
+level: Experienced
+exl-id: c2bf15d7-4614-4bda-83de-1a45b5f98c7b
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 100%
 
 ---
-
 
 # 使用 Analysis Workspace 构建 Adobe Analytics API 2.0 请求{#using-analysis-workspace-to-build-adobe-analytics-api-requests}
 
