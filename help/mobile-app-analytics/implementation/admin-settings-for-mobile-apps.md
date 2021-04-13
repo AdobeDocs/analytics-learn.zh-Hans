@@ -8,16 +8,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 2493
 topic: 移动设备
-role: 管理员
-level: 熟练
+role: Administrator
+level: Experienced
+exl-id: 3e582cde-8e5b-4dd0-8f67-2e28414b1b34
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
-
 
 # 移动应用程序的管理设置{#admin-settings-for-mobile-apps}
 
