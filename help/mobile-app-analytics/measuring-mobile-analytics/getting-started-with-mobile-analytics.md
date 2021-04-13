@@ -7,16 +7,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3051
-role: 业务员
-level: 初学者
+role: Business Practitioner
+level: Beginner
+exl-id: 80d3545c-3c3c-4003-a92a-39a410c76996
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '101'
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
-
 
 # Adobe 移动分析快速入门{#getting-started-with-mobile-analytics}
 
