@@ -7,16 +7,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1655
-role: '"业务员、开发人员、数据工程师、架构师、数据架构师、管理员、领导者"'
-level: 中级
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Intermediate
+exl-id: 5e6bb1fe-1677-479e-b953-6b42356450e1
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '96'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
-
 
 # Power BI 中的 Adobe Analytics 连接器{#adobe-analytics-connector-in-power-bi}
 
