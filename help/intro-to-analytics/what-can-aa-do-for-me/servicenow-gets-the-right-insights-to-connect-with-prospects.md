@@ -7,16 +7,16 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4385
-role: '"业务员、开发人员、数据工程师、架构师、数据架构师、管理员、领导者"'
-level: 初学者
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '108'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
-
 
 # 客户用例：[!DNL ServiceNow] 获得与潜在客户建立联系的正确见解
 
