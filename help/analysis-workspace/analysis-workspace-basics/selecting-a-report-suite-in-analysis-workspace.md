@@ -10,16 +10,16 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2026
-role: 业务员
-level: 初学者
+role: Business Practitioner
+level: Beginner
+exl-id: a46c4392-739f-4366-b5ea-504519ce1a0f
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '57'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
-
 
 # 在 Adobe Analytics 中选择[!UICONTROL 报告包]{#selecting-a-report-suite-in-adobe-analytics}
 
