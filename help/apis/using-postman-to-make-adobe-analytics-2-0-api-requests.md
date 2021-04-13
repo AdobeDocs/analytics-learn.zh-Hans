@@ -7,16 +7,16 @@ activity: use
 doc-type: technical video
 team: Technical Marketing
 kt: 2387
-role: '"开发人员、数据工程师"'
-level: 熟练
+role: Developer, Data Engineer
+level: Experienced
+exl-id: 0b0e73f8-921d-40ad-b93d-98a1cbc020c8
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 100%
 
 ---
-
 
 # 使用 [!DNL Postman] 发出 Adobe Analytics 2.0 API 请求{#using-postman-to-make-adobe-analytics-api-requests}
 
