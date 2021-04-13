@@ -8,16 +8,16 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 3052
-role: 业务员
-level: 初学者
+role: Business Practitioner
+level: Beginner
+exl-id: 6ed070ff-cd13-45be-968f-067f0436eab8
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
-
 
 # 接触点对移动历程的影响{#impact-of-touchpoints-across-mobile-journey}
 
