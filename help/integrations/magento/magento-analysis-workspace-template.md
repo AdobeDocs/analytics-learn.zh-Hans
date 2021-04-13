@@ -9,16 +9,16 @@ author: Doug Moore
 team: TM
 kt: 3269
 topic: 集成
-role: 业务员
-level: 中级
+role: Business Practitioner
+level: Intermediate
+exl-id: 4487a376-90fe-4952-92e1-c2333ae88a75
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '59'
+source-wordcount: '56'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Magento] Analysis Workspace 模板{#magento-analysis-workspace-template}
 
