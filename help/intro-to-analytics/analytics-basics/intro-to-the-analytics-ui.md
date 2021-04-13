@@ -7,16 +7,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3567
-role: 业务员
-level: 初学者
+role: Business Practitioner
+level: Beginner
+exl-id: f979ce69-935d-4273-a5dc-b09aee82166d
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '72'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Analytics] UI 简介
 
