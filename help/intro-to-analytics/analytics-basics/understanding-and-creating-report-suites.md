@@ -7,16 +7,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3574
-role: 业务员
-level: 初学者
+role: Business Practitioner
+level: Beginner
+exl-id: 7c7fc1f3-63b3-42cd-a9b8-bd300d8d1921
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '81'
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
-
 
 # 了解和创建[!UICONTROL 报告包]
 
