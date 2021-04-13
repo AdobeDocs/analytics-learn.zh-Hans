@@ -7,16 +7,16 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1850
-role: 业务员
-level: 中级
+role: Business Practitioner
+level: Intermediate
+exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 100%
 
 ---
-
 
 # 用[!UICONTROL “处理规则”]将 [!DNL contextData] 变量映射到 [!DNL Props] 和 [!DNL Evars]{#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
