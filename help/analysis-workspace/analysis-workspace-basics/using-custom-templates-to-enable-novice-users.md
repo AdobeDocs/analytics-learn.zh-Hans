@@ -10,16 +10,16 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-role: 业务员
-level: 中级
+role: Business Practitioner
+level: Intermediate
+exl-id: 9766aff9-1025-43a1-bdf3-3559d48060a1
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '149'
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
-
 
 # 使用自定义模板让 Analysis Workspace 的新手用户也能用好{#using-custom-templates-to-enable-novice-analysis-workspace-users}
 
@@ -31,6 +31,6 @@ ht-degree: 100%
 
 有关相关的视频，请参阅：
 
-* [Analysis Workspace 中的自定义模板](https://helpx.adobe.com/analytics/kt/using/create-manage-custom-templates-analysis-workspace-feature-video-use.html)
+* [Analysis Workspace 中的自定义模板](https://helpx.adobe.com/cn/analytics/kt/using/create-manage-custom-templates-analysis-workspace-feature-video-use.html)
 
-* [Analysis Workspace 中的复制 + 插入](https://helpx.adobe.com/analytics/kt/using/copy-insert-analysis-workspace-feature-video-use.html)
+* [Analysis Workspace 中的复制 + 插入](https://helpx.adobe.com/cn/analytics/kt/using/copy-insert-analysis-workspace-feature-video-use.html)
