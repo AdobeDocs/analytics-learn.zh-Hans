@@ -7,16 +7,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1695
-role: 业务员
-level: 初学者
+role: Business Practitioner
+level: Beginner
+exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '145'
+source-wordcount: '142'
 ht-degree: 100%
 
 ---
-
 
 # 在 Analysis Workspace 中创建和管理自定义模板{#create-and-manage-custom-templates-in-analysis-workspace}
 
