@@ -25,4 +25,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12)
 
-可在[此处](https://www.adobe.com/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search)详细了解 Adobe Analysis Workspace。
+可在[此处](https://www.adobe.com/cn/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search)详细了解 Adobe Analysis Workspace。
