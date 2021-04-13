@@ -6,20 +6,20 @@ topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: '"业务员、开发人员、数据工程师、架构师、数据架构师、管理员、领导者"'
-level: 初学者
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '309'
+source-wordcount: '298'
 ht-degree: 100%
 
 ---
 
-
 # 概述
 
-欢迎访问 [!DNL Analytics] 教程网站。配合[文档](https://docs.adobe.com/content/help/zh_CN/analytics/landing/home.html)一起使用这些教程将让您更好地了解如何使用 Adobe Analytics 比以往更快地获得客户洞察。要开始教程，请
+欢迎访问 [!DNL Analytics] 教程网站。配合[文档](https://docs.adobe.com/content/help/zh-Hans/analytics/landing/home.html)一起使用这些教程将让您更好地了解如何使用 Adobe Analytics 比以往更快地获得客户洞察。要开始教程，请
 * 查看下方的&#x200B;**“新增功能”**&#x200B;部分以了解最新的实用组件
 * **员工精选**&#x200B;重点介绍我们喜爱的一些内容
 * 在&#x200B;**左侧导航**&#x200B;中按主题和副标题浏览内容
