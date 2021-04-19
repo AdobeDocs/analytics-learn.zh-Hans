@@ -2,20 +2,19 @@
 title: 将数据纳入可视化
 description: 在Analysis Workspace中添加可视化时，根据可视化类型，有几种不同的方法可向它们添加数据。 此视频演示了这些方法。
 feature: 可视化图表
-topic: null
-role: 业务员
-level: 初学者
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 thumbnail: 332507.jpg
 kt: 7441
+exl-id: 61d00599-c719-4bd7-8e74-ef0c2c89a55c
 translation-type: tm+mt
-source-git-commit: 9810808ed06219c1192d0781f5c71f0483c24a59
+source-git-commit: 7382a3461ab73264dd5b585c576c9f9275b17567
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 6%
+source-wordcount: '63'
+ht-degree: 14%
 
 ---
-
 
 # 将数据纳入可视化
 
