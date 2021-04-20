@@ -1,7 +1,7 @@
 ---
 title: Adobe Labs（技术预览版）与 Adobe Analytics
 description: 通过 Adobe Labs（技术预览版），可接触到新兴技术、获得宝贵的见解以及影响未来的 Analytics 功能开发和优先级。
-feature: Analytics 基础
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video

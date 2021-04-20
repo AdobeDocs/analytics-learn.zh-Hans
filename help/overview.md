@@ -1,12 +1,12 @@
 ---
 title: Analytics 视频和教程
 description: Adobe Analytics 的视频和教程集合。
-feature: Analytics 基础
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 translation-type: ht

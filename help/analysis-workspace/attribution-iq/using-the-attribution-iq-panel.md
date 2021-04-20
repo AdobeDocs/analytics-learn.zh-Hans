@@ -1,7 +1,7 @@
 ---
 title: 在Analysis Workspace中使用Attribution IQ面板
 description: 在此视频中，您将看到Attribution IQ面板，在构建归因Analysis Workspace项目时，它是开始的绝佳位置。
-feature: 归因
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 23139.jpg
 kt: 1667
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

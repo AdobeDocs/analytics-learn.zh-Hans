@@ -1,13 +1,13 @@
 ---
 title: Power BI 中的 Adobe Analytics 连接器
 description: 在此视频中，我们将介绍 Adobe Analytics 连接器，其中创建并加载请求、更改数据的格式、构建可视化并发布到在线服务。
-feature: '"第三方集成"'
+feature: "Third-party Integration"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1655
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
 exl-id: 5e6bb1fe-1677-479e-b953-6b42356450e1
 translation-type: ht

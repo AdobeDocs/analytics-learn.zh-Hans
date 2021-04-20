@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace中的流失可视化
 description: 此视频将指导您了解Adobe AnalyticsAnalysis Workspace中提供的流失可视化。 使用流失可创建漏斗或在关键应用程序/站点工作流显示用户流。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24042.jpg
 kt: 2275
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: Adobe 移动分析快速入门
 description: 了解如何使用模板对移动应用程序进行 Adobe Analytics。Analysis Workspace 中预置的标准模板帮助您了解用户参与和应用程序性能指标。此外，还可了解如何用我们易用的拖放界面自定义您的项目。
-feature: Workspace 基础
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video

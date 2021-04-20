@@ -1,14 +1,14 @@
 ---
 title: 在Experience Platform Launch中配置轻松下载链接跟踪
 description: 在Experience Platform Launch中的Adobe Analytics扩展中单击几下即可开始站点上的跟踪下载链接（在您的计算机上下载非浏览器文件的链接）。 此视频向您展示如何设置它。
-feature: 启动实施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: “开发人员、数据工程师”
-level: 初学者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Reports and Analytics 中的实时报告
 description: 此视频显示了Adobe在Adobe Analytics的Reports & Analytics中对实时报表所做的一些更新。
-feature: Analytics 基础
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2360
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

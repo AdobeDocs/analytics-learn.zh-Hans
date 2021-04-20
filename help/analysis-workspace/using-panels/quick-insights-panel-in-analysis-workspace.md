@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace 中的“Quick Insights”面板
 description: 快速分析可为 Analysis Workspace 的非分析师和新用户了解如何快速轻松地回答业务问题提供指导。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37248.jpg
 kt: 5838
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

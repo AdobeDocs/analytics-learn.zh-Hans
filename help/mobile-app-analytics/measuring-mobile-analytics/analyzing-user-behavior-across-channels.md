@@ -1,7 +1,7 @@
 ---
 title: 分析各个渠道的用户行为
 description: 了解如何使用 Flow 发现用户在移动应用程序中转化的路径并将它与 Web 等其他体验进行比较。定义多步过程并度量其中的转化情况以促使您的移动应用程序取得成功。
-feature: Workspace 基础
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video

@@ -1,14 +1,14 @@
 ---
 title: 流量变量简介 (Props)
 description: 在此视频中，了解流量变量的简介，包括页面名称、网站区域和“props”。
-feature: 维度
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3576
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

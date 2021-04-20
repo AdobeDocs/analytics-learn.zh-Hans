@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的同类群组分析
 description: 如何在Analysis Workspace中构建队列分析表。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2135
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

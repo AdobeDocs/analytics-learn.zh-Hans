@@ -1,8 +1,8 @@
 ---
 title: Adobe Analytics中的用户首选项
 description: 通过“组件 — 用户”首选项页面，您可以在用户级别管理Analysis Workspace及其相关组件的设置。 例如，您可以选择默认的报表包和调色板。 用户首选项适用于所有新项目和新面板。
-feature: Workspace 基础
-topic: 个性化
+feature: Workspace Basics
+topic: Personalization
 role: Business Practitioner, Administrator
 level: Beginner
 doc-type: feature video

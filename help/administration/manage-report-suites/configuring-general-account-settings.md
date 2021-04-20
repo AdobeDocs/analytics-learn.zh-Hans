@@ -1,10 +1,10 @@
 ---
 title: 如何配置常规帐户设置
 description: 在设置Adobe Analytics时，配置这些设置会影响数据的收集和存储方式。 此视频超出了一些常规设置。 实施后，您还可以更改这些设置，因为使数据更正确永远不会太迟。
-feature: 报表包设置
-topic: 管理
-role: 管理员
-level: 初学者
+feature: Report Suite Settings
+topic: Administration
+role: Administrator
+level: Beginner
 doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399

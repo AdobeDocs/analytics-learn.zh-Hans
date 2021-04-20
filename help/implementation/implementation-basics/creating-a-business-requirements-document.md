@@ -1,13 +1,13 @@
 ---
 title: 创建业务要求文档
 description: '此视频介绍定义要用 Adobe Analytics 跟踪什么内容的首要步骤。关于您的网站想要了解什么？让我们写下这些内容，然后开始决定将如何追踪它们。 '
-feature: 实施基础
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 translation-type: ht

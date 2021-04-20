@@ -1,14 +1,14 @@
 ---
 title: 了解支持语音的设备之间的区别
 description: 了解如何了解各种语音辅助设备的不同性能和功能，以帮助确定产品路线图的优先级。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2905
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

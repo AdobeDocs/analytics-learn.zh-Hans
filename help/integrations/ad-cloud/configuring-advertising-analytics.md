@@ -1,15 +1,15 @@
 ---
 title: 在Adobe Analytics中配置Advertising Analytics
 description: '此视频将带您深入了解如何配置报表包以利用Advertising Analytics、如何设置付费搜索帐户以及Advertising Analytics的报告详细信息。 '
-feature: Advertising Cloud集成
+feature: Advertising Cloud Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 1642
-topic: 集成
-role: 管理员
-level: 中间
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics中的顺序分段
 description: 此视频将指导您了解如何在Adobe Analytics中对行为序列进行细分，以及如何使用这些序列比较营销渠道和流失。
-feature: 区段划分
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2302
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: 了解数据如何进入您的 Analysis Workspace 项目
 description: 此视频介绍如何使用 Chrome 中的 Adobe Experience Cloud Debugger 扩展观察数据从页面流入 Analysis Workspace 中的表和可视化的过程。
-feature: Workspace 基础
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video

@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace中的临时（临时）区段
 description: 您是否曾希望快速创建一个简单的区段来回答特定问题，然后放弃该区段，以便不会填满您对已保存区段的列表? 现在您可以与这些营销团队!
-feature: 区段划分
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2010
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

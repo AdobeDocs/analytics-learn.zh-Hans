@@ -1,15 +1,15 @@
 ---
 title: 使用项目转换器将项目从 Ad hoc Analysis 移至 Analytics Workspace
 description: Ad Hoc Analysis Project Converter将通过单击按钮将Ad Hoc Analysis(AHA)项目无缝转换为Analysis Workspace项目。
-feature: Experience Cloud集成
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
-topic: 集成
-role: 业务从业者
-level: 中间
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

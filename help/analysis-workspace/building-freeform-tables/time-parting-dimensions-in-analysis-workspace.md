@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace 中的时间划分维度
 description: 分时段功能会采用收集的点击时间戳，并将其分解为更有意义的维度，如“小时数”或“星期几”。 这些尺寸现已在Analysis Workspace中开箱即用。
-feature: 自由格式表
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

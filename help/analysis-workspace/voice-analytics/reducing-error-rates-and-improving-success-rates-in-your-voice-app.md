@@ -1,14 +1,14 @@
 ---
 title: 在语音应用程序中降低错误率和提高成功率
 description: 了解如何通过客户参与、成功率、错误率和回退意向等功能，找到语音应用程序的改进方向。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2907
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

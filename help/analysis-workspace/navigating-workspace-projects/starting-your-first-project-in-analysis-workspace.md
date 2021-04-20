@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中开始您的第一个项目
 description: 在此视频中，您将学习如何使用默认和自定义模板在Analysis Workspace中创建项目，以及如何在项目之间复制元素。
-feature: 项目
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4102
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

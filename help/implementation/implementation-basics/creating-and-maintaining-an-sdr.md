@@ -1,13 +1,13 @@
 ---
 title: 创建和维护 SDR
 description: 解决方案设计参考 (SDR) 文档基本上就是您的网站蓝图。此视频介绍如何与业务要求文档一起创建解决方案设计参考文档，以使您可在实施 Adobe Analytics 时和将来回顾它时始终有可回溯的事实来源。
-feature: 实施基础
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3581
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Beginner
 exl-id: c942e819-0763-4907-adcc-747ec753c407
 translation-type: ht

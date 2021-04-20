@@ -3,7 +3,7 @@ title: 在 Analysis Workspace 中选择报告包
 seo-title: 在 Analysis Workspace 中选择报告包 - Adobe Analytics
 description: 此视频介绍报告包选择器。
 seo-description: 此视频介绍报告包选择器。- Adobe Analytics
-feature: Workspace 基础
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video

@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中使用日期
 description: “此视频介绍了在自由格式分析中使用日期的三种不同方法：日历、日期范围元素和粒度元素。 没有出现，有点尴尬：如何使用日期启用线图。 "
-feature: 日历
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2014
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

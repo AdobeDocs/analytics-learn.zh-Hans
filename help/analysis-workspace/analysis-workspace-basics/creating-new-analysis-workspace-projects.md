@@ -1,7 +1,7 @@
 ---
 title: 创建新的 Analysis Workspace 项目
 description: 在此视频中，您将了解如何使用 Analysis Workspace“新建项目”模式从空白画布、Adobe 标准模板或自定义模板创建项目。甚至还可在该模式中搜索您的模板和将其排序以找到适合您需求的模板。
-feature: 项目
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video

@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace 中的快速计算指标
 description: 现在，您可以在Analysis Workspace中快速构建计算量度。  如果您希望对自由格式表中的几个量度进行快速百分比更改或划分，只需从标题中选择量度，右键单击并选择所需的运算符。  新计算量度将显示在右侧。
-feature: 计算量度
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

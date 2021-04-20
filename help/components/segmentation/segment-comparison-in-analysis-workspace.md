@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的区段比较
 description: 了解营销细分之间的真正差异始终是一个困难且耗时的过程。 细分IQ是Adobe Analytics的Analysis Workspace的一部分，它通过检查所有维度和指标中的任意两个Analytics细分来自动发现它们在统计上最显着的差异，从而简化了此分析。
-feature: 区段划分
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2103
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

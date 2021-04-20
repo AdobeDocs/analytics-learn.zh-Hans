@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace中的多维流失
 description: Analysis Workspace中的流失允许您在漏斗和工作流中将维度和量度进行混合和匹配作为接触点。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

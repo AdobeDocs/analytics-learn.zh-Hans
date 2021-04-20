@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics 中的人员指标
 description: Adobe Analytics 现在提供一个人员指标，以根据 Adobe Experience Cloud Device Co-op 为访客去重！此视频提供更多信息并介绍如何着手。
-feature: 指标
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
 translation-type: ht

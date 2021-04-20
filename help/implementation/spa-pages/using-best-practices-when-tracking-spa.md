@@ -1,15 +1,15 @@
 ---
 title: '在Adobe Analytics中跟踪单页应用程序(SPA)时使用最佳实践 '
 description: 在此文档中，我们将介绍您在使用Adobe Analytics跟踪单页应用程序(SPA)时应遵循并注意的几个最佳实践。 本文档将重点介绍使用Experience Platform Launch，这是推荐的实现方法。
-feature: 实施基础
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1389
 topic: SPA
-role: “开发人员、数据工程师”
-level: 中间
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

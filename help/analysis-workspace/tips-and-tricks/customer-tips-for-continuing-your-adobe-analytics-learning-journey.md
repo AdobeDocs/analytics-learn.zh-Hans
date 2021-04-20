@@ -1,14 +1,14 @@
 ---
 title: 客户对于继续学习 Adobe Analytics 给出的提示
 description: 在本文中，我们会遇到三位Adobe客户，他们在如何从Adobe Analytics中获得最大价值方面为您提供了技巧和窍门。
-feature: 工作区基础知识
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

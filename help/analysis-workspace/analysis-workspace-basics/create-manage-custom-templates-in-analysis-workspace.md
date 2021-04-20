@@ -1,7 +1,7 @@
 ---
 title: 在 Analysis Workspace 中创建和管理自定义模板
 description: 在此视频中，您将了解如何在 Analysis Workspace 中创建自定义模板，以使您和您的团队可从一组特定的报告着手。
-feature: 项目
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video

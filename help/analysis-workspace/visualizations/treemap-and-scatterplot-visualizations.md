@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace中的树图和散点图可视化
 description: Analysis Workspace在Adobe Analytics中包括两种常用的可视化类型 — 树图和散点图。 此视频介绍如何在分析中使用这两种可视化类型。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2117
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

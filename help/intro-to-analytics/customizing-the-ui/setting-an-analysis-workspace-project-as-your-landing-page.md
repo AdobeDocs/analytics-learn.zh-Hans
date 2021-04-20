@@ -1,14 +1,14 @@
 ---
 title: 将 Analysis Workspace 项目设置为您的登陆页面
 description: 此视频将指导您如何将项目设置为登陆页。
-feature: 工作区基础知识
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2364
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

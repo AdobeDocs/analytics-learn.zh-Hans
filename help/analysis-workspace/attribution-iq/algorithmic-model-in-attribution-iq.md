@@ -1,15 +1,15 @@
 ---
 title: Attribution IQ 中的算法模型
 description: Analysis Workspace 中的“算法归因”模型可使用统计技术动态确定所选量度的最佳点数分配方式。
-feature: 归因
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36205.jpg
 kt: 5554
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

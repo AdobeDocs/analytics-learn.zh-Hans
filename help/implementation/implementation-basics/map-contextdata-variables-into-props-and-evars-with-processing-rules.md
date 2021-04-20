@@ -1,7 +1,7 @@
 ---
 title: 用“处理规则”将 contextData 变量映射到 Props 和 Evars
 description: 在 Adobe Analytics 实施中使用 contextData 变量时，为了让数据在实际报告中显眼，需要在“处理规则”界面中将 contextData 变量映射到 props/eVars。此视频介绍如何这样做。
-feature: 实施基础
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video

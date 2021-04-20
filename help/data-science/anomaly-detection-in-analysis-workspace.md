@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的异常检测
 description: Analysis Workspace可自动检测任何时间系列可视化或数据表中的数据异常。 捕捉“未知的未知”，而无需付出任何额外努力！
-feature: 数据科学
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2336
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 初学者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

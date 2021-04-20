@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的培训教程模板
 description: 'Analysis Workspace 培训教程向用户介绍常见的术语以及在 Workspace 中构建其第一个分析的各个步骤。 '
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

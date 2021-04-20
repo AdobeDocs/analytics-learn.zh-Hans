@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace 的使用日志跟踪
 description: 在“管理员 — 日志 — 使用和访问”下，您可以更好地了解用户对Adobe Analytics的使用。 此视频专门侧重于测量Workspace项目使用情况。
-feature: 数据配置和收集
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: 管理
-role: 管理员
-level: 初学者
+topic: Administration
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 数据馈送管理 UI
 description: Adobe Analytics数据馈送允许您导出原始点击流数据，以导入并与EDW或数据湖中的其他数据源合并。 您可以在Adobe Analytics中创建和管理您自己的数据源。 此视频将向您展示如何操作。
-feature: 数据馈送
+feature: Data Feeds
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

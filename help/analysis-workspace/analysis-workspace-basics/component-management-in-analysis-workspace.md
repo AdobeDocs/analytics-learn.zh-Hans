@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace 中的组件管理
 description: 可直接在 Analysis Workspace 中管理维度、区段、指标和日期范围。在查找要共享的区段时无需离开项目。
-feature: Workspace 基础
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video

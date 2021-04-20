@@ -1,7 +1,7 @@
 ---
 title: 登录到 Adobe Analytics
 description: 在此视频中，您将了解如何登录和管理 Analytics 并开始进行您的分析。
-feature: Analytics 基础
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video

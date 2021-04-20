@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace中的表数据源设置
 description: '数据源设置现在可从自由格式和同期群表中使用。 以前，只能通过链接的可视化管理数据源。 现在，您将能够从表设置中查看哪些可视化链接到它并隐藏源表本身。 '
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1772
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

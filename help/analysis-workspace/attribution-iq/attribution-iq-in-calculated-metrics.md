@@ -1,15 +1,15 @@
 ---
 title: Attribution IQ 在计算指标中
 description: 此视频演示如何在计算量度中使用Attribution IQ。
-feature: 归因
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23140.jpg
 kt: 1668
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

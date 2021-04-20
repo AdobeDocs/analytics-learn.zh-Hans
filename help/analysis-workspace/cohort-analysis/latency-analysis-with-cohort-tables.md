@@ -1,15 +1,15 @@
 ---
 title: 用同类群组表进行延时分析
 description: 群组表中的延迟表设置允许您分析包含事件前后群组的行为（而不是像标准群组描述的那样）。 此设置有助于分析新产品或活动启动的影响，例如。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

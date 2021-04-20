@@ -7,8 +7,8 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2563
-topic: 移动设备
-role: Developer, Data Engineer
+topic: Mobile
+role: "Developer, Data Engineer"
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
 translation-type: ht

@@ -1,14 +1,14 @@
 ---
 title: 在Analysis Workspace中使用下拉过滤器
 description: 在此视频中，您将学习如何使用Analysis Workspace中的下拉过滤器动态更改面板的内容。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

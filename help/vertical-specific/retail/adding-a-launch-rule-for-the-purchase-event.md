@@ -1,14 +1,14 @@
 ---
 title: 添加针对购买事件的 Launch 规则
 description: 此视频显示如何使用Launch中的产品字符串扩展来跟踪您网站上的购买，从而在您的分析中生成收入、订单和件数量量度。
-feature: 启动实施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
-role: “开发人员、数据工程师”
-level: 初学者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

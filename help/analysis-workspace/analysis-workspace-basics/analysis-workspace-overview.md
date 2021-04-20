@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace 概述
 description: Adobe Analytics 解决方案的 Analysis Workspace 的整体概述，包括项目创建和模板、面板、可视化、维度、指标、区段以及高价值的功能和技术。
-feature: Workspace 基础
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video

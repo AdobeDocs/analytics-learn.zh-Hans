@@ -1,16 +1,16 @@
 ---
 title: Analysis Workspace 中的 Analytics for Target (A4T) 面板
 description: 借助“Analytics for Target”(A4T) 面板，您可以满怀信心地在 Analysis Workspace 中分析 Adobe Target 活动和体验。
-feature: Experience Cloud集成
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37247.jpg
 kt: 5837
-topic: 集成
-role: 业务从业者
-level: 中间
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,16 +1,16 @@
 ---
 title: 将管理员添加到 Adobe Analytics
 description: 了解如何在 Adobe Admin Console 中将用户添加为管理员。
-feature: 用户管理
+feature: User Management
 topics: null
 activity: setup
 doc-type: feature video
 team: Evangelism
 thumbnail: 37648.jpg
 kt: 5520
-topic: 管理
-role: 管理员
-level: 初学者
+topic: Administration
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: 在 Analysis Workspace 中使用参与指标
 description: 使用这一简单技巧，随时获取 Analysis Workspace 中的任意参与量度。
-feature: 指标
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video

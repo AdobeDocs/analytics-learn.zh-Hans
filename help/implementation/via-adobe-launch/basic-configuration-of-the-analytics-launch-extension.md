@@ -1,14 +1,14 @@
 ---
 title: Analytics Launch 扩展的基本配置
 description: 此视频显示了在启动中为基本站点配置Analytics扩展的快速方法。
-feature: 启动实施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3586
-role: “开发人员、数据工程师”
-level: 初学者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

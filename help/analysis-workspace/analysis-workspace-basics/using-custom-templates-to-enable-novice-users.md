@@ -3,7 +3,7 @@ title: 使用自定义模板让 Analysis Workspace 的新手用户也能用好
 seo-title: 使用自定义模板让 Analysis Workspace 的新手用户也能用好
 description: 此视频演示如何将自定义模板与复制 + 粘贴/插入功能相结合以更好地为组织中的新手用户服务。
 seo-description: 此视频演示如何将自定义模板与复制 + 粘贴/插入功能相结合以更好地为组织中的新手用户服务。
-feature: 项目
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video

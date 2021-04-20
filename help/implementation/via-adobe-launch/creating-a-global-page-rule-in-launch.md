@@ -1,14 +1,14 @@
 ---
 title: 在启动项中创建全局页面规则
 description: 每个页面上都有一些数据点要发送到Adobe Analytics。 此视频演示如何设置全局页面加载规则以发送这些数据点。
-feature: 启动实施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3588
-role: “开发人员、数据工程师”
-level: 初学者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

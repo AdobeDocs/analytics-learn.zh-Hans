@@ -1,14 +1,14 @@
 ---
 title: 在顺序分段中的序列之前/之后
 description: 此视频介绍如何在Adobe Analytics中进行细分，以便您仅从特定用户路径之前或之后获取数据。
-feature: 区段划分
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2303
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

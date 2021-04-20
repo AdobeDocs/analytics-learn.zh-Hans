@@ -1,14 +1,14 @@
 ---
 title: 在Analysis Workspace中共享嵌入式组件
 description: 有时您想要共享Analysis Workspace项目，但是您忘记了也共享您的同事包含的区段和量度。 此视频显示了您现在如何在共享项目的过程中共享区段和量度，以便同事每次都能看到您的预期。
-feature: 策划和共享
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2295
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

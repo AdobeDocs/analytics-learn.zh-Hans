@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace中的键盘快捷键
 description: '此视频将通过Analysis Workspace中的键盘快捷键选项，向您展示如何更快、更高效地移动。 '
-feature: 工作区基础知识
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2031
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

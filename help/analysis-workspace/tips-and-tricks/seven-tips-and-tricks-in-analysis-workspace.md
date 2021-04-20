@@ -1,14 +1,14 @@
 ---
 title: 使创建自定义分析项目更快、更轻松的7个提示与技巧
 description: Analysis Workspace是Adobe Analytics中的一个强大工具，可帮助您创建更具影响力的分析项目。 它拥有丰富的功能集，允许您进行任何形式的分析，而简单的用户体验则允许您访问这种强大功能和缩放功能。
-feature: 工作区基础知识
+feature: Workspace Basics
 topics: topics
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3945
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 初学者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics 功能板记分卡生成器
 description: 在此视频中，了解如何在Analysis Workspace中创建和共享要在Adobe Analytics仪表板（移动应用程序）上查看的“记分卡”。
-feature: 分析仪表板
+feature: Analytics Dashboards
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5286
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

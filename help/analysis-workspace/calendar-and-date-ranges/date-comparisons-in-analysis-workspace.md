@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace 中的日期比较
 description: 在此视频中，我们将向您展示如何在自由格式表中利用两个日期比较功能 — “添加时间段列”和“比较时间段”。
-feature: 日历
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

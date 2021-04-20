@@ -1,14 +1,14 @@
 ---
 title: 使用 Analysis Workspace 中的“音频消耗量”模板
 description: 此视频概述了Analysis Workspace中的“音频消耗”模板，该模板现成可用于音频分析。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 中间
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

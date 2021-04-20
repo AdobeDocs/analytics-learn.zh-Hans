@@ -3,7 +3,7 @@ title: 使用 Analysis Workspace 的使用日志跟踪
 seo-title: 使用 Analysis Workspace 的使用日志跟踪
 description: 此视频介绍如何将使用日志跟踪用于 Workspace 项目，这样可帮助您更好地了解用户对 Adobe Analytics 的使用情况。
 seo-description: 此视频介绍如何将使用日志跟踪用于 Workspace 项目，这样可帮助您更好地了解用户对 Adobe Analytics 的使用情况。
-feature: 数据配置和收集
+feature: data configuration and collection
 topics: null
 audience: analyst, marketer
 activity: use

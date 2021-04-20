@@ -1,16 +1,16 @@
 ---
 title: 在 Experience Platform Launch 中启用服务器端转发
 description: '了解如何使用Experience Platform Launch通过服务器端转发将您的Adobe Analytics点击量自动发送到Adobe Audience Manager。 '
-feature: Experience Cloud集成
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25172.jpg
 kt: 1993
-topic: 集成
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 中间
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

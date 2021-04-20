@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的贡献分析
 description: 此视频介绍了贡献分析及其使用机器学习快速、轻松地解释促成数据趋势的因素的能力。
-feature: 数据科学
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 初学者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

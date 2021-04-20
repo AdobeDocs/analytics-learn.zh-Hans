@@ -1,15 +1,15 @@
 ---
 title: 将跟踪模板从Advertising Analytics实施到搜索引擎
 description: 此视频将引导您逐步将跟踪模板从Advertising Analytics实施到受支持的搜索引擎中。 实施跟踪模板是收集数据并将数据传递到Adobe Analytics的关键步骤。
-feature: Advertising Cloud集成
+feature: Advertising Cloud Integration
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 1651
-topic: 集成
-role: 管理员
-level: 中间
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

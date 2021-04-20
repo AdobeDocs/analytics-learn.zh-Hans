@@ -1,15 +1,15 @@
 ---
 title: Analytics for Advertising Cloud DSP 集成简介
 description: Analytics for Advertising Cloud DSP集成是Adobe Analytics和Adobe Advertising Cloud之间的本机双向集成。 通过此集成，客户可以将Advertising Cloud广告印象中的透视捕获到Analytics中。 然后，Analytics可将“查看次数”连接到所有下游站点活动（就像点进一样）。 然后，Analytics可以将量度传递回Advertising Cloud，用于高级算法竞价模型。 此视频介绍了Viewthrough的功能、集成的优势，以及使用Analysis Workspace中新Dimension/量度的几个基本示例。
-feature: Advertising Cloud集成
+feature: Advertising Cloud Integration
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 2913
-topic: 集成
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 中间
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

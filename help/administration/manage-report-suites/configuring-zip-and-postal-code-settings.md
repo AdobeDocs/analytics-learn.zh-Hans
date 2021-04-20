@@ -3,16 +3,16 @@ title: 在Adobe Analytics中配置邮政编码设置
 seo-title: 在Adobe Analytics中配置邮政编码设置
 description: 在此视频中，您将学习如何配置邮政编码和邮政编码设置，以便根据此区域数据进行分析。
 seo-description: 在此视频中，您将学习如何配置邮政编码和邮政编码设置，以便根据此区域数据进行分析。
-feature: 数据配置和收集
+feature: Data Configuration and Collection
 topics: null
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
-topic: 管理
-role: '"管理员，架构师"'
-level: 初学者
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

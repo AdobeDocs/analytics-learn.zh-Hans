@@ -1,14 +1,14 @@
 ---
 title: 将基本零售业变量和事件添加到 Launch 规则
 description: 此视频演示如何使用Launch中的特殊产品字符串扩展来跟踪基本零售变量和事件，如产品视图、添加到购物车、结帐等。
-feature: 启动实施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3592
-role: “开发人员、数据工程师”
-level: 初学者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

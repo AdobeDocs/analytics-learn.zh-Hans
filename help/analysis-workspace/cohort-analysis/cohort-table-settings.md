@@ -1,15 +1,15 @@
 ---
 title: 同类群组设置
 description: '有几个“队列表”设置允许您自定义保留或参与的视图。 在此视频中突出显示这些内容。 '
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

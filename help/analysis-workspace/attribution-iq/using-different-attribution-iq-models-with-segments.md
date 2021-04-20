@@ -1,7 +1,7 @@
 ---
 title: 在Analysis Workspace中对细分使用不同的Attribution IQ模型
 description: 在此视频中，您将学习如何结合网站上的Adobe Analytics区段使用Attribution IQ模型。
-feature: 归因
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 23743.jpg
 kt: 1707
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中将维度和指标添加到您的项目
 description: 在此视频中，了解维度和量度、它们之间的差异以及如何将它们添加到您的表格和Analysis Workspace中的可视化。 还了解如何添加现成的计算量度。
-feature: 维度
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4104
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

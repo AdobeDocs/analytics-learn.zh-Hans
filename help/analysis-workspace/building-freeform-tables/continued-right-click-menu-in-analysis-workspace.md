@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的右键单击菜单（续）
 description: Analysis Workspace包含功能强大的右键单击菜单，其中包含许多强大功能。 此视频介绍如何使用Analysis Workspace内的右键菜单。
-feature: 自由格式表
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2030
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

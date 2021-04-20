@@ -1,15 +1,15 @@
 ---
 title: 在Analysis Workspace的流失中比较细分
 description: 此视频介绍如何比较Analysis Workspace中各个细分的关键工作流。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 将趋势线添加到线可视化
 description: 在“可视化设置”下，您可以选择向行系列添加回归线或移动平均趋势线，这有助于在数据中描绘更清晰的模式。 选项包括“线性”、“对数”、“指数”、“幂”、“二次”和“移动平均值”。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace中的菜单栏
 description: Analysis Workspace使用更新的菜单更轻松地控制和导航，这些菜单将管理项目的各种选项和分析组织到熟悉的类别中。
-feature: 项目
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2025
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

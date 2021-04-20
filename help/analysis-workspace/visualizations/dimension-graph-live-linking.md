@@ -1,14 +1,14 @@
 ---
 title: Dimension-Graph在Analysis Workspace中的实时链接
 description: 我们不太知道该怎么称呼，但这很冷酷。 从尺寸值创建折线图时，现在可以选择不同的尺寸值并动态更改图形。 观看视频，了解更多信息！
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2115
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -3,16 +3,16 @@ title: Adobe Analytics中的服务器调用使用
 seo-title: Adobe Analytics中的服务器调用使用
 description: 服务器调用使用报告使您能够准确跟踪您在任何时间点使用的服务器调用承诺，并在接近总承诺时主动提醒您。
 seo-description: 服务器调用使用报告使您能够准确跟踪您在任何时间点使用的服务器调用承诺，并在接近总承诺时主动提醒您。
-feature: 数据配置和收集
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: 管理
-role: '"管理员，架构师"'
-level: 初学者
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

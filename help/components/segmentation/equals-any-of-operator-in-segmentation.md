@@ -1,14 +1,14 @@
 ---
 title: 在分段中使用等于运算符
 description: “等于”和“不等于”已将任何区段运算符添加到区段生成器中。 使用这些运算符可以过滤到特定项的列表，而不是使用多个OR语句或Contains of。 使用这些运算符而不是包含任何运算符也有助于提高查询速度。
-feature: 区段划分
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

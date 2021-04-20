@@ -1,14 +1,14 @@
 ---
 title: 计算指标中的“近似非重复计数”函数
 description: “计算量度生成器”中已添加一个“近似计数独特”函数。 这是一个期待已久的函数，它将返回选定维度的维度项目的近似独特计数。
-feature: 计算量度
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

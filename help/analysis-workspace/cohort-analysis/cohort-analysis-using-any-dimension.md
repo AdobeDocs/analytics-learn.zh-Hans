@@ -1,15 +1,15 @@
 ---
 title: 使用任何维度进行同类群组分析
 description: “自定义同期群Dimension”选项允许您使用时间以外的维度分析同期群。 按营销渠道、活动区域、产品页面等比较同期群。 以更好地了解维度项目的保留（或客户流失）变化情况。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

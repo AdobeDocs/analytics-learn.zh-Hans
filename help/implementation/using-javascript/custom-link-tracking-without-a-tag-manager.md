@@ -1,14 +1,14 @@
 ---
 title: 在不使用标签管理器的情况下进行自定义链接跟踪
 description: 对于页面上的许多操作，不应将跟踪视为页面视图。 在此视频中，您将学习如果未使用标签管理器(如Experience Platform Launch)，如何将链接跟踪信标编码到Analytics。 查看代码，以及学习重要提示。
-feature: Appmeasurement实施
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: “开发人员、数据工程师”
-level: 中间
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -7,7 +7,7 @@ activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 2493
-topic: 移动设备
+topic: Mobile
 role: Administrator
 level: Experienced
 exl-id: 3e582cde-8e5b-4dd0-8f67-2e28414b1b34

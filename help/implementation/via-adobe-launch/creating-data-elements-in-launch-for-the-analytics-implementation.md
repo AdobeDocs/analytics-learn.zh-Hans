@@ -1,14 +1,14 @@
 ---
 title: 在 Launch 中为 Analytics 实施配置数据要素
 description: 此视频显示如何根据在解决方案设计参考(SDR)文档中确定并记录的变量和事件，在Launch中为Analytics实施创建数据元素。
-feature: 启动实施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
-role: “开发人员、数据工程师”
-level: 初学者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

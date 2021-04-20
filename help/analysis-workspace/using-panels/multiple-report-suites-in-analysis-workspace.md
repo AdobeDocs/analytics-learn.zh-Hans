@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的多个报告包
 description: 通过在面板级别选择套件，可以在单个Workspace项目中分析多个报表包。 这样，您就可以跨不同的数据集进行并排面板分析。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4820
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics 功能板应用程序内体验
 description: 在此视频中，了解如何使用Adobe Analytics仪表板（移动应用程序）访问和视图由您创建或与您共享的“记分卡”。
-feature: 分析仪表板
+feature: Analytics Dashboards
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5287
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

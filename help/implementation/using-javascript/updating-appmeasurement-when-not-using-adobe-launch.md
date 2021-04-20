@@ -1,14 +1,14 @@
 ---
 title: 在不使用 Experience Platform Launch 时更新 AppMeasurement
 description: 此视频向您展示了在您不使用Experience Platform Launch时如何更新您的appMeasurement代码。 这包括从何处获取代码以及从何处更新代码。
-feature: Appmeasurement实施
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1848
-role: “开发人员、数据工程师”
-level: 中间
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

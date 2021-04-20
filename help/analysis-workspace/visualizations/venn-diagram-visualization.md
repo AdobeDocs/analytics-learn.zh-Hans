@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace中的维恩图可视化
 description: 在Analysis Workspace中，您可以使用维恩图可视化直观地显示区段的重叠和交叉。 在几秒钟内即可轻松创建精美的、富有洞察力的Venn图。 此视频将向您展示如何操作。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2118
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

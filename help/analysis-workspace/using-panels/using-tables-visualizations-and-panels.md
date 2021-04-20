@@ -1,14 +1,14 @@
 ---
 title: 使用 Analysis Workspace 中的表、可视化和面板
 description: 在此视频中，您将学习如何使用Analysis Workspace项目的构件块，即面板、表和可视化。 这些元素是绘制数据的画布。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4103
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

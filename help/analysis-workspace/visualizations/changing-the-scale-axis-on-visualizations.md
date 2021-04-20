@@ -1,14 +1,14 @@
 ---
 title: 更改Analysis Workspace中可视化的缩放/轴
 description: 此视频显示了您如何轻松更改Analysis Workspace中线形图上Y轴的缩放（或轴限制），以使您和其他人更难误解数据。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2133
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace的正负映射主题
 description: 新的正/负颜色主题可让您在地图上清晰地描述正数和负数。 此新主题还将尊重您在设置事件（在“管理”中）或在计算量度中创建时所做的极性更改。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1662
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

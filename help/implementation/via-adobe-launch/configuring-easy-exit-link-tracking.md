@@ -1,14 +1,14 @@
 ---
 title: 在Experience Platform Launch中配置轻松退出链接跟踪
 description: 在Experience Platform Launch中的Adobe Analytics扩展中单击几下即可开始跟踪网站上的退出链接（指向网站到其他网站的链接）。 此视频向您展示如何设置它。
-feature: 启动实施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2273
-role: “开发人员、数据工程师”
-level: 初学者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

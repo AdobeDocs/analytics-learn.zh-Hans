@@ -1,14 +1,14 @@
 ---
 title: 配置 Launch Analytics 扩展中的常规设置
 description: 如果您刚开始使用Launch、Adobe和Adobe Analytics扩展，此视频可以帮助您处理配置的常规设置部分，包括设置跟踪服务器。
-feature: 启动实施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
-role: “开发人员、数据工程师”
-level: 初学者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

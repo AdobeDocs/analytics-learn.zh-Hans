@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics 中的数据治理和 GDPR
 description: 此视频将指导您了解数据管理以及数据标签如何适合GDPR就绪。 它提供了一个使用“数据治理”进行数据标记的实践示例。
-feature: 隐私权
+feature: Privacy
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2361
-role: '"管理员，架构师"'
-level: 中间
+role: "Administrator, Architect"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

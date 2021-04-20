@@ -1,7 +1,7 @@
 ---
 title: 使用Workspace中的组件下拉
 description: 组件下拉框允许您从一列表兼容组件中进行选择，以构建分析。 如果您找不到所需内容，还可以直接从下拉列表中创建新组件。 如果您有更高级的用例，这些空间也继续作为放置区域工作。
-feature: 组件
+feature: Components
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

@@ -1,14 +1,14 @@
 ---
 title: 自定义 Reports and Analytics 中的菜单
 description: 此视频将指导您了解如何为业务自定义Analytics中的菜单。
-feature: Analytics 基础
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2365
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

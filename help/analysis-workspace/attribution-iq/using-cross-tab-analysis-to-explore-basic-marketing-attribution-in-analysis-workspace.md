@@ -1,15 +1,15 @@
 ---
 title: 使用跨标签分析探索Analysis Workspace中的基本营销归因
 description: 您可以使用 Adobe Analytics 中的多种方式将归因方法提升到新的高度。在此视频中，我们将重点介绍如何使用工作区中的跨选项卡分析，从营销渠道报表中获得更加深入的分析。
-feature: 营销渠道
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

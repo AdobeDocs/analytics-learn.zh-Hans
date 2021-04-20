@@ -1,14 +1,14 @@
 ---
 title: 在配置Analytics Launch扩展时使用自定义代码
 description: 如果您刚开始使用Launch、Adobe和Adobe Analytics扩展，此视频可以帮助您了解自定义代码窗口选项、代码执行的时间等。
-feature: 启动实施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
-role: “开发人员、数据工程师”
-level: 初学者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

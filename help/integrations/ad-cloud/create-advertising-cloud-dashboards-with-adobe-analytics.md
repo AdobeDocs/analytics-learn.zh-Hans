@@ -1,16 +1,16 @@
 ---
 title: 使用 Adobe Analytics 创建 Advertising Cloud 功能板
 description: 用于创建适合实时监控促销活动的 Advertising Cloud 功能板的技术。
-feature: Advertising Cloud集成
+feature: Advertising Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35121.jpg
 kt: 5478
-topic: 集成
-role: 业务从业者
-level: 中间
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

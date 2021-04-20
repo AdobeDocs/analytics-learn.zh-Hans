@@ -1,14 +1,14 @@
 ---
 title: 在Adobe Analytics中进行细分管理和共享
 description: 此视频向您展示如何在Adobe Analytics中共享和管理区段。
-feature: 区段划分
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2305
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

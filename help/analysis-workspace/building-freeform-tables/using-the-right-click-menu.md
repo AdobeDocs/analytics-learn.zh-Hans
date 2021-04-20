@@ -1,14 +1,14 @@
 ---
 title: 使用 Analysis Workspace 中的右键单击菜单
 description: 了解如何使用Analysis Workspace中的右键单击菜单更快地划分等。
-feature: 自由格式表
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

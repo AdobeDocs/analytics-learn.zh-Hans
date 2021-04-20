@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的“视图密度”
 description: “项目”>“信息和设置”下的“视图密度”设置允许您控制应用于左边栏和表（自由格式和队列）的垂直填充。 可以选择“扩展”（默认）、“舒适”或“紧凑”。
-feature: 项目
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

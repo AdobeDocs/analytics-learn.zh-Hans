@@ -1,15 +1,15 @@
 ---
 title: 在自由格式表中使用维度
 description: 了解有关在自由格式表中处理维的所有信息，包括添加维、排序、筛选、按其他维划分维等。
-feature: 维度
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

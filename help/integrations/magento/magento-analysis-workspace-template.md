@@ -1,14 +1,14 @@
 ---
 title: Magento Analysis Workspace 模板
 description: 适用于 Analysis Workspace 的 Magento 营销和商业模板。
-feature: Experience Cloud 集成
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3269
-topic: 集成
+topic: Integrations
 role: Business Practitioner
 level: Intermediate
 exl-id: 4487a376-90fe-4952-92e1-c2333ae88a75

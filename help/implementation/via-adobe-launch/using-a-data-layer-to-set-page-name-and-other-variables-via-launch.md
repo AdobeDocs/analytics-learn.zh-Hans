@@ -1,14 +1,14 @@
 ---
 title: 在Adobe Analytics中通过Launch使用数据层设置页面名称和其他变量
 description: 将数据层用于Analytics和其他Experience Cloud解决方案被视为最佳实践。 在此视频中，您将了解如何从数据层中提取值并在Launch中使用它们来填充Adobe Analytics中的变量。
-feature: 启动实施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1852
-role: “开发人员、数据工程师”
-level: 初学者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

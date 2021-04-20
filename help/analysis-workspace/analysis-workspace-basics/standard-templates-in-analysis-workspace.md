@@ -3,7 +3,7 @@ title: Analysis Workspace 中的 Standard Templates
 seo-title: Analysis Workspace 中的 Standard Templates
 description: Analysis Workspace 通过 Standard Templates（以前称为 Starter Projects）为您的分析开一个好头。
 seo-description: Analysis Workspace 通过 Standard Templates（以前称为 Starter Projects）为您的分析开一个好头。
-feature: 项目
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video

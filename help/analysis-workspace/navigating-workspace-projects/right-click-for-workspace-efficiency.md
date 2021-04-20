@@ -1,15 +1,15 @@
 ---
 title: 用右键单击提高 Workspace 效率
 description: 了解我们喜欢的各种 Analysis Workspace 右键单击及其用法。从自由格式表到流失可视化图表，右键单击操作可以让您更高效、更熟练地在工作区中进行操作。
-feature: 工作区基础知识
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,16 +1,16 @@
 ---
 title: 创建 Analytics 网站历程配置文件
 description: 如何使用 Adobe Analytics 为 Advertising Cloud 再营销创建稳固的站点重定向池。
-feature: Advertising Cloud集成
+feature: Advertising Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35116.jpg
 kt: 5473
-topic: 集成
-role: 业务从业者
-level: 中间
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

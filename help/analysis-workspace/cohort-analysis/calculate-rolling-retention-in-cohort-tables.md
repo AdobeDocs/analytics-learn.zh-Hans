@@ -1,15 +1,15 @@
 ---
 title: '在同类群组表中计算滚动留存 '
 description: 同期群表中的滚动计算设置可用于分析同期群，以了解如何随时间保留（或客户流失）相同的用户。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25962.jpg
 kt: 2481
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

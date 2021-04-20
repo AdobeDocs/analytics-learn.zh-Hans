@@ -1,15 +1,15 @@
 ---
 title: 使用左边栏在 Analysis Workspace 中构建自由格式表
 description: 了解如何使用Analysis Workspace中的左边栏查找、创建项目并将其添加到自由格式表。
-feature: 自由格式表
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40089.jpg
 kt: 6161
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

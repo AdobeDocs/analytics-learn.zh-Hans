@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace中的自由格式表过滤器
 description: 过滤器可以更好地控制自由格式表中共享的数据行。
-feature: 自由格式表
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23232.jpg
 kt: 1699
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics中的智能警报
 description: 智能警报将异常检测的强大功能直接放在您的收件箱或手机上。 立即了解关键指标和细分的重大变化意味着不会错过任何机会。
-feature: 数据科学
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2338
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 初学者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

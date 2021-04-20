@@ -1,7 +1,7 @@
 ---
 title: 将数据纳入可视化
 description: 在Analysis Workspace中添加可视化时，根据可视化类型，有几种不同的方法可向它们添加数据。 此视频演示了这些方法。
-feature: 可视化图表
+feature: Visualizations
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中使用自定义调色板
 description: 您可以更改Analysis Workspace中使用的调色板，以更好地与您的品牌或客户的品牌保持一致。
-feature: 工作区基础知识
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1943
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

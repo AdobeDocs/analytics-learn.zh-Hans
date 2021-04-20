@@ -1,14 +1,14 @@
 ---
 title: 在启动项中验证全局页面加载规则
 description: 在您的站点上实施Adobe Analytics时，您将希望能够验证您在此过程中所做的操作。 Experience Cloud调试器进行救援！ 此视频显示如何使用调试器验证全局页面加载规则。
-feature: 验证
+feature: Validation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3589
-role: “开发人员、数据工程师”
-level: 初学者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

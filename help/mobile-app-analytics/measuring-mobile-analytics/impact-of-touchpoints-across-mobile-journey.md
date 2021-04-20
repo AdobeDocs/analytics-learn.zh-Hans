@@ -1,7 +1,7 @@
 ---
 title: 接触点对移动历程的影响
 description: 了解移动应用程序用户如何受接触点影响并了解哪些渠道使用 Attribution IQ 对您的移动应用程序产生实质性影响。了解哪些渠道共同发挥作用，从而在您的移动应用程序中推进成功事件。
-feature: Workspace 基础
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video

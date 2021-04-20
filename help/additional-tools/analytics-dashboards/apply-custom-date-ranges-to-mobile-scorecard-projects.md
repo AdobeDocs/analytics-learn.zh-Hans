@@ -1,10 +1,10 @@
 ---
 title: 将自定义日期范围应用于Mobile Scorecard项目
 description: 此视频显示了在为移动设备设置分析项目时如何管理不同日期范围选项，包括选择要显示的现成范围，以及创建您自己的自定义日期范围。
-feature: 分析仪表板
-topic: 移动设备
-role: 业务员
-level: 初学者
+feature: Analytics Dashboards
+topic: Mobile
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440

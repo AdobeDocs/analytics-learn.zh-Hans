@@ -1,14 +1,14 @@
 ---
 title: 适用于 Analysis Workspace 的深色模式扩展
 description: 启用 Dark Reader Chrome 扩展程序以使 Analysis Workspace 变为深色。
-feature: 工作区基础知识
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5034
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

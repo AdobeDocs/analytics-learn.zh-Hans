@@ -1,14 +1,14 @@
 ---
 title: 对非重复维度计数分段
 description: 区段生成器中新增的“不同计数”运算符允许您根据任何维度中的唯一项数进行区段。 对查看5个以上页面的访问或购买5个以上产品的点击进行过滤，即在单次订购中。
-feature: 区段划分
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2918
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

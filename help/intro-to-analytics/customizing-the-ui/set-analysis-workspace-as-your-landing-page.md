@@ -1,14 +1,14 @@
 ---
 title: 在Adobe Analytics中将Analysis Workspace设置为您的登陆页
 description: 此视频介绍如何在Adobe Analytics中将Analysis Workspace的各个方面设置为登陆页以简化工作流。
-feature: 工作区基础知识
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2363
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
