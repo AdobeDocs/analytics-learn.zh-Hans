@@ -2,13 +2,13 @@
 title: 改进了 Experience Cloud 受众发布
 landing-page-description: 了解发布受众（区段），并按照比以往更快的速度使其成为可用受众。
 description: Experience Cloud 的受众发布功能得到增强。如今，发布受众（区段）并成为可用受众的过程速度提升了 6 倍，延迟时间由当前的 48 小时缩短为大约 8 小时，而且速度有可能还会更快，具体情况取决于流量和区段的大小。
-feature: Experience Cloud Integration
+feature: Experience Cloud 集成
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 4819
-topic: Integrations
+topic: 集成
 role: Business Practitioner
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
