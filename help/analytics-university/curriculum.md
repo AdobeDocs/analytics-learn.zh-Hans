@@ -1,39 +1,39 @@
 ---
-title: Adobe Analytics大学课程
-description: Adobe为向您的大学演示此Analytics基础内容而自豪。 在课程表中，您将找到4个旨在向您介绍Adobe Analytics集合和报告的不同模块，这些模块可以分为数字分析或营销课程。 这本入门手册将使教授和学生能够获得参与每年秋季Adobe Analytics全球挑战所需的知识。
+title: Adobe Analytics University 课程
+description: Adobe 很荣幸地向您的大学介绍这些 Analytics 基础内容。在该课程中，您将发现 4 个不同的单元，旨在向您介绍 Adobe Analytics 收集和报表，可拆分这些单元并将其搭配成数字分析或营销课程。通过这份入门手册，教授和学生们可获得参加每年秋季举办的 Adobe Analytics 全球挑战赛所需的知识。
 hide: true
 hidefromtoc: true
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 95%
 
 ---
 
 
 
-# Adobe Analytics大学
+# Adobe Analytics University
 
-## Analytics课程内容
+## Analytics 课程内容
 
-Adobe为向您的大学演示此Analytics基础内容而自豪。 在课程表中，您将找到4个旨在向您介绍Adobe Analytics集合和报告的不同模块，这些模块可以分为数字分析或营销课程。 这本入门手册将使教授和学生能够获得参与每年秋季Adobe Analytics全球挑战所需的知识。
+Adobe 很荣幸地向您的大学介绍这些 Analytics 基础内容。在该课程中，您将发现 4 个不同的单元，旨在向您介绍 Adobe Analytics 收集和报表，可拆分这些单元并将其搭配成数字分析或营销课程。通过这份入门手册，教授和学生们可获得参加每年秋季举办的 Adobe Analytics 全球挑战赛所需的知识。
 
-### 以下是您将学到的：
+### 您将学到如下知识：
 
-*It开始DATA:*
+*它首先介绍数据：*
 
-* 数据收集模块(1)数据实施、收集、报告和验证框架
-* 数据策略与架构模块(2)数据变量、策略和架构的基础
+* 数据收集单元 (1) 数据实现、收集、报表和验证的框架
+* 数据策略和架构单元 (2) 数据变量、策略和架构的基础知识
 
-*接下来，您将将该数据与洞察相结合：*
+*接下来，您将数据与见解相结合：*
 
-* 标准Adobe指标和功能模块(3)如何访问和视图关键分析KPI指标和报告
-* Analysis Workspace基础知识模块(4)通过分析报告可视化获得高级
+* 标准 Adobe 指标和功能单元 (3) 如何访问和查看重要分析 KPI 指标和报表
+* Analysis Workspace 基础知识单元 (4) 通过分析报告可视化渐入佳境
 
-此课程在每个部分结尾处具有专门构建的活动，可与Adobe Analytics大学沙箱环境结合使用。
+此课程在每个部分的结尾都设有专门的活动，可与 Adobe Analytics University 沙盒环境相结合。
 
-在此处注册以获取访问权限：https://experienceleague.adobe.com/AnalyticsUniversity
+在此处注册以获取访问权限：[https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
-[下载课程表PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
+[下载课程 PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
