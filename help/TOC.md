@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '1986'
+source-wordcount: '1998'
 ht-degree: 99%
 
 ---
@@ -209,6 +209,9 @@ ht-degree: 99%
    + 管理报告包{#manage-report-suites}
       + [如何配置常规帐户设置](administration/manage-report-suites/configuring-general-account-settings.md)
       + [自定义日历设置](administration/manage-report-suites/customize-calendar-settings.md)
+      + [自定义Reports &amp; Analytics中的菜单](administration/manage-report-suites/customize-menus.md)
+      + [配置查找方法](administration/manage-report-suites/configure-finding-methods.md)
+      + [设置内部URL过滤器](administration/manage-report-suites/set-internal-url-filters.md)
       + [配置邮编设置](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [在 Admin Console 中配置变量](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + 数据治理和 GDPR{#data-governance-and-gdpr}
@@ -372,4 +375,4 @@ ht-degree: 99%
    + [使用 Postman 发出 Adobe Analytics 2.0 API 请求](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + 分析用例{#analysis-use-cases}
    + [设置市场内邮编分析](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Analytics大学课程](analytics-university/curriculum.md)
++ [Analytics University 课程](analytics-university/curriculum.md)
