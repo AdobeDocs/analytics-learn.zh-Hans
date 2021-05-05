@@ -6,8 +6,8 @@ hidefromtoc: true
 translation-type: tm+mt
 source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,8 +28,8 @@ Adobe 很荣幸地向您的大学介绍这些 Analytics 基础内容。在该课
 
 *接下来，您将数据与见解相结合：*
 
-* 标准 Adobe 指标和功能单元 (3) 如何访问和查看重要分析 KPI 指标和报表
-* Analysis Workspace 基础知识单元 (4) 通过分析报告可视化渐入佳境
+* 标准 Adobe 指标和功能单元 (3) 如何访问和查看重要的分析 KPI 指标和报表
+* Analysis Workspace 基础知识单元 (4) 通过分析报表可视化渐入佳境
 
 此课程在每个部分的结尾都设有专门的活动，可与 Adobe Analytics University 沙盒环境相结合。
 
