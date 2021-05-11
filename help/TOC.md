@@ -4,11 +4,11 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1998'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -209,9 +209,9 @@ ht-degree: 99%
    + 管理报告包{#manage-report-suites}
       + [如何配置常规帐户设置](administration/manage-report-suites/configuring-general-account-settings.md)
       + [自定义日历设置](administration/manage-report-suites/customize-calendar-settings.md)
-      + [自定义Reports &amp; Analytics中的菜单](administration/manage-report-suites/customize-menus.md)
+      + [自定义 Reports &amp; Analytics 中的菜单](administration/manage-report-suites/customize-menus.md)
       + [配置查找方法](administration/manage-report-suites/configure-finding-methods.md)
-      + [设置内部URL过滤器](administration/manage-report-suites/set-internal-url-filters.md)
+      + [设置内部 URL 过滤器](administration/manage-report-suites/set-internal-url-filters.md)
       + [配置邮编设置](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [在 Admin Console 中配置变量](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + 数据治理和 GDPR{#data-governance-and-gdpr}
