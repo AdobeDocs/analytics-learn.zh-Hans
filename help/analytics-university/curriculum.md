@@ -3,11 +3,11 @@ title: Adobe Analytics University 课程
 description: Adobe 很荣幸地向您的大学介绍这些 Analytics 基础内容。在该课程中，您将发现 4 个不同的单元，旨在向您介绍 Adobe Analytics 收集和报表，可拆分这些单元并将其搭配成数字分析或营销课程。通过这份入门手册，教授和学生们可获得参加每年秋季举办的 Adobe Analytics 全球挑战赛所需的知识。
 hide: true
 hidefromtoc: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '240'
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe 很荣幸地向您的大学介绍这些 Analytics 基础内容。在该课
 
 此课程在每个部分的结尾都设有专门的活动，可与 Adobe Analytics University 沙盒环境相结合。
 
-在此处注册以获取访问权限：[https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
+在此处注册以访问：[https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
 [下载课程 PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
