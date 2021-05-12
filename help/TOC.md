@@ -4,16 +4,15 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: ht
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
-workflow-type: ht
-source-wordcount: '1998'
-ht-degree: 100%
+source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
+workflow-type: tm+mt
+source-wordcount: '2007'
+ht-degree: 99%
 
 ---
 
 
-# Analytics 教程{#tutorials}
+# Analytics 教程 {#tutorials}
 
 + [概述](overview.md)
 + Analytics 简介{#intro-to-analytics}
@@ -83,7 +82,7 @@ ht-degree: 100%
       + [使用 Analysis Workspace 中的表、可视化和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace 中的“Quick Insights”面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [使用 Attribution IQ 面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=zh-Hans)
-      + [Analysis Workspace 中的“同时观看媒体的人数”面板](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
+      + [Analysis Workspace 中的“媒体并行查看者”面板](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [使用下拉过滤器](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [使用面板组织您的 Analysis Workspace 项目](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [区段放置区域改进](analysis-workspace/using-panels/segment-dropzone-improvements.md)
@@ -139,14 +138,14 @@ ht-degree: 100%
       + [面板级别区段](analysis-workspace/using-panels/panel-level-segments.md)
       + [在 Analysis Workspace 中将区段用作维度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [在 Analysis Workspace 中使用区段限制数据](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
-   + 指标{#metrics}
+   + 量度 {#metrics}
       + [了解基本访客指标](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [在 Analysis Workspace 中将维度和指标添加到您的项目](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=zh-Hans)
       + [转化事件简介](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由格式表中使用指标](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=zh-Hans)
       + [在 Analysis Workspace 中使用参与指标](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + 维度{#dimensions}
-      + [在 Analysis Workspace 中将维度和指标添加到您的项目](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中将维度和量度添加到项目](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量变量简介 (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [转化变量简介 (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [在自由格式表中使用维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=zh-Hans)
@@ -272,7 +271,7 @@ ht-degree: 100%
       + [对非重复维度计数分段](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [分段中的维度模型](components/segmentation/dimension-models-in-segmentation.md)
       + [分段中的“等于任何”运算符](components/segmentation/equals-any-of-operator-in-segmentation.md)
-   + 计算指标{#calculated-metrics}
+   + 计算指标 {#calculated-metrics}
       + [计算指标中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ 在计算指标中](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=zh-Hans)
       + [计算指标 - 指标生成器](components/calculated-metrics/calculated-metrics-metric-builder.md)
@@ -286,7 +285,7 @@ ht-degree: 100%
       + [分类概述](components/classifications/overview-of-classifications.md)
       + [使用分类规则生成器](components/classifications/using-the-classification-rule-builder.md)
    + 虚拟报告包{#virtual-report-suites}
-      + [虚拟报告包](components/virtual-report-suites/virtual-report-suites.md)
+      + [虚拟报表包](components/virtual-report-suites/virtual-report-suites.md)
       + [虚拟报告包中的组件简化](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [虚拟报告包中的上下文感知会话](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
       + [在虚拟报告包中对任何事件开始新访问](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
@@ -318,6 +317,7 @@ ht-degree: 100%
       + [Audience Analytics - 将 AAM 区段集成到 Analytics 中](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Analysis Workspace 中的 Analytics for Target (A4T) 面板](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+      + [使用A4T面板分析自动目标活动](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [配置 Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [将跟踪模板实施到搜索引擎中](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
