@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
-workflow-type: ht
-source-wordcount: '2007'
-ht-degree: 100%
+source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
+workflow-type: tm+mt
+source-wordcount: '2017'
+ht-degree: 99%
 
 ---
 
@@ -374,5 +374,7 @@ ht-degree: 100%
    + [使用 Report Builder 学习 Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=zh-Hans)
    + [使用 Postman 发出 Adobe Analytics 2.0 API 请求](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + 分析用例{#analysis-use-cases}
+   + 内部网站搜索{#internal-site-search}
+      + [定义内部站点搜索业务要求](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
    + [设置市场内邮编分析](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University 课程](analytics-university/curriculum.md)
