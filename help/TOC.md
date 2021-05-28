@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
-workflow-type: ht
-source-wordcount: '2017'
-ht-degree: 100%
+source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
+workflow-type: tm+mt
+source-wordcount: '2042'
+ht-degree: 98%
 
 ---
 
@@ -376,5 +376,9 @@ ht-degree: 100%
 + 分析用例{#analysis-use-cases}
    + 内部网站搜索 {#internal-site-search}
       + [定义您的内部网站搜索业务要求](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
+      + [使用AppMeasurement实施内部搜索变量](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [使用Web SDK实施内部搜索变量](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+      + [将Web SDK变量映射到Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+      + [配置内部网站搜索报表](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [设置市场内邮编分析](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University 课程](analytics-university/curriculum.md)
