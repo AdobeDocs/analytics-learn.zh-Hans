@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace 的使用日志跟踪
-description: 在“管理员 — 日志 — 使用和访问”下，您可以更好地了解用户对Adobe Analytics的使用。 此视频专门侧重于测量Workspace项目使用情况。
-feature: Data Configuration and Collection
+description: 在“管理员 — 日志 — 使用和访问”下方，您可以更好地了解用户对Adobe Analytics的使用情况。 此视频重点介绍如何测量工作区项目使用情况。
+feature: 数据配置和收集
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: Administration
+topic: 管理
 role: Administrator
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
+source-git-commit: c23845ae2fc6bef5721f04283b9be039d076f631
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 21%
+source-wordcount: '102'
+ht-degree: 18%
 
 ---
 
-
 # Analysis Workspace 的使用日志跟踪
 
-在[!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage &amp; Access]下，您可以更好地了解用户对Adobe Analytics的使用。 此视频专门侧重于测量[!DNL Workspace]项目使用情况。 您可以下载此视频中使用的Excel文件，网址为https://adobe.ly/2ygP5ws
+在[!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage &amp; Access]下，您可以更好地了解用户对Adobe Analytics的使用情况。 此视频专门用于测量[!DNL Workspace]项目使用情况。 注意：自此视频发布以来，已在adobe.ly/aausage上发布了有关如何在Analysis Workspace中进行可靠使用分析的产品提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
