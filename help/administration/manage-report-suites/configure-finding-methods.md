@@ -1,6 +1,6 @@
 ---
 title: 配置查找方法
-description: 在此视频中，了解如何配置控制搜索引擎、搜索关键字和其他查找方法报表和组件处理转换事件归因的方式的设置。
+description: 在此视频中，了解如何配置设置，以控制搜索引擎、搜索关键词以及其他查找方法报表和组件如何处理转化事件的归因。
 feature: 报表包设置
 topic: 管理
 role: Administrator
@@ -8,18 +8,17 @@ level: Beginner
 doc-type: feature video
 thumbnail: 333042.jpg
 kt: 7708
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+exl-id: 2cee782a-1d21-47e6-ab47-911b7610c7f2
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 12%
 
 ---
 
-
 # 配置查找方法
 
-在此视频中，了解如何配置控制搜索引擎、搜索关键字和其他查找方法报表和组件处理转换事件归因的方式的设置。
+在此视频中，了解如何配置设置，以控制搜索引擎、搜索关键词以及其他查找方法报表和组件如何处理转化事件的归因。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
 
