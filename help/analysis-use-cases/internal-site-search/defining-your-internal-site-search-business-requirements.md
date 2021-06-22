@@ -1,5 +1,5 @@
 ---
-title: 定义内部站点搜索业务要求
+title: 定义您的内部网站搜索业务要求
 description: 在决定跟踪网站上的内部搜索时，必须首先确定要跟踪的搜索方面，以及在分析结果时可以采取哪些操作，这一点很重要。 此视频将逐步介绍业务要求的文档。
 feature: 用例
 role: Business Practitioner
@@ -7,15 +7,15 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 333511.jpg
 kt: 7987
-source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
+exl-id: a6d26b85-3e04-4444-bbd7-89a476bfea07
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-
-# 定义内部站点搜索业务要求
+# 定义您的内部网站搜索业务要求
 
 在决定跟踪网站上的内部搜索时，必须首先确定要跟踪的搜索方面，以及在分析结果时可以采取哪些操作，这一点很重要。 此视频将逐步介绍业务要求的文档。
 
