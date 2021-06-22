@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+source-git-commit: f28d92541b8750f8f65de64023e672f9e5a0f694
 workflow-type: tm+mt
-source-wordcount: '2067'
+source-wordcount: '2071'
 ht-degree: 98%
 
 ---
@@ -107,12 +107,13 @@ ht-degree: 98%
    + 可视化{#visualizations}
       + [Analysis Workspace 中的数据可视化](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [可视化类型](analysis-workspace/visualizations/visualization-types.md)
-      + [可视化图表用例](analysis-workspace/visualizations/visualization-use-cases.md)
+      + [可视化使用案例](analysis-workspace/visualizations/visualization-use-cases.md)
       + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [将数据纳入可视化](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的“组件”下拉菜单](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Analysis Workspace 中的线可视化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [将趋势线添加到线可视化](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [面积图和堆叠的面积图](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [靶心图可视化](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [直方图可视化](analysis-workspace/visualizations/histogram-visualization.md)
       + [地图可视化](analysis-workspace/visualizations/map-visualization.md)
