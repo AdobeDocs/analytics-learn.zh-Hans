@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 4b5c50466a899ff84a628d0efe43765586d01216
+source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
 workflow-type: tm+mt
-source-wordcount: '2063'
-ht-degree: 100%
+source-wordcount: '2072'
+ht-degree: 99%
 
 ---
 
@@ -114,7 +114,9 @@ ht-degree: 100%
       + [Analysis Workspace 中的线可视化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [将趋势线添加到线可视化](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [面积图和堆叠的面积图](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [条形图和堆叠的条形图可视化图表](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [靶心图可视化](analysis-workspace/visualizations/bullet-graph-visualization.md)
+      + [使用圆环图可视化图表](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [直方图可视化](analysis-workspace/visualizations/histogram-visualization.md)
       + [地图可视化](analysis-workspace/visualizations/map-visualization.md)
       + [汇总数和汇总变更可视化](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
