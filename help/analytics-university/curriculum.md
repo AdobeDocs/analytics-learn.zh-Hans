@@ -4,10 +4,10 @@ description: Adobe 很荣幸地向您的大学介绍这些 Analytics 基础内�
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
+source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '244'
+ht-degree: 91%
 
 ---
 
@@ -33,7 +33,6 @@ Adobe 很荣幸地向您的大学介绍这些 Analytics 基础内容。在该课
 
 此课程在每个部分的结尾都设有专门的活动，可与 Adobe Analytics University 沙盒环境相结合。
 
-在此处注册以访问：[https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
-
+请在此处注册以获取访问权限：[Analytics课程注册](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [下载课程 PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
