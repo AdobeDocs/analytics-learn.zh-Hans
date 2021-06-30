@@ -1,25 +1,24 @@
 ---
-title: Analysis Workspace中的项目符号图可视化
-description: 项目符号图是显示在分析中向目标前进（或超出目标）的有用方式。 它们为您提供了另一种可视化组织成功的方式。
-feature: Visualizations
-topics: null
+title: Analysis Workspace中的项目符号图表可视化
+description: 项目符号图表是显示在分析中朝着（或超过）目标进展的有用方法。 它们为您提供了另一种可视化贵组织成功情况的方法。
+feature: 可视化图表
 activity: use
 doc-type: feature video
-team: Technical Marketing
 kt: 2116
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 8%
 
 ---
 
+#  Analysis Workspace中的  BulletGraph可视化 {#bullet-graph-visualization-in-analysis-workspace}
 
-# [!UICONTROL Analysis Workspace] 中的  BulletGraph Visualization  {#bullet-graph-visualization-in-analysis-workspace}
-
-[!UICONTROL 公] 告是显示在分析中实现（或超出）目标的有用方式。它们为您提供了另一种可视化组织成功的方式。
+ 公告是显示在分析中实现（或超出）目标的有用方式。它们为您提供了另一种可视化贵组织成功情况的方法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
+
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=en)。
