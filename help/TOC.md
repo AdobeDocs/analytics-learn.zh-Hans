@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '2072'
+source-wordcount: '2066'
 ht-degree: 99%
 
 ---
@@ -111,15 +111,18 @@ ht-degree: 99%
       + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [将数据纳入可视化](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的“组件”下拉菜单](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Analysis Workspace 中的线可视化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [将趋势线添加到线可视化](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [面积图和堆叠的面积图](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [条形图和堆叠的条形图可视化图表](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [靶心图可视化](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [使用圆环图可视化图表](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [圆环可视化图表](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [直方图可视化](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Analysis Workspace 中的线可视化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [将趋势线添加到线可视化](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [地图可视化](analysis-workspace/visualizations/map-visualization.md)
       + [汇总数和汇总变更可视化](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [文本可视化](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [树状图和散点图可视化](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [韦恩图可视化](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [使用累积平均函数应用量度平滑](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [灵活的版面](analysis-workspace/visualizations/flexible-layouts.md)
       + [更改可视化上的刻度/轴](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
@@ -128,13 +131,10 @@ ht-degree: 99%
       + [Analysis Workspace 中的内部链接](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [正色-反色地图主题](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [重新排列可视化和调整其大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [Analysis Workspace 中的富文本编辑器](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [系列标签编辑](analysis-workspace/visualizations/series-label-editing.md)
       + [百分比堆叠可视化](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [表数据源设置](analysis-workspace/visualizations/table-data-source-settings.md)
       + [构建时间划分热图](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-      + [树状图和散点图可视化](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
-      + [韦恩图可视化](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [可视化数据源设置](analysis-workspace/visualizations/visualization-data-source-settings.md)
    + 应用区段{#applying-segments}
       + [将区段应用于您的 Analysis Workspace 项目](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
