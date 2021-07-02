@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
+source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
 workflow-type: tm+mt
-source-wordcount: '2066'
-ht-degree: 99%
+source-wordcount: '2065'
+ht-degree: 98%
 
 ---
 
@@ -111,17 +111,18 @@ ht-degree: 99%
       + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [将数据纳入可视化](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的“组件”下拉菜单](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [面积图和堆叠面积图](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [面积图和堆叠的面积图可视化图表](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [条形图和堆叠的条形图可视化图表](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [靶心图可视化](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [圆环可视化图表](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [直方图可视化](analysis-workspace/visualizations/histogram-visualization.md)
-      + [Analysis Workspace 中的线可视化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [将趋势线添加到线可视化](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [折线图可视化图表](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [向折线图可视化图表添加趋势线](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [地图可视化](analysis-workspace/visualizations/map-visualization.md)
       + [汇总数和汇总变更可视化](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
       + [文本可视化](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [树状图和散点图可视化](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [散点图可视化图表](analysis-workspace/visualizations/scatterplot-visualization.md)
+      + [树状图可视化](analysis-workspace/visualizations/treemap-visualization.md)
       + [韦恩图可视化](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [使用累积平均函数应用量度平滑](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [灵活的版面](analysis-workspace/visualizations/flexible-layouts.md)
