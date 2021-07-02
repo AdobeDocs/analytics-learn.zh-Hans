@@ -111,7 +111,7 @@ ht-degree: 99%
       + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [将数据纳入可视化](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的“组件”下拉菜单](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [面积图和堆叠的面积图](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [面积图和堆叠面积图](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [条形图和堆叠的条形图可视化图表](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [靶心图可视化](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [圆环可视化图表](analysis-workspace/visualizations/using-the-donut-visualization.md)
