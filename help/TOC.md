@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
 workflow-type: tm+mt
 source-wordcount: '2065'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -111,10 +111,10 @@ ht-degree: 98%
       + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [将数据纳入可视化](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的“组件”下拉菜单](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [面积图和堆叠的面积图可视化图表](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [面积图和堆叠面积图 可视化图表](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [条形图和堆叠的条形图可视化图表](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [靶心图可视化](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [圆环可视化图表](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [环形可视化](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [直方图可视化](analysis-workspace/visualizations/histogram-visualization.md)
       + [折线图可视化图表](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [向折线图可视化图表添加趋势线](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
