@@ -1,36 +1,35 @@
 ---
 title: 同类群组设置
-description: '有几个“队列表”设置允许您自定义保留或参与的视图。 在此视频中突出显示这些内容。 '
-feature: Visualizations
+description: '有几种同类群组表设置允许您自定义维系率或流失率视图。 请观看此视频中突出显示的视频。 '
+feature: 可视化图表
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 11%
+source-wordcount: '119'
+ht-degree: 14%
 
 ---
 
+# [!UICONTROL 同类群组设置]
 
-# [!UICONTROL 队列表] 设置
-
-您可以使用多种？设置来自订您的[!UICONTROL retention]或[!UICONTROL churn]视图。 在此视频中突出显示这些内容。
+有几种？设置允许您自定义[!UICONTROL 维系]或[!UICONTROL 流失]的视图。 请观看此视频中突出显示的视频。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12)
 
-[!UICONTROL 队列表]的自定义包括
+[!UICONTROL 同类群组表]的自定义包括
 
 1. 仅显示百分比
-1. 舍入百分比到最接近的整数
-1. 显示/隐藏表顶部的平均百分比行。
+1. 将百分比四舍五入到最接近的整数
+1. 显示/隐藏表格顶部的平均百分比行。
 
-平均行在查看整体[!UICONTROL 保留]或[!UICONTROL 订户下跌]时尤为有用，而不是单个[!UICONTROL 同期群]行。
+平均行在查看总体[!UICONTROL 维系]或[!UICONTROL 流失]时特别有用，而不是按单个[!UICONTROL 同类群组]行查看。
 
-有关[!UICONTROL 同期群]分析的详细信息，请访问[文档](https://docs.adobe.com/help/zh-Hans/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html)。
+有关[!UICONTROL 同类群组]分析的更多信息，请访问[文档](https://docs.adobe.com/help/zh-Hans/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html)。
