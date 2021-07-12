@@ -2,12 +2,12 @@
 title: 散点图可视化图表
 description: 通过此可视化图表，您可以查看维度的多个量度之间的关系，以X/Y图形显示项目。 发现异常值和洞察信息，帮助您做出业务决策。
 feature: 可视化图表
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334459.jpg
 kt: 8188
-source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 9%
