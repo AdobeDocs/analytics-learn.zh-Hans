@@ -1,29 +1,28 @@
 ---
 title: Analysis Workspace 中的 Analytics for Target (A4T) 面板
 description: 借助“Analytics for Target”(A4T) 面板，您可以满怀信心地在 Analysis Workspace 中分析 Adobe Target 活动和体验。
-feature: Experience Cloud Integration
+feature: Experience Cloud 集成
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37247.jpg
 kt: 5837
-topic: Integrations
-role: Business Practitioner
+topic: 集成
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2dad80ba-4032-490f-b7b4-30f0c2f0d608
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 54%
+source-wordcount: '78'
+ht-degree: 60%
 
 ---
 
+# [!DNL Analytics for Target] (A4T)Analysis Workspace中的面板
 
-# [!DNL Analytics for Target] (A4T)面板在Analysis Workspace
-
-通过[!DNL Analytics for Target](A4T)面板，您可以在[!UICONTROL Analysis Workspace]中以提升和自信的方式分析Adobe Target活动和体验。
+通过[!DNL Analytics for Target](A4T)面板，您可以满怀信心地在[!UICONTROL Analysis Workspace]中分析Adobe Target活动和体验。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-请阅读[文档](https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/analysis-workspace/panels/a4t-panel.html)了解更多信息。
+请参阅[文档](https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/analysis-workspace/panels/a4t-panel.html)，以了解更多信息。
