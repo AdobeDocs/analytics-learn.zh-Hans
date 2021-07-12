@@ -1,26 +1,25 @@
 ---
 title: Adobe Analytics 功能板应用程序内体验
-description: 在此视频中，了解如何使用Adobe Analytics仪表板（移动应用程序）访问和视图由您创建或与您共享的“记分卡”。
-feature: Analytics Dashboards
+description: 在此视频中，了解如何使用Adobe Analytics功能板（移动设备应用程序）访问和查看由您创建或与您共享的“记分卡”。
+feature: Analytics 功能板
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5287
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ba29664f-da1a-49c7-8c73-ae5b65f11b4a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 32%
+source-wordcount: '73'
+ht-degree: 36%
 
 ---
 
-
 # Adobe Analytics 功能板应用程序内体验
 
-在此视频中，了解如何使用Adobe Analytics仪表板（移动应用程序）访问和视图由您创建或与您共享的“记分卡”。
+在此视频中，了解如何使用Adobe Analytics功能板（移动设备应用程序）访问和查看由您创建或与您共享的“记分卡”。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12)
 
