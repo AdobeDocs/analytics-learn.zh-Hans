@@ -1,18 +1,17 @@
 ---
 title: Adobe Sensei 和 Adobe Analytics
 description: Adobe Sensei 让 Adobe Analytics 更加智能，并且帮助营销人员获得关于其客户的有意义的见解。此视频包括 Adobe Analytics 中受 Adobe Sensei 支持的主要功能（包括 Anomaly Detection、Contribution Analysis、Intelligent Alerts、Clustering、Segment IQ 和 Propensity Modeling）的额外解释。
-feature: Data Science
+feature: 数据科学
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4383
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
