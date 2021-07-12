@@ -1,27 +1,26 @@
 ---
-title: Analysis Workspace中的队列表概述
-description: 同期群表中的滚动计算设置可用于分析同期群，以了解如何随时间保留（或客户流失）相同的用户。
-feature: Visualizations
+title: Analysis Workspace中的同类群组表概述
+description: 同类群组表中的滚动计算设置可用于分析同期同类群组，以了解一段时间内如何保留（或流失）同一用户。
+feature: 可视化图表
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 20%
+source-wordcount: '84'
+ht-degree: 21%
 
 ---
 
+# Analysis Workspace中的[!UICONTROL 同类群组表]概述 {#overview-of-cohort-tables-in-analysis-workspace}
 
-# Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}中的[!UICONTROL 队列表]概述
-
-[!UICONTROL 队列表]中的[!UICONTROL 滚动计算]设置可用于分析[!UICONTROL 同期群]，以了解如何随时间保留相同用户（或[!UICONTROL 客户流失]）。
+[!UICONTROL 同类群组表]中的[!UICONTROL 滚动计算]设置可用于分析[!UICONTROL 同类群组]时间段内的，以了解一段时间内如何保留相同用户（或[!UICONTROL 流失]）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
 
