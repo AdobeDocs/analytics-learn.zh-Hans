@@ -1,31 +1,30 @@
 ---
-title: Audience Analytics - 将 AAM 区段集成到 Analytics 中
-description: Audience Analytics是新的集成，允许您实时共享从Audience Manager(AAM)到Analytics(AA)的细分，以通知受众发现、细分和优化。
-feature: Experience Cloud Integration
+title: Audience Analytics — 将 AAM 区段集成到 Analytics 中
+description: Audience Analytics是一种新集成，允许您将区段从Audience Manager(AAM)实时共享到Analytics(AA)，以便为受众发现、分段和优化提供信息。
+feature: Experience Cloud 集成
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25450.jpg
 kt: 2354
-topic: Integrations
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+topic: 集成
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 5%
+source-wordcount: '128'
+ht-degree: 8%
 
 ---
 
+# Audience Analytics:将AAM [!DNL Segments]集成到[!DNL Analytics]中 {#audience-analytics-integrate-aam-segments-into-analytics}
 
-# Audience Analytics:将AAM [!DNL Segments]集成到[!DNL Analytics] {#audience-analytics-integrate-aam-segments-into-analytics}中
-
-[!UICONTROL 受众 ] Analytics是新的集成，允许您实时共享从Audience Manager到 [!DNL Analytics] 受众的细分，以便通知发现、细分和优化。
+[!UICONTROL Audience ] Analytics新集成允许您实时将Audience Manager中的区 [!DNL Analytics] 段共享到，以便为受众发现、分段和优化提供信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12)
 
-可以共享的[!UICONTROL 段]数据示例包括：来自第三方数据提供商的人口统计数据、来自广告服务器的活动数据（如非现场展示）和载入的CRM数据。 这是市场上首次按产品分类集成DMP与分析引擎。
+可共享的示例[!UICONTROL segment]数据包括：来自第三方数据提供商的人口统计数据、来自广告服务器的促销活动数据（如站外展示次数）以及载入的CRM数据。 这是市面上DMP与分析引擎之间首次按产品化集成。
 
-有关此功能的详细信息，请参阅[文档](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/)。
+有关此功能的更多信息，请参阅[文档](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/)。
