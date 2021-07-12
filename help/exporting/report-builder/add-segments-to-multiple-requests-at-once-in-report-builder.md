@@ -1,26 +1,25 @@
 ---
-title: 在Adobe Analytics中一次将Add Web区段添加到多个请求
-description: 此视频向您展示了如何使用Report Builder一次向所有请求添加区段，从而节省您的时间和精力。
+title: 一次将Adobe Analytics区段添加到多个请求中Report Builder
+description: 此视频向您展示了如何使用Report Builder一次向所有请求添加区段，从而节省您的时间和麻烦。
 feature: Report Builder
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2344
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 19%
+source-wordcount: '93'
+ht-degree: 20%
 
 ---
 
+# 在[!UICONTROL Report Builder]中一次将Adobe Analytics区段添加到多个请求 {#add-adobe-analytics-segments-to-multiple-requests-at-once-in-report-builder}
 
-# 在[!UICONTROL Report Builder] {#add-adobe-analytics-segments-to-multiple-requests-at-once-in-report-builder}中一次将Adobe Analytics区段添加到多个请求
-
-此视频向您展示了如何使用[!UICONTROL Report Builder]一次向所有请求添加区段，从而节省您的时间和时间。
+此视频向您展示如何使用[!UICONTROL Report Builder]一次向所有请求添加区段，从而节省您的时间和麻烦。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 
