@@ -7,19 +7,18 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2562
-topic: Mobile
-role: "Developer, Data Engineer"
+topic: 移动设备
+role: Developer, Data Engineer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
 
 ---
 
-# 用 Experience Platform SDK 跟踪移动应用程序中的状态（又称页面或屏幕）{#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
+# 用 Experience Platform SDK 跟踪移动应用程序中的状态（又称页面或屏幕） {#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
 
 状态代表应用程序中的屏幕或视图。每次在您的应用程序中显示一个新状态，例如当用户从主页导航到动态信息馈送时，可调用 `trackState` 以送入状态名称（在 [!DNL Analytics] 中为页面名称）以及其他数据。此视频介绍如何这样做。
 
