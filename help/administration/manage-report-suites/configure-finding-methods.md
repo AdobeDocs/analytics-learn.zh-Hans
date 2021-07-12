@@ -3,16 +3,16 @@ title: 配置查找方法
 description: 在此视频中，了解如何配置设置，以控制搜索引擎、搜索关键词以及其他查找方法报表和组件如何处理转化事件的归因。
 feature: 报表包设置
 topic: 管理
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 333042.jpg
 kt: 7708
 exl-id: 2cee782a-1d21-47e6-ab47-911b7610c7f2
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 12%
+ht-degree: 21%
 
 ---
 
