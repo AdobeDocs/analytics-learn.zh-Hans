@@ -3,16 +3,16 @@ title: 设置内部 URL 过滤器
 description: 在此视频中，了解有关反向链接的设置，将它们设置为内部反向链接（为路径报表提供支持）或外部反向链接（为反向链接/反向链接域名报表提供支持）。
 feature: 报表包设置
 topic: 管理
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 333043.jpg
 kt: 7709
 exl-id: 91d8ae87-b5cb-4d65-a59b-04dd2674a5a5
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 13%
+ht-degree: 22%
 
 ---
 
