@@ -1,23 +1,22 @@
 ---
 title: 用右键单击提高 Workspace 效率
 description: 了解我们喜欢的各种 Analysis Workspace 右键单击及其用法。从自由格式表到流失可视化图表，右键单击操作可以让您更高效、更熟练地在工作区中进行操作。
-feature: Workspace Basics
+feature: Workspace 基础知识
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4f0ce6d2-4ce4-4aa7-907d-efcaab958674
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 88%
+source-wordcount: '68'
+ht-degree: 95%
 
 ---
-
 
 # 右键单击[!DNL Workspace]效率
 
