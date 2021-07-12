@@ -2,13 +2,13 @@
 title: 从头开始构建 Workspace 项目
 description: 是否准备好开始构建您自己的项目？了解如何从头开始构建 Analytics Workspace 项目，包括如何构建表格、附加可视化等。
 feature: Workspace 基础知识
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334076.jpg
 kt: 8056
 exl-id: 8bbc1632-e5da-4cba-9852-e7c63521c345
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
