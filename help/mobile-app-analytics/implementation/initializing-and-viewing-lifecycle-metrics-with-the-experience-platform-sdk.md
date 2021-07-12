@@ -7,19 +7,18 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2561
-topic: Mobile
-role: "Developer, Data Engineer"
+topic: 移动设备
+role: Developer, Data Engineer
 level: Experienced
 exl-id: 8bcc2f31-fac6-45eb-84d8-0ad65779a369
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 
 ---
 
-# 用 Experience Platform SDK 初始化和查看[!UICONTROL 生命周期][!UICONTROL 指标]{#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}
+# 用 Experience Platform SDK 初始化和查看[!UICONTROL 生命周期][!UICONTROL 指标] {#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}
 
 [!UICONTROL 生命周期][!UICONTROL 指标]是关于应用程序用户的宝贵、即时可用的信息。这些[!UICONTROL 指标]包含关于应用程序用户整个生命周期的信息，如设备信息、安装或升级信息、会话开始和暂停时间等等。在此视频中，我们将介绍如何在应用程序中设置[!UICONTROL 生命周期][!UICONTROL 指标]以及如何在调试器中查看结果。
 
