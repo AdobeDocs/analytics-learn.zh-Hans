@@ -7,19 +7,18 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2563
-topic: Mobile
-role: "Developer, Data Engineer"
+topic: 移动设备
+role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 100%
 
 ---
 
-# 用 Experience Platform SDK 跟踪移动应用程序中的行为（又称自定义链接）{#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
+# 用 Experience Platform SDK 跟踪移动应用程序中的行为（又称自定义链接） {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
 
 行为是在移动应用程序中发生的事件。在此视频中，了解如何使用 trackAction API 跟踪和度量某种行为。
 
