@@ -3,13 +3,13 @@ title: 使用 A4T 面板分析自动定位活动
 description: 通过Analytics for Target(A4T)面板，可以分析Adobe Target活动和体验。 在此视频中，您将了解如何使用“Analytics for Target”面板将自动定位测试的结果可视化。
 feature: Experience Cloud 集成
 topic: 集成
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 thumbnail: 333270.jpg
 kt: 7861
 exl-id: abbe0c31-dadc-44ee-a859-328a128b77be
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 20%
