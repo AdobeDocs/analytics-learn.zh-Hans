@@ -1,29 +1,28 @@
 ---
 title: 对非重复维度计数分段
-description: 区段生成器中新增的“不同计数”运算符允许您根据任何维度中的唯一项数进行区段。 对查看5个以上页面的访问或购买5个以上产品的点击进行过滤，即在单次订购中。
-feature: Segmentation
+description: 通过区段生成器中新的“非重复计数”运算符，您可以根据任何维度中唯一项目的数量进行分段。 过滤查看页面超过5次的访问，或购买产品超过5次的点击（即在单次订购中）。
+feature: 分段
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2918
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '123'
 ht-degree: 13%
 
 ---
 
-
 # 对非重复维度计数分段 {#segmentation-on-distinct-dimension-counts}
 
-[!UICONTROL 区段生成器]中新的[!UICONTROL 独特计数]运算符允许您根据任何[!UICONTROL 维度]中的唯一项数进行区段。 对查看5个以上页面的访问或购买5个以上产品的点击进行过滤，即在单次订购中。
+通过[!UICONTROL 区段生成器]中新的[!UICONTROL 非重复计数]运算符，您可以根据任何[!UICONTROL 维度]中的唯一项目数进行分段。 过滤查看页面超过5次的访问，或购买产品超过5次的点击（即在单次订购中）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
 
-此功能会更酷吗？ :)
+此功能会更冷吗？ :)
 
 有关详细信息，请访问[文档](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html)。
