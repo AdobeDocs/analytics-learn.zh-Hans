@@ -1,24 +1,23 @@
 ---
 title: 虚拟报告包中的上下文感知会话
-description: 现在，可以使用虚拟报表包以非破坏性方式更改Adobe Analytics中访问的定义。 我们会向您展示如何执行此操作以及可用的不同选项。
+description: 现在，可以使用虚拟报表包以无损方式更改Adobe Analytics中访问的定义。 我们将向您展示如何执行此操作，以及可用的不同选项。
 feature: VRS
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1775
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: eccd24d8-ed55-49db-894c-ef31de891728
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '79'
 ht-degree: 7%
 
 ---
 
-
-# [!UICONTROL 虚拟报表包] {#context-aware-sessions-in-virtual-report-suites}中的上下文感知会话
+# [!UICONTROL 虚拟报表包]中的上下文感知会话 {#context-aware-sessions-in-virtual-report-suites}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12)
 
@@ -28,4 +27,4 @@ ht-degree: 7%
 
 2:45 — 在Analysis Workspace中使用VRS
 
-有关此功能的详细信息，请访问[文档](https://marketing.adobe.com/resources/help/en_US/reference/vrs-mobile-visit-processing.html)。
+有关此功能的更多信息，请访问[文档](https://marketing.adobe.com/resources/help/en_US/reference/vrs-mobile-visit-processing.html)。
