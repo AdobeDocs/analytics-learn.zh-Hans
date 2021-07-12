@@ -1,29 +1,28 @@
 ---
-title: 设置市场邮编分析 — 用例
-seo-title: 设置市场邮编分析 — 用例
-description: 在此用例中，我们将配置系统以引入邮政编码，将其分类为市场内或市场外，然后在Analysis Workspace中使用此数据，以便我们能够了解我们针对地域的营销活动的有效性。
-seo-description: 在此用例中，我们将配置系统以引入邮政编码，将其分类为市场内或市场外，然后在Analysis Workspace中使用此数据，以便我们能够了解我们针对地域的营销活动的有效性。
-feature: Use Cases
+title: 设置市场邮政编码分析 — 用例
+seo-title: 设置市场邮政编码分析 — 用例
+description: 在此用例中，我们将配置系统以引入邮政编码，将其分类为市场内或市场外代码，然后在Analysis Workspace中使用此数据，以便我们能够了解地理定位营销活动的有效性。
+seo-description: 在此用例中，我们将配置系统以引入邮政编码，将其分类为市场内或市场外代码，然后在Analysis Workspace中使用此数据，以便我们能够了解地理定位营销活动的有效性。
+feature: 用例
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 10%
+source-wordcount: '198'
+ht-degree: 11%
 
 ---
 
+# 设置市场邮政编码分析 — 用例 {#setting-up-in-market-zip-code-analysis-a-use-case}
 
-# 设置市场邮编分析 — 用例{#setting-up-in-market-zip-code-analysis-a-use-case}
-
-在此用例中，我们将配置系统以引入邮政编码，将其分类为市场内或市场外，然后在Analysis Workspace中使用此数据，以便我们能够了解我们针对地域的营销活动的有效性。
+在此用例中，我们将配置系统以引入邮政编码，将其分类为市场内或市场外代码，然后在Analysis Workspace中使用此数据，以便我们能够了解地理定位营销活动的有效性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
 
