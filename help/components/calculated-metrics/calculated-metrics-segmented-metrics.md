@@ -1,24 +1,23 @@
 ---
-title: 计算指标 - 分段指标
+title: 计算量度 — 分段量度
 description: 了解如何在Adobe Analytics中创建分段量度
-feature: Calculated Metrics
+feature: 计算量度
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2319
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c02b968d-aa0e-4a93-acd4-d8797533b182
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 19%
+source-wordcount: '28'
+ht-degree: 21%
 
 ---
 
-
-# [!UICONTROL 计算量度]:分段量度  {#calculated-metrics-segmented-metrics}
+# [!UICONTROL 计算量度]:分段量度 {#calculated-metrics-segmented-metrics}
 
 了解如何在Adobe Analytics中创建分段量度
 
