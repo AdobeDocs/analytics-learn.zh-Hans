@@ -1,27 +1,26 @@
 ---
 title: 用 Adobe Analytics 创建 Advertising Cloud 警报
-description: 如何充分利用Adobe Analytics Alerts的强大功能来监控Advertising Cloud付费媒体活动。
-feature: Advertising Cloud Integration
+description: 如何利用Adobe Analytics警报的强大功能，监控Advertising Cloud付费媒体促销活动。
+feature: Advertising Cloud集成
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35118.jpg
 kt: 5475
-topic: Integrations
-role: Business Practitioner
+topic: 集成
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c021f6b9-f242-4576-8f3a-cb2ef31f32fc
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 26%
+source-wordcount: '54'
+ht-degree: 27%
 
 ---
 
-
 # 用 Adobe Analytics 创建 Advertising Cloud 警报
 
-如何充分利用Adobe Analytics Alerts的强大功能来监控Advertising Cloud付费媒体活动。
+如何利用Adobe Analytics警报的强大功能，监控Advertising Cloud付费媒体促销活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)
