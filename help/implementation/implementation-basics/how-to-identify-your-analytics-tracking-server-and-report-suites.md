@@ -1,24 +1,23 @@
 ---
 title: 如何识别 Analytics Tracking Server 和报告包
 description: 在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 Analytics“Tracking Server”或您将数据发送到其中的“报告包”一般都很有帮助，甚至必须这样做。此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
-feature: Implementation Basics
+feature: 实施基础
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 100%
 
 ---
 
-# 如何识别 Analytics [!DNL Tracking Server] 和[!UICONTROL 报告包]{#how-to-identify-your-analytics-tracking-server-and-report-suites}
+# 如何识别 Analytics [!DNL Tracking Server] 和[!UICONTROL 报告包] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
 在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 [!DNL Analytics]“[!DNL Tracking Server]”或您将数据发送到其中的“[!UICONTROL 报告包]”一般都很有帮助，甚至必须这样做。此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
 
