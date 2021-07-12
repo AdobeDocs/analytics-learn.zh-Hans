@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace 中的流程可视化
-description: 此视频将指导您了解Analysis Workspace中的流可视化。 您可以使用“流”来展示和探索用户移动，从而更好地了解您的客户旅程。
-feature: Visualizations
+description: 此视频将指导您逐步了解Analysis Workspace中的流量可视化图表。 您可以使用流量来显示和探索用户移动，以更好地了解您的客户历程。
+feature: 可视化图表
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 30%
+source-wordcount: '76'
+ht-degree: 31%
 
 ---
 
+# [!DNL Flow Visualization] 在Analysis Workspace {#flow-visualization-in-analysis-workspace}
 
-# [!DNL Flow Visualization] 在Analysis Workspace  {#flow-visualization-in-analysis-workspace}
-
-此视频将引导您浏览Analysis Workspace中的[!DNL Flow visualization]。 您可以使用[!DNL Flow]显示和浏览用户移动，以更好地了解您的[!DNL customer journey]。
+此视频将指导您完成Analysis Workspace中的[!DNL Flow visualization]。 您可以使用[!DNL Flow]来显示和浏览用户移动，以便更好地了解您的[!DNL customer journey]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12)
 
