@@ -1,30 +1,29 @@
 ---
 title: 虚拟报告包中的组件简化
-description: 虚拟报表包可以在Analysis Workspace中进行归档，以包括和排除维度、量度和区段，如果您与只需要特定数据片段或使用不同数据命名法的其他团队共享，这将大有帮助。
+description: 可以对虚拟报表包进行管理，以在Analysis Workspace中包含和排除维度、量度和区段，如果您与其他团队共享虚拟报表包，这些团队只需要数据的特定部分或使用不同的数据命名法，则这会非常有帮助。
 feature: VRS
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1774
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '143'
 ht-degree: 10%
 
 ---
 
+# [!UICONTROL 虚拟报表包]中的组件管理 {#component-curation-in-virtual-report-suites}
 
-# [!UICONTROL 虚拟报表包] {#component-curation-in-virtual-report-suites}中的组件特选
-
-[!UICONTROL 虚拟报] 表包经过策划 [!UICONTROL ，可在Analysis Workspace中包]括和排除维度 [!UICONTROL 、量度和]  细分，如果您与只需要特定数据片段或使用不同数据命名法的其他团队共享，将大有帮助。
+[!UICONTROL 对虚拟报] 表包进行了管理，以在Analysis Workspace中包含和排 [!UICONTROL 除维度]、 [!UICONTROL 量度]  和区段，如果您要与其他团队共享虚拟报表包，而这些团队只需要特定数据片段或使用不同的数据命名法，将会提供极大的帮助。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
 
-如果启用了组件自定义，则[!UICONTROL 虚拟报告包]将只能在Analysis Workspace中访问。
+如果启用了组件自定义，则[!UICONTROL 虚拟报表包]将只能在Analysis Workspace中专门访问。
 
 此视频中的部分：
 
