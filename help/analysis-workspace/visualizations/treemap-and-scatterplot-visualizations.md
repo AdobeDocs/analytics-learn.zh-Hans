@@ -1,29 +1,28 @@
 ---
-title: Analysis Workspace中的树图和散点图可视化
-description: Analysis Workspace在Adobe Analytics中包括两种常用的可视化类型 — 树图和散点图。 此视频介绍如何在分析中使用这两种可视化类型。
-feature: Visualizations
+title: 树状图和散点图可视化图表在Analysis Workspace中
+description: Adobe Analytics中的Analysis Workspace包含两种常用的可视化类型 — 树图和散点图。 此视频介绍如何在分析中使用这两种可视化图表类型。
+feature: 可视化图表
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2117
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 149bf674-2444-488a-aafe-2a1df0a0315c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
+#  树状散点图   可视化图表Analysis Workspace {#treemap-and-scatterplot-visualizations-in-analysis-workspace}
 
-# [!UICONTROL Treemapand ] ScatterplotVisualizations    in Analysis Workspace  {#treemap-and-scatterplot-visualizations-in-analysis-workspace}
-
-Adobe Analytics中的Analysis Workspace包括两种流行的[!UICONTROL visualization]类型 — [!UICONTROL treemap]和[!UICONTROL scatterplot]。 此视频介绍如何在分析中同时使用[!UICONTROL visualization]类型。
+Adobe Analytics中的Analysis Workspace包含两种常用的[!UICONTROL 可视化图表]类型 — [!UICONTROL 树图]和[!UICONTROL 散点图]。 此视频介绍如何在分析中同时使用[!UICONTROL 可视化图表]类型。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23988/?quality=12)
 
-有关这些[!UICONTROL 可视化]的详细信息，请转至[文档](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/treemap.html)。
+有关这些[!UICONTROL 可视化图表]的更多信息，请转到[文档](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/treemap.html)。
 
-对于您可在Analysis Workspace中使用的另一个极好的[!UICONTROL 可视化]，请尝试[[!UICONTROL 项目符号]图形](https://helpx.adobe.com/analytics/kt/using/bullet-graph-viz-analysis-workspace-feature-video-use.html)。
+对于在Analysis Workspace中使用的另一个出色的[!UICONTROL 可视化]，请尝试[[!UICONTROL 项目符号]图表](https://helpx.adobe.com/analytics/kt/using/bullet-graph-viz-analysis-workspace-feature-video-use.html)。
