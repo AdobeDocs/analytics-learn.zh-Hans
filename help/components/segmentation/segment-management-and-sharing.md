@@ -1,24 +1,23 @@
 ---
-title: 在Adobe Analytics中进行细分管理和共享
+title: 区段管理与共享Adobe Analytics
 description: 此视频向您展示如何在Adobe Analytics中共享和管理区段。
-feature: Segmentation
+feature: 分段
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2305
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 31%
+source-wordcount: '60'
+ht-degree: 33%
 
 ---
 
-
-# [!UICONTROL 在Adobe Analytics] 中进行细分管理和共享  {#segment-management-and-sharing-in-adobe-analytics}
+#  区段管理与共享Adobe Analytics {#segment-management-and-sharing-in-adobe-analytics}
 
 此视频向您展示如何在Adobe Analytics中共享和管理[!UICONTROL 区段]。
 
