@@ -1,27 +1,26 @@
 ---
 title: 数据馈送管理 UI
-description: Adobe Analytics数据馈送允许您导出原始点击流数据，以导入并与EDW或数据湖中的其他数据源合并。 您可以在Adobe Analytics中创建和管理您自己的数据源。 此视频将向您展示如何操作。
-feature: Data Feeds
+description: 利用Adobe Analytics数据馈送，可导出原始点击流数据，以导入EDW或数据湖中的其他数据源，并与之合并。 您可以在Adobe Analytics中创建和管理您自己的数据馈送。 此视频将向您展示如何操作。
+feature: 数据馈送
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '116'
 ht-degree: 15%
 
 ---
 
+# [!UICONTROL 数据馈送管理 UI] {#data-feeds-management-ui}
 
-# 数据馈送管理 UI {#data-feeds-management-ui}
-
-Adobe Analytics [!UICONTROL 数据馈送]允许您导出原始点击流数据，以导入并与EDW或数据湖中的其他数据源合并。 您可以在Adobe Analytics中创建和管理您自己的[!UICONTROL 数据馈送]。 此视频将向您展示如何操作。
+利用Adobe Analytics [!UICONTROL 数据馈送]，可导出原始点击流数据，以导入EDW或数据湖中的其他数据源并与之合并。 您可以在Adobe Analytics中创建并管理您自己的[!UICONTROL 数据馈送]。 此视频将向您展示如何操作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 
-有关此功能的详细信息，请参阅[文档](https://marketing.adobe.com/resources/help/en_US/reference/analytics-data-feed.html)。
+有关此功能的更多信息，请参阅[文档](https://marketing.adobe.com/resources/help/en_US/reference/analytics-data-feed.html)。
