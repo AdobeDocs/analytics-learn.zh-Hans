@@ -1,27 +1,26 @@
 ---
 title: 使用任何维度进行同类群组分析
-description: “自定义同期群Dimension”选项允许您使用时间以外的维度分析同期群。 按营销渠道、活动区域、产品页面等比较同期群。 以更好地了解维度项目的保留（或客户流失）变化情况。
-feature: Visualizations
+description: 自定义同类群组Dimension选项允许您使用时间以外的维度分析同类群组。 按营销渠道、促销活动区域、产品页面等比较同类群组。 以更好地了解维度项目的维系率（或流失率）变化情况。
+feature: 可视化图表
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 27%
+source-wordcount: '100'
+ht-degree: 28%
 
 ---
 
+# 使用任何维度进行同类群组分析 {#cohort-analysis-using-any-dimension}
 
-# [!UICONTROL 使用任何维度进行同类群组分析] {#cohort-analysis-using-any-dimension}
-
-“自定义[!UICONTROL 队列] [!UICONTROL Dimension]”选项允许您使用除时间之外的[!UICONTROL 维度]分析[!UICONTROL 队列]。 按营销渠道、活动区域、产品页面等比较[!UICONTROL cohorts]。 要更好地了解[!UICONTROL retention]（或[!UICONTROL churn]）如何由[!UICONTROL dimension]项目发生变化。
+使用自定义[!UICONTROL Cohort] [!UICONTROL Dimension]选项，可以使用时间以外的[!UICONTROL 维度]分析[!UICONTROL 同类群组]。 按营销渠道、营销活动区域、产品页面等比较[!UICONTROL 同类群组]。 为了更好地了解[!UICONTROL 维系]（或[!UICONTROL 流失]）如何按[!UICONTROL 维度]项目发生更改。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
 
