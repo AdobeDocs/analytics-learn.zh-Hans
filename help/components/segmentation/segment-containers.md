@@ -1,26 +1,25 @@
 ---
-title: Adobe Analytics中的细分容器
-description: 此视频在Adobe Analytics的区段生成器中演示了如何使用三种不同的区段容器类型。
-feature: Segmentation
+title: Adobe Analytics中的区段容器
+description: 此视频演示如何在Adobe Analytics的区段生成器中处理三种不同的区段容器类型。
+feature: 分段
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2301
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '73'
 ht-degree: 13%
 
 ---
 
+#   Adobe Analytics中的Segmentcontainer {#segment-containers-in-adobe-analytics}
 
-# [!UICONTROL Segmentcontainers ]  in Adobe Analytics  {#segment-containers-in-adobe-analytics}
-
-此视频显示了如何使用Adobe Analytics的[!UICONTROL 区段生成器]中的三种不同[!UICONTROL 区段] [!UICONTROL 容器]类型。
+此视频演示了如何处理Adobe Analytics的[!UICONTROL 区段生成器]中的三种不同[!UICONTROL 区段] [!UICONTROL 容器]类型。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
