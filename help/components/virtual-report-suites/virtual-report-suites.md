@@ -1,26 +1,25 @@
 ---
 title: Adobe Analytics中的虚拟报表包
-description: Adobe Analytics允许您为用户创建“虚拟报表包”，从而对您的数据进行细分并将用户/用户组限制为仅允许的数据区段。 此视频向您展示如何创建和使用虚拟报表包。
+description: Adobe Analytics允许您为用户创建“虚拟报表包”，以便对您的数据进行分段，并将用户/群组限制为仅允许的数据区段。 此视频向您展示了如何创建和使用虚拟报表包。
 feature: VRS
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2325
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: db1c229a-96a0-4ca0-8c4e-a04721564c7d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '110'
+ht-degree: 8%
 
 ---
 
+# [!UICONTROL 虚拟报表] 包Adobe Analytics {#virtual-report-suites-in-adobe-analytics}
 
-# [!UICONTROL Adobe Analytics中的虚] 拟报表包  {#virtual-report-suites-in-adobe-analytics}
-
-Adobe Analytics允许您为用户创建“[!UICONTROL 虚拟报表包]”，从而对数据进行细分并将用户/组限制为仅允许的数据区段。 此视频向您展示如何创建和使用[!UICONTROL 虚拟报表包]。
+Adobe Analytics允许您为用户创建“[!UICONTROL 虚拟报表包]”，以便对您的数据进行分段，并将用户/组限制为仅允许的数据区段。 此视频向您展示如何创建和使用[!UICONTROL 虚拟报表包]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12)
 
