@@ -1,25 +1,24 @@
 ---
 title: Adobe Analytics 中的人员指标
 description: Adobe Analytics 现在提供一个人员指标，以根据 Adobe Experience Cloud Device Co-op 为访客去重！此视频提供更多信息并介绍如何着手。
-feature: Metrics
+feature: 指标
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
-# Adobe Analytics 中的[!UICONTROL 人员][!UICONTROL 指标]{#people-metric-in-adobe-analytics}
+# Adobe Analytics 中的[!UICONTROL 人员][!UICONTROL 指标] {#people-metric-in-adobe-analytics}
 
 Adobe Analytics 现在提供一个[!UICONTROL 人员]指标，以根据 Adobe Experience Cloud [!UICONTROL Device Co-op] 为访客去重！此视频提供更多信息并介绍如何着手。
 
