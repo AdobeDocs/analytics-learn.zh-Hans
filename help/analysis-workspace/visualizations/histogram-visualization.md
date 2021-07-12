@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace 中的直方图可视化
-description: 利用直方图，您可以直观地显示量度在访客、访问和点击中的分布情况，从而找到高价值和低价值细分。
-feature: Visualizations
+description: 利用直方图，可显示量度在访客数、访问次数和现在的点击次数中的分布，以查找高值和低值区段。
+feature: 可视化图表
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1909
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 25%
+source-wordcount: '75'
+ht-degree: 26%
 
 ---
 
+# [!UICONTROL Analysis Workspace 中的直方图可视化] {#histogram-visualization-in-analysis-workspace}
 
-# Analysis Workspace 中的直方图可视化 {#histogram-visualization-in-analysis-workspace}
-
-[!UICONTROL 直方图] 可让您直观地显示访客、  访问和点击量之间的量度分布，从而找到高价值和低价值 [!UICONTROL 细分]。
+ 直方图可让您显示访客数、访  问次数和现在点击量之间量度的分布，以查找高值和低值 [!UICONTROL 区段]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
 
-有关此功能的详细信息，请访问[文档](https://marketing.adobe.com/resources/help/zh_CN/analytics/analysis-workspace/histogram.html)。
+有关此功能的更多信息，请访问[文档](https://marketing.adobe.com/resources/help/zh_CN/analytics/analysis-workspace/histogram.html)。
