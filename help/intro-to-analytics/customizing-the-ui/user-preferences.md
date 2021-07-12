@@ -1,26 +1,25 @@
 ---
-title: Adobe Analytics中的用户首选项
-description: 通过“组件 — 用户”首选项页面，您可以在用户级别管理Analysis Workspace及其相关组件的设置。 例如，您可以选择默认的报表包和调色板。 用户首选项适用于所有新项目和新面板。
-feature: Workspace Basics
-topic: Personalization
-role: Business Practitioner, Administrator
+title: Adobe Analytics 中的用户偏好设置
+description: 通过“组件”-“用户首选项”页面，可在用户级别管理 Analysis Workspace 的设置及其相关的组件。例如，您可以选择默认的报告包和调色板。“用户首选项”适用于所有新项目和新面板。
+feature: Workspace 基础知识
+topic: 个性化
+role: User, Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332600.jpg
 kt: 7478
-translation-type: tm+mt
-source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
+exl-id: 2fcb0e92-1287-4d05-88e1-aaf2ddff1ac9
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 2%
+ht-degree: 69%
 
 ---
 
+# Adobe Analytics 中的用户偏好设置
 
-# Adobe Analytics中的用户首选项
-
-通过[!UICONTROL 组件] - [!UICONTROL 用户首选项]页面，您可以在用户级别管理Analysis Workspace及其相关组件的设置。 例如，您可以选择默认的报表包和调色板。 用户首选项适用于所有新项目和新面板。
+通过[!UICONTROL 组件] - [!UICONTROL 用户首选项]页面，您可以在用户级别管理Analysis Workspace及其相关组件的设置。 例如，您可以选择默认的报告包和调色板。“用户首选项”适用于所有新项目和新面板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332600/?quality=12&learn=on)
 
-视图[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html)中所有可用的首选项。
+查看[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html)中所有可用的首选项。
