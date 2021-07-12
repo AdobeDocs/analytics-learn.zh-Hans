@@ -1,25 +1,24 @@
 ---
-title: Dimension-Graph在Analysis Workspace中的实时链接
-description: 我们不太知道该怎么称呼，但这很冷酷。 从尺寸值创建折线图时，现在可以选择不同的尺寸值并动态更改图形。 观看视频，了解更多信息！
-feature: Visualizations
+title: Dimension图在Analysis Workspace中的实时链接
+description: 我们不太知道该怎么称呼它，但它真的很酷。 现在，从维值创建折线图时，您可以选择不同的维值并动态更改图表。 观看视频以了解更多信息！
+feature: 可视化图表
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2115
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: cb10bbb0-fb2c-4849-a4bb-a4d1c3f87254
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 1%
 
 ---
 
+# [!UICONTROL Dimension]- Analysis Workspace中的图形实时链接 {#dimension-graph-live-linking-in-analysis-workspace}
 
-# [!UICONTROL Dimension]-Graph Live Linking in Analysis Workspace  {#dimension-graph-live-linking-in-analysis-workspace}
-
-我们不太知道该怎么称呼，但这很冷酷。 当您从[!UICONTROL 维]值创建折线图时，您现在可以选择不同的[!UICONTROL 维]值并动态更改该图。 观看视频，了解更多信息！
+我们不太知道该怎么称呼它，但它真的很酷。 现在，当您从[!UICONTROL 维度]值创建折线图时，可以选择不同的[!UICONTROL 维度]值并动态更改该图表。 观看视频以了解更多信息！
 
 >[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12)
