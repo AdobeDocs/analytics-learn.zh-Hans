@@ -3,25 +3,24 @@ title: Analysis Workspace 中的 Standard Templates
 seo-title: Analysis Workspace 中的 Standard Templates
 description: Analysis Workspace 通过 Standard Templates（以前称为 Starter Projects）为您的分析开一个好头。
 seo-description: Analysis Workspace 通过 Standard Templates（以前称为 Starter Projects）为您的分析开一个好头。
-feature: Projects
+feature: 项目
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1963
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 1234f64e-f5e5-4bb1-a553-da438bde46e0
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
 ---
 
-# Analysis Workspace 中的 Standard Templates{#standard-templates-in-analysis-workspace}
+# Analysis Workspace 中的 Standard Templates {#standard-templates-in-analysis-workspace}
 
 Analysis Workspace 通过 [!DNL Standard Templates]（以前称为 [!DNL Starter Projects]）为您的分析开一个好头。
 
