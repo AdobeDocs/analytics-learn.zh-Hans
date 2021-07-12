@@ -1,24 +1,23 @@
 ---
-title: 计算指标 - 指标选择器
-description: Adobe Analytics中量度选择器概述
-feature: Calculated Metrics
+title: 计算量度 — 量度选择器
+description: Adobe Analytics中的量度选择器概述
+feature: 计算量度
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2317
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2bd83c8d-c2a8-4279-8402-aeb052e8d18f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 20%
+source-wordcount: '26'
+ht-degree: 23%
 
 ---
 
-
-# [!UICONTROL 计算量度]:量度选择器  {#calculated-metrics-metric-selector}
+# [!UICONTROL 计算量度]:量度选择器 {#calculated-metrics-metric-selector}
 
 Reports &amp; Analytics中的量度选择器概述
 
