@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace 中的“媒体并行查看者”面板
-description: 对于Media Analytics客户，“媒体并发查看器”面板使您能够了解高峰期并发发生的位置或中断发生的位置，从而提供对内容质量和查看者参与情况的宝贵洞察，并帮助解决问题或规划批量/规模。
-feature: Panels
+description: 对于Media Analytics客户，通过“媒体并行查看者”面板，您可以了解出现并发峰值或发生锐减的位置，从而对内容质量和查看者参与度提供有价值的分析，并有助于对批量/规模进行疑难解答或规划。
+feature: 面板
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330177.jpg
 kt: 6834
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3ba5f76d-cab4-4014-b377-9083dbfea1a0
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '118'
 ht-degree: 17%
 
 ---
 
-
 # Analysis Workspace 中的“媒体并行查看者”面板
 
-对于Media Analytics客户，“媒体并发查看器”面板使您能够了解高峰期并发发生的位置或中断发生的位置，从而提供对内容质量和查看者参与情况的宝贵洞察，并帮助解决问题或规划批量/规模。
+对于Media Analytics客户，通过“媒体并行查看者”面板，您可以了解出现并发峰值或发生锐减的位置，从而对内容质量和查看者参与度提供有价值的分析，并有助于对批量/规模进行疑难解答或规划。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 
