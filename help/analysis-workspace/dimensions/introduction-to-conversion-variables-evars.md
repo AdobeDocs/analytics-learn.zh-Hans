@@ -1,25 +1,24 @@
 ---
 title: 转化变量简介 (eVars)
-description: 在此视频中，了解转化变量的简介，也称为“eVar”。 了解流量和转化变量之间的差异，以及它们与转化事件的关系。
-feature: Dimensions
+description: 在此视频中，了解转化变量（也称为“eVar”）。 还了解流量和转化变量之间的差异以及它们与转化事件的关系。
+feature: 维度
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3577
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4f7bedec-efca-46e8-981a-18118982012f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 8%
+source-wordcount: '66'
+ht-degree: 15%
 
 ---
 
+# 转化变量简介 ([!DNL eVars])
 
-# 转换变量简介([!DNL eVars])
-
-在此视频中，获取转换变量的简介，也称为“[!DNL eVars]”。 另外，了解流量和转换变量之间的差异，以及它们与转换[!DNL events]的关系。
+在此视频中，了解转化变量，也称为“[!DNL eVars]”。 还了解流量和转化变量之间的差异以及它们与转化的关系[!DNL events]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12)
