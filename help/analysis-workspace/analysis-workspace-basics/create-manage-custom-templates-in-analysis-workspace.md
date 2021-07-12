@@ -1,24 +1,23 @@
 ---
 title: 在 Analysis Workspace 中创建和管理自定义模板
 description: 在此视频中，您将了解如何在 Analysis Workspace 中创建自定义模板，以使您和您的团队可从一组特定的报告着手。
-feature: Projects
+feature: 项目
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1695
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
 
 ---
 
-# 在 Analysis Workspace 中创建和管理自定义模板{#create-and-manage-custom-templates-in-analysis-workspace}
+# 在 Analysis Workspace 中创建和管理自定义模板 {#create-and-manage-custom-templates-in-analysis-workspace}
 
 在此视频中，您将了解如何在 Analysis Workspace 中创建自定义模板，以使您和您的团队可从一组特定的报告着手。
 
