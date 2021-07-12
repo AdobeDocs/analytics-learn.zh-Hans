@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace 中的时间划分维度
-description: 分时段功能会采用收集的点击时间戳，并将其分解为更有意义的维度，如“小时数”或“星期几”。 这些尺寸现已在Analysis Workspace中开箱即用。
-feature: Freeform Tables
+description: 时间划分会采用收集的点击量的时间戳，并将其划分为更有意义的维度，例如“每日时间”或“每周时间”。 这些维度现在在Analysis Workspace中是开箱即用的。
+feature: 自由格式表
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4d754c86-92cd-49cd-91b4-6711fbb61bf7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 21%
+source-wordcount: '90'
+ht-degree: 22%
 
 ---
 
-
 # [!DNL Time-parting] Analysis Workspace 中的维度 {#time-parting-dimensions-in-analysis-workspace}
 
-[!DNL Time-parting] 获取所收集点击的时间戳，并将其分解为更有意义的维度，如“小时”或“星期”。这些尺寸现已在Analysis Workspace中开箱即用。
+[!DNL Time-parting] 会获取收集的点击的时间戳，并将其划分为更有意义的维度，例如“小时”或“星期”。这些维度现在在Analysis Workspace中是开箱即用的。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12)
 
