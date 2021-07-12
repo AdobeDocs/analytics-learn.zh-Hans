@@ -1,25 +1,24 @@
 ---
 title: 转化事件简介
-description: 在此视频中，了解转化“事件”的简介，或帮助跟踪您网站上的转化率的变量（例如订单、注册、注册、表单完成等）
-feature: Metrics
+description: 在此视频中，了解转化“事件”或有助于跟踪网站上转化的变量（例如，订单、注册、注册、表单完成等）
+feature: 量度
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3578
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3f2876fe-d7da-47d3-a23d-0d8f790f7f5b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 13%
+source-wordcount: '63'
+ht-degree: 14%
 
 ---
 
-
 # 转化事件简介
 
-在此视频中，了解转化“事件”的简介，或帮助跟踪您网站上的转化率的变量（例如订单、注册、注册、表单完成等）
+在此视频中，了解转化“事件”或有助于跟踪网站上转化的变量（例如，订单、注册、注册、表单完成等）
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12)
