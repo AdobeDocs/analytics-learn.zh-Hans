@@ -1,31 +1,30 @@
 ---
 title: 在Analysis Workspace中使用下拉过滤器
-description: 在此视频中，您将学习如何使用Analysis Workspace中的下拉过滤器动态更改面板的内容。
-feature: Panels
+description: 在此视频中，您将了解如何使用Analysis Workspace中的下拉过滤器来动态更改面板的内容。
+feature: 面板
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '177'
 ht-degree: 3%
 
 ---
 
+# 在Analysis Workspace中使用下拉过滤器 {#using-drop-down-filters-in-analysis-workspace}
 
-# 在Analysis Workspace {#using-drop-down-filters-in-analysis-workspace}中使用下拉过滤器
-
-在此视频中，您将学习如何使用Analysis Workspace中的下拉过滤器动态更改面板的内容。
+在此视频中，您将了解如何使用Analysis Workspace中的下拉过滤器来动态更改面板的内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12)
 
-面板下拉区域现在具有下拉筛选功能。 下拉式过滤器使分析师和最终用户能够通过受控过滤器与数据交互。 您可以从任何组件类型创建下拉筛选器，然后在下拉列表中的项目之间切换以筛选面板内容。 您还可以向单个面板添加多个下拉菜单以添加控件。
+面板拖放区域现在具有下拉过滤功能。 下拉过滤器使分析师和最终用户能够通过受控过滤器与数据交互。 您可以从任何组件类型创建下拉过滤器，然后在下拉列表中的项目之间切换，以过滤面板内容。 您还可以向单个面板中添加多个下拉列表以添加控件。
 
-下拉列表也是整合项目和面板的有用方式。 例如，如果您有提供国家/地区特定报告的项目的多个版本，您现在可以将这些项目折叠为单个项目，并添加一个国家/地区下拉列表，用户可以在其中切换。
+下拉列表也是整合项目和面板的有用方式。 例如，如果某个项目的多个版本提供了特定于国家/地区的报表，您现在可以将这些项目折叠为单个项目，并添加一个国家/地区下拉列表，用户可以在其中进行切换。
 
 有关详细信息，请访问[文档](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html)。
