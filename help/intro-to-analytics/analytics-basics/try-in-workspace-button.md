@@ -11,7 +11,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: d5aab59f-ff73-4ef5-82d6-fd4ada90a7cd
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 # [!DNL Reports & Analytics] 中的“在 Workspace 中尝试”按钮 {#try-in-workspace-button-in-reports-analytics}
 
-[!UICONTROL Reports and Analytics] 中的大多数报告都有一个&#x200B;**[!UICONTROL “在 Workspace 中尝试”]**&#x200B;按钮，通过它可在 [!UICONTROL Analysis Workspace] 中重现当前视图以供进一步自定义。
+[!UICONTROL Reports and Analytics] 中的大多数报告都有一个&#x200B;**[!UICONTROL 在 Workspace 中尝试]**&#x200B;按钮，通过它可在 [!UICONTROL Analysis Workspace] 中重现当前视图以供进一步自定义。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12)
