@@ -4,8 +4,8 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
-workflow-type: ht
+source-git-commit: 6587d9ff43b7fcbf697bda4cdd9be2ae7a63ef86
+workflow-type: tm+mt
 source-wordcount: '2065'
 ht-degree: 100%
 
@@ -119,7 +119,7 @@ ht-degree: 100%
       + [折线图可视化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [向折线图可视化添加趋势线](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [地图可视化](analysis-workspace/visualizations/map-visualization.md)
-      + [汇总数和汇总变更可视化](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [汇总数和汇总变更可视化](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [文本可视化](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [散点图可视化](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [树形图可视化](analysis-workspace/visualizations/treemap-visualization.md)
