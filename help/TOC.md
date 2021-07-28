@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: dbab0f9190e660eadfacdb75ac00994afff375e7
+source-git-commit: aa1627c6f13274e35fcf10f25d709fec484007b2
 workflow-type: tm+mt
-source-wordcount: '2065'
+source-wordcount: '2068'
 ht-degree: 99%
 
 ---
@@ -391,3 +391,4 @@ ht-degree: 99%
       + [配置内部站点搜索报告](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [设置市场内邮编分析](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University 课程](analytics-university/curriculum.md)
++ [Experience League实时](exl-live/exl-live-overview.md)
