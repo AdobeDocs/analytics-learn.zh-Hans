@@ -132,7 +132,7 @@ ht-degree: 99%
       + [Analysis Workspace 中的内部链接](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [正色-反色地图主题](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [重新排列可视化和调整其大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [自定义可视化图例](analysis-workspace/visualizations/customize-visualization-legends.md)
+      + [自定义可视化图表图例](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [百分比堆叠可视化](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [表数据源设置](analysis-workspace/visualizations/table-data-source-settings.md)
       + [构建时间划分热图](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
