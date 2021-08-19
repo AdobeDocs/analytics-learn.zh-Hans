@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 48da246e50ed658bdb496a8a8a551e8f0454021d
+source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
 workflow-type: tm+mt
-source-wordcount: '2141'
+source-wordcount: '2139'
 ht-degree: 96%
 
 ---
@@ -135,9 +135,8 @@ ht-degree: 96%
       + [重新排列可视化和调整其大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [自定义可视化图表图例](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [百分比堆叠可视化](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [表数据源设置](analysis-workspace/visualizations/table-data-source-settings.md)
+      + [表和可视化数据源设置](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [构建时间划分热图](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-      + [可视化数据源设置](analysis-workspace/visualizations/visualization-data-source-settings.md)
    + 应用区段{#applying-segments}
       + [将区段应用于您的 Analysis Workspace 项目](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [在 Analysis Workspace 中使用区段](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
