@@ -10,10 +10,10 @@ kt: 1769
 role: User
 level: Intermediate
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 1%
+source-wordcount: '108'
+ht-degree: 0%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 1%
 
 此功能除了用于跨请求编辑[!UICONTROL 报表包]、[!UICONTROL 日期范围]、[!UICONTROL 粒度]和[!UICONTROL 区段]的现有功能之外。 可通过右键单击菜单或“管理”窗口中的“[!UICONTROL 编辑多个]”批量编辑请求。
 
-有关此功能的更多信息，请访问[文档](https://marketing.adobe.com/resources/help/en_US/arb/edit_multiple_metrics.html)。
+有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=en)。

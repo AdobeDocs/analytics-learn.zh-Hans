@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace中的自由格式表过滤器
 description: 过滤器可以更好地控制自由格式表中共享的数据行。
-feature: 自由格式表
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 1699
 role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 2%
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,6 @@ ht-degree: 2%
 
 在Analysis Workspace中，我们现在提供了更多的过滤控制，其中包含11个过滤条件和AND/OR运算符。
 
-有关可用过滤器的更多信息，请访问[文档](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/pagination_filtering_sorting.html)。
+有关可用过滤器的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en)。
 
 **注意：** 高级特殊字符在Analysis Workspace中不可用。

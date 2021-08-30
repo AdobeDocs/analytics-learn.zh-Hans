@@ -1,7 +1,7 @@
 ---
 title: 在Analysis Workspace中共享嵌入的组件
 description: 有时，您想要共享Analysis Workspace项目，但同时又忘记与同事共享您包含的区段和量度。 此视频显示您现在如何在共享项目过程中共享区段和量度，以便同事每次都能看到您想要的内容。
-feature: 策划和共享
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2295
 role: User
 level: Beginner
 exl-id: 14af33e2-659e-4d78-923f-20752e26067b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 8%
+source-wordcount: '136'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 8%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24713/?quality=12)
 
-有关此功能的更多信息，请参阅[文档](https://marketing.adobe.com/resources/help/zh_CN/analytics/analysis-workspace/curate.html)。
+有关此功能的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en)。

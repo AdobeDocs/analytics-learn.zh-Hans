@@ -1,7 +1,7 @@
 ---
 title: 在不使用标签管理器的情况下进行自定义链接跟踪
 description: 对于页面上的许多操作，不应将跟踪视为页面查看。 在此视频中，您将了解如何在未使用标签管理器(如Experience Platform Launch)的情况下，将链接跟踪信标编码到Analytics。 查看代码，以及学习重要提示。
-feature: Appmeasurement实施
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 8%
+source-wordcount: '271'
+ht-degree: 5%
 
 ---
 
@@ -49,5 +49,3 @@ ht-degree: 8%
     Click here to share on FaceBook
 </a>
 ```
-
-有关自定义链接的更多信息，请参阅[文档](https://marketing.adobe.com/resources/help/zh_CN/sc/implement/function_tl.html)。

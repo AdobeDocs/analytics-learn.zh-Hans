@@ -1,7 +1,7 @@
 ---
 title: 使用跨选项卡分析探索Analysis Workspace中的基本营销归因
 description: 您可以使用 Adobe Analytics 中的多种方式将归因方法提升到新的高度。在此视频中，我们将重点介绍如何使用工作区中的跨选项卡分析，从营销渠道报表中获得更加深入的分析。
-feature: 营销渠道
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 38%
+source-wordcount: '288'
+ht-degree: 37%
 
 ---
 
@@ -39,4 +39,4 @@ ht-degree: 38%
 * 4:30 — 现在可以批量更新列设置，而不是逐一更新。 请在视频的8:45了解更多信息：[自由格式表中的行和列设置](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-有关此主题的更多信息，请访问[文档](https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/analysis-workspace/attribution/models.html)。
+有关此主题的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hans)。

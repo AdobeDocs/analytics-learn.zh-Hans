@@ -7,14 +7,14 @@ activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 2493
-topic: 移动设备
+topic: Mobile
 role: Admin
 level: Experienced
 exl-id: 3e582cde-8e5b-4dd0-8f67-2e28414b1b34
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '66'
-ht-degree: 100%
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '64'
+ht-degree: 85%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12)
 
-有关详细信息，请参阅[文档](https://marketing.adobe.com/resources/help/zh_CN/mobile/gs.html)。
+有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=en)。

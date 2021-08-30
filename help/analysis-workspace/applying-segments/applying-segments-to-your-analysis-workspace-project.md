@@ -1,7 +1,7 @@
 ---
 title: 将区段应用于您的 Analysis Workspace 项目
 description: 在此视频中，了解如何通过将区段应用于数据来限制表格和可视化图表中的数据。
-feature: 分段
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 4107
 role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '68'
 ht-degree: 29%
 
 ---
@@ -23,4 +23,4 @@ ht-degree: 29%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
 
-有关详细信息，请访问[文档](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html)。

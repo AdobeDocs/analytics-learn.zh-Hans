@@ -1,7 +1,7 @@
 ---
 title: 用同类群组表进行延时分析
 description: 同类群组表中的延时表设置允许您分析包含事件之前和之后同类群组的行为（而不是像标准同类群组描述的那样）。 例如，此设置有助于分析新产品或营销活动启动的影响。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2480
 role: User
 level: Intermediate
 exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 19%
+ht-degree: 10%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 19%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12)
 
-有关详细信息，请参阅[文档](https://marketing.adobe.com/resources/help/zh_CN/analytics/analysis-workspace/cohort_analysis.html)。
+有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en)。

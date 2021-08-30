@@ -1,7 +1,7 @@
 ---
 title: 用同类群组表进行流失分析
 description: 同类群组表提供两种分析类型 — 维系率和流失率。 虽然“维系”显示一段时间内保留的用户数量，但“流失率”选项将描述丢失的用户数量（1 — 维系）。
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2479
 role: User
 level: Intermediate
 exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 31%
+ht-degree: 19%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 31%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
 
-有关详细信息，请参阅[文档](https://marketing.adobe.com/resources/help/zh_CN/analytics/analysis-workspace/cohort_analysis.html)。
+有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en)。
