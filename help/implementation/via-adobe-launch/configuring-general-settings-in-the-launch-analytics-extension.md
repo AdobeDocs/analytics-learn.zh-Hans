@@ -1,7 +1,7 @@
 ---
 title: 配置 Launch Analytics 扩展中的常规设置
 description: 如果您刚开始使用Launch、By Launch和Adobe Analytics扩展，此视频可以帮助您完成配置的常规设置部分，包括设置跟踪服务器。
-feature: Launch实施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 21%
+source-wordcount: '126'
+ht-degree: 14%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 21%
 
 有关此用例各个方面的其他信息，请参阅以下文档主题：
 
-[邮政编码](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
+[邮政编码](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
 
-[分类](https://docs.adobe.com/content/help/zh-Hans/analytics/components/classifications/c-classifications.html)
+[分类](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=zh-Hans)
 
-[Analysis Workspace](https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)

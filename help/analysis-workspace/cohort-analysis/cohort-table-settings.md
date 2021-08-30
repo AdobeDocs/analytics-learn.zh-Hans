@@ -1,7 +1,7 @@
 ---
 title: 同类群组设置
 description: '有几种同类群组表设置允许您自定义维系率或流失率视图。 请观看此视频中突出显示的视频。 '
-feature: 可视化图表
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 14%
+ht-degree: 5%
 
 ---
 
@@ -32,4 +32,4 @@ ht-degree: 14%
 
 平均行在查看总体[!UICONTROL 维系]或[!UICONTROL 流失]时特别有用，而不是按单个[!UICONTROL 同类群组]行查看。
 
-有关[!UICONTROL 同类群组]分析的更多信息，请访问[文档](https://docs.adobe.com/help/zh-Hans/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html)。
+有关[!UICONTROL 同类群组]分析的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en)。
