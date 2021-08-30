@@ -93,4 +93,4 @@ Experience League直播是由Experience League团队制作的实时流节目。 
 
 >[!TIP]
 >
->如需了解更多学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)和个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html)。
+>如需了解更多学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)和各个[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
