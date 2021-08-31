@@ -1,18 +1,16 @@
 ---
 title: 粒度在Analysis Workspace中切换
 description: 粒度选择器已添加到趋势可视化设置中，以便您能够非常轻松地从分钟到年调整数据粒度。 该设置将调整图表和源表，从而保留取消隐藏和处理表的步骤。
-feature: 可视化图表
-topics: null
-activity: use
+feature: Visualizations
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23548.jpg
 kt: 1770
 role: User
 level: Beginner
 exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---

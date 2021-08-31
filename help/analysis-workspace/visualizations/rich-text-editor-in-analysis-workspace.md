@@ -1,19 +1,17 @@
 ---
 title: Analysis Workspace 中的富文本编辑器
 description: 演示了一些新功能，这些功能允许分析人员和营销人员对Analysis Workspace中的文本可视化（或描述）应用编辑 — 粗体、斜体、标题、超级链接等。
-feature: 可视化图表
-topics: null
-activity: use
+feature: Visualizations
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23726.jpg
 kt: 1907
 role: User
 level: Beginner
 exl-id: c208b21b-857b-4b01-aae5-b1be9f8105ea
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 18%
+source-wordcount: '68'
+ht-degree: 17%
 
 ---
 

@@ -2,15 +2,13 @@
 title: Analysis Workspace中的地图可视化
 description: 此视频向您展示如何使用Analysis Workspace中新的地图可视化。 “地图”视图将允许您根据动态地图查看移动（纬度/经度）或Web（IP地址）数据，从而了解客户在其位置上下文中的使用情况。
 feature: Visualizations
-topics: null
-activity: use
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23559.jpg
 kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
