@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
+source-git-commit: ff682b772fb0c261bee2e57b75f49ee07a318030
 workflow-type: tm+mt
-source-wordcount: '2192'
+source-wordcount: '2197'
 ht-degree: 96%
 
 ---
@@ -61,6 +61,7 @@ ht-degree: 96%
       + [Analysis Workspace 中的 Standard Templates](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [使用自定义模板让 Analysis Workspace 的新手用户也能用好](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [了解数据如何进入您的 Analysis Workspace 项目](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Adobe Analytics中的基本量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace 中的组件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [使用组件管理器](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [在 Analysis Workspace 中选择报告包](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
