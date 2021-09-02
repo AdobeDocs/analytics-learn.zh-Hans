@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
 workflow-type: tm+mt
-source-wordcount: '2131'
-ht-degree: 98%
+source-wordcount: '2192'
+ht-degree: 96%
 
 ---
 
@@ -28,13 +28,15 @@ ht-degree: 98%
       + [Summit 2019 超级讲座 — 高科技行业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Analytics 基础{#analytics-basics}
       + [Reports and Analytics 中的“在 Workspace 中尝试”按钮](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
-      + [人员量度](intro-to-analytics/analytics-basics/people-metric.md)
       + [了解 Analytics 周期](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [如何收集 Analytics 数据](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [登录到 Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Analytics UI 简介](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [了解和创建报告包](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Adobe Labs（技术预览版）](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
+      + [了解基本访客指标](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [流量变量简介 (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [转化变量简介 (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+      + [转化事件简介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + 自定义 UI{#customizing-the-ui}
       + [Adobe Analytics 中的用户偏好设置](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [添加维度和量度说明](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
@@ -147,7 +149,7 @@ ht-degree: 98%
       + [在 Analysis Workspace 中使用区段限制数据](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + 量度 {#metrics}
       + [了解基本访客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [在 Analysis Workspace 中将维度和量度添加到您的项目](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=zh-Hans)
+      + [在 Analysis Workspace 中将维度和量度添加到您的项目](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [转化事件简介](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由格式表中使用量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=zh-Hans)
       + [在 Analysis Workspace 中使用参与率量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
@@ -241,6 +243,7 @@ ht-degree: 98%
 + 实施{#implementation}
    + 实施基础{#implementation-basics}
       + [首次实施](implementation/implementation-basics/first-time-implementation.md)
+      + [了解和创建报告包](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
       + [用“处理规则”将 contextData 变量映射到 Props 和 Evars](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [如何识别 Analytics Tracking Server 和报告包](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [创建业务要求文档](implementation/implementation-basics/creating-a-business-requirements-document.md)
@@ -311,6 +314,7 @@ ht-degree: 98%
       + [Activity Map 概述](components/activity-map/activity-map-overview.md)
       + [启用、调试和自定义 Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + 其他工具{#additional-tools}
+   + [Adobe Labs（技术预览版）](additional-tools/adobe-labs-technology-previews.md)
    + Analytics 功能板{#analytics-dashboards}
       + [Adobe Analytics 功能板记分卡生成器](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [应用自定义日期范围](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
