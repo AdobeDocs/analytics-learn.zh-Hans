@@ -7,23 +7,23 @@ level: Beginner
 hide: true
 hidefromtoc: true
 source-git-commit: dcfa04814012434a3f017cd0f06c8707b4d4cf2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 34%
+ht-degree: 100%
 
 ---
 
 
 # Experience League LIVE
 
-## 加入我们观看下一集！
+## 加入我们，观看下一场直播！
 
-<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="单击将引导您转到YouTube大堂进行Experience League直播" src="assets/1440x492.png" /></a>
+<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="单击会将您定向到 Experience League LIVE 直播活动的 YouTube 大厅" src="assets/1440x492.png" /></a>
 
-Experience League直播是由Experience League团队制作的实时流节目。  这是与Adobe产品专家联系并学习可在Adobe Experience Cloud应用程序中应用的可操作提示、技巧和策略的机会。
+Experience League LIVE 是 Experience League 团队制作的直播节目。利用这个机会，您可以与 Adobe 产品专家联系并学习可用于 Adobe Experience Cloud 应用程序的可操作性提示、技巧和策略。
 
 
-## 即将召开的Experience League实时活动！
+## Experience League LIVE 活动即将播出！
 
 <table>
 <tr>
@@ -33,10 +33,10 @@ Experience League直播是由Experience League团队制作的实时流节目。 
           <strong>客户历程</strong>
      </div>
      <div>
-          <em>2021年9月</em>
+          <em>2021 年 9 月</em>
      </div>
     <p>
-    <em>向产品专家学习如何实时构建适应客户的体验</em>
+    <em>向产品专家学习如何构建实时适应客户的体验</em>
     <p>
   </td>
   <td>
@@ -48,7 +48,7 @@ Experience League直播是由Experience League团队制作的实时流节目。 
      </div>
      </div>
     <p>
-    <em>了解如何大规模创建和管理内容以及构建个性化的商务体验</em>
+    <em>了解如何大规模创建和管理内容并构建个性化的商务体验</em>
     <p>
   </td>
   <td>
@@ -57,29 +57,29 @@ Experience League直播是由Experience League团队制作的实时流节目。 
           <strong>Experience Platform</strong>
      </div>
      <div>
-          <em>2021年12月</em>
+          <em>2021 年 12 月</em>
      </div>    
     <p>
-    <em>向产品专家学习如何实时构建适应客户的体验</em>
+    <em>向产品专家学习如何构建实时适应客户的体验</em>
     <p>
   </td>
 </tr>
 </table>
 
 
-## 过去剧集
+## 精彩回放
 
-错过了某场 Experience League LIVE 吗？不过没关系，看看我们过去的剧集！
+错过了某场 Experience League LIVE 吗？不过没关系，请观看我们的精彩回放！
 
 <table>
 <tr>
 
 <td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
-      <img height="225" width="400" alt="Experience League实时" src="assets/exl-live-after2.jpg" />
+      <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
     </a>
      <div>
-          <strong>客人</strong> : <i>埃里克·马提索夫和达莎·菲茨派翠克</i>
+          <strong>嘉宾</strong>：<i>Eric Matisoff 和 Dasha Fitzpatrick</i>
      </div>
      <div>
           <em>2021 年 7 月 29 日</em>
