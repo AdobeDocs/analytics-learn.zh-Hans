@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: 54cc440067743e6e198f131a26566ffb32ac5d60
 workflow-type: tm+mt
 source-wordcount: '2197'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 96%
       + [登录到 Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Analytics UI 简介](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [了解和创建报告包](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [了解基本访客指标](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [了解基本访客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
       + [流量变量简介 (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
       + [转化变量简介 (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [转化事件简介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
@@ -61,7 +61,7 @@ ht-degree: 96%
       + [Analysis Workspace 中的 Standard Templates](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [使用自定义模板让 Analysis Workspace 的新手用户也能用好](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [了解数据如何进入您的 Analysis Workspace 项目](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
-      + [Adobe Analytics中的基本量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
+      + [Adobe Analytics 中的基本量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace 中的组件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [使用组件管理器](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [在 Analysis Workspace 中选择报告包](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
@@ -150,7 +150,7 @@ ht-degree: 96%
       + [在 Analysis Workspace 中使用区段限制数据](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + 量度 {#metrics}
       + [了解基本访客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [在 Analysis Workspace 中将维度和量度添加到您的项目](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
+      + [在 Analysis Workspace 中将维度和量度添加到您的项目](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=zh-Hans)
       + [转化事件简介](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由格式表中使用量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=zh-Hans)
       + [在 Analysis Workspace 中使用参与率量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
@@ -315,8 +315,8 @@ ht-degree: 96%
       + [Activity Map 概述](components/activity-map/activity-map-overview.md)
       + [启用、调试和自定义 Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + 其他工具{#additional-tools}
-   + [Adobe Labs（技术预览版）](additional-tools/adobe-labs-technology-previews.md)
-   + Analytics 功能板{#analytics-dashboards}
+   + [Adobe Labs（技术预览）](additional-tools/adobe-labs-technology-previews.md)
+   + Analytics 功能板 {#analytics-dashboards}
       + [Adobe Analytics 功能板记分卡生成器](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [应用自定义日期范围](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics 功能板应用程序内体验](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)

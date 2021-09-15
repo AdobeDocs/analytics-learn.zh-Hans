@@ -18,7 +18,7 @@ ht-degree: 98%
 
 # 概述
 
-欢迎访问 [!DNL Analytics] 教程网站。配合[文档](https://experienceleague.adobe.com/docs/analytics/landing/home.html?lang=zh-Hans)一起使用这些教程将让您更好地了解如何使用 Adobe Analytics 比以往更快地获得客户洞察。要开始教程，请
+欢迎访问 [!DNL Analytics] 教程网站。配合[文档](https://experienceleague.adobe.com/docs/analytics/landing/home.html)一起使用这些教程将让您更好地了解如何使用 Adobe Analytics 比以往更快地获得客户洞察。要开始教程，请
 * 查看下方的&#x200B;**“新增功能”**&#x200B;部分以了解最新的实用组件
 * **员工精选**&#x200B;重点介绍我们喜爱的一些内容
 * 在&#x200B;**左侧导航**&#x200B;中按主题和副标题浏览内容
