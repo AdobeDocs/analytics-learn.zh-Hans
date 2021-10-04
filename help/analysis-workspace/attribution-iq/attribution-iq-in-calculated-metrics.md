@@ -1,22 +1,22 @@
 ---
 title: Attribution IQ 在计算量度中
 description: 此视频演示如何在计算量度中使用Attribution IQ。
-feature: 归因
+feature: Attribution
 role: User
 level: Intermediate
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23140.jpg
 kt: 1668
-exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239,1789789c-19aa-4e77-999f-15fa11b7f858,1789789c-19aa-4e77-999f-15fa11b7f858,47016dae-2694-4bbe-a23f-ebff9799c239
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239,1789789c-19aa-4e77-999f-15fa11b7f858
+source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 8%
+source-wordcount: '102'
+ht-degree: 7%
 
 ---
 
-# [!DNL Attribution IQ]在 [!DNL Calculated Metrics] {#attribution-iq-in-calculated-metrics}
+# [!DNL Attribution IQ] in [!DNL Calculated Metrics] {#attribution-iq-in-calculated-metrics}
 
 此视频演示了如何在[!DNL Calculated Metrics]中使用[!DNL Attribution IQ]。
 

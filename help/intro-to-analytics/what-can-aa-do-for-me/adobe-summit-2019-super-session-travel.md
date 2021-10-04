@@ -1,7 +1,7 @@
 ---
 title: Adobe Summit 2019 超级讲座 - 旅游和酒店业
 description: 观看从 Summit 2019 上的旅游和酒店业“超级讲座”精选的视频片段
-feature: 用例
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
@@ -9,10 +9,10 @@ team: Technical Marketing
 kt: 4388
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-exl-id: c1b8b9de-d47a-44b6-bc3b-d92716d673bb,be2cdcad-01e5-41c2-b91b-3feec9d17d50,be2cdcad-01e5-41c2-b91b-3feec9d17d50,c1b8b9de-d47a-44b6-bc3b-d92716d673bb
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '33'
+exl-id: c1b8b9de-d47a-44b6-bc3b-d92716d673bb,be2cdcad-01e5-41c2-b91b-3feec9d17d50
+source-git-commit: 3ca3d5f4c696bd0f22a2f36f1c9149b2b08c5c86
+workflow-type: tm+mt
+source-wordcount: '31'
 ht-degree: 100%
 
 ---
