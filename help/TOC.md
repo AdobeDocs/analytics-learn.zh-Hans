@@ -4,7 +4,7 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: 3fa5d24147c0a2074921144d725d21ea57a92336
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2197'
 ht-degree: 100%
 
