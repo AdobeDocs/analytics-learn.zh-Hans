@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
+source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
 workflow-type: tm+mt
-source-wordcount: '2209'
-ht-degree: 100%
+source-wordcount: '2208'
+ht-degree: 99%
 
 ---
 
@@ -160,8 +160,8 @@ ht-degree: 100%
       + [在自由格式表中使用维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=zh-Hans)
    + 日历和日期范围{#calendar-and-date-ranges}
       + [在 Analysis Workspace 中使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+      + [在项目中应用可重复使用的日期范围](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [在 Analysis Workspace 中使用日期范围和比较](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
-      + [在 Analysis Workspace 中使用日期范围和日历](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
       + [创建自定义日期范围](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace 中的日期比较](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [将按月和按年比较添加到趋势](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
