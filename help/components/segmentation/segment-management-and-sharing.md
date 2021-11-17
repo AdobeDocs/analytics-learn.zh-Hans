@@ -1,25 +1,21 @@
 ---
 title: 区段管理与共享Adobe Analytics
-description: 此视频向您展示如何在Adobe Analytics中共享和管理区段。
+description: 您可以创建出色的区段，但为什么要将它们保留给自己？ 在此视频中，您将学习一些有关共享和管理区段的提示，以便您和其他人能够享受优势。
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2305
 role: User
 level: Beginner
 exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: b827959936fa58696755b9fe2a62fbf71228e6de
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 15%
+source-wordcount: '99'
+ht-degree: 9%
 
 ---
 
-#  区段管理与共享Adobe Analytics {#segment-management-and-sharing-in-adobe-analytics}
+# [!UICONTROL 区段] 在Adobe Analytics中管理和共享 {#segment-management-and-sharing-in-adobe-analytics}
 
-此视频向您展示如何在Adobe Analytics中共享和管理[!UICONTROL 区段]。
+您可以创建出色的区段，但为什么要将它们保留给自己？ 在此视频中，您将学习一些有关共享和管理区段的提示，以便您和其他人能够享受优势。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12)
 
