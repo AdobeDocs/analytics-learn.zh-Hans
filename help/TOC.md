@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
-workflow-type: ht
-source-wordcount: '2225'
-ht-degree: 100%
+source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
+workflow-type: tm+mt
+source-wordcount: '2231'
+ht-degree: 99%
 
 ---
 
@@ -293,6 +293,7 @@ ht-degree: 100%
       + [对非重复维度计数分段](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [分段中的维度模型](components/segmentation/dimension-models-in-segmentation.md)
       + [分段中的“等于任何”运算符](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Analytics内部网络研讨会 — 客户细分策略](components/segmentation/customer-segmentation-strategies.md)
    + 计算量度 {#calculated-metrics}
       + [计算量度中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ 在计算量度中](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=zh-Hans)
