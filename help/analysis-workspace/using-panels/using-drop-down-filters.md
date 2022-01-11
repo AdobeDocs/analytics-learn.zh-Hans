@@ -6,11 +6,12 @@ topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23877.jpg
 kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 3%
@@ -27,4 +28,4 @@ ht-degree: 3%
 
 下拉列表也是整合项目和面板的有用方式。 例如，如果某个项目的多个版本提供了特定于国家/地区的报表，您现在可以将这些项目折叠为单个项目，并添加一个国家/地区下拉列表，用户可以在其中进行切换。
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)。
+有关更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)。
