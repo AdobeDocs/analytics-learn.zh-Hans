@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2248'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -227,8 +227,8 @@ ht-degree: 99%
       + [自定义日历设置](administration/manage-report-suites/customize-calendar-settings.md)
       + [配置付费搜索检测](administration/manage-report-suites/configure-paid-search-detection.md)
       + [自定义 Reports &amp; Analytics 中的菜单](administration/manage-report-suites/customize-menus.md)
-      + [使用处理规则处理传入数据](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
-      + [配置流量变量(prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [使用处理规则操作传入的数据](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [配置流量变量 (prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [配置列表变量](administration/manage-report-suites/configuring-list-variables.md)
       + [配置查找方法](administration/manage-report-suites/configure-finding-methods.md)
       + [设置内部 URL 过滤器](administration/manage-report-suites/set-internal-url-filters.md)
