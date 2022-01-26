@@ -1,8 +1,8 @@
 ---
 title: Adobe Analysis Workspace 可怎样变革您的业务
-landing-page-description: 通过 Analysis Workspace，您可以进行 Ad hoc Analysis、弹性分析、同类群组分析以及流失分析。
+landing-page-description: 通过 Analysis Workspace，您可以进行临时分析、弹性分析、同类群组分析以及流失分析。
 description: Analysis Workspace 是 Adobe Analytics 中一个新颖易用的界面。在 Analysis Workspace 中可进行 Ad hoc Analysis、灵活分析、同类群组分析和流失分析。此外，您还可与贵公司的任何人共享分析工作环境，通过其中的拖放功能，任何人都能轻松地分析数据并快速地获得见解。
-feature: Workspace 基础
+feature: Workspace Basics
 topics: null
 activity: understand
 doc-type: value video
@@ -13,7 +13,7 @@ level: Beginner
 exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '164'
+source-wordcount: '162'
 ht-degree: 100%
 
 ---
