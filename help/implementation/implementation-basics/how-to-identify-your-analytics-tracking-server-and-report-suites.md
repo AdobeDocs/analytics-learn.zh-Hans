@@ -1,7 +1,7 @@
 ---
 title: 如何识别 Analytics Tracking Server 和报告包
 description: 在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 Analytics“Tracking Server”或您将数据发送到其中的“报告包”一般都很有帮助，甚至必须这样做。此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
-feature: 实施基础
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '305'
+source-wordcount: '303'
 ht-degree: 100%
 
 ---
