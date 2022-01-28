@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
+source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
-source-wordcount: '2251'
+source-wordcount: '2254'
 ht-degree: 99%
 
 ---
@@ -230,11 +230,12 @@ ht-degree: 99%
       + [使用处理规则操作传入的数据](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [配置流量变量 (prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [配置流量分类](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [在 Admin Console 中配置变量](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [配置转化分类](administration/manage-report-suites/configure-conversion-classifications.md)
       + [配置列表变量](administration/manage-report-suites/configuring-list-variables.md)
       + [配置查找方法](administration/manage-report-suites/configure-finding-methods.md)
       + [设置内部 URL 过滤器](administration/manage-report-suites/set-internal-url-filters.md)
       + [配置邮编设置](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [在 Admin Console 中配置变量](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [启用时间戳可选设置](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [在 Analytics 中配置机器人规则](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + 数据治理和 GDPR{#data-governance-and-gdpr}
