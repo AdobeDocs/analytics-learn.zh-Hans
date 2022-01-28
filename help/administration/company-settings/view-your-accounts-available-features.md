@@ -1,24 +1,23 @@
 ---
-title: '查看您帐户的可用功能 '
-description: 查看Analytics中“管理员”部分下的功能访问级别设置允许您查看对您的公司有权访问的Adobe Analytics包和功能的访问级别。 这包括Activity Map、Advertising Analytics、警报中的异常检测等。
-feature: 公司设置
-topic: '管理 '
+title: 查看您的帐户的可用功能
+description: 查看Analytics中“管理员”部分下的功能访问级别设置允许您查看公司有权访问的Adobe Analytics包和功能的访问级别。 这包括Activity Map、Advertising Analytics、警报中的异常检测等。
+feature: Company Settings
+topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
 thumbnail: 335742.jpg
-kt: KT-8463
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+kt: 8463
+exl-id: a8397a6b-0cbf-4a7e-b3dc-9f347b01b1f3
+source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 3%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 
+# 查看您的帐户的可用功能
 
-# 查看您帐户的可用功能
-
-查看Analytics中“管理员”部分下的功能访问级别设置允许您查看对您的公司有权访问的Adobe Analytics包和功能的访问级别。 这包括：Activity Map、Advertising Analytics、警报中的异常检测等。
+查看Analytics中“管理员”部分下的功能访问级别设置允许您查看公司有权访问的Adobe Analytics包和功能的访问级别。 这包括：Activity Map、Advertising Analytics、警报中的异常检测等。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335742/?quality=12&learn=on)
