@@ -1,24 +1,24 @@
 ---
-title: 概要数字和概要变化可视化图表
-description: 此视频将演示如何在Analysis Workspace中添加和配置“概要数字”和“概要变化”可视化图表。 这些可视化图表为您提供了大量信息，以便您能够在每个人都可以看到的位置显示最重要的量度。
-feature: 可视化图表
+title: 汇总数字和汇总变更可视化图表
+description: 本视频说明如何在 Analysis Workspace 中添加和配置汇总数字和汇总变更可视化图表。 这些可视化图表为您提供了一个很大的数字，以便您能够在每个人都能看到的位置显示您最重要的量度。
+feature: Visualizations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 335564.jpg
 kt: 2136
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 7%
+exl-id: 3d60ecdc-4161-4b2d-9615-de410d89358e
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '111'
+ht-degree: 100%
 
 ---
 
+# 汇总数字和汇总变更可视化图表
 
-# 概要数字和概要变化可视化图表
-
-此视频将演示如何在Analysis Workspace中添加和配置“概要数字”和“概要变化”可视化图表。 这些可视化图表为您提供了大量信息，以便您能够在每个人都可以看到的位置显示最重要的量度。
+本视频说明如何在 Analysis Workspace 中添加和配置汇总数字和汇总变更可视化图表。 这些可视化图表为您提供了一个很大的数字，以便您能够在每个人都能看到的位置显示您最重要的量度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html)。
