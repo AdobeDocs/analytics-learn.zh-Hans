@@ -1,7 +1,7 @@
 ---
 title: 在 Analysis Workspace 中还原操作
-description: Adobe Analytics中的Analysis Workspace现在允许您“撤消”操作，例如将项目拖动到画布上或执行划分。 此视频演示了如何使用撤消来提高分析效率。
-feature: Workspace 基础知识
+description: Adobe Analytics 中的 Analysis Workspace 现在允许您“还原”操作，例如将项目拖到画布上或执行细分。 本视频说明如何使用还原操作来提高分析效率。
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 24775a26-ae0a-4917-bd73-a328cdf7c7ad
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 13%
+workflow-type: ht
+source-wordcount: '86'
+ht-degree: 100%
 
 ---
 
 # 在 Analysis Workspace 中还原操作 {#undoing-actions-in-analysis-workspace}
 
-Adobe Analytics中的Analysis Workspace现在允许您执行“[!UICONTROL 撤消]”操作，例如将项目拖动到画布上或执行划分。 此视频演示了如何使用[!UICONTROL undo]来提高分析效率。
+Adobe Analytics 中的 Analysis Workspace 现在允许您“[!UICONTROL 还原]”操作，例如将项目拖到画布上或执行细分。 本视频说明如何使用[!UICONTROL 还原操作]来提高分析效率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23983/?quality=12)
