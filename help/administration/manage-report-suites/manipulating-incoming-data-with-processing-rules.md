@@ -1,24 +1,24 @@
 ---
-title: 使用处理规则处理传入数据
-description: 能够处理进入报表包的数据，根据已流入的数据添加或更改数据会非常有用。 此视频概述了Adobe Analytics中的处理规则，并讨论了这些规则的用途。 它还包含一些提示、示例，甚至还有警告。
+title: 使用处理规则操作传入的数据
+description: 能够操作进入报表包的数据以根据流入的数据添加或更改数据非常有用。 本视频概述了 Adobe Analytics 中的处理规则，并讨论了其用途。 它还包含一些提示、示例甚至警告。
 feature: Processing Rules
 role: Admin
 level: Intermediate
 doc-type: feature video
 thumbnail: 339440.jpg
 kt: 9529
-source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
-workflow-type: tm+mt
+exl-id: 630864be-b60e-4ed0-b675-77bd20567ec1
+source-git-commit: b6ba0e9a2291e30cb0ac979bbac79714dc981fca
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
+# 使用处理规则操作传入的数据
 
-# 使用处理规则处理传入数据
-
-能够处理进入报表包的数据，根据已流入的数据添加或更改数据会非常有用。 此视频概述了Adobe Analytics中的处理规则，并讨论了这些规则的用途。 它还包含一些提示、示例，甚至还有警告。
+能够操作进入报表包的数据以根据流入的数据添加或更改数据非常有用。 本视频概述了 Adobe Analytics 中的处理规则，并讨论了其用途。 它还包含一些提示、示例甚至警告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=en)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=zh-Hans)。
