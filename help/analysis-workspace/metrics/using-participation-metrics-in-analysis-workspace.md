@@ -1,6 +1,6 @@
 ---
 title: 在 Analysis Workspace 中使用参与率量度
-description: 使用这一简单技巧，随时获取 Analysis Workspace 中的任意参与量度。
+description: 使用这一简单技巧，随时获取 Analysis Workspace 中的任意参与率量度。
 feature: Metrics
 topics: null
 activity: use
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 # 在 Analysis Workspace 中使用参与率量度
 
-使用这一简单技巧，随时获取 Analysis Workspace 中的任意参与量度。
+使用这一简单技巧，随时获取 Analysis Workspace 中的任意参与率量度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
-有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html)。
+有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html)。
