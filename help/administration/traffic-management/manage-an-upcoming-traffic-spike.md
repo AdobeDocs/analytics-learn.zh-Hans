@@ -1,24 +1,24 @@
 ---
 title: 管理即将到来的流量尖峰
-description: Adobe尝试与客户合作，以确保高流量事件成功。 计划流量峰值是合作流程的起点。 使用“计划尖峰”部分可以提醒 Adobe 注意临时峰值，以便我们能够分配适当的资源来处理此情况。
-feature: 数据配置和收集、流量管理
-topic: 协作
+description: Adobe 尝试与客户合作，确保高流量活动取得成功。计划好流量尖峰是合作过程的起点。您可以通过计划流量尖峰部分提醒 Adobe 出现临时流量尖峰，以便可以分配适合的资源来处理。
+feature: Data Configuration and Collection, Traffic Management
+topic: Collaboration
 role: User
 level: Intermediate, Experienced
 doc-type: feature video
 thumbnail: 335744.jpg
 kt: KT-8462
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 40%
+exl-id: fd28c2dc-4f4e-430a-a88b-42e44e3e6dda
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '104'
+ht-degree: 100%
 
 ---
 
-
 # 管理即将到来的流量尖峰
 
-Adobe尝试与客户合作，以确保高流量事件成功。 计划流量峰值是合作流程的起点。 使用“计划尖峰”部分可以提醒 Adobe 注意临时峰值，以便我们能够分配适当的资源来处理此情况。
+Adobe 尝试与客户合作，确保高流量活动取得成功。计划好流量尖峰是合作过程的起点。您可以通过计划流量尖峰部分提醒 Adobe 出现临时流量尖峰，以便可以分配适合的资源来处理。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)
