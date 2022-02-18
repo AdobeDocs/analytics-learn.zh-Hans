@@ -1,27 +1,27 @@
 ---
 title: 在 Admin Console 中配置变量
-seo-title: 在Adobe Analytics的Admin Console中配置变量
-description: 在定义要在Analytics实施中使用的变量和事件后，您需要进入Admin Console并对其进行配置，以便报表/维度/量度都具有正确的名称和行为。 此视频向您展示如何执行此操作。
-seo-description: 在定义要在Analytics实施中使用的变量和事件后，您需要进入Admin Console并对其进行配置，以便报表/维度/量度都具有正确的名称和行为。 此视频向您展示如何执行此操作。 Adobe Analytics
-feature: 报表包设置
+seo-title: Configuring Variables in the Admin Console in Adobe Analytics
+description: 定义要在 Analytics 实施中使用的变量和事件后，您需要转至 Admin Console 来配置这些变量和事件，以使报表/维度/量度都具有正确的名称和行为。 本视频向您说明在何处以及如何做到这一点。
+seo-description: After you define the variables and events that you are going to use in your Analytics implementation, you will need to go in and configure them in the Admin Console, so that the reports/dimensions/metrics all have the right names and behavior. This video shows you where and how to do just that. Adobe Analytics
+feature: Report Suite Settings
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3582
-topic: 管理
+topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 6%
+workflow-type: ht
+source-wordcount: '115'
+ht-degree: 100%
 
 ---
 
-# 在[!DNL Admin Console]中配置变量
+# 在 [!DNL Admin Console] 中配置变量
 
-在定义要在[!DNL Analytics]实施中使用的变量和事件后，您需要进入并在[!DNL Admin Console]中配置它们，以便报表/维度/量度都具有正确的名称和行为。 此视频向您展示如何执行此操作。
+定义要在 [!DNL Analytics] 实施中使用的变量和事件后，您需要转至 [!DNL Admin Console] 来配置这些变量和事件，以使报表/维度/量度都具有正确的名称和行为。 本视频向您说明在何处以及如何做到这一点。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12)
