@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace中的维恩图可视化
-description: 在Analysis Workspace中，您可以使用维恩图可视化图表以可视方式显示区段的重叠和交集。 很容易在几秒钟内绘制出令人惊叹的、有洞察力的维恩图。 此视频将向您展示如何操作。
+title: Analysis Workspace 中的维恩图可视化图表
+description: 您可以使用维恩图可视化图表在 Analysis Workspace 中直观地显示区段的重叠和交集。 只需几秒钟，即可轻松创建令人惊叹且富有洞察力的维恩图。 本视频向您说明如何做到这一点。
 feature: Visualizations
 doc-type: feature video
 kt: 2118
@@ -9,16 +9,16 @@ level: Beginner
 thumbnail: 335798.jpg
 exl-id: 655034a6-42b9-4437-961b-02ad3da57d83
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Analysis Workspace中的维恩图可视化
+# Analysis Workspace 中的维恩图可视化图表
 
-在Analysis Workspace中，您可以使用维恩图可视化图表以可视方式显示区段的重叠和交集。 很容易在几秒钟内绘制出令人惊叹的、有洞察力的维恩图。 此视频将向您展示如何操作。
+您可以使用维恩图可视化图表在 Analysis Workspace 中直观地显示区段的重叠和交集。 只需几秒钟，即可轻松创建令人惊叹且富有洞察力的维恩图。 本视频向您说明如何做到这一点。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12)
 
-有关此功能的更多信息，请转到[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=en)。
+有关此功能的更多信息，请转至[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hans)。
