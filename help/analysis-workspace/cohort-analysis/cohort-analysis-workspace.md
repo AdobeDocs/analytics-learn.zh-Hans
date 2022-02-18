@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace 中的同类群组分析
-description: 如何在Analysis Workspace中构建同类群组分析表。
+description: 如何在 Analysis Workspace 中构建同类群组分析表。
 feature: Visualizations
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User
 level: Intermediate
 exl-id: eec26e68-eed9-47b5-8ebf-26a1f6c28d40
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Analysis Workspace 中的同类群组分析] {#cohort-analysis-in-analysis-workspace}
+# Analysis Workspace 中的[!UICONTROL 同类群组]分析 {#cohort-analysis-in-analysis-workspace}
 
-如何在Analysis Workspace中构建[!UICONTROL 同类群组]分析表。
+如何在 Analysis Workspace 中构建[!UICONTROL 同类群组]分析表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12)
 
-有关此功能的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en)。
+有关此功能的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hans)。
