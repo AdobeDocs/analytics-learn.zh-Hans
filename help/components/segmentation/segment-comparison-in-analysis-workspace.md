@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace 中的区段比较
-description: 了解营销区段之间的真正差异始终是一个既困难又耗时的过程。 区段IQ是Adobe Analytics中Analysis Workspace的一部分，它通过检查所有维度和量度中的任意两个Analytics区段来自动发现它们在统计上最显着的差异，从而简化了此分析。
+description: 了解营销区段之间的真正差异一直是一个困难且耗时的过程。 区段 IQ（Adobe Analytics 中的 Analysis Workspace 的一部分）通过检查所有维度和量度上的任意两个 Analytics 区段来自动发现它们在统计上最显著的差异，从而简化此分析。
 feature: Segmentation
 topics: null
 activity: use
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: 35ac587e-33af-4bd3-8d68-7683d09a54ee
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Analysis Workspace 中的区段比较] {#segment-comparison-in-analysis-workspace}
+# Analysis Workspace 中的[!UICONTROL 区段]比较 {#segment-comparison-in-analysis-workspace}
 
-了解营销区段之间的真正差异始终是一个既困难又耗时的过程。 [!DNL Segment IQ]是Adobe AnalyticsAnalysis Workspace的一部分，通过检查任意两个 [!DNL Analytics] [!UICONTROL 区段] 所有 [!UICONTROL 维度] 和 [!UICONTROL 量度] 自动发现其最具统计意义的差异。
+了解营销区段之间的真正差异一直是一个困难且耗时的过程。 [!DNL Segment IQ]（Adobe Analytics 中的 Analysis Workspace 的一部分）通过检查所有[!UICONTROL 维度]和[!UICONTROL 量度]上的任意两个 [!DNL Analytics] [!UICONTROL 区段]来自动发现它们在统计上最显著的差异，从而简化此分析。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12)
 
-有关此功能的更多信息，请参阅 [文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=en).
+有关此功能的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=zh-Hans)。
