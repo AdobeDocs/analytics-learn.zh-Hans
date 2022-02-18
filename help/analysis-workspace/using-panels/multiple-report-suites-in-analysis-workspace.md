@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace 中的多个报告包
-description: 通过在面板级别选择报表包，可以在一个工作区项目中分析多个报表包。 这样，您就可以跨不同的数据集进行并排面板分析。
+title: Analysis Workspace 中的多个报表包
+description: 通过在面板级别选择报表包，可以在一个 Workspace 项目中分析多个报表包。 这样，您就可以跨不同的数据集进行并排面板分析。
 feature: Panels
 topics: null
 activity: use
@@ -11,22 +11,22 @@ role: User
 level: Beginner
 exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
-# Analysis Workspace中的多个[!UICONTROL 报表包]
+# Analysis Workspace 中的多个[!UICONTROL 报表包]
 
-通过在面板级别选择[!UICONTROL 报表包]，可以在单个[!DNL Workspace]项目中分析多个[!UICONTROL 报表包。 ]这样，您就可以跨不同的数据集进行并排面板分析。
+通过在面板级别选择[!UICONTROL 报表包]，可以在一个 [!DNL Workspace] 项目中分析多个[!UICONTROL 报表包]。 这样，您就可以跨不同的数据集进行并排面板分析。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12)
 
 >[!TIP]
 >
-> 要同时将[!UICONTROL 报表包]应用于所有面板，请右键单击任意面板，然后选择“[!UICONTROL 将报表包应用于所有面板]”。
+> 要将一个[!UICONTROL 报表包]一次性应用于所有面板，请右键单击任意面板并选择[!UICONTROL 将报表包应用于所有面板]。
 
-多个[!UICONTROL 报表包]中的数据不能合并到表、[!UICONTROL 区段]或[!UICONTROL 计算量度]（总和、划分等）中。 整体数据方法的最佳实践仍然是将所有点击发送到“全局包”。
+无法将多个[!UICONTROL 报表包]中的数据并入表、[!UICONTROL 区段]或[!UICONTROL 计算量度]（相加、相除等）中。 全面数据方法的最佳实践仍是将所有点击发送到“全局包”。
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)。
