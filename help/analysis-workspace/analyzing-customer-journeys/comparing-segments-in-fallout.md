@@ -1,6 +1,6 @@
 ---
-title: 在Analysis Workspace中比较流失中的区段
-description: 此视频演示了如何在Analysis Workspace中比较各个区段的关键工作流。
+title: 在 Analysis Workspace 中比较流失中的区段
+description: 本视频说明如何在 Analysis Workspace 中比较各个区段的关键工作流。
 feature: Visualizations
 topics: null
 activity: use
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-# 在Analysis Workspace中比较[!UICONTROL 流失]中的区段 {#comparing-segments-in-fallout-in-analysis-workspace}
+# 在 Analysis Workspace 中比较[!UICONTROL 流失]中的区段 {#comparing-segments-in-fallout-in-analysis-workspace}
 
-此视频演示了如何在Analysis Workspace中比较各个区段的关键工作流。
+本视频说明如何在 Analysis Workspace 中比较各个区段的关键工作流。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
 
-有关此功能的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=en)。
+有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=zh-Hans)。
