@@ -1,9 +1,9 @@
 ---
-title: 在 Analysis Workspace 中选择报告包
-seo-title: 在 Analysis Workspace 中选择报告包 - Adobe Analytics
-description: 此视频介绍报告包选择器。
-seo-description: 此视频介绍报告包选择器。- Adobe Analytics
-feature: Workspace 基础
+title: 在 Analysis Workspace 中选择报表包
+seo-title: Selecting a Report Suite in Analysis Workspace - Adobe Analytics
+description: 本视频介绍报表包选择器。
+seo-description: This video takes you through the report suite selector. - Adobe Analytics
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -15,7 +15,7 @@ level: Beginner
 exl-id: a46c4392-739f-4366-b5ea-504519ce1a0f
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '54'
+source-wordcount: '32'
 ht-degree: 100%
 
 ---
