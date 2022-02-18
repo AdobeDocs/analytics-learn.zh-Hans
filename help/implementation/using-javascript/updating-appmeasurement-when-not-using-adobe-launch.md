@@ -1,7 +1,7 @@
 ---
 title: 在不使用 Experience Platform Launch 时更新 AppMeasurement
-description: 此视频向您展示了在您未使用Experience Platform Launch时如何更新appMeasurement代码。 这包括在何处获取代码以及在何处更新代码。
-feature: Appmeasurement实施
+description: 本视频说明如何在不使用 Experience Platform Launch 时更新 appMeasurement 代码。 这包括从何处获取代码以及从何处更新代码。
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,18 +11,18 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 5%
+workflow-type: ht
+source-wordcount: '138'
+ht-degree: 100%
 
 ---
 
-# 不使用[!DNL Experience Platform Launch]时更新AppMeasurement {#updating-appmeasurement-when-not-using-adobe-launch}
+# 在不使用 [!DNL Experience Platform Launch] 时更新 AppMeasurement {#updating-appmeasurement-when-not-using-adobe-launch}
 
-此视频向您展示了当您未使用Adobe[!DNL Experience Platform Launch]时，如何更新appMeasurement代码。 这包括在何处获取代码以及在何处更新代码。
+本视频说明如何在不使用 Adobe [!DNL Experience Platform Launch] 时更新 appMeasurement 代码。 这包括从何处获取代码以及从何处更新代码。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12)
 
 >[!NOTE]
 >
->如果您使用非Adobe标签管理解决方案，则必须像没有使用标签管理解决方案一样处理[!DNL AppMeasurement]更新。 这意味着，无论您在何处拥有AppMeasurement代码，都可以在此处执行更新（检索新代码并替换文件或TMS中的旧代码）。 如果您使用[!DNL Experience Platform Launch]，则更新会快速而简单，无需复制或粘贴代码。
+>如果您使用非 Adobe 标记管理解决方案，则必须像使用无标记管理解决方案那样处理 [!DNL AppMeasurement] 更新。 这意味着，无论您的 AppMeasurement 代码位于何处，都可以执行更新（在文件或 TMS 中检索新代码并替换旧代码）。 如果您使用 [!DNL Experience Platform Launch]，则可以快速轻松地更新，而无需复制或粘贴代码。
