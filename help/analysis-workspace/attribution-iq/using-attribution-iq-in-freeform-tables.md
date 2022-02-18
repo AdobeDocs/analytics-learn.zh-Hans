@@ -1,6 +1,6 @@
 ---
 title: 在自由格式表中使用 Attribution IQ
-description: Attribution IQ允许您即时将归因模型更改为自由格式列上十个基于规则的模型中的任意一个。
+description: Attribution IQ 允许您在自由格式列上动态地将归因模型更改为十个基于规则的模型中的任一模型。
 feature: Attribution
 topics: null
 activity: use
@@ -12,21 +12,21 @@ role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
 source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# 在[!DNL Freeform Tables]中使用[!DNL Attribution IQ] {#using-attribution-iq-in-freeform-tables}
+# 在[!DNL Freeform Tables]中使用 [!DNL Attribution IQ] {#using-attribution-iq-in-freeform-tables}
 
-[!DNL Attribution IQ] 允许您在自由格式  列中动态更改基于规则的10  个模型中的任意一个模型。
+[!DNL Attribution IQ] 允许您在[!UICONTROL 自由格式]列上动态地将归因[!UICONTROL 模型]更改为十个基于规则的模型中的任一模型。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12)
 
-每个归因[!UICONTROL model]完全支持分段和划分，并允许您对任何维度（甚至[!DNL props]！）进行无限次的比较。
+每个归因[!UICONTROL 模型]完全支持分段和细分，并且允许您在任何维度上不受限制地执行比较（甚至 [!DNL props]！）。
 
-[!DNL Attribution IQ] 仅供Analysis Workspace使用，因为客户具有以下包：
+[!DNL Attribution IQ] 专为 Analysis Workspace 提供，适用于具有以下包的客户：
 
 * [!DNL Adobe Analytics Foundation]
 * [!DNL Adobe Analytics Select]
