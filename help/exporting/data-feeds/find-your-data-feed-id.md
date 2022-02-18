@@ -1,24 +1,24 @@
 ---
-title: 查找数据馈送ID
-description: '有时，在数据馈送提交失败或请求重新发送数据馈送文件时，您可能需要联系Adobe。 如果客户提供数据馈送ID，则客户支持团队便于处理此类请求。 '
-feature: 管理工具、数据馈送、数据配置和收集
-topic: 管理
+title: 查找您的数据馈送 ID
+description: 有时，如果数据馈送交付失败或请求重新发送数据馈送文件，则您可能需要联系 Adobe。 如果客户提供了数据馈送 ID，客户支持团队便能轻松处理此类请求。
+feature: Admin Tools, Data Feeds, Data Configuration and Collection
+topic: Administration
 role: User, Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 335747.jpg
 kt: KT-8464
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '104'
+ht-degree: 100%
 
 ---
 
+# 查找您的数据馈送 ID
 
-# 查找数据馈送ID
-
-有时，在数据馈送提交失败或请求重新发送数据馈送文件时，您可能需要联系Adobe。 如果客户提供数据馈送ID，则客户支持团队便于处理此类请求。
+有时，如果数据馈送交付失败或请求重新发送数据馈送文件，则您可能需要联系 Adobe。 如果客户提供了数据馈送 ID，客户支持团队便能轻松处理此类请求。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
