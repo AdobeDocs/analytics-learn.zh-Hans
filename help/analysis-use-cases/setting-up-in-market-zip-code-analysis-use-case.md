@@ -1,7 +1,7 @@
 ---
-title: 设置市场邮政编码分析 — 用例
+title: 设置市场内邮政编码分析 — 用例
 seo-title: Setting Up In-Market Zip Code Analysis - a Use Case
-description: 在此用例中，我们将配置系统以引入邮政编码，将其分类为市场内或市场外代码，然后在Analysis Workspace中使用此数据，以便我们能够了解地理定位营销活动的有效性。
+description: 在此用例中，我们将配置系统以引入邮政编码，将其分类为市场内或市场外，然后在 Analysis Workspace 中使用这些数据，以便我们能够查看地理定位营销活动的有效性。
 seo-description: In this use case, we will configure the system to bring in zip codes, classify them as in-market or out-of-market, and then use this data in Analysis Workspace so that we can see the effectiveness of our geo-targeted marketing campaigns.
 feature: Use Cases
 topics: null
@@ -14,22 +14,22 @@ role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# 设置市场邮政编码分析 — 用例 {#setting-up-in-market-zip-code-analysis-a-use-case}
+# 设置市场内邮政编码分析 — 用例 {#setting-up-in-market-zip-code-analysis-a-use-case}
 
-在此用例中，我们将配置系统以引入邮政编码，将其分类为市场内或市场外代码，然后在Analysis Workspace中使用此数据，以便我们能够了解地理定位营销活动的有效性。
+在此用例中，我们将配置系统以引入邮政编码，将其分类为市场内或市场外，然后在 Analysis Workspace 中使用这些数据，以便我们能够查看地理定位营销活动的有效性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
 
 有关此用例各个方面的其他信息，请参阅以下文档主题：
 
-[邮政编码](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
+[邮政编码](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=zh-Hans)
 
-[[!UICONTROL 分类]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en)
+[[!UICONTROL 分类]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=zh-Hans)
 
 [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=zh-Hans)
