@@ -1,6 +1,6 @@
 ---
-title: 增强了Analysis Workspace中的流失可视化图表
-description: 此视频显示客户强烈请求的流失可视化图表更新，包括直接和最终步骤、重命名接触点、比较无限区段以及显示接触点转化百分比随时间变化的趋势。
+title: Analysis Workspace 中的流失可视化图表改进
+description: 本视频说明客户强烈要求的流失可视化图表更新，包括直接步骤与最终步骤、重命名接触点、比较无限区段以及确定随时间变化的接触点转化百分比趋势。
 feature: Visualizations
 topics: null
 activity: use
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# 对Analysis Workspace中[!DNL Fallout Visualization]的增强 {#enhancements-to-fallout-visualization-in-analysis-workspace}
+# Analysis Workspace 中的[!DNL Fallout Visualization]改进 {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
-此视频显示客户强烈请求的[!DNL Fallout Visualization]更新，包括直接和最终步骤、重命名接触点、比较无限区段以及显示接触点转化百分比随时间变化的趋势。
+本视频说明客户强烈要求的[!DNL Fallout Visualization]更新，包括直接步骤与最终步骤、重命名接触点、比较无限区段以及确定随时间变化的接触点转化百分比趋势。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 
-有关此功能的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en)。
+有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hans)。
