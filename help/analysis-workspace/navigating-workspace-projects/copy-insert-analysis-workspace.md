@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace 中的复制和插入
-description: 通过复制和插入，您可以将可视化图表从一个面板或项目复制到另一个面板或项目，还可以跨项目复制整个面板。
-feature: 面板
+description: “复制 + 插入”可让您将可视化图表从一个面板或项目复制到另一个面板或项目，以及跨项目复制整个面板。
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,16 +11,16 @@ role: User
 level: Beginner
 exl-id: 972d49a3-af5e-4f57-bb50-90b6b16bc7d8
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 17%
+workflow-type: ht
+source-wordcount: '75'
+ht-degree: 100%
 
 ---
 
 # Analysis Workspace 中的复制和插入 {#copy-and-insert-in-analysis-workspace}
 
-通过复制和插入，您可以将可视化图表从一个面板或项目复制到另一个面板或项目，还可以跨项目复制整个面板。
+“复制 + 插入”可让您将可视化图表从一个面板或项目复制到另一个面板或项目，以及跨项目复制整个面板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
 
-使用此功能可将分析整理到逻辑数据文章和项目中，或从模板中复制以抢先一步！
+使用此功能将您的分析整理成逻辑数据故事和项目，或者通过从模板复制来开一个好头！
