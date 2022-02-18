@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics中的分类概述
-description: 分类是向产品、营销策划、页面、客户等添加元数据（描述性属性）的一种有效方法。 这些属性可让您对类似的元素进行分组并划分数据，以便深入了解哪些内容对您有用，哪些内容对您无用，从而帮助您更好地了解营销和体验工作。
+title: Adobe Analytics 中的分类概述
+description: 分类是一种将元数据（描述性属性）添加到产品、营销活动、页面、客户等的强大方法。 这些属性可以帮助您更好地了解您的营销和体验工作，方法是允许您对类似元素进行分组，并细分数据以深入了解哪些内容适合您，哪些内容不适合您。
 feature: Classifications
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User
 level: Beginner
 exl-id: bca1c26b-d3dc-4f70-a406-0fe0bdf8d0a8
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL 分类]在Adobe Analytics中的概述 {#overview-of-classifications-in-adobe-analytics}
+# Adobe Analytics 中的[!UICONTROL 分类]概述 {#overview-of-classifications-in-adobe-analytics}
 
- 分类是向产品、营销策划、页面、客户等添加元数据（描述性属性）的一种有效方法。这些属性可让您对类似的元素进行分组并划分数据，以便深入了解哪些内容对您有用，哪些内容对您无用，从而帮助您更好地了解营销和体验工作。
+[!UICONTROL 分类]是一种将元数据（描述性属性）添加到产品、营销活动、页面、客户等的强大方法。 这些属性可以帮助您更好地了解您的营销和体验工作，方法是允许您对类似元素进行分组，并细分数据以深入了解哪些内容适合您，哪些内容不适合您。
 
 >[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12)
 
-有关此功能的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en)。
+有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=zh-Hans)。
