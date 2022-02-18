@@ -1,24 +1,24 @@
 ---
-title: 配置流量变量(prop)
-description: 此视频介绍AnalyticsAdmin Console中流量变量（通常称为“prop”）的配置。
+title: 配置流量变量 (props)
+description: 本视频介绍 Analytics Admin Console 中流量变量的配置（通常称为“props”）。
 feature: Variables
 role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 339441.jpg
 kt: 9528
-source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
-workflow-type: tm+mt
+exl-id: 39ac3d0e-7f5c-44c3-946d-57e2a395a9f6
+source-git-commit: b6ba0e9a2291e30cb0ac979bbac79714dc981fca
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
+# 配置流量变量 (props)
 
-# 配置流量变量(prop)
-
-此视频介绍AnalyticsAdmin Console中流量变量（通常称为“prop”）的配置。
+本视频介绍 Analytics Admin Console 中流量变量的配置（通常称为“props”）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339441/?quality=12&learn=on)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=en)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=zh-Hans)。
