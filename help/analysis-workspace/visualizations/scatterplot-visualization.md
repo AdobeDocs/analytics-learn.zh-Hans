@@ -1,24 +1,24 @@
 ---
 title: 散点图可视化图表
-description: 通过此可视化图表，您可以查看维度的多个量度之间的关系，以X/Y图形显示项目。 发现异常值和洞察信息，帮助您做出业务决策。
-feature: 可视化图表
+description: 利用此可视化图表，您可以查看维度的多个指标之间的关系，并在 X/Y 图上绘制项目。 发现离群值和见解以帮助您制定业务决策。
+feature: Visualizations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334459.jpg
 kt: 8188
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 9%
+exl-id: 6c9aa05b-ada3-489c-832f-bf9438dd3572
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '87'
+ht-degree: 100%
 
 ---
 
-
 # 散点图可视化图表
 
-通过此可视化图表，您可以查看维度的多个量度之间的关系，以X/Y图形显示项目。 发现异常值和洞察信息，帮助您做出业务决策。
+利用此可视化图表，您可以查看维度的多个指标之间的关系，并在 X/Y 图上绘制项目。 发现离群值和见解以帮助您制定业务决策。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=en)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=zh-Hans)。
