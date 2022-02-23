@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
+source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
 workflow-type: tm+mt
-source-wordcount: '2254'
-ht-degree: 100%
+source-wordcount: '2268'
+ht-degree: 99%
 
 ---
 
@@ -214,6 +214,9 @@ ht-degree: 100%
 + Reports and Analytics {#reports-and-analytics}
    + [Reports and Analytics 中的实时报告](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
+   + 关键管理技能 {#key-admin-skills}
+      + [建立一个有能力的社区](administration/key-admin-skills/empowered-community.md)
+      + [简化并减少培训用户的时间](administration/key-admin-skills/simplify-training-users.md)
    + 公司设置 {#company-settings}
       + [强制执行电子邮件域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [查看您的帐户的可用功能](administration/company-settings/view-your-accounts-available-features.md)
