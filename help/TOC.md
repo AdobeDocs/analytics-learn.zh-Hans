@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
+source-git-commit: 55ab1f97bcc06c497c7f367a3d56bdd21763be45
 workflow-type: tm+mt
-source-wordcount: '2268'
+source-wordcount: '2271'
 ht-degree: 99%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 99%
       + [登录到 Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Analytics UI 简介](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [了解和创建报告包](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [了解基本访客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=zh-Hans)
+      + [了解基本访客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
       + [流量变量简介 (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=zh-Hans)
       + [转化变量简介 (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=zh-Hans)
       + [转化事件简介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=zh-Hans)
@@ -64,7 +64,7 @@ ht-degree: 99%
       + [Analysis Workspace 中的组件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [使用组件管理器](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [在 Analysis Workspace 中选择报告包](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
-      + [查看 Analysis Workspace 性能指标](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
+      + [查看 Analysis Workspace 性能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 提示和技巧{#tips-and-tricks}
       + [Analysis Workspace 的 7 个提示和技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [在 Analysis Workspace 中提高生产力的提示](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -215,7 +215,7 @@ ht-degree: 99%
    + [Reports and Analytics 中的实时报告](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
    + 关键管理技能 {#key-admin-skills}
-      + [建立一个有能力的社区](administration/key-admin-skills/empowered-community.md)
+      + [创建赋权社区](administration/key-admin-skills/empowered-community.md)
       + [简化并减少培训用户的时间](administration/key-admin-skills/simplify-training-users.md)
       + [让合适的人员加入您的 Analytics 团队](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + 公司设置 {#company-settings}
@@ -234,6 +234,7 @@ ht-degree: 99%
       + [使用处理规则操作传入的数据](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [配置流量变量 (prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [配置流量分类](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [配置层级变量](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [在 Admin Console 中配置变量](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [配置转化分类](administration/manage-report-suites/configure-conversion-classifications.md)
       + [配置列表变量](administration/manage-report-suites/configuring-list-variables.md)
@@ -317,7 +318,7 @@ ht-degree: 99%
       + [分类概述](components/classifications/overview-of-classifications.md)
       + [使用分类规则生成器](components/classifications/using-the-classification-rule-builder.md)
    + 虚拟报告包{#virtual-report-suites}
-      + [虚拟报表包](components/virtual-report-suites/virtual-report-suites.md)
+      + [虚拟报告包](components/virtual-report-suites/virtual-report-suites.md)
       + [虚拟报告包中的组件简化](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [虚拟报告包中的上下文感知会话](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
       + [在虚拟报告包中对任何事件开始新访问](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
