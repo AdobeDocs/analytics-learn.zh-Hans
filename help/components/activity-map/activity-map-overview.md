@@ -2,16 +2,13 @@
 title: Adobe Analytics 中的 Activity Map 概述
 description: Activity Map 是一种可供 Adobe Analytics 用户使用的工具，有助于您直接在网站上可视化用户活动数据。 直接查看页面链接的点击次数（或其他量度）。
 feature: Activity Map
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
+thumbnail: 25451.jpg
 kt: 2349
 role: User
 level: Beginner
 exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: e04bfe38ba95485180e1f5e2587d6e26518c339b
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 
