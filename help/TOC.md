@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: cbdee5b0a5968edfdc19cbcfaaebe63af270bd34
+source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
 workflow-type: tm+mt
-source-wordcount: '2288'
-ht-degree: 98%
+source-wordcount: '2292'
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 98%
       + [Summit 2019 超级讲座 — 旅游和酒店业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 超级讲座 — 零售业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 超级讲座 — 高科技行业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + 从其他平台过渡 {#transitioning-from-other-platforms}
-      + [从Google Analytics过渡](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
+   + 从第三方平台转换 {#transitioning-from-other-platforms}
+      + [从 Google Analytics 转换](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 基础{#analytics-basics}
       + [Reports and Analytics 中的“在 Workspace 中尝试”按钮](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [了解 Analytics 周期](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
@@ -78,6 +78,7 @@ ht-degree: 98%
       + [创建目录](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [用右键单击提高 Workspace 效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [键盘快捷键](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
+      + [Analysis Workspace中的批注](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [菜单栏](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [项目管理](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
       + [在 Analysis Workspace 中还原操作](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
@@ -216,9 +217,9 @@ ht-degree: 98%
 + Reports and Analytics {#reports-and-analytics}
    + [Reports and Analytics 中的实时报告](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
-   + 关键管理技能 {#key-admin-skills}
+   + 关键管理技巧 {#key-admin-skills}
       + [创建赋权社区](administration/key-admin-skills/empowered-community.md)
-      + [简化并减少培训用户的时间](administration/key-admin-skills/simplify-training-users.md)
+      + [简化培训环节并缩短用户的培训时间](administration/key-admin-skills/simplify-training-users.md)
       + [让合适的人员加入您的 Analytics 团队](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + 公司设置 {#company-settings}
       + [强制执行电子邮件域限制](administration/company-settings/enforce-email-domain-restrictions.md)
@@ -232,7 +233,7 @@ ht-degree: 98%
       + [如何配置常规帐户设置](administration/manage-report-suites/configuring-general-account-settings.md)
       + [自定义日历设置](administration/manage-report-suites/customize-calendar-settings.md)
       + [配置付费搜索检测](administration/manage-report-suites/configure-paid-search-detection.md)
-      + [设置营销渠道](administration/manage-report-suites/set-up-marketing-channels.md)
+      + [配置营销渠道](administration/manage-report-suites/set-up-marketing-channels.md)
       + [创建营销渠道处理规则](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [自定义 Reports &amp; Analytics 中的菜单](administration/manage-report-suites/customize-menus.md)
       + [使用处理规则操作传入的数据](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
@@ -307,7 +308,7 @@ ht-degree: 98%
       + [对非重复维度计数分段](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [分段中的维度模型](components/segmentation/dimension-models-in-segmentation.md)
       + [分段中的“等于任何”运算符](components/segmentation/equals-any-of-operator-in-segmentation.md)
-      + [分析内部网络研讨会 - 客户细分策略](components/segmentation/customer-segmentation-strategies.md)
+      + [分析内部网络研讨会 - 客户分段策略](components/segmentation/customer-segmentation-strategies.md)
    + 计算量度 {#calculated-metrics}
       + [计算量度中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [计算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=zh-Hans)
@@ -372,7 +373,7 @@ ht-degree: 98%
       + [用 Adobe Analytics 创建 Advertising Cloud 警报](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
       + [用 Advertising Cloud 数据创建 Analytics 自定义量度](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [创建 Advertising Cloud 网站进入报告](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
-      + [创建 Advertising Cloud 仪表板](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
+      + [创建 Advertising Cloud 功能板](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + 临时分析{#ad-hoc-analytics}
       + [使用项目转换器将项目从 Ad hoc Analysis 移至 Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
