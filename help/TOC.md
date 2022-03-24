@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
+source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
 workflow-type: tm+mt
-source-wordcount: '2292'
+source-wordcount: '2286'
 ht-degree: 99%
 
 ---
@@ -184,7 +184,7 @@ ht-degree: 99%
       + [Analysis Workspace 中的简化和共享](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [项目的直接链接](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [以 CSV 格式下载 50,000 项](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [从 Analysis Workspace 导出到 CSV](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html?lang=zh-Hans)
+      + [导出到CSV并从Analysis WorkspacePDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [共享嵌入的组件](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [计划项目和可下载的项目](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace 中的项目共享](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
