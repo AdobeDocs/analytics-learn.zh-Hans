@@ -9,9 +9,9 @@ thumbnail: 34749.jpg
 kt: 9830
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3690'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -118,7 +118,7 @@ Adobe Analytics 并未打算为所有用户创建在登录时看到的预建报�
 
 对于上文，您不希望查看按日期的细分？只需要将其他维度或区段拖放到其中即可以不同方式查看数据... 例如，可以使用设备类型的区段，然后对于手机/平板电脑用户，按操作系统添加细分。
 
-![图像3](assets/ga-to-aa_4.png)
+![image3](assets/ga-to-aa_4.png)
 
 利用工作区，您可以放飞创意，不再受限于“标准”细分。您可以根据需要构建可视化，以深入分析所要运行的比较。
 
@@ -130,7 +130,7 @@ Adobe Analytics 并未打算为所有用户创建在登录时看到的预建报�
 
 此讨论仅用于介绍本工具，还有其他更全面的指南指导您如何入门，当您开始使用时，您将能够制作全面的报表，例如：
 
-![图像3](assets/ga-to-aa_5.png)
+![image3](assets/ga-to-aa_5.png)
 
 还需要注意的一点是，工作区不会自动保存，因此很容易制作一次性的临时报表，而不会造成报表存储库的阻塞。
 
@@ -160,7 +160,7 @@ Google 和 Adobe 均有一些可导航的报表，它们是基于某个维度的
 
 Adobe Analytics 也有“报表”部分，但总体而言处于淘汰的阶段中，将由其 Analysis Workspace 取代（实际上，此界面已经公布了生命结束周期，因为工作区[第 2.1.2.1 部分]是更加强大的工具），利用后者可以更轻松地构建和修改大部分这些表。Adobe 的这些部分划分得更加细致，这可能会让人望而生畏：
 
-![图像3](assets/ga-to-aa_6.png)
+![image3](assets/ga-to-aa_6.png)
 
 由于以上介绍的大部分功能可以通过工作区访问，我将简单概述这些部分，以及它们与 Google Analytics 的关系，并在这里突出显示仍然相关的报表。
 
@@ -196,7 +196,7 @@ Adobe Analytics 也有“报表”部分，但总体而言处于淘汰的阶段�
 
 Google Analytics 将这些报表拆分为以下部分：“实时”、“受众”、“客户获取”、“行为”和“对话”（在 GA3 中），并分为“生命周期”（包括以下子部分：“客户获取”、“参与”、“盈利”和“维系”）以及“用户”（包括以下子部分：“人口统计”和“技术”）。
 
-![图像3](assets/ga-to-aa_7.png)
+![image3](assets/ga-to-aa_7.png)
 
 您可以对这些可视化进行细微的调整，添加辅助维度细分、更改可视化、在数据上创建过滤等。您可以将定制设置另存为已保存报表。
 
@@ -268,19 +268,19 @@ Adobe 的工作区（第 2.1.2.1 部分）实际上使用 API 来构建所有报
 
 在本指南之外，还有许多资源可帮助您改进策略：
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home)  — 包含教程、视频、文档和社区论坛
-* [Adobe用户组](https://analytics-augs.adobe.com/)  — 社区运行活动的中心，可帮助用户彼此连接并改进其实施 — 由于这些活动以特定时区为基础，因此最好也检查其他区域正在运行的活动。
-* [Adobe Analytics用户组YouTube渠道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA)  — 无法进行Adobe Analytics用户组会话？ 重新观看全球以往的用户组会话，以进一步了解您的同龄人如何使用该工具。
-* [测量聊天Slack渠道](https://www.measure.chat/)  — 与全球Adobe Analytics用户建立联系，分享行业经验，向同行提问，并加入以衡量为重点的兴趣小组。
-* 等等!
+* [Adobe Experience League](https://experienceleague.adobe.com/#home) – 包含教程、视频、文档和社区论坛
+* [Adobe 用户组](https://analytics-augs.adobe.com/) – 一个社区开展活动的中心，帮助用户相互联系和改进其实施 – 因为这些活动基于特定的时区，所以最好也查看一下其他区域在开展什么活动。
+* [Adobe Analytics 用户组 YouTube 频道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) – 无法进行 Adobe Analytics 用户组会话？重新观看以前在全球范围内的用户组会议，以了解更多关于您的同行如何使用该工具的信息。
+* [Measure Chat Slack 频道](https://www.measure.chat/) – 与世界各地的 Adobe Analytics 用户联系，分享行业知识，向同行提问，并加入以量度为重点的兴趣小组。
+* 等等！
 
 ## 作者
 
 本文作者：
 
-![詹妮弗·邓根](assets/Jennifer_Dungan_Headshot150.png)
+![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
 
-Jennifer Dungan，Torstar优化经理分析
+Jennifer Dungan，Analytics 优化经理，Torstar
 
 Adobe Analytics 负责人
 
