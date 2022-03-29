@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 340792.jpg
 kt: 9624
 exl-id: fc07dd0f-76dd-40a6-b8f2-e777eac2473b
-source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: 9836913129127648ffda01fec5b60240f5de5870
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 76%
 
 ---
 
@@ -21,5 +21,9 @@ ht-degree: 100%
 在本视频中，我们逐步演示了如何为营销渠道配置处理规则。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>为了最大限度地提高Attribution IQ和Customer Journey Analytics的营销渠道的有效性，我们发布了一些 [修订最佳实践](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=zh-Hans).
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=zh-hans)。

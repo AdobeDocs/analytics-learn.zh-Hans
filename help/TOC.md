@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
-workflow-type: ht
-source-wordcount: '2286'
-ht-degree: 100%
+source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
+workflow-type: tm+mt
+source-wordcount: '2294'
+ht-degree: 99%
 
 ---
 
@@ -343,6 +343,7 @@ ht-degree: 100%
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse 简介](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [通过 SFTP 发送 Data Warehouse 请求](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [在表格数据提取中发送Data warehouse报表](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + 数据馈送{#data-feeds}
       + [数据馈送管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [下载数据馈送身份验证密钥](exporting/data-feeds/download-the-data-feed-authentication-key.md)
