@@ -344,7 +344,7 @@ ht-degree: 99%
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse 简介](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [通过 SFTP 发送 Data Warehouse 请求](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [在表格数据提取中发送Data warehouse报表](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [在 Tableau 数据提取中发送 Data Warehouse 报告](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + 数据馈送{#data-feeds}
       + [数据馈送管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [下载数据馈送身份验证密钥](exporting/data-feeds/download-the-data-feed-authentication-key.md)
