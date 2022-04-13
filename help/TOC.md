@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: 7caea7a0194180dd1d4489703adc0356d9564609
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2321'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -151,7 +151,7 @@ ht-degree: 98%
       + [面板级别区段](analysis-workspace/using-panels/panel-level-segments.md)
       + [在 Analysis Workspace 中将区段用作维度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [在 Analysis Workspace 中使用区段限制数据](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
-      + [Analysis Workspace中的快速区段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
+      + [Analysis Workspace 中的快速区段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + 量度 {#metrics}
       + [了解基本访客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [在 Analysis Workspace 中将维度和量度添加到您的项目](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=zh-Hans)
@@ -222,10 +222,10 @@ ht-degree: 98%
       + [创建赋权社区](administration/key-admin-skills/empowered-community.md)
       + [简化培训环节并缩短用户的培训时间](administration/key-admin-skills/simplify-training-users.md)
       + [让合适的人员加入您的 Analytics 团队](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
-      + [在桌子上坐下](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [获得话语权](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
       + [用数据讲述有影响力的故事](administration/key-admin-skills/telling-impactful-stories-with-data.md)
-      + [以非技术方式翻译Adobe Analytics技术语言](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
-      + [跨功能工作](administration/key-admin-skills/working-cross-functionally.md)
+      + [以非技术方式翻译 Adobe Analytics 技术语言](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [跨职能工作](administration/key-admin-skills/working-cross-functionally.md)
    + 公司设置 {#company-settings}
       + [强制执行电子邮件域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [查看您的帐户的可用功能](administration/company-settings/view-your-accounts-available-features.md)
