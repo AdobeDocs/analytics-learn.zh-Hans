@@ -7,9 +7,9 @@ role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: b5cda911edf548886cc0aeb404a8289bcea4f454
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1082'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ _所有这些_. 这是最常见的利益相关方问题之一： _要跟踪哪�
 
 问题将因技术或分析能力、公司结构或数据收集主题的复杂性而异。 从高层开始，对整个组织提出问题，然后讨论利益相关者在支持这些组织目标方面的作用，等等，以增加细节，这通常会有所帮助。 然后，您可以确保所讨论的粒度数据点将有效地支持组织的总体目标。 它还让您能够进行创造性思考，并为支持其目标的数据提出新的想法。
 
-[浏览此模板](assets/stakeholder-questionnaire.pdf) 包含几个利益攸关方面谈的示例问题。 重复使用或调整它们以准备相关问题供您讨论。
+[浏览此模板](assets/stakeholder-questionnaire.pdf){target=&quot;_blank&quot;}，其中包含多个利益相关者面谈的示例问题。 重复使用或调整它们以准备相关问题供您讨论。
 
 ### 2.请求示例报告
 
