@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 7caea7a0194180dd1d4489703adc0356d9564609
-workflow-type: ht
-source-wordcount: '2321'
-ht-degree: 100%
+source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+workflow-type: tm+mt
+source-wordcount: '2327'
+ht-degree: 99%
 
 ---
 
@@ -226,6 +226,7 @@ ht-degree: 100%
       + [用数据讲述有影响力的故事](administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [以非技术方式翻译 Adobe Analytics 技术语言](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [跨职能工作](administration/key-admin-skills/working-cross-functionally.md)
+      + [你问的对吗？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 公司设置 {#company-settings}
       + [强制执行电子邮件域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [查看您的帐户的可用功能](administration/company-settings/view-your-accounts-available-features.md)
