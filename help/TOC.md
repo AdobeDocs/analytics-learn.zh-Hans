@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: c127c940ee352cc4815c34551e74564b725c776d
+source-git-commit: 0c61d08819b6a6d2fa15f287b9f6d88b6f5ef246
 workflow-type: tm+mt
 source-wordcount: '2346'
 ht-degree: 98%
@@ -360,7 +360,7 @@ ht-degree: 98%
       + [Report Builder 中的异常检测](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [跨请求编辑量度](exporting/report-builder/edit-metrics-across-requests.md)
       + [使用 Report Builder 学习 Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
-      + [Report Builder入门](exporting/report-builder/get-started-with-report-builder.md)
+      + [开始使用Report Builder](exporting/report-builder/get-started-with-report-builder.md)
       + [计划Report Builder请求](exporting/report-builder/schedule-a-report-builder-request.md)
       + [使用Report Builder高级提交选项提交Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + 集成{#integrations}
