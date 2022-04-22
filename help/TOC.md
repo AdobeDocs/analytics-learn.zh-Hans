@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 0c61d08819b6a6d2fa15f287b9f6d88b6f5ef246
+source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2364'
 ht-degree: 98%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 98%
    + Analysis Workspace 基础{#analysis-workspace-basics}
       + [Analysis Workspace 简介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 概述](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+      + [导航新登陆页面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Analysis Workspace登陆页面更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [创建新的 Analysis Workspace 项目](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [从头开始构建 Workspace 项目](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中创建和管理自定义模板](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -95,6 +97,7 @@ ht-degree: 98%
       + [使用面板组织您的 Analysis Workspace 项目](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [区段放置区域改进](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace 中的多个报告包](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+      + [下一页/上一页和页面摘要工作区面板和报表](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + 构建自由格式表{#building-freeform-tables}
       + [了解您的数据 — 自由格式表](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [使用左边栏在 Analysis Workspace 中构建自由格式表](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
