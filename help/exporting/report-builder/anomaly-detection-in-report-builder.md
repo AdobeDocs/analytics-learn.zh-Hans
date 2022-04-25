@@ -1,23 +1,21 @@
 ---
-title: Report Builder 中的异常检测
+title: 异常检测Report Builder
 description: 了解如何将异常检测量度添加到您的数据请求，以及如何创造性地绘制数据图表。
 feature: Report Builder
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1768
 role: User
 level: Intermediate
+doc-type: feature video
+thumbnail: 25444.jpg
+kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL Report Builder] 中的[!UICONTROL 异常检测] {#anomaly-detection-in-report-builder}
+# [!UICONTROL 异常检测] in [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
 
 了解如何将[!UICONTROL 异常检测][!UICONTROL 量度]添加到您的数据请求，以及如何创造性地绘制数据图表。
 

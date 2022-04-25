@@ -1,23 +1,21 @@
 ---
-title: 在 Analysis Workspace 中保存、共享和协作项目
+title: 在Analysis Workspace的项目上节省、共享和协作
 description: 在本视频中，了解如何自行保存和导出项目、将项目发送给其他收件人以及邀请其他人在您的项目上进行协作。
 feature: Curate and Share
-topics: null
-activity: use
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 33634.jpg
 kt: 4108
 role: User
 level: Beginner
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 在 Analysis Workspace 中保存、共享和协作项目
+# 在Analysis Workspace的项目上节省、共享和协作
 
 在本视频中，了解如何自行保存和导出项目、将项目发送给其他收件人以及邀请其他人在您的项目上进行协作。
 
