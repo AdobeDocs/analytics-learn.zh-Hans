@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
-source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: ht
+exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
+source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+workflow-type: tm+mt
 source-wordcount: '1263'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
-
 
 # 获得话语权
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ## 您为什么需要获得话语权
 
-首先，让我们解决一些绊脚石。Analytics 管理员的角色已经发生演变。管理员不能再坐在计算机屏幕后只关注 eVar、事件和 sProp。作为管理员，您有责任确保所在公司做出正确的数据驱动型决策。但要做到这一点，您需要出现在做出这些决策的地方，而不是坐在办公桌前处理数字。
+首先，让我们解决一些绊脚石。数据分析师的角色已经发展。 分析师不能再坐在他们的计算机屏幕后面，只关注eVar、事件和sProp。 作为管理员，您有责任确保所在公司做出正确的数据驱动型决策。但要做到这一点，您需要出现在做出这些决策的地方，而不是坐在办公桌前处理数字。
 
 下面是您需要参与决策的三个原因。
 
