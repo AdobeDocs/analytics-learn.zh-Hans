@@ -1,6 +1,6 @@
 ---
 title: 在 Tableau 数据提取中发送 Data Warehouse 报告
-description: 'Data Warehouse 可以提供 Tableau 数据提取 (TDE) 文件格式的报告，让您可以民主化和合并来自 Adobe Analytics 外部的数据。 '
+description: Data Warehouse 可以提供 Tableau 数据提取 (TDE) 文件格式的报告，让您可以民主化和合并来自 Adobe Analytics 外部的数据。
 feature: Data Warehouse
 topic: Collaboration
 role: User
@@ -8,7 +8,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341449.jpg
 kt: 9860
-source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
+exl-id: ebe9e66f-30a3-40b8-bd29-1572620a4fdb
+source-git-commit: 3cecbbde6edfc94fcd7968a27bd372f740101b9a
 workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
