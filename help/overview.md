@@ -1,45 +1,44 @@
 ---
 title: Analytics 的视频和教程
-description: Adobe Analytics 的视频和教程集合。
+description: '充分利用Adobe Analytics。  通过这些教程主控Analytics的功能，并为您的业务带来好处。 此内容适合管理员、数据分析人员、营销人员、开发人员和架构师使用。 '
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: overview
-team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
+doc-type: overview
+thumbnail: null
+kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
-workflow-type: ht
-source-wordcount: '292'
-ht-degree: 100%
+source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 34%
 
 ---
 
-# 概述
 
-欢迎访问 [!DNL Analytics] 教程网站。配合[文档](https://experienceleague.adobe.com/docs/analytics.html)一起使用这些教程将让您更好地了解如何使用 Adobe Analytics 比以往更快地获得客户洞察。要开始教程，请
-* 查看下方的&#x200B;**“新增功能”**&#x200B;部分以了解最新的实用组件
+
+# Analytics教程
+
+充分利用 [!DNL Adobe Analytics].  通过这些教程主控Analytics的功能，并为您的业务带来好处。 此内容适合管理员、数据分析人员、营销人员、开发人员和架构师使用。
+
+要开始教程，请
+* 请参阅 **“新增功能”** 部分以了解最新更新和功能
 * **员工精选**&#x200B;重点介绍我们喜爱的一些内容
 * 在&#x200B;**左侧导航**&#x200B;中按主题和副标题浏览内容
-* 如果您知道自己在寻找什么，请使用页面顶部的&#x200B;**搜索**&#x200B;字段
+* 使用 **搜索** 字段
+
+课程部分还提供按角色和技能级别进行策划的学习体验。 只需使用Adobe ID登录，然后导航到 **学习>推荐课程** 中。
 
 ## 新增功能
 
-* **[用右键单击提高 Workspace 效率（视频）](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[Adobe Analytics移动记分卡生成器（视频）](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
+   *了解如何创建和共享在 [!DNL Analysis Workspace] 执行用户。*
 
-   <br>
-   *了解我们喜欢的各种 Analysis Workspace 右键单击及其用法。从[!UICONTROL 自由格式表]到[!UICONTROL 流失可视化]，右键单击将使您在 [!DNL Workspace] 中更加高效和熟练。*
+* **[Adobe Analytics移动记分卡应用程序](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
+   *了解如何下载移动记分卡应用程序并查看在中创建的移动记分卡 [!DNL Analysis Workspace].*
 
-* **[Analysis Workspace 中的“Quick Insights”面板（视频）](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
-
-   <br>
-   *Quick Insights 为非分析师和 Analysis Workspace 的新用户提供指导，帮助他们了解如何快速而轻松地回答业务问题。*
-
-* **[Analysis Workspace 中的项目共享（视频）](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
-
-   <br>
-   *项目共享是一种让从 Analysis Workspace 获得的数据和见解惠及组织中各个用户的方法。可根据希望接收方拥有的项目体验，为其安排三种项目角色之一：“编辑”、“复制”和“查看”。*
+* **[工作区中的注释（视频）](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
+   *中的注释 [!DNL Analysis Workspace] 使您能够有效地将上下文数据细微差别和洞察传达给组织内的用户。 在日期或日期范围中添加已知数据问题、公共假日、营销活动启动次数等的批注，以便更好地告知用户为何会在折线图、表格等中看到内容。*
 
 ## 员工精选
 
@@ -86,3 +85,7 @@ ht-degree: 100%
   </td>
 </tr>
 </table>
+
+## 其他资源
+
+[Adobe Analytics 文档](https://experienceleague.adobe.com/docs/analytics.html)
