@@ -1,21 +1,21 @@
 ---
-title: 下一页/上一页和页面摘要工作区面板和报表
-description: 我们向Analysis Workspace添加了两种新的面板类型：“下一页”/“上一页”和“页面摘要”，并将它们列入现成报表。 这些带……（描述应介于60到160个字符之间）
+title: 下一个/上一个及页面摘要工作区面板和报告
+description: 我们已在 Analysis Workspace 中添加两种新面板类型，即下一个/上一个及页面摘要，并将其作为现成报告的一部分列出。这些功能……（请用 60 到 160 个字符描述）
 feature: Panels
 role: User
 level: Beginner
 kt: 10293
 thumbnail: 342477.jpg
-source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
-workflow-type: tm+mt
+exl-id: 1dfd39f3-7a96-42e0-b510-4c2443f074c3
+source-git-commit: 9ee93461a944fc844bc314f2faafc0ffc6b77b8b
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 下一个/上一个及页面摘要工作区面板和报告
 
-# 下一页/上一页和页面摘要工作区面板和报表
-
-我们向Analysis Workspace中添加了两种新的面板类型 — “下一页”/“上一页”和“页面摘要”，并将它们列为现成报表的一部分。 这些功能使工作区与一些比较常用的Reports &amp; Analytics报表相同。
+我们已在 Analysis Workspace 中添加两种新面板类型，即下一个/上一个及页面摘要，并将其作为现成报告的一部分列出。 这些功能使 Analysis Workspace 与一些更流行的 Reports &amp; Analytics 报告不相上下。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)
