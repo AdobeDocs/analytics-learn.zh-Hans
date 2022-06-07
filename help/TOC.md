@@ -3,17 +3,17 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
+source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
 workflow-type: tm+mt
-source-wordcount: '2365'
-ht-degree: 99%
+source-wordcount: '2392'
+ht-degree: 98%
 
 ---
 
 
 # Analytics 教程 {#tutorials}
 
-+ [Analytics教程](overview.md)
++ [Analytics 教程](overview.md)
 + Analytics 简介 {#intro-to-analytics}
    + Adobe Analytics 可为我做什么？{#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace 可怎样变革您的业务](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
@@ -25,6 +25,10 @@ ht-degree: 99%
       + [Summit 2019 超级讲座 — 旅游和酒店业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 超级讲座 — 零售业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 超级讲座 — 高科技行业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + 战略与思想领导{#strategy}
+      + [第1部分 — 简单的修改，以提高效率](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [第2部分 — 简单的修改，以提高效率](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [在Adobe Analytics中使用虚拟分析师和区段IQ掌握客户智能](strategy/customer-intelligence-with-virtual-analyst.md)
    + 从第三方平台转换 {#transitioning-from-other-platforms}
       + [从 Google Analytics 转换](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 基础知识 {#analytics-basics}
@@ -442,3 +446,4 @@ ht-degree: 99%
 + [Analytics University 课程](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [面向商业用户的 Analytics 基础知识已停用](retired-courses/retire-fundamentals-for-business-users-course.md)
+
