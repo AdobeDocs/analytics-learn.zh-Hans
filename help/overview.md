@@ -1,6 +1,6 @@
 ---
 title: Analytics 的视频和教程
-description: '充分利用Adobe Analytics。  通过这些教程主控Analytics的功能，并为您的业务带来好处。 此内容适合管理员、数据分析人员、营销人员、开发人员和架构师使用。 '
+description: '充分利用 Adobe Analytics。通过这些教程掌握 Analytics 的各项功能并使您的公司享受其带来的益处。此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。 '
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -9,36 +9,36 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '345'
-ht-degree: 34%
+ht-degree: 100%
 
 ---
 
 
 
-# Analytics教程
+# Analytics 教程
 
-充分利用 [!DNL Adobe Analytics].  通过这些教程主控Analytics的功能，并为您的业务带来好处。 此内容适合管理员、数据分析人员、营销人员、开发人员和架构师使用。
+充分利用 [!DNL Adobe Analytics]。通过这些教程掌握 Analytics 的各项功能并使您的公司享受其带来的益处。此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。
 
-要开始教程，请
-* 请参阅 **“新增功能”** 部分以了解最新更新和功能
+要开始使用，
+* 请参考下方的&#x200B;**“新增功能”**&#x200B;部分，以查看最新的更新和功能。
 * **员工精选**&#x200B;重点介绍我们喜爱的一些内容
 * 在&#x200B;**左侧导航**&#x200B;中按主题和副标题浏览内容
-* 使用 **搜索** 字段
+* 如果您知道想要了解的内容，请使用该页面顶部的&#x200B;**搜索**&#x200B;字段
 
-课程部分还提供按角色和技能级别进行策划的学习体验。 只需使用Adobe ID登录，然后导航到 **学习>推荐课程** 中。
+在课程部分，我们还提供了按角色和技能水平策划的学习体验。您只需通过 Adobe ID 登录，然后前往顶部导航区域中的&#x200B;**“学习” > “推荐课程”**&#x200B;即可。
 
 ## 新增功能
 
-* **[Adobe Analytics移动记分卡生成器（视频）](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
-   *了解如何创建和共享在 [!DNL Analysis Workspace] 执行用户。*
+* **[Adobe Analytics 移动记分卡生成器（视频）](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
+   *了解如何在 [!DNL Analysis Workspace] 中为您的管理层用户创建和分享移动记分卡。*
 
-* **[Adobe Analytics移动记分卡应用程序](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *了解如何下载移动记分卡应用程序并查看在中创建的移动记分卡 [!DNL Analysis Workspace].*
+* **[Adobe Analytics 移动记分卡应用程序](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
+   *了解如何下载移动记分卡应用程序并查看在 [!DNL Analysis Workspace] 中创建的移动记分卡。*
 
 * **[工作区中的注释（视频）](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *中的注释 [!DNL Analysis Workspace] 使您能够有效地将上下文数据细微差别和洞察传达给组织内的用户。 在日期或日期范围中添加已知数据问题、公共假日、营销活动启动次数等的批注，以便更好地告知用户为何会在折线图、表格等中看到内容。*
+   *[!DNL Analysis Workspace] 注释使您能够有效地将上下文数据的细微差别和见解传达给您的组织中的用户。用已知的数据问题、公共假日、活动启动等批注日期或日期范围，以便更好地告知用户他们为什么会看到折线图、表格等中的相关内容。*
 
 ## 员工精选
 
