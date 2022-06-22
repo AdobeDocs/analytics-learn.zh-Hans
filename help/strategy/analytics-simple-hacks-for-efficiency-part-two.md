@@ -1,96 +1,99 @@
 ---
-title: 简单的工具，可提高效率和自助服务 — 第二部分
-description: '了解Analytics团队当前面临的主要挑战，以及我们为使用工具内策略克服这些挑战而提出的建议。 '
+title: 提高效率和自助服务的简单技巧——第二部分
+description: 了解 Analytics 团队目前面临的主要挑战，以及我们关于使用内置工具策略克服这些挑战的建议。
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '784'
-ht-degree: 6%
+source-wordcount: '802'
+ht-degree: 97%
 
 ---
 
-# Adobe Analytics:简单的工具，可提高效率和自助服务
+# Adobe Analytics：提高效率和自助服务的简单技巧
 
-**第2部分：工具内策略**
+**第 2 部分：内置工具策略**
 
-本文介绍了分析团队当前面临的主要挑战，以及我们为使用工具内策略克服这些挑战而提出的建议。 开始 [此处](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) 第一部分。
+该文章描述了 Analytics 团队目前面临的主要挑战，以及我们关于使用内置工具策略克服这些挑战的建议。前往[这里](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md)查看第 1 部分。
 
-有关Adobe Analytics平台外的有效解决方案的更多信息，请单击 [此处](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
+有关 Adobe Analytics 平台之外的有效解决方案的更多信息，请点击[这里](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
 
-## 提高效率的关键：工具内策略
+## 提高效率的关键：内置工具策略
 
-有效的自助服务通常是消除感知障碍和增强信心的一种做法。 以下是一些建议：
+有效的自助服务通常是消除感知障碍和增强信心的一种练习。以下是一些建议：
 
-## 利用所有功能
+## 充分利用所有功能
 
-1. 标准模板:
+1. 标准模板：
 
-   * 这些功能是开箱即用的，涵盖常见用例，如果用户希望快速访问常用KPI，则可节省时间。
-   * 这些量度按所属的垂直方向分组，并填充了不同的维度、区段、量度和可视化图表。
+   * 这些模板是现成的，其涵盖了常见的用例，如果用户希望快速访问常见的 KPI，则可以节省时间。
+   * 它们按所属的垂直方向分组，并根据不同的维度、区段、量度和可视化程度填充。
 
 1. 自定义模板：
 
-   * 任何项目都可另存为自定义模板（必须是管理员或具有适当的使用权限）。
-   * 如果您发现自己在反复构建同一类型的报表时进行了细微更改，那么这是一个非常好的选择。
+   * 任何项目都可以另存为自定义模板（但必须是管理员或具有适当的使用权限）。
+   * 如果您需要重复构建同一类型的报告，并且只需做一些微小的更改，那么这是一个很好的选择。
 
-1. 主控右键单击。
+1. 掌握右键单击。
 
-   * 中提供了多个右键单击选项 [!UICONTROL 工作区] 来节省时间。
+   * [!UICONTROL 工作区]中有多个右键单击选项均可以帮助您节省时间。
 
-1. 下拉过滤器.
+1. 下拉过滤器。
 
-1. 热键.
+1. 热键。
 
 ## 优化工作区性能
 
-的 [!UICONTROL Analysis Workspace] 性能帮助页面显示影响项目性能的网络、浏览器和项目因素。 通过创建更快的功能板来推动采用。 它还链接到要优化的提示，可在 [!UICONTROL 工作区] 菜单下 **[!UICONTROL 帮助]** > **[!UICONTROL 性能]**.
+[!UICONTROL Analysis Workspace] 性能可帮助页显示影响项目性能的网络、浏览器和项目因素。通过创建更快的仪表板来推动采用度。它还包含指向优化提示的链接，这可以在[!UICONTROL “帮助”]>**[!UICONTROL “性能”]**&#x200B;下的&#x200B;**[!UICONTROL “工作区”]**&#x200B;菜单中访问。
 
-## 工作区内部/内部面板链接
+## 工作区内/工作区间面板链接
 
-使用面板链接可改进 [!UICONTROL 工作区] 性能。 使用折叠的面板来拆分大型报表，同时不会给用户带来负担，用户必须了解多个工作区项目并在多个工作区项目之间进行交换。
+使用面板链接可提高[!UICONTROL 工作区]性能。使用折叠的面板分解大型报告，同时用户无需理解多个工作区项目并在这些工作区项目之间进行切换。
 
 ## 创建知识存储库
 
-* 将每个人的默认工作区设置为一个包含自我支持资源的常用库。
-* 策划来自Adobe Experience League的绝佳链接。
-* 共享Adobe Analytics YouTube渠道中的发行视频。
-* 共享办公时间表。
-* 链接到有关 [!DNL Analytics] 版本和错误修复。
+* 将每个人的默认工作区设置为自我启用资源的常青库。
+* 从 Adobe Experience League 策划高质链接。
+* 从 Adobe Analytics YouTube 频道共享发布视频。
+* 共享办公时间计划。
+* 链接到有关[!DNL Analytics]版本和错误修复的信息。
 
 ## 培训教程工作区
 
-的 [!UICONTROL Analysis Workspace] 培训教程将指导用户在 [!UICONTROL 工作区]. 此模板可用作 [!UICONTROL 新建项目] 模式窗口，并允许您创建自己的教程，并根据贵组织的独特用例和数据结构（eVar、自定义事件等）对它们进行定制。 这是一种可缩放、自动启用的形式。
+[!UICONTROL Analysis Workspace] 培训教程会引导用户了解在[!UICONTROL 工作区]中构建第一个分析项目会用到的常用术语和步骤。此模板作为[!UICONTROL 新项目]模式中的标准模板提供，允许您创建自己的教程，并根据组织的独特用例和数据结构（eVar、自定义事件等）对其进行自定义。这是一种可扩展的自动化支持形式。
 
-## [!UICONTROL 快速分析] 面板
+## [!UICONTROL 快速洞察]面板
 
-[[!UICONTROL 快速分析]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=en) 为Analysis Workspace的非分析师和新用户了解如何快速轻松地回答业务问题提供了指导。 对于希望快速轻松地回答简单问题的高级用户而言，它也是一个非常好的工具，无需自己构建表。
+[[!UICONTROL 快速洞察]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=en)为非分析人员和 Analysis Workspace 的新用户提供指导，以了解如何快速轻松地回答商业问题。对于希望轻松快速地回答简单问题的高级用户来说，它也是一个很好的工具，无需自己构建表格。
 
-## 利用 [!UICONTROL 描述] 在变量上
+## 利用对变量的[!UICONTROL 描述]
 
-使用 [!UICONTROL 描述] 变量中用于与用户通信的字段，并帮助他们按照要提取的数据提取数据。 上下文在Analysis Workspace中可用，无需在文档之间切换或ping核心团队以获取帮助。
+使用变量中的[!UICONTROL 描述]字段与用户进行通信，并帮助他们按照预期的方式提取数据。上下文在 Analysis Workspace 中可用，无需在文档之间切换或寻求核心团队的帮助。
 
-## 使用批注增强模板
+## 使用注释功能增强模板
 
-通过使用模板来促进模板的采用和提高自给自足 [!UICONTROL 批注]. 促进使用注释，以增强共享分析中故事讲述的方面。
+推动对模板的采用，并通过使用[!UICONTROL 注释]功能的模板提高自给自足能力。促进对注释功能的使用，以增强共享分析的故事讲述方面的效果。
 
-## 利用策划
+## 利用策划功能
 
 “策划”让您可在共享项目前限制组件（维度、量度、区段、日期范围）。当收件人打开项目时，他们将看到您为其策划的有限组件。策划虽然是一个可选步骤，但建议在共享项目前执行此步骤。
 
-策划时 [!UICONTROL 虚拟报表包]，则可以创建友好维度、量度和区段标签。 为用户子集创建自定义的、易于使用的标签。 请记住，标签不会更改主控记录（名称）。
+在策划[!UICONTROL 虚拟报告包]时，可以创建友好的维度、量度和区段标签。为用户子集创建定制的、更易于使用的标签。请记住，标签不会更改主要记录（名称）。
 
 ## 创建解决方案参考工作区
 
-使用注释创建产品内解决方案文档参考。 除了模板之外，还具有产品内工作区有助于集中知识并提供宝贵的上下文。 使用工作区间/内部链接创建易于扩展且易于导航的资源。
+使用注释功能在产品中创建解决方案文档引用内容。除了模板之外，产品内的工作区还可以帮助集中知识并提供宝贵的上下文。使用工作区间/工作区内链接功能创建易于扩展和导航的资源。
 
-## Adobe Analytics功能板的好处
+## Adobe Analytics 功能板的益处
 
-| 数据民主化 | 更快的行动时间 | 简洁的分析 | 易用性 |
+| 数据民主化 | 加快采取行动的时间 | 简明的洞察 | 易于使用 |
 | --- | --- | --- | --- |
-| 非分析师业务用户可以轻松地自助提供数据 | 在关键时刻做出数据信息化决策 | 根据需要，访问相关分析并深入分析 | 通过直观的移动界面实现无摩擦体验 |
+| 非分析师商业用户可以轻松地自助提供数据 | 在关键时刻做出有数据作为依据的决策 | 访问相关洞察，并根据需要随时深入分析 | 通过直观的移动界面提供流畅的体验 |
 
-## Adobe2.0报表API
+## Adobe 2.0 报告 API
 
-利用报表API将标准报表从 [!UICONTROL 工作区] 到计划报表和功能板。 此外，利用 [!UICONTROL Analysis Workspace] 来构建API请求。
+利用报告 API 将标准报告从[!UICONTROL 工作区]移动到计划报告和仪表板。此外，利用[!UICONTROL  Analysis Workspace] 来构建 API 请求。
 
-我们希望您发现本文关于工具内策略的内容很有价值。 有关提高Adobe Analytics平台外效率的有效解决方案的更多信息，请单击 [此处](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
+我们希望这篇关于内置工具策略的文章很有帮助。有关 Adobe Analytics 平台之外提高效率的有效解决方案的更多信息，请点击[这里](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)。
+
+在 [客户成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 中心。
