@@ -56,7 +56,7 @@ Analytics 具有挑战性且耗时，但仍需要不断缩减获得洞察所用�
 
 ### 利用您的虚拟分析师
 
-将[虚拟分析师](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=en)想象为顶级分析师，并且这样的分析师：
+将[虚拟分析师](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=cn)想象为顶级分析师，并且这样的分析师：
 
 * 从不离开工作岗位，也不需要离开
 * 提供关于您商业中的谁、什么、何时、何地、为什么以及那又如何方面的信息
@@ -76,7 +76,7 @@ Analytics 具有挑战性且耗时，但仍需要不断缩减获得洞察所用�
 * 活动终止——收入每天增加 170 万美元，其主要原因是因为活动提前结束。
 * 供应商错误——由于标记管理器错误导致自动从购物车中删除某些产品，购物车减货量增加了73%。
 * 浏览器问题——与 Chrome 浏览器相关的购物车放弃量增加 8%。这一修复措施使每日收入增加 120 万美元。
-* 优惠券欺诈——发现两个主要的每日促销/优惠券网站推广欺诈性的洗漱用品优惠券，导致出现的流量使订单激增 81%。这些订单可以取消。
+* 优惠券欺诈——发现两个主要的每日促销/优惠券网站推广欺诈性的洗漱用品优惠券，以此方式引流使订单激增 81%。 这些订单可以取消。
 * 公司间谍活动——主要竞争对手创建的机器人/爬虫程序将网站内容刮出以便重用，导致访问量增加了 200%。这些 IP 能够被封锁。
 
 ## Adobe Analytics 的功能 
@@ -102,7 +102,7 @@ Analytics 具有挑战性且耗时，但仍需要不断缩减获得洞察所用�
 * 使用[!UICONTROL 警报预览]功能查看警报触发的频率
 * 使用带有指向自动生成的[ Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=zh-Hans) 项目链接的短信和电子邮件支持功能
 
-[Segment IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=en)：
+[Segment IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=cn)：
 
 * 找到区段之间的差异和重叠，为分段策略提供信息
 * 找出推动 KPI 的受众区段的关键特征

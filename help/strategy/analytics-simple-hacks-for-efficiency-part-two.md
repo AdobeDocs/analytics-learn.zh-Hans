@@ -14,7 +14,7 @@ ht-degree: 97%
 
 **第 2 部分：内置工具策略**
 
-该文章描述了 Analytics 团队目前面临的主要挑战，以及我们关于使用内置工具策略克服这些挑战的建议。前往[这里](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md)查看第 1 部分。
+该文章描述了 Analytics 团队目前面临的主要挑战，以及我们关于使用内置工具策略克服这些挑战的建议。前往[此处](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md)查看第 1 部分。
 
 有关 Adobe Analytics 平台之外的有效解决方案的更多信息，请点击[这里](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
 
@@ -44,7 +44,7 @@ ht-degree: 97%
 
 ## 优化工作区性能
 
-[!UICONTROL Analysis Workspace] 性能可帮助页显示影响项目性能的网络、浏览器和项目因素。通过创建更快的仪表板来推动采用度。它还包含指向优化提示的链接，这可以在[!UICONTROL “帮助”]>**[!UICONTROL “性能”]**&#x200B;下的&#x200B;**[!UICONTROL “工作区”]**&#x200B;菜单中访问。
+[!UICONTROL Analysis Workspace] 性能可帮助页面显示影响项目性能的网络、浏览器和项目因素。通过创建更快的仪表板来推动采用度。它还包含指向优化提示的链接，这可以在[!UICONTROL “帮助”]>**[!UICONTROL “性能”]**&#x200B;下的&#x200B;**[!UICONTROL “工作区”]**&#x200B;菜单中访问。
 
 ## 工作区内/工作区间面板链接
 
@@ -64,7 +64,7 @@ ht-degree: 97%
 
 ## [!UICONTROL 快速洞察]面板
 
-[[!UICONTROL 快速洞察]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=en)为非分析人员和 Analysis Workspace 的新用户提供指导，以了解如何快速轻松地回答商业问题。对于希望轻松快速地回答简单问题的高级用户来说，它也是一个很好的工具，无需自己构建表格。
+[[!UICONTROL 快速洞察]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=cn)为非分析人员和 Analysis Workspace 的新用户提供指导，以了解如何快速轻松地回答商业问题。对于希望轻松快速地回答简单问题的高级用户来说，它也是一个很好的工具，无需自己构建表格。
 
 ## 利用对变量的[!UICONTROL 描述]
 
@@ -72,7 +72,7 @@ ht-degree: 97%
 
 ## 使用注释功能增强模板
 
-推动对模板的采用，并通过使用[!UICONTROL 注释]功能的模板提高自给自足能力。促进对注释功能的使用，以增强共享分析的故事讲述方面的效果。
+推动对模板的采用，并通过使用[!UICONTROL 注释]功能的模板提高自给自足能力。促进对注释功能的使用，增强共享分析的故事讲述方面的效果。
 
 ## 利用策划功能
 
