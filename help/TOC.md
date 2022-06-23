@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2430'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 97%
       + [Summit 2019 超级讲座 — 旅游和酒店业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 超级讲座 — 零售业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 超级讲座 — 高科技行业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + 战略与思想领导{#strategy}
-      + [第1部分 — 简单的修改，以提高效率](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
-      + [第2部分 — 简单的修改，以提高效率](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
-      + [在Adobe Analytics中使用虚拟分析师和区段IQ掌握客户智能](strategy/customer-intelligence-with-virtual-analyst.md)
+   + 战略与思维领导力{#strategy}
+      + [第 1 部分——提高效率的简单技巧](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [第 2 部分——提高效率的简单技巧](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [通过 Adobe Analytics 中的虚拟分析师和 Segment IQ 掌握客户情报](strategy/customer-intelligence-with-virtual-analyst.md)
    + 从第三方平台转换 {#transitioning-from-other-platforms}
       + [从 Google Analytics 转换](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 基础知识 {#analytics-basics}
@@ -234,13 +234,13 @@ ht-degree: 97%
       + [以非技术方式翻译 Adobe Analytics 技术语言](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [跨职能工作](administration/key-admin-skills/working-cross-functionally.md)
       + [您问的问题是否有效？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
-   + 管理员提示和最佳实践 {#admin-tips}
-      + [下载实施手册](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
-      + [创建标准化的命名约定](administration/admin-tips/create-standardized-naming-conventions.md)
-      + [创建标准化的代码模板](administration/admin-tips/create-standardized-code-templates.md)
+   + 管理员提示和最佳实践{#admin-tips}
+      + [下载实施剧本](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [创建标准的命名惯例](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [创建标准化代码模板](administration/admin-tips/create-standardized-code-templates.md)
       + [创建基本视频和培训](administration/admin-tips/create-basic-videos-and-training.md)
-      + [创建内部Adobe Analytics网站](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
-      + [使用全局报表包](administration/admin-tips/use-a-global-report-suite.md)
+      + [创建 Adobe Analytics 内部站点](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [使用全局报告包](administration/admin-tips/use-a-global-report-suite.md)
       + [创建新闻和公告项目](administration/admin-tips/create-a-news-and-announcements-project.md)
    + 公司设置 {#company-settings}
       + [强制执行电子邮件域限制](administration/company-settings/enforce-email-domain-restrictions.md)
