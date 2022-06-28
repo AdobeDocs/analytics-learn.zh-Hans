@@ -4,9 +4,9 @@ description: 了解 Analytics 团队目前面临的主要挑战，以及我们�
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -96,4 +96,4 @@ ht-degree: 97%
 
 我们希望这篇关于内置工具策略的文章很有帮助。有关 Adobe Analytics 平台之外提高效率的有效解决方案的更多信息，请点击[这里](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)。
 
-在 [客户成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 中心。
+在[客户成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html)中心详细了解战略和思想领导力。
