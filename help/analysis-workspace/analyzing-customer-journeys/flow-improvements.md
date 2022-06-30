@@ -1,22 +1,22 @@
 ---
-title: 2022年流量改进
-description: 了解流量可视化图表的一些重大改进。 改进功能包括：允许您配置您感兴趣的路径的开始或结束位置、过滤列以包含或排除特定项目，以及预配置的高级设置。
+title: 2022 年流改进
+description: 了解流可视化的一些重大改进。改进包括您可以配置感兴趣的路径的开头和结尾，对某列进行筛选以包含或排除特定项，以及可预配置的高级设置。
 feature: Visualizations
 role: User
 level: Beginner
 kt: 10622
 thumbnail: 344222.jpeg
 source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
 
-# 2022年流量改进
+# 2022 年流改进
 
-了解流量可视化图表的一些重大改进。 改进功能包括：允许您配置您感兴趣的路径的开始或结束位置、过滤列以包含或排除特定项目，以及预配置的高级设置。
+了解流可视化的一些重大改进。改进包括您可以配置感兴趣的路径的开头和结尾，对某列进行筛选以包含或排除特定项，以及可预配置的高级设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344222/?quality=12&learn=on)
 
