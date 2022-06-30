@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2432'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -159,7 +159,7 @@ ht-degree: 99%
       + [比较流失中的区段](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
       + [流可视化](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [扩展流可视化](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [2022年流量改进](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [2022 年流改进](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
       + [文字环绕和多维度流](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + 应用区段 {#applying-segments}
       + [将区段应用于您的 Analysis Workspace 项目](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
