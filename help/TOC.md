@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: ht
-source-wordcount: '2432'
-ht-degree: 100%
+source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
+workflow-type: tm+mt
+source-wordcount: '2422'
+ht-degree: 99%
 
 ---
 
@@ -152,15 +152,12 @@ ht-degree: 100%
       + [构建时间划分热图](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + 分析客户历程 {#analyzing-customer-journeys}
       + [了解您的数据 — 流失和流量](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Journey IQ — 跨设备分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [流失可视化](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [对流失可视化的增强](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [多维度流失](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [比较流失中的区段](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
-      + [流可视化](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [扩展流可视化](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [2022 年流改进](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-      + [文字环绕和多维度流](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
+      + [历程IQ — 跨设备分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [流失可视化图表](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [流程可视化](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [展开流量可视化图表](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [2022年流量改进](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [文本环绕和多维流量](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + 应用区段 {#applying-segments}
       + [将区段应用于您的 Analysis Workspace 项目](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [在 Analysis Workspace 中使用区段](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
