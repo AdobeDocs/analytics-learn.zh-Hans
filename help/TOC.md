@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
-workflow-type: ht
-source-wordcount: '2422'
-ht-degree: 100%
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
+source-wordcount: '2416'
+ht-degree: 99%
 
 ---
 
@@ -151,13 +151,10 @@ ht-degree: 100%
       + [表和可视化数据源设置](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [构建时间划分热图](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + 分析客户历程 {#analyzing-customer-journeys}
-      + [了解您的数据 - 流失和流量](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [创建流失可视化图表](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [创建流量可视化图表](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [同时使用流失和流量](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ - 跨设备分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [流失可视化](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [流量可视化](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [扩展流量可视化](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [2022 流量提升](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-      + [文字环绕和多维度流量](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + 应用区段 {#applying-segments}
       + [将区段应用于您的 Analysis Workspace 项目](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [在 Analysis Workspace 中使用区段](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)

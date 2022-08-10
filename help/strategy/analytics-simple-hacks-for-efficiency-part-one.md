@@ -3,10 +3,10 @@ title: 提高效率和自助服务的简单技巧——第 1 部分
 description: 了解 Analytics 团队目前面临的主要挑战，以及我们对使用 Adobe Analytics UI 之外的策略来克服这些挑战的建议。
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
-workflow-type: ht
+source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
+workflow-type: tm+mt
 source-wordcount: '712'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -86,4 +86,4 @@ Analytics 团队发现，由于各种原因，他们的生产力和效率都在�
    * 通过帮助社交发布和获胜来建立他们的影响力
    * 利用正常的办公时间帮助培训师，减少临时要求
 
-在[客户成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html)中心详细了解战略和思想领导力。
+在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心详细了解战略和思想领导力。
