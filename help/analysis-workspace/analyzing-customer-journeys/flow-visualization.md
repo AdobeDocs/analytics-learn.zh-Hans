@@ -1,6 +1,6 @@
 ---
 title: 创建流量可视化图表
-description: 流程可视化用于浏览客户与您的品牌之间的确切历程。流量可以应用于页面、营销渠道以及您收集的任何其他维度或维度组合。
+description: 流程可视化用于浏览客户与您的品牌之间的确切历程。流程可应用于页面、营销渠道以及您收集的任何其他维度或维度组合。
 feature: Visualizations
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ thumbnail: 346063.jpg
 kt: 2279
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
 # 创建流量可视化图表
 
-流程可视化用于浏览客户与您的品牌之间的确切历程。流量可以应用于页面、营销渠道以及您收集的任何其他维度或维度组合。
+流程可视化用于浏览客户与您的品牌之间的确切历程。流程可应用于页面、营销渠道以及您收集的任何其他维度或维度组合。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
 
