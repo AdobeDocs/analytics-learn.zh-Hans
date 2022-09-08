@@ -11,9 +11,9 @@ role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
 source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1529'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ Isabelle 行为的以人员为中心的跨设备视图会给您的分析带来�
 
 ## [!DNL Cross-Device Analytics]的工作原理
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] 与集成 [!DNL Adobe Experience Platform Identity Service]，利用 [!DNL Device Graph] 以识别设备如何映射到人员。 然后，它利用此智能来创建用户行为的跨设备视图。 CDA 包含无与伦比的功能和工具，可帮助您的企业了解多设备使用情况以及这些设备与您的品牌互动时的客户体验。 它是 Analysis Workspace 下方的一个层，借助功能强大的工具（例如[!UICONTROL 流失]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ] 和 [!DNL Attribution IQ]）来提供对基于人员的受众分析和跨设备归因、分段和历程分析的深入洞察。
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] 与 [!DNL Adobe Experience Platform Identity Service] 集成，以利用 [!DNL Device Graph] 标识设备与人员的映射方式。 然后，它利用此智能来创建用户行为的跨设备视图。 CDA 包含无与伦比的功能和工具，可帮助您的企业了解多设备使用情况以及这些设备与您的品牌互动时的客户体验。 它是 Analysis Workspace 下方的一个层，借助功能强大的工具（例如[!UICONTROL 流失]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ] 和 [!DNL Attribution IQ]）来提供对基于人员的受众分析和跨设备归因、分段和历程分析的深入洞察。
 
 ### [!DNL Cross-Device Virtual Report Suite]
 
@@ -82,13 +82,13 @@ CDA 通过特殊类型的跨设备[[!UICONTROL 虚拟报表包]](https://experie
 
 ### 重述历史记录
 
-有时，您的用户需要一段时间才能登录，并且 [!DNL Device Graph] 来识别设备并将设备映射到一起。 CDA 使用 30 天的回顾时段，以便能够将之前未识别的访客重述为过去 30 天内的人员。
+有时，您的用户需要一段时间才能登录，然后才能通过 [!DNL Device Graph] 来识别他们并将他们的设备映射到一起。 CDA 使用 30 天的回顾时段，以便能够将之前未识别的访客重述为过去 30 天内的人员。
 
 这有什么用呢？ 回想一下上面讨论中的 Isabelle 的用户历程：
 
 ![[!DNL Cross-Device Analytics]历程](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-Isabelle可能直到购买前才登录，并且 [!DNL Device Graph] 伊莎贝尔购买后的某个时候，才把他的设备贴在一起。 不过，CDA 的 30 天回顾允许 CDA 在人员级别重述 Isabelle 过去的行为，并为您提供所需的 Isabelle 历程的跨设备视图。
+有可能是 Isabelle 在购买之前没有登录，并且 [!DNL Device Graph] 直到 Isabelle 购买后的某个时间才将其设备映射到一起。不过，CDA 的 30 天回顾允许 CDA 在人员级别重述 Isabelle 过去的行为，并为您提供所需的 Isabelle 历程的跨设备视图。
 
 >[!NOTE]
 >
@@ -98,10 +98,10 @@ Isabelle可能直到购买前才登录，并且 [!DNL Device Graph] 伊莎贝尔
 
 CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/cn/legal/product-descriptions/adobe-analytics.html) 中。 从 2019 年 9 月开始，满足下面列出的先决条件的 [!DNL Analytics Ultimate] 客户有资格使用 CDA。 CDA 的先决条件如下所示：
 
-* 贵公司必须使用 [!DNL Adobe Experience Platform Identity Service Device Graph].
-* 您必须实施 [!DNL Device Graph] 包括 [Experience CloudID(ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hans) 和ID与图表同步。
-* 目前无法将两个 IMS 组织与单个[!DNL Device Graph]结合使用，因此您必须在单个 IMS 组织上进行标准化。 
-* 的 [!DNL Device Graph]，以及CDA的某些组件在 [!DNL Microsoft Azure]. 这意味着 [!DNL Analytics] 数据在 Adobe 的数据处理中心和 Adobe 在 [!DNL Microsoft Azure] 中的状态之间来回复制。 一些 [!DNL Analytics] 数据将存储在 [!DNL Azure] 中。 您的公司必须同意此安排。
+* 您的公司必须使用 [!DNL Adobe Experience Platform Identity Service Device Graph]。
+* 您必须实施 [!DNL Device Graph] 所需的一切，包括 [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html) 以及与图表同步的 ID。
+* 目前无法将两个 IMS 组织与单个 [!DNL Device Graph] 结合使用，因此您必须在单个 IMS 组织上进行标准化。
+* [!DNL Device Graph] 以及某些 CDA 组件托管于 [!DNL Microsoft Azure] 中。这意味着 [!DNL Analytics] 数据在 Adobe 的数据处理中心和 Adobe 在 [!DNL Microsoft Azure] 中的状态之间来回复制。 一些 [!DNL Analytics] 数据将存储在 [!DNL Azure] 中。 您的公司必须同意此安排。
 * CDA 需要“跨设备”[!UICONTROL 报表包]。 也就是说，用于 CDA 的[!UICONTROL 报表包]必须包括来自多种不同的设备类型或“表面”的数据，例如桌面 Web、移动 Web 和移动应用程序。 自 2019 年 9 月起，此[!UICONTROL 报表包]的服务器调用量必须等于或少于 100MM 服务器调用数/天。 （服务器调用量限制将在未来几个月内增加。）
 
 ## 解释跨设备数据
