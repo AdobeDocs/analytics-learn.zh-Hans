@@ -1,22 +1,22 @@
 ---
-title: 组合图在Analysis Workspace
-description: 了解Analysis Workspace中的组合图可视化图表。 通过组合图表可视化，可轻松快速地构建比较可视化图表，而无需先构建表格。您可以通过线条/条形组合轻松查看数据趋势。
+title: Analysis Workspace 中的组合图表
+description: 了解 Analysis Workspace 中的组合图表可视化。 通过组合图表可视化，无需事先构建表格，即可轻松而快速地构建比较可视化。可在线条/条形组合中轻松地查看您数据中的趋势。
 feature: Visualizations
 role: User
 level: Beginner
 kt: 11111
 thumbnail: 3409159.jpg
 source-git-commit: 7bfb42fa1896b31ec291fd1cddc02da73da3af8c
-workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 74%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
 
-# 组合图在Analysis Workspace
+# Analysis Workspace 中的组合图表
 
-了解Analysis Workspace中的组合图可视化图表。 通过组合图表可视化，可轻松快速地构建比较可视化图表，而无需先构建表格。您可以通过线条/条形组合轻松查看数据趋势。
+了解 Analysis Workspace 中的组合图表可视化。 通过组合图表可视化，无需事先构建表格，即可轻松而快速地构建比较可视化。可在线条/条形组合中轻松地查看您数据中的趋势。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409159/?quality=12&learn=on)
 
