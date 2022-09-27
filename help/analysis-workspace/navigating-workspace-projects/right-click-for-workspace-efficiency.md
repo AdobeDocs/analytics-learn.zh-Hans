@@ -2,19 +2,15 @@
 title: 用右键单击提高 Workspace 效率
 description: 了解我们喜欢的各种 Analysis Workspace 右键单击及其用法。 从自由格式表到流失可视化图表，右键单击操作可以让您更高效、更熟练地在工作区中进行操作。
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
 role: User
 level: Beginner
 exl-id: 4f0ce6d2-4ce4-4aa7-907d-efcaab958674
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '66'
-ht-degree: 100%
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 78%
 
 ---
 
@@ -23,3 +19,7 @@ ht-degree: 100%
 了解我们喜欢的各种 Analysis Workspace 右键单击及其用法。 从[!UICONTROL 自由格式表]到[!UICONTROL 流失可视化图表]，右键单击将使您在 [!DNL Workspace] 中更加高效和熟练。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
+
+>[!INFO]
+>
+> 此视频是课程的一部分： [自由格式表，进行分析的基础](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在Experience League上免费使用！

@@ -2,19 +2,15 @@
 title: Analysis Workspace 中的“快速见解”面板
 description: “快速见解”可为非分析人员和 Analysis Workspace 的新用户了解如何快速轻松地回答业务问题提供指导。
 feature: Panels
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 37248.jpg
 kt: 5838
 role: User
 level: Beginner
 exl-id: af6da0a2-9273-480c-a915-bd5bab7d5c5d
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+workflow-type: tm+mt
+source-wordcount: '93'
+ht-degree: 79%
 
 ---
 
@@ -25,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html)。
+
+>[!INFO]
+>
+> 此视频是课程的一部分： [自由格式表，进行分析的基础](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在Experience League上免费使用！

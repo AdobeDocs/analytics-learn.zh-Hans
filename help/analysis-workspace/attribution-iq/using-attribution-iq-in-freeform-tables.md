@@ -2,19 +2,15 @@
 title: 在自由格式表中使用 Attribution IQ
 description: Attribution IQ 允许您在自由格式列上动态地将归因模型更改为十个基于规则的模型中的任一模型。
 feature: Attribution
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+workflow-type: tm+mt
+source-wordcount: '104'
+ht-degree: 81%
 
 ---
 
@@ -32,3 +28,7 @@ ht-degree: 100%
 * [!DNL Adobe Analytics Select]
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
+
+>[!INFO]
+>
+> 此视频是课程的一部分： [自由格式表，进行分析的基础](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在Experience League上免费使用！
