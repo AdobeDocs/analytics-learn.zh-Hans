@@ -10,10 +10,10 @@ kt: 4102
 role: User
 level: Beginner
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 82%
 
 ---
 
@@ -24,3 +24,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html)。
+
+>[!INFO]
+>
+> 此视频是课程的一部分： [开始使用Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)，可在Experience League上免费使用！
