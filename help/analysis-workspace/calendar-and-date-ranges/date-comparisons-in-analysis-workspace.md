@@ -7,10 +7,10 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '134'
-ht-degree: 100%
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 84%
 
 ---
 
@@ -26,4 +26,9 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 这段视频是可在 Experience League 上免费观看的[分析基础之自由格式表](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)课程的一部分！
+> 此视频包含在以下两个课程中：
+>
+> * [自由格式表 - 分析的基础](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+> * [使用自定义分段和日期过滤数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
+>
+> 两者都可免费Experience League!
