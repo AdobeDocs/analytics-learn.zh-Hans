@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 976119f0-16b7-4d36-8d0e-0a552c83a614
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 75%
 
 >[!INFO]
 >
-> 此视频是课程的一部分： [自由格式表，进行分析的基础](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在Experience League上免费使用！
+> 这段视频是可在 Experience League 上免费观看的[分析基础之自由格式表](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)课程的一部分！
