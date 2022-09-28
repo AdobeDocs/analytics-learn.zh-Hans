@@ -4,14 +4,13 @@ description: 利用此可视化图表，您可以查看维度的多个指标之�
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334459.jpg
 kt: 8188
 exl-id: 6c9aa05b-ada3-489c-832f-bf9438dd3572
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '87'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=zh-Hans)。
+
+>[!INFO]
+>
+> 此视频是课程的一部分： [使用可视化图表讲述您的数据故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)，可在Experience League上免费使用！

@@ -4,14 +4,13 @@ description: 在本视频中，我们将讨论在 Analysis Workspace 内的项�
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334308.jpg
 kt: 8129
 exl-id: da2789de-ded1-4661-9b1f-46e3f3a0857e
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '111'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 85%
 
 ---
 
@@ -22,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bar.html?lang=zh-Hans)。
+
+>[!INFO]
+>
+> 此视频是课程的一部分： [使用可视化图表讲述您的数据故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)，可在Experience League上免费使用！

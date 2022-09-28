@@ -7,10 +7,10 @@ kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '127'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '129'
+ht-degree: 84%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 这段视频是可在 Experience League 上免费观看的[分析基础之自由格式表](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)课程的一部分！
+> 此视频是课程的一部分： [使用可视化图表讲述您的数据故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)，可在Experience League上免费使用！
