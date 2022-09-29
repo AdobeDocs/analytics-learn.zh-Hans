@@ -2,20 +2,15 @@
 title: 在 Analysis Workspace 中将不同的 Attribution IQ 模型与区段结合使用
 description: 在本视频中，您将了解如何将 Attribution IQ 模型与网站上的 Adobe Analytics 区段结合使用。
 feature: Attribution
-topics: null
-activity: use
-doc-type: feature video
-author: Doug Moore
-team: Technical Marketing
 thumbnail: 23743.jpg
 kt: 1707
 role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 84%
 
 ---
 
@@ -26,3 +21,8 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12)
 
 在网站上进行分析时，您通常会使用区段来关注一组特定的访客、访问或点击。 在执行此操作时，您现在应再执行一个步骤，即考虑哪种归因模型最适合与区段、量度和综合报表结合使用。
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [使用自定义分段和日期过滤数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)，可在Experience League上免费使用！
+

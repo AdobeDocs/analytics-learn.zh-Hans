@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 333043.jpg
 kt: 7709
 exl-id: 91d8ae87-b5cb-4d65-a59b-04dd2674a5a5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '109'
+ht-degree: 79%
 
 ---
 
@@ -23,3 +23,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html)。
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [报表包在Adobe Analytics中的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，可在Experience League上免费使用！

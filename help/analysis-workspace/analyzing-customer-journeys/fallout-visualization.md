@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: ht
-source-wordcount: '110'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 83%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hans)。
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)，可在Experience League上免费使用！

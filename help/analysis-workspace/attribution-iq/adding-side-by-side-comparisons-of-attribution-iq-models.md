@@ -11,10 +11,10 @@ kt: 1705
 role: User
 level: Intermediate
 exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '64'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 75%
 
 ---
 
@@ -23,3 +23,7 @@ ht-degree: 100%
 在本视频中，了解如何快速比较 [!DNL Attribution IQ models]，包括一个自动创建的列，该列显示两个模型的数字之间的百分比差异。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12)
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)，可在Experience League上免费使用！

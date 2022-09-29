@@ -11,10 +11,10 @@ kt: 6278
 role: User
 level: Beginner
 exl-id: fe7d41f1-a6ec-4601-9266-b4c3aa6a6963
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '121'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 83%
 
 ---
 
@@ -24,4 +24,8 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
-有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)。
+有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=zh-Hans)。
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [导出Adobe Analytics数据并实现其大众化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)，可在Experience League上免费使用！

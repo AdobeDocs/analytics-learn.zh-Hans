@@ -12,10 +12,10 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 71050e4f-a6e3-4fe2-88dd-866d207f6c7c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 85%
 
 ---
 
@@ -24,3 +24,7 @@ ht-degree: 100%
 Adobe Analytics 用户只需要对正确数据的访问权限。 了解如何使用 [!UICONTROL Admin Console]，以确保用户只能访问其角色所必需的报表包。 执行 [Adobe Admin Console](https://adminconsole.adobe.com/) 中的这些快速步骤，在您的组织中创建特定于报表包的产品配置文件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [报表包在Adobe Analytics中的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，可在Experience League上免费使用！

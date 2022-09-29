@@ -7,10 +7,10 @@ kt: 2105
 role: User
 level: Beginner
 exl-id: 01d83596-7de8-4b12-96e7-1770804b99dc,77a96a0a-f4a4-402e-b245-bfb83622a7e7
-source-git-commit: 024d1f9e6f44de4f5e56213401d13a2e75c76b6b
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 78%
 
 ---
 
@@ -19,3 +19,8 @@ ht-degree: 100%
 本视频说明如何在 Analysis Workspace 中将项目用户限制到其使用工具处理的一个或多个特定区段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24038/?quality=12)
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [使用自定义分段和日期过滤数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)，可在Experience League上免费使用！
+

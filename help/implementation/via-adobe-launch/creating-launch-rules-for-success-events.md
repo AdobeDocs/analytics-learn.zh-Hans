@@ -10,10 +10,10 @@ kt: 3591
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 84%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 本视频说明如何使用 [!DNL Experience Platform Launch] 跟踪您网站上的转化事件（AKA 成功事件）。 它通过在示例站点上跟踪应用程序进程这一用例来说明这一点。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12)
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [引导式Analytics实施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)，可在Experience League上免费使用！

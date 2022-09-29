@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 340789.jpg
 kt: 9623
 exl-id: 986707b8-3af4-4157-9afb-4ff95cb8705a
-source-git-commit: 9836913129127648ffda01fec5b60240f5de5870
-workflow-type: ht
-source-wordcount: '92'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 81%
 
 ---
 
@@ -27,3 +27,7 @@ ht-degree: 100%
 >为了最大化 Attribution IQ 和 Customer Journey Analytics 的营销渠道效率，我们发布了一些[修订后的最佳实践](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=zh-Hans)。
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html?lang=zh-Hans)。
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [报表包在Adobe Analytics中的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，可在Experience League上免费使用！

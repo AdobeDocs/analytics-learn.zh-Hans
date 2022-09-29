@@ -7,10 +7,10 @@ kt: 2349
 role: User
 level: Beginner
 exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
-source-git-commit: e04bfe38ba95485180e1f5e2587d6e26518c339b
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 83%
 
 ---
 
@@ -21,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/activity-map.html?lang=zh-Hans)。
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [报表包在Adobe Analytics中的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，可在Experience League上免费使用！

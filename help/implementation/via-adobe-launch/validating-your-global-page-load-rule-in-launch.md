@@ -10,10 +10,10 @@ kt: 3589
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 86%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 当您在网站上实施 Adobe Analytics 时，Adobe 建议您验证您在此过程中所执行的操作。 可使用 [!DNL Experience Cloud debugger] 完成此任务。本视频说明如何使用[!DNL debugger]验证全局页面加载[!UICONTROL 规则]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12)
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [引导式Analytics实施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)，可在Experience League上免费使用！

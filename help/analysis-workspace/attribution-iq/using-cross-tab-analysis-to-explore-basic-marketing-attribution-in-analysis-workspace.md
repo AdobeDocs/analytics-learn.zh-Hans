@@ -2,7 +2,6 @@
 title: 使用跨选项卡分析来探索 Analysis Workspace 中的基本营销归因
 description: 您可以使用 Adobe Analytics 中的多种方式将归因方法提升到新的高度。 在此视频中，我们将重点介绍如何使用工作区中的跨选项卡分析，从营销渠道报表中获得更加深入的分析。
 feature: Marketing Channels
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '288'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '314'
+ht-degree: 92%
 
 ---
 
@@ -38,5 +37,8 @@ ht-degree: 100%
 * 3:20 — 跨选项卡维度在删除时会自动动态变化，这意味着其值会随着时间的推移而改变。 对于此分析，最好是改为引入静态列。 观看本视频的 6:33 部分以详细了解动态列：[自由格式表中的行和列设置](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 — 现在可以批量（而不是逐个）更新列设置。 观看本视频的 8:45 部分以了解详情：[自由格式表中的行和列设置](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
-
 有关此主题的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html)。
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)，可在Experience League上免费使用！

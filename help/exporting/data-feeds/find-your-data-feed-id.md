@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 335747.jpg
 kt: KT-8464
 exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 81%
 
 ---
 
@@ -20,5 +20,8 @@ ht-degree: 100%
 
 有时，如果数据馈送交付失败或请求重新发送数据馈送文件，则您可能需要联系 Adobe。 如果客户提供了数据馈送 ID，客户支持团队便能轻松处理此类请求。
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [导出Adobe Analytics数据并实现其大众化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)，可在Experience League上免费使用！

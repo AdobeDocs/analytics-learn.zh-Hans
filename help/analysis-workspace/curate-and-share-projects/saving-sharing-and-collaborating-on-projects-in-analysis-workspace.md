@@ -7,10 +7,10 @@ kt: 4108
 role: User
 level: Beginner
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: ht
-source-wordcount: '105'
-ht-degree: 100%
+source-git-commit: a890d4d9883ee17dfe4a89ab64d9dad8340eacb0
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 74%
 
 ---
 
@@ -24,4 +24,5 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 这段视频是可在 Experience League 上免费观看的 [Analysis Workspace 快速入门](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)课程的一部分！
+> 此视频是多个课程的一部分 [开始使用Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) 和 [导出Adobe Analytics数据并实现其大众化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) 免费Experience League!
+

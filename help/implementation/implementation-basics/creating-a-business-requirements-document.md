@@ -1,6 +1,6 @@
 ---
 title: 创建业务要求文档
-description: '了解定义您要在 Adobe Analytics 中捕获并分析的行为数据的最重要步骤。您的业务关于访问者如何使用您的数字财产需要了解哪些方面？首先写下这些要求，然后决定将如何使用 Analytics 事件、维度和指标捕获这些要求。 '
+description: 了解定义您要在 Adobe Analytics 中捕获并分析的行为数据的最重要步骤。您的业务关于访问者如何使用您的数字财产需要了解哪些方面？首先写下这些要求，然后决定将如何使用 Analytics 事件、维度和指标捕获这些要求。
 feature: Implementation Basics
 team: Technical Marketing
 kt: 3580
@@ -8,10 +8,10 @@ thumbnail: 28758.jpg
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
-workflow-type: ht
-source-wordcount: '145'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '165'
+ht-degree: 90%
 
 ---
 
@@ -24,3 +24,7 @@ ht-degree: 100%
 [下载](assets/aa-implementation-playbook.xlsx)一个示例 Excel 模板以记录您数字财产的要求和数据收集设计。
 
 [下载](assets/geometrixx-clothiers-brd-sdr.xlsx)在此视频中展示的 Excel 文档和/或观看相关的[解决方案设计参考视频](creating-and-maintaining-an-sdr.md)。
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [引导式Analytics实施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)，可在Experience League上免费使用！

@@ -9,16 +9,19 @@ doc-type: feature video
 thumbnail: 335744.jpg
 kt: KT-8462
 exl-id: fd28c2dc-4f4e-430a-a88b-42e44e3e6dda
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 83%
 
 ---
 
 # 管理即将到来的流量尖峰
 
-Adobe 尝试与客户合作，确保高流量活动取得成功。计划好流量尖峰是合作过程的起点。您可以通过计划流量尖峰部分提醒 Adobe 出现临时流量尖峰，以便可以分配适合的资源来处理。
-
+Adobe 尝试与客户合作，确保高流量活动取得成功。计划好流量尖峰是合作过程的起点。您可以通过安排流量尖峰部分提醒 Adobe 出现临时流量尖峰，以便可以分配适合的资源来处理。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)
+
+>[!INFO]
+>
+> 此视频是课程的一部分 [报表包在Adobe Analytics中的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，可在Experience League上免费使用！
