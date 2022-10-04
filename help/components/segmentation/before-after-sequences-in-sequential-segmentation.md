@@ -7,9 +7,9 @@ thumbnail: 25400.jpg
 role: User
 level: Beginner
 exl-id: 2f305779-9a19-4603-8be7-3a5e3bf634ab
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '90'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
@@ -20,10 +20,8 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12)
 
-## 相关视频
-
-[Adobe Analytics 中的顺序分段](sequential-segmentation.md)
-
-## 其他信息
-
 有关此主题的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=zh-Hans)。
+
+>[!INFO]
+>
+> 这段视频包含在[使用自定义细分和日期过滤您的数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)课程中，可在 Experience League 上免费观看！
