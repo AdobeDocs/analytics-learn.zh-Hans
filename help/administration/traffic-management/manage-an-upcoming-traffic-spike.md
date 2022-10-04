@@ -10,9 +10,9 @@ thumbnail: 335744.jpg
 kt: KT-8462
 exl-id: fd28c2dc-4f4e-430a-a88b-42e44e3e6dda
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Adobe 尝试与客户合作，确保高流量活动取得成功。计划好流�
 
 >[!INFO]
 >
-> 此视频是课程的一部分 [报表包在Adobe Analytics中的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，可在Experience League上免费使用！
+> 这段视频包含在 [Adobe Analytics 中报表包的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)课程中，可在 Experience League 上免费观看！
