@@ -9,9 +9,9 @@ role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
 source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 80%
 
 >[!INFO]
 >
-> 此视频包含在以下两个课程中：
-> * [Analysis Workspace 入门](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
-> * [使用自定义分段和日期过滤数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
+> 该视频是两门课程的一部分：
+> * [Analysis Workspace 快速入门](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
+> * [使用自定义分段和日期筛选您的数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
 >
-> 两者都可免费Experience League!
+> 这两门课程都可以在 Experience League 上免费观看！
