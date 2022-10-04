@@ -9,9 +9,9 @@ thumbnail: 25452.jpg
 kt: 2353
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Adobe Analytics [!UICONTROL 数据馈送] 允许您导出原始点击流数据�
 
 >[!INFO]
 >
-> 此视频是课程的一部分 [导出Adobe Analytics数据并实现其大众化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)，可在Experience League上免费使用！
+> 这段视频包含在[导出 Adobe Analytics 数据并使其大众化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)课程中，可在 Experience League 上免费观看！
