@@ -7,9 +7,9 @@ thumbnail: 25405.jpg
 role: User
 level: Beginner
 exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '163'
+source-wordcount: '178'
 ht-degree: 100%
 
 ---
@@ -20,10 +20,8 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
 
-## 相关视频
-
-[在顺序分段中的序列之前和之后](before-after-sequences-in-sequential-segmentation.md)
-
-## 其他信息
-
 有关此主题的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=zh-Hans)。
+
+>[!INFO]
+>
+> 这段视频包含在[使用自定义细分和日期过滤您的数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)课程中，可在 Experience League 上免费观看！
