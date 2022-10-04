@@ -9,9 +9,9 @@ thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 80%
 
 >[!INFO]
 >
-> 此视频是多门课程的一部分， [报表包在Adobe Analytics中的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) 和 [实施和衡量内部站点搜索](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search)，可在Experience League上免费使用！
+> 这段视频包含在[Adobe Analytics 中报表包的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)和[实施和衡量内部站点搜索](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search)多个课程中，可在 Experience League 上免费观看！
