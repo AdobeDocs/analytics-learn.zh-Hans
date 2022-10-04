@@ -3,14 +3,13 @@ title: 分段中的维度模型
 description: 可通过分段中任何维度的齿轮使用维度模型。 这些模型主要有助于顺序分段，并允许您针对维度的保留值（默认）、实例或维度的非重复实例进行分段。
 feature: Segmentation
 thumbnail: 32958.jpg
-team: Technical Marketing
 kt: 4846
 role: User
 level: Beginner
 exl-id: d42f74a9-aa77-4f47-a1a2-f14bd6061996
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '86'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -20,3 +19,7 @@ ht-degree: 100%
 可通过分段中任何[!UICONTROL 维度]的齿轮使用[!UICONTROL 维度]模型。 这些模型主要有助于顺序分段，并允许您针对[!UICONTROL 维度]的保留值（默认）、实例或[!UICONTROL 维度]的非重复实例进行分段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12)
+
+>[!INFO]
+>
+> 这段视频包含在[使用自定义细分和日期过滤您的数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)课程中，可在 Experience League 上免费观看！
