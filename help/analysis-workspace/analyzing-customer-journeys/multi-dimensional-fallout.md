@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -28,6 +28,6 @@ Analysis Workspace 中的[!DNL Fallout]允许您将维度和量度作为漏斗�
 
 >[!INFO]
 >
-> 此视频是课程的一部分 [将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)，可在Experience League上免费使用！
+> 这段视频包含在[将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)课程中，可在 Experience League 上免费观看！
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=zh-Hans)。
