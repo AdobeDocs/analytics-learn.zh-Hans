@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 75%
 
 >[!INFO]
 >
-> 此视频是课程的一部分 [将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)，可在Experience League上免费使用！
+> 这段视频包含在[将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)课程中，可在 Experience League 上免费观看！
