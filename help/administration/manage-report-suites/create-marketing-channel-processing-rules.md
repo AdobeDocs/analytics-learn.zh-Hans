@@ -10,9 +10,9 @@ thumbnail: 340792.jpg
 kt: 9624
 exl-id: fc07dd0f-76dd-40a6-b8f2-e777eac2473b
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -30,4 +30,4 @@ ht-degree: 79%
 
 >[!INFO]
 >
-> 此视频是课程的一部分 [报表包在Adobe Analytics中的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，可在Experience League上免费使用！
+> 这段视频包含在 [Adobe Analytics 中报表包的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)课程中，可在 Experience League 上免费观看！
