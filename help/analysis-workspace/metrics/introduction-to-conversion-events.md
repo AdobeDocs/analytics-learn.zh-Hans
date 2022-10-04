@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 3f2876fe-d7da-47d3-a23d-0d8f790f7f5b
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 80%
 
 >[!INFO]
 >
-> 此视频是课程的一部分 [引导式Analytics实施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)，可在Experience League上免费使用！
+> 这段视频包含在[引导式分析实施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)课程中，可在 Experience League 上免费观看！
