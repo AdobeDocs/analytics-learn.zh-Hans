@@ -7,9 +7,9 @@ kt: 2305
 role: User
 level: Beginner
 exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '99'
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
@@ -21,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=zh-Hans)。
+
+>[!INFO]
+>
+> 这段视频包含在[使用自定义细分和日期过滤您的数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)课程中，可在 Experience League 上免费观看！
