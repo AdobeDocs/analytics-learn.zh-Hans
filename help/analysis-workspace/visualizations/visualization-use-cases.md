@@ -8,9 +8,9 @@ thumbnail: 334096.jpg
 kt: 8062
 exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 79%
 
 >[!INFO]
 >
-> 此视频是课程的一部分： [使用可视化图表讲述您的数据故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)，可在Experience League上免费使用！
+> 这段视频包含在[使用可视化来讲述您的数据故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)课程中，可在 Experience League 上免费观看！
