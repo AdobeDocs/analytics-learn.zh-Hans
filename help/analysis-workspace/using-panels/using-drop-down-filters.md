@@ -2,18 +2,14 @@
 title: 在 Analysis Workspace 中使用下拉筛选器
 description: 在本视频中，您将了解如何使用 Analysis Workspace 中的下拉筛选器来动态更改面板的内容。
 feature: Panels
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 23877.jpg
 kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '177'
+source-wordcount: '203'
 ht-degree: 100%
 
 ---
@@ -28,4 +24,8 @@ ht-degree: 100%
 
 下拉列表也是整合项目和面板的有用方式。例如，如果您有某个提供了国家/地区特定的报告的项目的多个版本，您现在可以将这些项目折叠成一个项目，并添加到国家/地区下拉列表中以供用户切换。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=zh-Hans)。
+
+>[!INFO]
+>
+> 这段视频包含在[使用自定义细分和日期过滤您的数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)课程中，可在 Experience League 上免费观看！
