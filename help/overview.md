@@ -1,6 +1,6 @@
 ---
 title: Analytics 的视频和教程
-description: '充分利用 Adobe Analytics。通过这些教程掌握 Analytics 的各项功能并使您的公司享受其带来的益处。此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。 '
+description: 充分利用 Adobe Analytics。通过这些教程，您可以了解Analytics的功能并从中获益。 此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
-workflow-type: ht
-source-wordcount: '345'
-ht-degree: 100%
+source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
+workflow-type: tm+mt
+source-wordcount: '320'
+ht-degree: 80%
 
 ---
 
@@ -19,9 +19,10 @@ ht-degree: 100%
 
 # Analytics 教程
 
-充分利用 [!DNL Adobe Analytics]。通过这些教程掌握 Analytics 的各项功能并使您的公司享受其带来的益处。此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。
+充分利用 [!DNL Adobe Analytics]。通过这些教程，您可以了解Analytics的功能并从中获益。 此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。
 
 要开始使用，
+
 * 请参考下方的&#x200B;**“新增功能”**&#x200B;部分，以查看最新的更新和功能。
 * **员工精选**&#x200B;重点介绍我们喜爱的一些内容
 * 在&#x200B;**左侧导航**&#x200B;中按主题和副标题浏览内容
@@ -31,14 +32,11 @@ ht-degree: 100%
 
 ## 新增功能
 
-* **[Adobe Analytics 移动记分卡生成器（视频）](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
-   *了解如何在 [!DNL Analysis Workspace] 中为您的管理层用户创建和分享移动记分卡。*
-
 * **[Adobe Analytics 移动记分卡应用程序](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
    *了解如何下载移动记分卡应用程序并查看在 [!DNL Analysis Workspace] 中创建的移动记分卡。*
 
 * **[工作区中的注释（视频）](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *[!DNL Analysis Workspace] 注释使您能够有效地将上下文数据的细微差别和见解传达给您的组织中的用户。用已知的数据问题、公共假日、活动启动等批注日期或日期范围，以便更好地告知用户他们为什么会看到折线图、表格等中的相关内容。*
+   *[!DNL Analysis Workspace] 注释使您能够有效地将上下文数据的细微差别和见解传达给您的组织中的用户。在日期或日期范围中添加已知数据问题、公共假日、营销活动启动次数等的批注。 这会告知用户为什么在折线图、表格等中看到不规则。*
 
 ## 员工精选
 

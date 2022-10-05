@@ -1,6 +1,6 @@
 ---
-title: '在 Adobe Analytics 中跟踪单页面应用程序 (SPA) 时使用最佳实践 '
-description: 在本文档中，我们将描述您在使用 Adobe Analytics 跟踪单页面应用程序 (SPA) 时应遵循和注意的几个最佳实践。 本文档将重点介绍如何使用 Experience Platform Launch（这是推荐的实施方法）。
+title: 单页应用程序(SPA)的实施最佳实践
+description: 了解在单页应用程序(SPA)上实施Adobe Analytics的一些最佳实践。 这包括使用Experience Platform标记，推荐实施方法。
 feature: Implementation Basics
 topics: spa
 activity: implement
@@ -11,33 +11,33 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '1669'
-ht-degree: 100%
+source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+workflow-type: tm+mt
+source-wordcount: '1313'
+ht-degree: 2%
 
 ---
 
-# 在 Adobe Analytics 中跟踪单页面应用程序 (SPA) 时使用最佳实践 {#using-best-practices-when-tracking-spa-in-adobe-analytics}
+# 单页应用程序(SPA)的实施最佳实践 {#implementation-best-practices-for-single-page-appliations}
 
-在本文档中，我们将描述您在使用 Adobe Analytics 跟踪单页面应用程序 (SPA) 时应遵循和注意的几个最佳实践。 本文档将重点介绍如何使用 Adobe [!DNL Experience Platform Launch]（这是推荐的实施方法）。
+了解实施的一些最佳实践 [!DNL Adobe Analytics] (SPA)。 这包括使用 [!DNL Experience Platform Tags]，推荐的实施方法。
 
 初始说明：
 
-* 以下项目将假设您使用 [!DNL Experience Platform Launch] 在您的网站上实施。如果您未使用 [!DNL Experience Platform Launch]，则这些注意事项仍然存在，但您需要根据实施方法调整它们。
-* 所有 SPA 都是不同的，因此您可能需要调整下面的一些项目以最好地满足您的需求，但我们想与您分享一些最佳实践；在 SPA 页面上实施 Adobe Analytics 时需要考虑的事项。
+* 以下内容引用了 [!DNL Experience Platform Tags] 在您的网站上实施Adobe Analytics。 如果 [!DNL Experience Platform Tags] 因此，您必须将其调整为实施方法。
+* SPA中存在差异，因此您应该相应地调整方法以最好地满足您的需求。
 
-## 在 [!DNL Experience Platform Launch] 中使用 SPA 的简单图表 {#simple-diagram-of-working-with-spas-in-launch}
+## 在 [!DNL Experience Platform Tags] 中使用 SPA 的简单图表 {#simple-diagram-of-working-with-spas-in-tags}
 
-![Launch 中的 SPA for Analytics](assets/spa_for_analyticsinlaunch.png)
+![SPA for analytics用于标记](assets/spa_for_analyticsinlaunch.png)
 
-**注意：**&#x200B;如前所述，这是一个简化的图表，说明了如何在 Adobe Analytics 实施中使用 [!DNL Experience Platform Launch] 处理 SPA 页面。 在本页面的以下部分中，我们将讨论您应仔细考虑或采取行动的步骤和任何问题。
+**注意：** 这是一个简化的图表，用于说明在Adobe Analytics实施中如何使用 [!DNL Experience Platform Tags]. 以下各节确定了要考虑的步骤和问题。
 
-## 设置数据层 {#setting-the-data-layer}
+## 设置数据层 {#set-the-data-layer}
 
-在 SPA 页面上加载新内容或在 SPA 页面上执行操作时，您首先要执行的操作之一是更新数据层。 此操作需要在自定义事件触发 [!DNL Experience Platform Launch] 中的规则之前执行，以便 [!DNL Experience Platform Launch] 能够从数据层中获取新值并将它们推送到 Adobe Analytics 中。
+加载新内容或在SPA页面上执行操作时， *首先更新数据层*. 这必须发生 **之前** 触发规则的自定义事件在 [!DNL Experience Platform Tags]. 这可确保将数据层中的正确值依次推送到标记和Adobe Analytics。
 
-下面是一个示例数据层，其元素可以根据您的 SPA 上的视图更改或操作进行更改。 例如，在进行所有/大多数屏幕更改时，通常会更改“[!DNL pageName]”元素，以便在 [!DNL Experience Platform Launch] 中捕获新元素并将其发送到 Adobe Analytics 中。
+下面是一个示例数据层。 任何这些元素都可能会根据初始视图进行更改，或者在SPA页面上执行相应操作后对视图进行后续更改。 例如，对于完全视图或大部分视图更改，通常要求在“”中传递[!DNL pageName]值以区分Adobe Analytics报表中的各种视图。
 
 ```JavaScript
 <script>
@@ -73,72 +73,72 @@ ht-degree: 100%
     </script>
 ```
 
-## 在 [!DNL Experience Platform Launch] 中设置自定义事件和监听 {#setting-custom-events-and-listening-in-launch}
+## 设置自定义事件，并在 [!DNL Experience Platform Tags] {#setting-custom-events-and-listening-in-tags}
 
-在页面上加载新内容或在网站上执行操作时，您将需要通知 [!DNL Experience Platform Launch]，以便它能运行规则并将数据发送到 [!DNL Analytics]。 可通过几种不同的方法做到这一点：[!UICONTROL 直接调用][!UICONTROL 规则]或自定义事件。
+当新内容加载或SPA页面上发生操作时，需要通知Experience Platform标记才能运行将数据发送到的规则 [!DNL Analytics]. 这有几种方法： [!UICONTROL 直接调用规则] 或自定义事件。
 
-* [!UICONTROL 直接调用][!UICONTROL 规则]：在 [!DNL Experience Platform Launch] 中，您可以设置[!UICONTROL 直接调用][!UICONTROL 规则]，此规则将在直接从页面调用时执行。 如果网站上的页面加载或操作非常简单，或如果它是唯一的并且每次都会执行一组特定的指令（每次将 [!DNL eVar4] 设置为 X 并触发 [!DNL event2]），则可以使用[!UICONTROL 直接调用][!UICONTROL 规则]。 请参阅有关创建[!UICONTROL 直接调用][!UICONTROL 规则]的 [!DNL Experience Platform Launch] 文档。
-* 自定义事件：要获得更多功能以及动态附加具有不同值的负载的能力，您应设置自定义 JavaScript 事件并在 [!DNL Experience Platform Launch]（您可以在其中使用负载设置变量并将数据发送到 Adobe Analytics 中）中监听这些事件。 您更有可能需要此功能，因此该选项被视为最佳实践。 但您网站上的每项功能均能确定哪种方法最合适。 假设您将需要使用此自定义事件方法，我们将继续浏览本文档。
+* [!UICONTROL 直接调用规则]:设置 [!UICONTROL 直接调用规则] 直接从页面调用时会执行该操作。 如果页面加载或操作简单或唯一，并且每次都可以执行一组特定的指令(例如，设置 [!DNL eVar4] X和触发器 [!DNL event2] )，则此方法是合适的。 请参阅 [!DNL Experience Platform Tags] 有关创建的更多详细信息的文档 [!UICONTROL 直接调用规则].
+* 自定义事件：如果您需要为SPA页面上发生的事件动态附加具有唯一值的有效负载，请使用自定义JavaScript事件，并在 [!DNL Experience Platform Tags]. 使用有效负载在标记中设置数据元素和Analytics变量。 此方法被视为最佳实践，因为SPA通常普遍存在这种需求。 以下示例使用自定义事件方法。
 
-**示例：**[本](https://helpx.adobe.com/cn/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)帮助文档包含已实施 [!DNL Analytics]（以及其他 Experience Cloud 解决方案）的示例 SPA 网站以及描述已实施项目的文档的链接。 在这些 SPA 示例中，使用了以下自定义事件：
+**示例：** [在此](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html) 帮助文档中，有指向实施 [!DNL Analytics] 和其他Experience Cloud解决方案。 在这些示例中，使用了以下自定义事件：
 
-* [!DNL event-view-start]：此事件将在正在加载的视图/状态的视图开始时触发。
-* [!DNL event-view-end]：即使视图/状态发生更改并且页面上的所有 SPA 组件都已完成加载，也将触发此事件。 这是通常触发对 Adobe Analytics 的调用的事件。
-* [!DNL event-action-trigger]：此事件将在页面上发生除视图/状态加载之外的任何事件时触发。 这可能是点击事件或较小内容更改而没有视图更改。
+* **[!DNL Event-view-start]**:在加载的视图/状态的视图开始时执行。
+* **[!DNL Event-view-end]**:当视图/状态发生更改且页面上的所有SPA组件都完成加载时执行。 这是一个事件，通常会将数据发送到Adobe Analytics。
+* **[!DNL Event-action-trigger]**:在页面上发生除视图/状态加载之外的任何事件时执行。 例如，点击事件或较小的内容更改，而不进行视图更改。
 
-有关如何/何时触发这些事件的更多信息，请参阅上面引用的页面/文档。 您不必使用这些相同的事件名称，此处列出的功能是推荐的最佳实践。 以下视频介绍了示例网站以及 [!DNL Experience Platform Launch] 中用于监听自定义事件的位置。
+有关这些事件如何以及何时触发的更多信息，请参阅上面引用的页面和文档。 您无需在实施中使用相同的事件名称。 要了解所用方法的功能用例是每个方法的推荐最佳实践，这一点至关重要。 以下视频演示了中的SPA页面和示例代码 [!DNL Experience Platform Tags] 用于侦听自定义事件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
 
-## 在 [!DNL Experience Platform Launch] [!UICONTROL 规则]中运行 s.t() 或 s.tl() {#running-s-t-or-s-tl-in-the-launch-rule}
+## 在 [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
 
-在使用 SPA 时应了解的 [!DNL Analytics] 的最重要事项之一是 `s.t()` 和 `s.tl()` 之间的差异。 您将触发 [!DNL Experience Platform Launch] 中的这些方法之一来将数据发送到 [!DNL Analytics] 中，但您需要知道何时发送每个数据。
+一个重要的概念 [!DNL Analytics] 使用SPA时， `s.t()` 和 `s.tl()`. 您的代码会在 [!DNL Experience Platform Tags] 将数据发送到 [!DNL Analytics].
 
-* **s.t()** —“t”表示“跟踪”，即一般页面查看。 即使 URL 可能不会发生改变，视图变更是否足以让您将它&#x200B;*视为*&#x200B;一个新的“页面”？ 如果是这样的话，请设置 s.[!DNL pageName] 变量并使用 `s.t()` 将调用发送到 [!DNL Analytics] 中
+* **s.t()** - &quot;t&quot;表示“track”，它表示页面查看。 如果视图发生足够的更改，  *考虑* 它是新的“页面”，请使用此调用。 将唯一值设置为 [!DNL s.pageName] 变量和使用 `s.t()` 将数据发送到 [!DNL Analytics].
 
-* **s.tl()** —“tl”表示“跟踪链接”，通常用于跟踪页面上的点击或少量内容变更，而不是全屏变更。 如果页面更改较少，以使您不会将它视为一个全新“页面”，可使用 `s.tl()` 且无需设置 s.pageName 变量，因为 [!DNL Analytics] 将忽略它。
+* **s.tl()** - &quot;tl&quot;表示“跟踪链接”，它表示链接点击或小内容更改。 如果视图更改极小，请使用 `s.tl()` 传递有关交互的唯一值到 [!DNL Analytics]. 传入的此变量不是 [!DNL s.pageName]，因为当 `s.tl()` 接收调用。
 
-**提示：**&#x200B;一些人员使用以下一般准则：如果屏幕变更超过 50%，则应将它视为页面查看并使用 `s.t()`。 如果屏幕变更不到 50%，则使用 `s.tl()`。 但是，这完全取决于您以及您视为新“页面”的内容以及您希望如何在 Adobe Analytics 中跟踪您的网站。
+**提示：** 作为一般准则，如果屏幕的更改超过50%，请使用 `s.t()` 页面查看调用。 否则，请使用 `s.tl()`. 但是，在考虑构成新&quot;页面&quot;的行动以及如何在Adobe Analytics报告中提出时，请作出判断。
 
-以下视频说明在何处以及如何在 Adobe Launch 中触发 `s.t()` 或 `s.tl()`。
+以下视频演示了触发位置和方式 `s.t()` 或 `s.tl()` 标记中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
 
-## 清除变量 {#clearing-variables}
+## 清除变量 {#clear-variables}
 
-在使用 Adobe Analytics 跟踪网站时，您只需在正确的时间将相应数据发送到 [!DNL Analytics] 中。 在 SPA 环境中，[!DNL Analytics] 变量中跟踪的值可以持续存在，并且可能在我们不再需要时重新发送到 [!DNL Analytics] 中。 出于这个原因，[!DNL Analytics] [!DNL Launch] 扩展包含了一个用于清除变量的函数，这样当您运行下一个图像请求并将数据发送到 [!DNL Analytics] 中时，就有了一个全新的状态。
+将正确的数据发送到 [!DNL Analytics] 在正确的时间。 在SPA环境中，存储在 [!DNL Analytics] 变量会持续存在并重新发送到 [!DNL Analytics]，可能是在您不再需要它时。 函数存在于 [!DNL Analytics] [!DNL Tags] 扩展来清除变量，以确保下次调用不会将数据快速发送到 [!DNL Analytics].
 
-在上面的图表中，我们在流程结束时列出了它，并在您在点击中发送&#x200B;*后*&#x200B;清除变量。 实际上，它可以在发送点击之前或之后完成，但应在您的 [!DNL Experience Platform Launch] 规则中保持一致，以便您始终在设置并发送变量之前或之后清除。 请记住，如果您将在运行 `s.t()` *之前*&#x200B;清除变量，请确保先清除变量，然后设置新变量，最后再将新数据发送到 [!DNL Analytics] 中。
+上图显示了已清除的变量 *after* 您发送数据。 实际上，这可能发生在调用OR之前，但请在中保持一致 [!DNL Experience Platform Tags] 更简洁的实施规则。 如果清除变量 *之前* 执行 `s.t()`，请在调用后立即设置新变量，然后继续将新数据发送到 [!DNL Analytics].
 
-**注意：**&#x200B;运行 `s.tl()` 时并不总是需要清除变量，因为 `s.tl()` 要求每次都使用 [!DNL linkTrackVars] 变量以告知 [!DNL Analytics] 将设置哪些变量（自动在 [!DNL Experience Platform Launch] 中的场景后添加）。 这意味着，在使用 `s.tl()` 时通常不会出现错误的变量，但在 SPA 环境中使用 `s.t()` 时强烈建议这样做。 正如一开始所讲的，我想推荐它作为最佳实践，在 SPA 环境中对 `s.t()` 和 `s.tl()` 使用“清除变量”函数以确保收集高质量数据。
+**注意：** 运行时并非始终需要清除变量 `s.tl()`. 此调用需要使用 [!DNL linkTrackVars] 变量 [!DNL Analytics] 要设置的变量。 这是自动发生的 [!DNL Experience Platform Tags] 通过配置。 它可防止错误的变量与 `s.t()` 调用。 为确保实施最清晰、最可靠，在SPA环境中对这两个调用使用clear variables函数可能会更容易。
 
-以下视频说明在何处以及如何在 [!DNL Launch] 中清除变量。
+以下视频演示了在何处以及如何清除 [!DNL Tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
 
 ## 其他注意事项 {#additional-considerations}
 
-### [!DNL Experience Platform Launch] 中的自定义代码窗口 {#custom-code-windows-in-launch}
+### 中的“自定义代码”窗口 [!DNL Experience Platform Tags] {#custom-code-windows-in-tags}
 
-在 [!DNL Launch] [!DNL Analytics] 扩展中，可以在以下两个位置插入自定义代码：[!UICONTROL 库管理]部分和额外的“[!UICONTROL 使用自定义代码配置跟踪程序]”部分。
+在 [!DNL Tags] [!DNL Analytics] 扩展中，可以在两个位置插入自定义代码：“[!UICONTROL 库管理]&quot;和&quot;[!UICONTROL 使用自定义代码配置跟踪器]“ ”部分。
 
-![Launch Analytics 自定义代码窗口](assets/launch_analyticscustomcodewindows.png)
+![标记Analytics自定义代码窗口](assets/launch_analyticscustomcodewindows.png)
 
-务必知道的一点是，在 SPA 页面上进行初始页面加载时，这些位置中的任一位置实际上只会在其中运行一次代码。 如果您需要对视图变更或网站上的操作运行代码，则应将其他操作添加到适当的&#x200B;**[!UICONTROL 规则]**（例如，在“page load: event-view-end”[!UICONTROL 规则]中），以使代码在[!UICONTROL 规则]运行时执行。 在[!UICONTROL 规则]中创建该操作时，请将&#x200B;*扩展设置为核心*，并将&#x200B;*操作类型设置为自定义代码*。
+其中任一位置都会运行其中包含的代码一次，以便初始页面加载您的SPA页面。 如果代码应在视图或操作发生更改时运行，请在相应的 **[!UICONTROL 规则]** (例如，“页面加载：event-view-end”规则)，以确保代码每次执行时都会执行 [!UICONTROL 规则] 运行。 在中创建操作时 [!UICONTROL 规则]，设置 *扩展=核心* 和 *操作类型=自定义代码*.
 
-### “混合”SPA/常规网站 {#hybrid-spa-regular-sites}
+### “混合”SPA和传统网站 {#hybrid-spa-and-traditional-sites}
 
-一些网站是“常规”页面和 SPA 页面的组合。 在此情况下，您将需要使用适用于两种页面类型的策略。 在网站上配置自定义事件并触发 [!DNL Experience Platform Launch] 中的规则时，请注意，根据哈希更改等，页面上不会有两次点击进入 [!DNL Analytics]。（如果这是您选择用于触发 [!DNL Experience Platform Launch] 规则的方式）。 在这种情况下，您将需要禁止其中一个页面查看，这样它就不会在 Adobe Analytics 中为您提供错误数据。
+某些网站由传统页面和SPA页面组合而成。 在本例中，请使用适用于这两种页面类型的策略。 在网站上配置自定义事件并在 [!DNL Experience Platform Tags]，请确保不会将两次点击发送到 [!DNL Analytics] 基于哈希更改等。 在这种情况下，应禁止其中一个页面查看，以防止将重复数据传递到Adobe Analytics。
 
-如果您决定将功能分解为单独的[!UICONTROL 规则]，以便您能够更好地控制它，请务必记住/记录您已完成此操作，以便对一条[!UICONTROL 规则]的所做的任何更改同样适用于另一条[!UICONTROL 规则]，并保护 [!DNL Analytics] 数据完整性。
+如果您决定将功能分隔为唯一 [!UICONTROL 规则] 要获得更多控制权，请记住记录您已完成此操作。 如果你换一个 [!UICONTROL 规则]，则对另一个进行相同的更改 [!UICONTROL 规则].
 
-### 通过 A4T 与 [!DNL Target] 集成 {#integration-with-target-via-a4t}
+### 与集成 [!DNL Target] 使用A4T {#integration-with-target-using-a4t}
 
-这里只是一个简单的标注。 如果使用 A4T 与 [!DNL Target] 集成，请确保对同一视图变更的 [!DNL Target] 请求和 [!DNL Analytics] 请求具有相同的 SDID。 这将确保您的数据在解决方案上正确地同步。
+与集成时 [!DNL Target] 使用A4T，确认 [!DNL Target] 和 [!DNL Analytics] 在同一视图或操作中发送的请求会传递相同的SDID参数值。 这可确保您的数据在后端正确同步。
 
-要查看点击数，请使用调试程序或数据包嗅探器程序。 您也可以使用 Experience Cloud Debugger，它是一个 Chrome 扩展，可从[此处](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)下载。 页面上第一个触发的是 [!DNL Target]，因此您也可以在 JavaScript 控制台或调试程序中检查它。
+要查看这些点击量，请使用调试器或数据包监控工具。 Adobe为此提供了Experience Platform调试器。 这是一个Chrome扩展，可以 [下载此处](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob?hl=en). [!DNL Target] 应该先在页面上执行。 这也可以在调试器中进行验证。
 
 ## 其他资源 {#additional-resources}
 
-* [Adobe 论坛上的 SPA 讨论](https://forums.adobe.com/thread/2451022)
-* [参考架构站点，该站点说明如何在 Experience Platform Launch 中实施 SPA](https://helpx.adobe.com/cn/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [Adobe 论坛上的 SPA 讨论](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-platform-launch/best-practices-for-single-page-apps/m-p/267940)
+* [参考架构站点，该站点说明如何在 Experience Platform Launch 中实施 SPA](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html)

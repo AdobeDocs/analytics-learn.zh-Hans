@@ -1,21 +1,20 @@
 ---
-title: 创建和维护 SDR
+title: 创建和维护解决方案设计参考(SDR)文档
 description: 解决方案设计参考 (SDR) 文档是 Analytics 针对您数字资产的业务要求和数据收集设计的蓝图。了解如何创建和维护本文档，使其作为您 Analysis 解决方案的事实来源。
 feature: Implementation Basics
-team: Technical Marketing
-kt: 3581
-thumbnail: 28754.jpg
 role: Developer, Data Engineer
 level: Beginner
+kt: 3581
+thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '145'
-ht-degree: 100%
+source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 87%
 
 ---
 
-# 创建和维护解决方案设计参考 (SDR) 文档
+# 创建和维护解决方案设计参考(SDR)文档{#create-and-maintain-a-solution-design-reference-document}
 
 解决方案设计参考 (SDR) 文档是 Analytics 针对您数字资产的业务要求和数据收集设计的蓝图。了解如何创建和维护本文档，使其作为您 Analysis 解决方案的事实来源。
 

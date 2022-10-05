@@ -1,25 +1,21 @@
 ---
 title: 首次 Adobe Analytics 实施
-landing-page-description: 此视频用几分钟时间带您经历将 Adobe Analytics 数据投入使用的过程。
-description: Adobe Analytics 的实施过程变得比以往更轻松。如果您是初次接触我们的解决方案，此视频将引导您在几分钟内完成启动和运行数据的过程。
+description: 了解如何在几分钟内启动和运行Adobe Analytics数据。
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
-kt: 2362
 role: User
 level: Beginner
+kt: 2362
+thumbnail: 25456.jpg
 exl-id: 110d2962-cbcf-4574-bd39-308f2ad33c5e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 29%
 
 ---
 
 # 首次 Adobe Analytics 实施 {#first-time-adobe-analytics-implementation}
 
-Adobe Analytics 的实施过程变得比以往更轻松。如果您是初次接触我们的解决方案，此视频将引导您在几分钟内完成启动和运行数据的过程。
+Adobe Analytics 的实施过程变得比以往更轻松。如果您是我们的解决方案的新用户，请了解如何在几分钟内启动并运行Adobe Analytics数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25456/?quality=12)
