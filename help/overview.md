@@ -1,6 +1,6 @@
 ---
 title: Analytics 的视频和教程
-description: 充分利用 Adobe Analytics。通过这些教程，您可以了解Analytics的功能并从中获益。 此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。
+description: 充分利用 Adobe Analytics。通过这些教程学习 Analytics 的各项功能并使您的公司享受其带来的益处。 此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -11,7 +11,7 @@ exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 80%
 
 # Analytics 教程
 
-充分利用 [!DNL Adobe Analytics]。通过这些教程，您可以了解Analytics的功能并从中获益。 此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。
+充分利用 [!DNL Adobe Analytics]。通过这些教程学习 Analytics 的各项功能并使您的公司享受其带来的益处。 此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。
 
 要开始使用，
 
@@ -38,7 +38,7 @@ ht-degree: 80%
    *了解如何下载移动记分卡应用程序并查看在 [!DNL Analysis Workspace] 中创建的移动记分卡。*
 
 * **[工作区中的注释（视频）](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *[!DNL Analysis Workspace] 注释使您能够有效地将上下文数据的细微差别和见解传达给您的组织中的用户。在日期或日期范围中添加已知数据问题、公共假日、营销活动启动次数等的批注。 这会告知用户为什么在折线图、表格等中看到不规则。*
+   *[!DNL Analysis Workspace] 注释使您能够有效地将上下文数据的细微差别和见解传达给您的组织中的用户。请用已知数据问题、公共假日、活动启动等注释日期或日期范围。 这会告知用户为什么他们会在折线图、表格等中看到不规则。*
 
 </div>
 
