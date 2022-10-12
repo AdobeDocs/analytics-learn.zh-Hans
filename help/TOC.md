@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
-workflow-type: ht
-source-wordcount: '2418'
-ht-degree: 100%
+source-git-commit: 7785ccc22eb4f22f14928f62ac8cae4cb27a4d71
+workflow-type: tm+mt
+source-wordcount: '2426'
+ht-degree: 99%
 
 ---
 
@@ -135,6 +135,7 @@ ht-degree: 100%
       + [向折线图可视化添加趋势线](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [地图可视化](analysis-workspace/visualizations/map-visualization.md)
       + [汇总数和汇总变更可视化图表](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [关键量度摘要可视化图表](analysis-workspace/visualizations/key-metric-summary.md)
       + [文本可视化](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [散点图可视化](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [树形图可视化](analysis-workspace/visualizations/treemap-visualization.md)
@@ -354,6 +355,7 @@ ht-degree: 100%
       + [移动记分卡可视化图表](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [应用自定义日期范围](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics 功能板应用程序内体验](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
+      + [创建自定义详细信息视图](additional-tools/analytics-dashboards/create-custom-detail-views.md)
 + 导出{#exporting}
    + 从 UI{#from-the-ui}
       + [从 Analysis Workspace 导出到 CSV](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
