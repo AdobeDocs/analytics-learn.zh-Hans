@@ -8,7 +8,7 @@ kt: 11270
 thumbnail: 3410003.jpeg
 last-substantial-update: 2022-10-11T00:00:00Z
 source-git-commit: 08d9f0a196306c44f3397fb5e1d396483222f8c1
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 

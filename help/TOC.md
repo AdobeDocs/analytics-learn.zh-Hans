@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 7785ccc22eb4f22f14928f62ac8cae4cb27a4d71
+source-git-commit: f2f6d27d2bc79ae6a859cd84d6e1b28cf8b31ee5
 workflow-type: tm+mt
-source-wordcount: '2426'
-ht-degree: 100%
+source-wordcount: '2429'
+ht-degree: 99%
 
 ---
 
@@ -16,15 +16,16 @@ ht-degree: 100%
 + [Analytics 教程](overview.md)
 + Analytics 简介 {#intro-to-analytics}
    + Adobe Analytics 可为我做什么？{#what-can-aa-do-for-me}
-      + [Adobe Analysis Workspace 可怎样变革您的业务](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-      + [不只是数据，更是客户情报](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
-      + [Adobe Sensei 和 Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
-      + [客户用例 — ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
-      + [客户用例 — Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
-      + [客户用例 — The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-      + [Summit 2019 超级讲座 — 旅游和酒店业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
-      + [Summit 2019 超级讲座 — 零售业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-      + [Summit 2019 超级讲座 — 高科技行业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + [什么是Analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
+   + [Adobe Analysis Workspace 可怎样变革您的业务](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+   + [不只是数据，更是客户情报](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+   + [Adobe Sensei 和 Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
+   + [客户用例 — ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
+   + [客户用例 — Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
+   + [客户用例 — The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
+   + [Summit 2019 超级讲座 — 旅游和酒店业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+   + [Summit 2019 超级讲座 — 零售业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+   + [Summit 2019 超级讲座 — 高科技行业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + 战略与思维领导力{#strategy}
       + [第 1 部分——提高效率的简单技巧](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [第 2 部分——提高效率的简单技巧](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
