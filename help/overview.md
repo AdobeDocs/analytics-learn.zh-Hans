@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
-workflow-type: ht
-source-wordcount: '320'
-ht-degree: 100%
+source-git-commit: 3cf17558385944871209a801463e013663d58b3a
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,7 +41,12 @@ ht-degree: 100%
    *[!DNL Analysis Workspace] 注释使您能够有效地将上下文数据的细微差别和见解传达给您的组织中的用户。请用已知数据问题、公共假日、活动启动等注释日期或日期范围。 这会告知用户为什么他们会在折线图、表格等中看到不规则。*
 
 </div>
-
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 <div id="staff-picks-section">
 
 ## 员工精选
