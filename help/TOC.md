@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: 7453357526b3b144cdc93215be51cc758678c4f3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2429'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 99%
 
 + [Analytics 教程](overview.md)
 + Analytics 简介 {#intro-to-analytics}
-   + [分析是什么？](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
+   + [什么是 Analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
    + Adobe Analytics 可为我做什么？{#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace 可怎样变革您的业务](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [不只是数据，更是客户情报](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
