@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看Adobe Analytics的视频教程，了解如何充分利用数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 6915876d8d4fa4497a968cf913bf6e9fac3b6c6e
+source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
 workflow-type: tm+mt
-source-wordcount: '2437'
-ht-degree: 99%
+source-wordcount: '2388'
+ht-degree: 97%
 
 ---
 
@@ -44,15 +44,11 @@ ht-degree: 99%
       + [转化变量简介 (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [转化事件简介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + 自定义 UI {#customizing-the-ui}
-      + [Adobe Analytics 中的用户偏好设置](intro-to-analytics/customizing-the-ui/user-preferences.md)
-      + [添加维度和量度说明](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [在 Analysis Workspace 中使用自定义调色板](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-      + [用于定义自定义调色板的颜色吸管扩展](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
-      + [自定义 Reports and Analytics 中的菜单](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [增强 Adobe Analytics 中的安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [将 Analysis Workspace 设置为您的登陆页面](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
-      + [将 Analysis Workspace 项目设置为您的登陆页面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-      + [适用于 Analysis Workspace 的深色模式扩展](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
+      + [自定义Analysis Workspace用户首选项](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [添加维度和量度描述](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
+      + [在Reports and Analytics中自定义菜单](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [加强Adobe Analytics的安全](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [将Analysis Workspace项目设置为登录页面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + 获取帮助 {#getting-help}
       + [Analysis Workspace 产品内提示](intro-to-analytics/getting-help/in-product-tips.md)
       + [在产品内提交支持服务单](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
@@ -63,16 +59,12 @@ ht-degree: 99%
       + [Analysis Workspace 概述](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [导航到新的登陆页面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace 登陆页面更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
-      + [创建新的 Analysis Workspace 项目](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [从头开始构建 Workspace 项目](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中创建和管理自定义模板](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [Analysis Workspace 中的 Standard Templates](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
-      + [使用自定义模板让 Analysis Workspace 的新手用户也能用好](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [了解数据如何进入您的 Analysis Workspace 项目](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Adobe Analytics 中的基本量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace 中的组件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [使用组件管理器](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
-      + [在 Analysis Workspace 中选择报告包](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中选择报表包](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [查看 Analysis Workspace 性能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 提示和技巧 {#tips-and-tricks}
       + [Analysis Workspace 的 7 个提示和技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
