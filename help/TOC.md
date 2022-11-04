@@ -1,12 +1,12 @@
 ---
 user-guide-title: Adobe Analytics 教程
-user-guide-description: 观看Adobe Analytics的视频教程，了解如何充分利用数据。
+user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
 workflow-type: tm+mt
 source-wordcount: '2388'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
