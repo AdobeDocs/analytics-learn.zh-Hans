@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2388'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -44,11 +44,11 @@ ht-degree: 98%
       + [转化变量简介 (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [转化事件简介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + 自定义 UI {#customizing-the-ui}
-      + [自定义Analysis Workspace用户首选项](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [自定义 Analysis Workspace 用户偏好设置](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [添加维度和量度描述](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [在Reports and Analytics中自定义菜单](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [加强Adobe Analytics的安全](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [将Analysis Workspace项目设置为登录页面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
+      + [自定义 Reports and Analytics 中的菜单](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [增强 Adobe Analytics 安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [将 Analysis Workspace 项目设置为您的登陆页面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + 获取帮助 {#getting-help}
       + [Analysis Workspace 产品内提示](intro-to-analytics/getting-help/in-product-tips.md)
       + [在产品内提交支持服务单](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
@@ -64,7 +64,7 @@ ht-degree: 98%
       + [了解数据如何进入您的 Analysis Workspace 项目](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Adobe Analytics 中的基本量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace 中的组件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [在 Analysis Workspace 中选择报表包](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中选择报告包](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [查看 Analysis Workspace 性能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 提示和技巧 {#tips-and-tricks}
       + [Analysis Workspace 的 7 个提示和技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
