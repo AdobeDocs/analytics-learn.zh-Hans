@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 6778e714-3fe9-479f-aacd-d1e702e2c584
 source-git-commit: de2adda096458119c3de42e85de4d49898576113
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # Analysis Workspace 中的组件管理 {#component-management-in-analysis-workspace}
 
-了解如何在Analysis Workspace中共享和管理组件（例如，维度、量度、区段等）。
+了解如何在 Analysis Workspace 中共享和管理组件（例如维度、量度、区段等）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12)
