@@ -1,24 +1,23 @@
 ---
-title: 将 Analysis Workspace 项目设置为您的登陆页面
-description: 本视频说明如何将项目设置为登陆页面。
+title: 将Analysis Workspace项目设置为登录页面
+description: 了解一种让新用户轻松访问工作区分析项目数据的有效方法
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2364
 role: User
 level: Beginner
+activity: use
+doc-type: feature video
+thumbnail: 25459.jpg
+kt: 2364
 exl-id: 1222621b-52db-41b6-8a74-8ab8a8ddd51a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '46'
-ht-degree: 100%
+source-git-commit: 9253a35bcb67c9e69b042e47475d915d7e45ef3e
+workflow-type: tm+mt
+source-wordcount: '48'
+ht-degree: 0%
 
 ---
 
-# 将 Analysis Workspace 项目设置为您的登陆页面 {#setting-an-analysis-workspace-project-as-your-landing-page}
+# 将Analysis Workspace项目设置为登录页面 {#set-an-analysis-workspace-project-as-your-landing-page}
 
-本视频说明如何将项目设置为登陆页面。
+了解一种让新用户轻松访问工作区分析项目数据的有效方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/25460/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)
