@@ -1,24 +1,23 @@
 ---
-title: 增强 Adobe Analytics 中的安全性
-description: Adobe Analytics 符合最新的安全标准。 如果您的组织需要通过强密码和 IP 登录限制等来扩展安全性，可观看本视频以了解如何做到这一点。
+title: 增强安全性
+description: 了解“公司设置”中用于控制对Adobe Analytics的访问的安全管理器设置。
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2366
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25458.jpg
+team: Technical Marketing
+kt: 2366
 exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: 846450b63ef18cb275a8a08ec3324223044fdaac
+workflow-type: tm+mt
+source-wordcount: '47'
+ht-degree: 0%
 
 ---
 
-# 增强 Adobe Analytics 中的安全性 {#enhancing-security-in-adobe-analytics}
+# 增强安全性 {#enhance-security}
 
-Adobe Analytics 符合最新的安全标准。 如果您的组织需要通过强密码和 IP 登录限制等来扩展安全性，可观看本视频以了解如何做到这一点。
+了解“公司设置”中用于控制对Adobe Analytics的访问的安全管理器设置。 这包括强密码、密码过期和恢复功能以及电子邮件域限制。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)

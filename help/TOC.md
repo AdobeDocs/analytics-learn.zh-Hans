@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
-workflow-type: ht
-source-wordcount: '2388'
-ht-degree: 100%
+source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
+workflow-type: tm+mt
+source-wordcount: '2382'
+ht-degree: 99%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 100%
       + [自定义 Analysis Workspace 用户偏好设置](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [添加维度和量度描述](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [自定义 Reports and Analytics 中的菜单](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [增强 Adobe Analytics 安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [增强安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [将 Analysis Workspace 项目设置为您的登陆页面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + 获取帮助 {#getting-help}
       + [Analysis Workspace 产品内提示](intro-to-analytics/getting-help/in-product-tips.md)
@@ -71,7 +71,7 @@ ht-degree: 100%
       + [在 Analysis Workspace 中提高生产力的提示](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [客户对于继续学习 Adobe Analytics 给出的提示](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + 在 Workspace 项目中导航 {#navigating-workspace-projects}
-      + [在 Analysis Workspace 中开始您的第一个项目](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [使用模板创建项目](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Analysis Workspace 中的培训教程模板](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Analysis Workspace 中的复制和插入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [创建目录](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
