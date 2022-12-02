@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
+source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
 workflow-type: tm+mt
-source-wordcount: '2394'
-ht-degree: 97%
+source-wordcount: '2377'
+ht-degree: 96%
 
 ---
 
@@ -72,18 +72,18 @@ ht-degree: 97%
       + [客户对于继续学习 Adobe Analytics 给出的提示](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + 在 Workspace 项目中导航 {#navigating-workspace-projects}
       + [使用模板创建项目](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Analysis Workspace 中的培训教程模板](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [Analysis Workspace 中的复制和插入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
+      + [培训教程模板](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [复制和插入面板和可视化图表](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [创建目录](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [用右键单击提高 Workspace 效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [右键单击以提高工作区效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [键盘快捷键](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
-      + [Analysis Workspace 中的注释](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
+      + [批注](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [菜单栏](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [项目管理](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [在 Analysis Workspace 中还原操作](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
-      + [Analysis Workspace 中的“视图密度”](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
+      + [撤消操作](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
+      + [视图密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [零状态改进](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
-      + [使用左侧边栏中的过滤器（标记）](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [使用过滤器](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + 使用面板 {#using-panels}
       + [使用 Analysis Workspace 中的表、可视化图表和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace 中的“Quick Insights”面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
