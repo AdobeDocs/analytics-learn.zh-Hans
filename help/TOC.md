@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2363'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -55,15 +55,15 @@ ht-degree: 95%
       + [在 Adobe Analytics 中获取帮助](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace 基础知识 {#analysis-workspace-basics}
-      + [Analysis Workspace快速简介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Analysis Workspace 简介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 概述](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [导航新登陆页面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [浏览新登陆页面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace 登陆页面更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [从头开始构建 Workspace 项目](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中创建和管理自定义模板](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [了解数据如何进入您的Analysis Workspace项目](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
-      + [Adobe Analytics中的基本量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
-      + [组件管理在Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
+      + [了解数据如何进入您的 Analysis Workspace 项目](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Adobe Analytics 中的基本量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
+      + [Analysis Workspace 中的组件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [在 Analysis Workspace 中选择报告包](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [查看 Analysis Workspace 性能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 提示和技巧 {#tips-and-tricks}
@@ -75,7 +75,7 @@ ht-degree: 95%
       + [培训教程模板](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [复制和插入面板和可视化图表](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [创建目录](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [右键单击以提高工作区效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [用右键单击提高 Workspace 效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [键盘快捷键](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [批注](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [视图密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
@@ -147,12 +147,12 @@ ht-degree: 95%
       + [同时使用流失和流量](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ – 跨设备分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + 应用区段 {#applying-segments}
-      + [将区段应用于您的Analysis Workspace项目](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
+      + [将区段应用于您的 Analysis Workspace 项目](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [应用临时区段](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [对区段使用不同的Attribution IQ模型](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
+      + [将不同的 Attribution IQ 模型用于区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
       + [为面板选择区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
-      + [在Analysis Workspace中将区段用作Dimension](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
-      + [使用区段限制Analysis Workspace中的数据](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中将区段用作维度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中使用区段限制数据](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace 中的快速区段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + 量度 {#metrics}
       + [了解基本访客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
