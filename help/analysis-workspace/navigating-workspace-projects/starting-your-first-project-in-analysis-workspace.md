@@ -1,6 +1,6 @@
 ---
 title: 使用模板创建项目
-description: 了解如何使用模板创建Analysis Workspace项目
+description: 了解如何使用使用模板创建 Analysis Workspace 项目
 feature: Projects
 role: User
 level: Beginner
@@ -10,15 +10,15 @@ team: Technical Marketing
 kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
 source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
 # 使用模板创建项目
 
-了解如何使用模板创建Analysis Workspace项目。 与手动构建项目相比，这是一项节省时间的技术，可帮助新用户快速入门。
+了解如何使用使用模板创建 Analysis Workspace 项目。 与手动构建项目相比，这是一种节省时间的技术，可以帮助新用户快速上手。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
 
