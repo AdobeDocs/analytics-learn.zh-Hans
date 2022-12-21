@@ -1,5 +1,5 @@
 ---
-title: 在Analysis Workspace中应用临时区段
+title: 在 Analysis Workspace 中应用临时区段
 description: 您是否曾想快速创建一个简单区段来回答具体问题，然后丢弃该区段以使其不会填入已保存区段的列表？ 您现在可以这样做！
 feature: Segmentation
 kt: 2010
@@ -7,13 +7,13 @@ role: User
 level: Beginner
 exl-id: 22c449af-0660-4166-841a-9c1e77924350
 source-git-commit: aa420d23462e422eba96e875f725770ba2bb6e69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# 在Analysis Workspace中应用临时区段 {#ad-hoc-temporary-segments-in-analysis-workspace}
+# 在 Analysis Workspace 中应用临时区段 {#ad-hoc-temporary-segments-in-analysis-workspace}
 
 您是否曾想快速创建一个简单区段来回答具体问题，然后丢弃该区段以使其不会填入已保存区段的列表？ 您现在可以这样做！
 
