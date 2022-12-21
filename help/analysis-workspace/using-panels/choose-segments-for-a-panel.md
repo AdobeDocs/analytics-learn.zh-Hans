@@ -1,21 +1,22 @@
 ---
 title: 为面板选择区段
-description: 了解将区段应用到Analysis Workspace中面板的一些提示和策略。
+description: 了解将区段应用到 Analysis Workspace 中的面板的一些技巧和策略。
 feature: Panels
 kt: 11550
 role: User
 level: Beginner
 thumbnail: 3412023.jpg
-source-git-commit: c2f8a60d6508557dd04ac835f096209a0b945cf4
-workflow-type: tm+mt
+exl-id: 087ee2f8-4eb6-4b3a-a7aa-96e65f1c1fa3
+source-git-commit: d314fbed28fddcdafec52643ad310656c35b4b3c
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
 # 为面板选择区段 {#choose-segments-for-a-panel}
 
-了解将区段应用到Analysis Workspace中面板的一些提示和策略。
+了解将区段应用到 Analysis Workspace 中的面板的一些技巧和策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412023/?quality=12&learn=on)
 
