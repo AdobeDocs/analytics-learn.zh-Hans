@@ -1,6 +1,6 @@
 ---
-title: 在Analysis Workspace中使用文件夹
-description: 了解如何在Analysis Workspace的文件夹和子文件夹中组织项目。
+title: 在 Analysis Workspace 中使用文件夹
+description: 了解如何在 Analysis Workspace 中的文件夹和子文件夹内整理您的项目。
 feature: Projects
 role: User
 level: Beginner
@@ -9,16 +9,16 @@ last-substantial-update: 2023-01-12T00:00:00Z
 kt: 11723
 thumbnail: 3413167.jpg
 source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
-# 在Analysis Workspace中使用文件夹
+# 在 Analysis Workspace 中使用文件夹
 
-了解如何在Analysis Workspace的文件夹和子文件夹中组织项目。
+了解如何在 Analysis Workspace 中的文件夹和子文件夹内整理您的项目。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413167/?quality=12&learn=on)
 
