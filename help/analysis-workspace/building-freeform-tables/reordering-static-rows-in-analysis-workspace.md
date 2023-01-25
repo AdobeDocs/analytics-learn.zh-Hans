@@ -1,22 +1,22 @@
 ---
-title: 在 Analysis Workspace 中为静态行重新排序
-description: 您可以在自由格式表生成器中手动为静态行重新排序。 这允许您按照所需的确切顺序排列表静态行 — 例如，依次为访问次数、订单数和转化率。
+title: 在Analysis Workspace中重新排序静态行
+description: 您可以在自由格式表生成器中手动重新排序静态行。 这允许您按所需的确切顺序排列表静态行 — 例如，访问次数、订购次数、转化率。
 feature: Freeform Tables
 thumbnail: 31319.jpg
 kt: 4218
 role: User
 level: Beginner
 exl-id: 1a4e82fe-12ac-4c44-afec-60010f1214f6
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 100%
+ht-degree: 22%
 
 ---
 
-# 在 Analysis Workspace 中为静态行重新排序
+# 在Analysis Workspace中重新排序静态行
 
-您可以在自由格式表生成器中手动为静态行重新排序。 这允许您按照所需的确切顺序排列表静态行 — 例如，依次为访问次数、订单数和转化率。
+您可以在自由格式表生成器中手动重新排序静态行。 这允许您按所需的确切顺序排列表静态行 — 例如，访问次数、订购次数、转化率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12)
 
