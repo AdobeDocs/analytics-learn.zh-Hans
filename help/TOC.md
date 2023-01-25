@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
 workflow-type: tm+mt
-source-wordcount: '2347'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -98,6 +98,7 @@ ht-degree: 96%
       + [在自由格式表中使用维度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [在自由格式表中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [自由格式表中的行和列设置](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [自由格式表总计](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [使用自由格式表生成器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [右键单击以提高工作区效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [重新排序静态行](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -105,7 +106,6 @@ ht-degree: 96%
       + [交叉销售分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [自由格式表过滤器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [时间划分维度](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-      + [自由格式表总计](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + 可视化 {#visualizations}
       + [Analysis Workspace 中的数据可视化](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [可视化类型](analysis-workspace/visualizations/visualization-types.md)
