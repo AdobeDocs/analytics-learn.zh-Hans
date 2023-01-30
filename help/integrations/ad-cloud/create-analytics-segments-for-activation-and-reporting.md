@@ -1,26 +1,22 @@
 ---
-title: 创建 Analytics 区段以供激活和报告
-description: 使用 Advertising 维度创建区段，以实现更简洁的报告和分析。
+title: 为激活和报告创建Analytics区段
+description: 使用Advertising Cloud维度为报表和分析创建区段。
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35117.jpg
-kt: 5474
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35117.jpg
+kt: 5474
 exl-id: 0df46be9-bae9-4792-912a-7c95a7fce4ee
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
-workflow-type: ht
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
+workflow-type: tm+mt
 source-wordcount: '36'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# 创建 Analytics 区段以供激活和报告
+# 为激活和报告创建Analytics区段
 
-使用 Advertising 维度创建区段，以实现更简洁的报告和分析。
+使用Advertising Cloud维度为报表和分析创建区段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)
