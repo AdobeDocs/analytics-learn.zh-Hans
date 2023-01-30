@@ -1,26 +1,23 @@
 ---
-title: 在 Adobe Analytics 中配置 Advertising Analytics
-description: 本视频将引导您深度回顾如何配置报表包以使用 Advertising Analytics、如何设置 Advertising Analytics 的付费搜索帐户和报告详细信息。
+title: 在Adobe Analytics中配置Advertising Analytics
+description: 配置报表包以利用Advertising Analytics。
 feature: Advertising Integration
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-kt: 1642
 topic: Integrations
 role: Admin
 level: Intermediate
+thumbnail: 23119.jpg
+kt: 1642
 exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 27%
 
 ---
 
-# 在 Adobe Analytics 中配置 [!DNL Advertising Analytics] {#configuring-advertising-analytics-in-adobe-analytics}
+# 配置 [!DNL Advertising Analytics] 在Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
 
-本视频将引导您深度回顾如何配置[!UICONTROL 报表包]以使用 [!DNL Advertising Analytics]、如何设置 [!DNL Advertising Analytics] 的付费搜索帐户和报告详细信息。
+获取有关如何配置 [!UICONTROL 报表包] 利用 [!DNL Advertising Analytics]，如何设置付费搜索帐户，以及 [!DNL Advertising Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
 
