@@ -7,10 +7,10 @@ level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: ht
-source-wordcount: '149'
-ht-degree: 100%
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 解决方案设计参考 (SDR) 文档是 Analytics 针对您数字资产的业务要求和数据收集设计的蓝图。了解如何创建和维护本文档，使其作为您 Analysis 解决方案的事实来源。
 
->[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
 [下载](assets/aa-implementation-playbook.xlsx)一个示例 Excel 模板以记录您数字财产的要求和数据收集设计。
 

@@ -7,8 +7,8 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 了解定义您要在 Adobe Analytics 中捕获并分析的行为数据的最重要步骤。 您的业务关于访问者如何使用您的数字财产需要了解哪些方面？首先写下这些要求，然后决定如何使用 Analytics 事件、维度和量度来捕获这些要求。
 
->[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
 [下载](assets/aa-implementation-playbook.xlsx)一个示例 Excel 模板以记录您数字财产的要求和数据收集设计。
 
