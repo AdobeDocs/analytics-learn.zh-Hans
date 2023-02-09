@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2344'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -107,37 +107,37 @@ ht-degree: 96%
       + [自由格式表过滤器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [时间划分维度](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + 可视化 {#visualizations}
-      + [Analysis Workspace中的数据可视化](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
-      + [可视化图表类型](analysis-workspace/visualizations/visualization-types.md)
+      + [Analysis Workspace 中的数据可视化图表](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
+      + [可视化图表类型 ](analysis-workspace/visualizations/visualization-types.md)
       + [可视化图表用例](analysis-workspace/visualizations/visualization-use-cases.md)
       + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [将数据纳入可视化图表](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [在工作区中使用组件下拉列表](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [面积图和堆叠的面积图可视化图表](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [条形图和堆叠的条形图可视化图表](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
-      + [项目符号图表可视化](analysis-workspace/visualizations/bullet-graph-visualization.md)
+      + [使用 Workspace 中的“组件”下拉菜单](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [面积图和堆叠面积可视化图表](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [条形图和堆叠条形图可视化图表](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [靶心图可视化图表](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [圆环图可视化图表](analysis-workspace/visualizations/using-the-donut-visualization.md)
-      + [直方图可视化](analysis-workspace/visualizations/histogram-visualization.md)
+      + [直方图可视化图表](analysis-workspace/visualizations/histogram-visualization.md)
       + [折线图可视化图表](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [组合图表](analysis-workspace/visualizations/combo-charts.md)
       + [向折线图可视化图表添加趋势线](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
-      + [地图可视化](analysis-workspace/visualizations/map-visualization.md)
-      + [概要数字和概要变化可视化图表](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
-      + [关键指标摘要可视化](analysis-workspace/visualizations/key-metric-summary.md)
-      + [文本可视化](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [地图可视化图表](analysis-workspace/visualizations/map-visualization.md)
+      + [汇总数字和汇总变更可视化图表](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [关键指标摘要可视化图表](analysis-workspace/visualizations/key-metric-summary.md)
+      + [文本可视化图表](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [散点图可视化图表](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [树形图可视化图表](analysis-workspace/visualizations/treemap-visualization.md)
       + [维恩图可视化图表](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [使用累积平均函数来应用量度平滑功能](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [使用累积平均函数应用量度平滑功能](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [灵活的布局](analysis-workspace/visualizations/flexible-layouts.md)
       + [更改可视化图表上的刻度/轴](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
-      + [Dimension图实时链接](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+      + [维度图实时链接](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [粒度切换](analysis-workspace/visualizations/granularity-toggle.md)
       + [Analysis Workspace 中的内部链接](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
-      + [重新排列和调整可视化图表大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
+      + [重新排列可视化图表并调整其大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [自定义可视化图例](analysis-workspace/visualizations/customize-visualization-legends.md)
-      + [100%堆叠的可视化图表](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [表和可视化数据源设置](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
+      + [百分比堆叠可视化图表](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
+      + [表和可视化图表数据源设置](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [构建分时热图](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + 分析客户历程 {#analyzing-customer-journeys}
       + [创建流失可视化图表](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
