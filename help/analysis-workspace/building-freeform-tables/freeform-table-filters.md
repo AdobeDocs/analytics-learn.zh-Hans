@@ -1,5 +1,5 @@
 ---
-title: Analysis Workspace中的自由格式表过滤器
+title: Analysis Workspace 中的自由格式表筛选器
 description: 筛选器可让您更好地控制在自由格式表中共享哪些数据行。
 feature: Freeform Tables
 thumbnail: 23232.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
 source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Analysis Workspace中的自由格式表过滤器
+# Analysis Workspace 中的自由格式表筛选器
 
 筛选器可让您更好地控制在[!DNL freeform table]中共享哪些数据行。
 
