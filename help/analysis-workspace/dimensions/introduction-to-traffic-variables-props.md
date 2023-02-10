@@ -1,5 +1,5 @@
 ---
-title: 流量变量简介(prop)
+title: 流量变量简介 (props)
 description: 本视频介绍了流量变量，包括“页面名称”、“网站区域”和“props”。
 feature: Dimensions
 kt: 3576
@@ -7,9 +7,9 @@ role: User
 level: Beginner
 exl-id: e5ccac21-d0ac-4882-b8aa-0da749cbf6e7
 source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
