@@ -6,14 +6,14 @@ kt: 3565
 role: User
 level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 53db4c11ce54076099f1d38e2005103a2fe82d72
 workflow-type: ht
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
 
-# 如何收集 [!DNL analytics] 数据
+# 如何收集 Analytics 数据
 
 数据如何从您的页面进入 Adobe Analytics 中的报告？此视频介绍此过程。
 
