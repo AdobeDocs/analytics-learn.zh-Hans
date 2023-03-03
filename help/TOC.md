@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
+source-git-commit: 525d6e2c4828f9fda07cf389b5e8e58331e494de
 workflow-type: tm+mt
-source-wordcount: '2344'
-ht-degree: 100%
+source-wordcount: '2349'
+ht-degree: 99%
 
 ---
 
@@ -342,6 +342,7 @@ ht-degree: 100%
       + [应用自定义日期范围](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics 功能板应用程序内体验](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
       + [创建自定义详细信息视图](additional-tools/analytics-dashboards/create-custom-detail-views.md)
+      + [Analytics功能板的数据故事](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
 + 导出{#exporting}
    + 从 UI{#from-the-ui}
       + [从 Analysis Workspace 导出到 CSV](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
