@@ -10,9 +10,9 @@ thumbnail: 10533.jpg
 kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '345'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '330'
+ht-degree: 88%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 100%
 * Adobe Analytics 中的五大技巧（例如：如何创建下拉列表）
 * 如何使用 Attribution IQ 
 
-之后，您就可以轻松地向用户指出这些信息，而无需编写冗长的电子邮件或再召开一次会议。有关培训用户的更多提示和技巧，请查看 [Adobe Champion Thomas Edward Buckley 的文章 ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=zh-Hans){target=&quot;_blank&quot;} 简化并缩减用户培训时间。
+之后，您就可以轻松地向用户指出这些信息，而无需编写冗长的电子邮件或再召开一次会议。有关培训用户的更多提示和技巧，请查看 [Adobe冠军托马斯·爱德华·巴克利的文章](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=zh-Hans){target="_blank"} 所有这些都是为了简化和减少培训用户的时间。
 
-此外，Adobe Experience League 上有大量的[视频教程 ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hans){target=&quot;_blank&quot;} 以及[免费课程 ](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target=&quot;_blank&quot;}。如果您需要特定于公司数据和商业 KPI 的视频，您当然也可以录制自己的视频。但如果普通的教学视频就足以满足相关要求，则无需再花时间进行录制了。
+此外，还有大量的（是的，大量的） [视频教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"} on Adobe Experience League, as well as [free courses](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}. 如果您需要特定于公司数据和商业 KPI 的视频，您当然也可以录制自己的视频。但如果普通的教学视频就足以满足相关要求，则无需再花时间进行录制了。
 
 ## 作者
 

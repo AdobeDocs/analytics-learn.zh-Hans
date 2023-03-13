@@ -10,15 +10,15 @@ thumbnail: 10534.jpg
 kt: 10534
 exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '300'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '298'
+ht-degree: 92%
 
 ---
 
 # 创建 Adobe Analytics 内部站点（Confluence 或其他）
 
-**内容：**&#x200B;如果您留意到[本技巧](create-basic-videos-and-training.md) {target=&quot;_blank”} 中有关创建培训文档的建议，那么您显然无法将其保存在硬盘上。创建一个可供所有用户共享和查阅的中心位置——一个 Adobe Analytics 内部站点（Confluence 或其他），您可以在其中发布所有这些文档并维护不同的版本。
+**内容：** 如果您留意了 [此提示](create-basic-videos-and-training.md){target="_blank"} 创建培训文档时，您显然无法将其保存在硬盘上。 创建一个可供所有用户共享和查阅的中心位置——一个 Adobe Analytics 内部站点（Confluence 或其他），您可以在其中发布所有这些文档并维护不同的版本。
 
 **原因：**&#x200B;建立一个单一的共享存储库可为您提供一个指导所有新用户的地方，并为您所有文档的最新版本提供一个单一的真实来源。这有助于优化版本管理和协作。
 

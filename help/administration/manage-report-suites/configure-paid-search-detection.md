@@ -10,7 +10,7 @@ thumbnail: 339302.jpg
 kt: 9493
 exl-id: 21a12c5e-0313-4169-bf0b-f0d21202dd64
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 

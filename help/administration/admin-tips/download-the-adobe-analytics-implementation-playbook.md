@@ -10,9 +10,9 @@ thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '1805'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1803'
+ht-degree: 99%
 
 ---
 
@@ -99,7 +99,7 @@ SDR 样本截图：
 >
 >在 Adobe Analytics 中创建站点名称/属性维度。在 Adobe Analytics 中设置一个专用的维度（通常是 eVar）来标识站点名称/应用程序名称，有助于进行分区、故障排除、创建虚拟报告包等。其带来的益处是无穷的，尤其是在一个（全局）报告包中组合多个站点时更是如此。关键是确保开发团队在属性维度中设置此值，其中包括所有页面加载（s.t 调用/trackState）和所有自定义事件（s.tl 调用/trackAction）。处理规则可能会是一个很有用的工具，可以帮助您以正确一致的方式设置这些值。
 
-[观看这则由 Doug Moore 带来的视频](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html) {target=&quot;_blank&quot;}，了解更多有关填写实施剧本的信息。
+[观看此视频，由道格·摩尔执导](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} ，以了解有关填写实施剧本的更多信息。
 
 ## 作者
 
