@@ -7,9 +7,9 @@ kt: 1707
 role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
-source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
-workflow-type: tm+mt
-source-wordcount: '134'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 在本视频中，您将了解如何将 [!DNL Attribution IQ] [!UICONTROL 模型]与网站上的 Adobe Analytics 区段结合使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12&learn=on)
 
 在网站上进行分析时，您通常会使用区段来关注一组特定的访客、访问或点击。 在执行此操作时，您现在应再执行一个步骤，即考虑哪种归因模型最适合与区段、量度和综合报表结合使用。
 
