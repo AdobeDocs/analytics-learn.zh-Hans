@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 34544.jpg
 kt: 5286
 exl-id: 05bc39ad-b45c-4393-8cfb-47b215228377
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
-source-wordcount: '94'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 在本视频中，了解如何在 Analysis Workspace 中创建和共享“记分卡”，以便在 Adobe Analytics 功能板（移动设备应用程序）上查看。
 
->[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=zh-Hans)。
 
