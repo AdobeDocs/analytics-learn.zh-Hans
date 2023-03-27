@@ -10,9 +10,9 @@ kt: 2345
 role: User
 level: Intermediate
 exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '274'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL Report Builder] 是我们都了解并喜欢的工具。 那么，如果我告诉您，您可以使用所掌握的 [!UICONTROL Report Builder] 的相关信息来进一步提升您的 Adobe Analytics 技能组合呢？ 在本视频中，我们将介绍如何接受调试 [!UICONTROL Report Builder] 请求并使用它们来学习如何制作您自己的 [!DNL Analytics] API 查询。
 
->[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12&learn=on)
 
 **更新**：[!UICONTROL Report Builder] 略微更新了它请求数据的方式。 您仍可以使用本视频中的方法，但调试程序中的信息会略有不同。
 
