@@ -14,9 +14,9 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
-source-wordcount: '87'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 在本视频中，您将了解如何配置[!UICONTROL 邮政编码]设置，以便能根据此区域数据进行分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 有关[!UICONTROL 邮政编码]设置的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=zh-Hans)。
