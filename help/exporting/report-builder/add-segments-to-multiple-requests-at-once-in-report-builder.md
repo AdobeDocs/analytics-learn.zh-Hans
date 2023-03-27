@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 25445.jpg
 kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
-source-wordcount: '116'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 本视频说明如何使用 [!UICONTROL Report Builder] 一次性将区段添加到您的所有请求，从而节省您的时间并减少麻烦。
 
->[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12&learn=on)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=zh-Hans)。
 
