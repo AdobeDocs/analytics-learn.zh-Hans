@@ -11,9 +11,9 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
-workflow-type: tm+mt
-source-wordcount: '1313'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -88,7 +88,7 @@ ht-degree: 100%
 
 有关如何以及何时触发这些事件的更多信息，请参阅上面引用的页面和文档。 您不需要在实施中使用相同的事件名称。 所用方法的功能用例对于理解为每种方法的推荐最佳实践至关重要。 以下视频演示了 [!DNL Experience Platform Tags] 中用于监听自定义事件的示例 SPA 页面和示例代码。
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## 在 [!DNL Experience Platform Tags] 中执行 s.t() 或 s.tl() {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -102,7 +102,7 @@ ht-degree: 100%
 
 以下视频说明在 Tags 中触发 `s.t()` 或 `s.tl()` 的位置和方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## 清除变量 {#clear-variables}
 
@@ -114,7 +114,7 @@ ht-degree: 100%
 
 以下视频说明在何处以及如何在 [!DNL Tags] 中清除变量。
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## 其他注意事项 {#additional-considerations}
 
