@@ -11,9 +11,9 @@ kt: 2276
 role: User
 level: Beginner
 exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
-source-wordcount: '122'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 本视频对客户强烈请求的[!DNL Fallout Visualization]更新进行介绍，包括直接步骤与最终步骤、重命名接触点、比较无限区段以及确定随时间变化的接触点转化百分比趋势。
 
->[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
 
 >[!INFO]
 >
