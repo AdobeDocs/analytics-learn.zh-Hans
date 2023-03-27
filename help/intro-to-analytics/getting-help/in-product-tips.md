@@ -10,9 +10,9 @@ kt: 1672
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: ad2e2c1a-c87b-4ee2-8b8c-6cc796c22f85
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '55'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL Analysis Workspace] 提示有助于快速了解 [!UICONTROL Analysis Workspace]，并包含了相关视频的链接，以便您能够查看每个提示的实际效果。
 
->[!VIDEO](https://video.tv.adobe.com/v/23135/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23135/?quality=12&learn=on)
