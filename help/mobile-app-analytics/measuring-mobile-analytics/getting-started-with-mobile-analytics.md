@@ -10,9 +10,9 @@ kt: 3051
 role: User
 level: Beginner
 exl-id: 80d3545c-3c3c-4003-a92a-39a410c76996
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '96'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何使用模板对移动应用程序进行 Adobe Analytics。Analysis Workspace 中预置的[!UICONTROL 标准模板]帮助您了解用户参与和应用程序性能[!UICONTROL 指标]。此外，还可了解如何用我们易用的拖放界面自定义您的项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12&learn=on)
