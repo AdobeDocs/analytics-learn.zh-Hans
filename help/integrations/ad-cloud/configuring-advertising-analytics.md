@@ -8,9 +8,9 @@ level: Intermediate
 thumbnail: 23119.jpg
 kt: 1642
 exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
-source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
-workflow-type: tm+mt
-source-wordcount: '59'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 深度回顾如何配置[!UICONTROL 报告包]以使用 [!DNL Advertising Analytics]、如何设置 [!DNL Advertising Analytics] 的付费搜索帐户和报告详细信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
 
 ## 其他资源 {#additional-resources}
 
