@@ -11,8 +11,8 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 状态代表应用程序中的屏幕或视图。每次在您的应用程序中显示一个新状态，例如当用户从主页导航到动态信息馈送时，可调用 `trackState` 以送入状态名称（在 [!DNL Analytics] 中为页面名称）以及其他数据。此视频介绍如何这样做。
 
->[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
 
 有关 trackState 的详细信息，请参阅[文档](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference)。
