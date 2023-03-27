@@ -10,9 +10,9 @@ kt: 1910
 role: User
 level: Beginner
 exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '109'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 已将[!UICONTROL 近似非重复计数][!UICONTROL 函数]添加到[!UICONTROL 计算量度生成器]中。 这是一个期待已久的[!UICONTROL 函数]，它将返回所选[!UICONTROL 维度]的[!UICONTROL 维度]项的[!UICONTROL 近似非重复计数]。
 
->[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
 您可以在任何报表中使用[!UICONTROL 量度]来了解一个[!UICONTROL 维度]相对于另一个维度的值的计数。 例如，按营销渠道显示的独特客户数。
