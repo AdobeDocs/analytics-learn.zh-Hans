@@ -10,9 +10,9 @@ kt: 2137
 role: User
 level: Beginner
 exl-id: 44e8cded-3ef8-4c55-811d-28f4e9415032
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '74'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL 自由格式]分析包括更改图表和表的位置、宽度和高度的功能，使您能够构建更丰富的项目。 本视频说明如何更改版面。
 
->[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12&learn=on)
