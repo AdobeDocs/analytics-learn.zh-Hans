@@ -11,9 +11,9 @@ kt: 2280
 role: User
 level: Beginner
 exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
-source-wordcount: '111'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 本视频说明 Analysis Workspace 中[!DNL Flow visualization]中可用的各种右键单击选项。 选项包括从路径创建区段、折叠列等。
 
->[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=zh-Hans#analysis-workspace)。
 
