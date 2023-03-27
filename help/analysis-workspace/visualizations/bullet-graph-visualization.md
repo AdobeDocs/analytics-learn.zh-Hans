@@ -7,9 +7,9 @@ role: User
 level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
-source-wordcount: '114'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!UICONTROL 项目符号]图表是一种显示分析中实现（或超过）目标的进度的有用方式。 它们为您提供了另一种直观地了解组织成功的方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=zh-Hans)。
 
