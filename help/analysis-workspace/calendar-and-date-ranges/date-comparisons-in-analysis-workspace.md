@@ -7,9 +7,9 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
-source-wordcount: '149'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 在本视频中，我们将说明如何利用[!UICONTROL 自由格式表]中的两项日期比较功能 — [!UICONTROL 添加时段列]和[!UICONTROL 比较时段]。
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
 
 日期比较是一种增加当前 Analysis Workspace 表深度的简单方法，可帮助您轻松地将当前数据与历史绩效相结合。
 
