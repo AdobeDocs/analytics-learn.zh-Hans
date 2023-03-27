@@ -10,9 +10,9 @@ kt: 1655
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 5e6bb1fe-1677-479e-b953-6b42356450e1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '83'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 在此视频中，我们将介绍 Adobe Analytics 连接器，包括创建并加载请求、更改数据格式、构建[!UICONTROL 可视化]并发布到在线服务。
 
->[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12&learn=on)
 
 ## 其他资源 {#additional-resources}
 
