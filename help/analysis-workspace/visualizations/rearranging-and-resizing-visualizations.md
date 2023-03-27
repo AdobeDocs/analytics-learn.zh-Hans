@@ -10,9 +10,9 @@ kt: 2138
 role: User
 level: Beginner
 exl-id: bdda9534-cae8-457a-a9c2-8167b8d0d09d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '54'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 本视频说明如何通过在 Analysis Workspace 中重新排列和重新整理[!UICONTROL 可视化图表]和表并调整其大小来创建自定义版面。
 
->[!VIDEO](https://video.tv.adobe.com/v/24707/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24707/?quality=12&learn=on)
