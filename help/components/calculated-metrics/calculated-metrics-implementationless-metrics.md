@@ -10,9 +10,9 @@ kt: 2320
 role: User
 level: Beginner
 exl-id: b0053a5b-cb95-4bad-a032-c6e810c38c56
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '34'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Analytics 中创建新的[!UICONTROL 量度]而不更改您的实施。
 
->[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12&learn=on)
