@@ -11,9 +11,9 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '174'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 行为是在移动应用程序中发生的事件。在此视频中，了解如何使用 trackAction API 跟踪和度量某种行为。
 
->[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
 
 应使用此 API 跟踪您的网站上所有非屏幕加载行为。如果屏幕即将出现，则使用 trackState，它触发一次页面查看点击。否则，请使用 trackAction 发送与正在发生的行为相关的变量。
 
