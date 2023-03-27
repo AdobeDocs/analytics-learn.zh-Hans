@@ -10,9 +10,9 @@ kt: 2836
 role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: tm+mt
-source-wordcount: '125'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 如果您刚刚开始使用 Experience Platform Launch 和 Adobe Analytics [!UICONTROL 扩展]，本视频可以帮助您完成配置的[!UICONTROL 库管理]部分，包括选择要将数据发送到的[!UICONTROL 报表包]。
 
->[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
 
 有关此用例各个方面的其他信息，请参阅以下文档主题：
 
