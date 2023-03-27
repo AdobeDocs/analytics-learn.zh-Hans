@@ -10,9 +10,9 @@ kt: 2386
 role: Developer, Data Engineer
 level: Experienced
 exl-id: c2bf15d7-4614-4bda-83de-1a45b5f98c7b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '119'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 在此视频中，我们介绍如何利用 Analysis Workspace 自动构建 API 2.0 请求。通过调试 UI，复制 JSON 请求并直接粘贴到任何 API 客户端中即可返回 [!DNL Analytics] 数据。现在通过转到 Workspace 的“帮助”>“启用调试器”，可更轻松地启用调试器。
 
->[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
 有关详细信息，请访问[文档](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md)。
