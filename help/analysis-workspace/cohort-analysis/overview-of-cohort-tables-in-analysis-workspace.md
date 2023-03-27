@@ -11,9 +11,9 @@ kt: 2477
 role: User
 level: Intermediate
 exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
-source-wordcount: '110'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 [!UICONTROL 同类群组表]中的[!UICONTROL 滚动计算]设置可用于分析各个时段的[!UICONTROL 同类群组]，以了解相同用户如何随时间的推移保留（或[!UICONTROL 流失]）。
 
->[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hans)。
 
