@@ -10,9 +10,9 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
-source-wordcount: '145'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 提供了几个同类群组表设置，可让您自定义[!UICONTROL 保留]或[!UICONTROL 流失]视图。 本视频中对这些设置进行了重点说明。
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
 利用[!UICONTROL 同类群组表]的自定义设置，可以：
 
