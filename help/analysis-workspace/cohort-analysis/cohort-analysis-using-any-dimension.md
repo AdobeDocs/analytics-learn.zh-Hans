@@ -10,9 +10,9 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
-source-wordcount: '126'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL 自定义同类群组][!UICONTROL 维度]选项允许您使用时间以外的[!UICONTROL 维度]分析[!UICONTROL 同类群组]。 按营销渠道、活动区域、产品页面等比较[!UICONTROL 同类群组]以更好地了解[!UICONTROL 保留]（或[!UICONTROL 流失]）如何按[!UICONTROL 维度]项目发生变化。
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hans)。
 
