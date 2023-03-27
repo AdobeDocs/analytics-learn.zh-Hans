@@ -10,9 +10,9 @@ kt: 2321
 role: User
 level: Beginner
 exl-id: aace1da6-2958-47a6-957c-5d63a5104b5f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '28'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Analytics 中使用[!UICONTROL 计算量度]中的[!UICONTROL 函数]
 
->[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
