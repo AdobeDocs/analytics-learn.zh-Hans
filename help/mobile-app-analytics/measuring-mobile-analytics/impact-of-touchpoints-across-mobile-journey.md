@@ -11,9 +11,9 @@ kt: 3052
 role: User
 level: Beginner
 exl-id: 6ed070ff-cd13-45be-968f-067f0436eab8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '90'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解移动应用程序用户如何受接触点影响并了解哪些渠道使用 [!DNL Attribution IQ] 对您的移动应用程序产生实质性影响。了解哪些渠道共同发挥作用，从而在您的移动应用程序中推进成功事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12&learn=on)
