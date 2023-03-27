@@ -10,9 +10,9 @@ kt: 4820
 role: User
 level: Beginner
 exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
-source-wordcount: '145'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 通过在面板级别选择[!UICONTROL 报表包]，可以在一个 [!DNL Workspace] 项目中分析多个[!UICONTROL 报表包]。 这样，您就可以跨不同的数据集进行并排面板分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12&learn=on)
 
 >[!TIP]
 >
