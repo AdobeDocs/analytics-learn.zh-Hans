@@ -7,9 +7,9 @@ kt: 4217
 role: User
 level: Beginner
 exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
-workflow-type: tm+mt
-source-wordcount: '128'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Freeform table builder]可让您拖放多个维度、细分、量度和区段来生成可解答更复杂的业务问题的表格。 数据将不会即时更新；而是在您单击“生成”后更新，这样一来，表格只会更新一次，从而为您节省时间。
 
->[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
 
 >[!INFO]
 >
