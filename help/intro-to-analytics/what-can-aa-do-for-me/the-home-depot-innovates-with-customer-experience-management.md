@@ -10,9 +10,9 @@ kt: 4387
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 97221e6f-24c6-4d03-a0b9-69e1944bb775
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '98'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL HomeDepot.com] 是一家市值 1000 亿美元的公司内的一个市值 70 亿美元的电子商务网站，它通过确保客户体验正确无误而在竞争中保持领先。了解 [!DNL Home Depot] 如何使用 Adobe 解决方案，通过个性化、自定义的购物体验创造品牌忠诚度和客户满意度。
 
->[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12&learn=on)
