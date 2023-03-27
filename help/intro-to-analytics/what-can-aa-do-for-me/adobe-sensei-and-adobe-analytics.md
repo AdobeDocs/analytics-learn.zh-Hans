@@ -10,9 +10,9 @@ kt: 4383
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '99'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL Adobe Sensei] 让 Adobe Analytics 更加智能，并且帮助营销人员获得关于其客户的有意义的见解。此视频包括 Adobe Analytics 中受 [!DNL Adobe Sensei] 支持的主要功能（包括 A[!UICONTROL Anomaly Detection]、[!UICONTROL Contribution Analysis]、[!UICONTROL Intelligent Alerts]、Clustering、[!UICONTROL Segment IQ] 和 Propensity Modeling）的额外解释。
 
->[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12&learn=on)
 
 可在[此处](https://www.adobe.com/cn/sensei.html)详细了解 [!DNL Adobe Sensei]。
