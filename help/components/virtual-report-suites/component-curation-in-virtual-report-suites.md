@@ -10,9 +10,9 @@ kt: 1774
 role: User
 level: Intermediate
 exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
-source-wordcount: '143'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 可以对[!UICONTROL 虚拟报表包]进行管理，以在 Analysis Workspace 中包含和排除[!UICONTROL 维度]、[!UICONTROL 量度]和[!UICONTROL 区段]，这在您与只需要特定数据切片或使用不同数据命名法的其他团队共享它的情况下很有用。
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 如果已启用组件自定义，则[!UICONTROL 虚拟报表包]在 Analysis Workspace 中只能以独占方式访问。
 
