@@ -7,9 +7,9 @@ kt: 2103
 role: User
 level: Beginner
 exl-id: 35ac587e-33af-4bd3-8d68-7683d09a54ee
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
-source-wordcount: '149'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 了解营销区段之间的真正差异一直是一个困难且耗时的过程。 [!DNL Segment IQ]（Adobe Analytics 中的 Analysis Workspace 的一部分）通过检查所有[!UICONTROL 维度]和[!UICONTROL 量度]上的任意两个 [!DNL Analytics] [!UICONTROL 区段]来自动发现它们在统计上最显著的差异，从而简化此分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12&learn=on)
 
 有关此功能的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=zh-Hans)。
 
