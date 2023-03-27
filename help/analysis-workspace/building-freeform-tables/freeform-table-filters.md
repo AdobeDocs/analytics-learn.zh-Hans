@@ -7,9 +7,9 @@ kt: 1699
 role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
-source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
-workflow-type: tm+mt
-source-wordcount: '110'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 筛选器可让您更好地控制在[!DNL freeform table]中共享哪些数据行。
 
->[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
 
 在 Analysis Workspace 中，我们现在通过 11 个筛选条件和 AND/OR 运算符提供更多筛选控制。
 
