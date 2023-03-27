@@ -10,9 +10,9 @@ kt: 2358
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '303'
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -37,4 +37,4 @@ ht-degree: 100%
 
 有关详细信息，请观看下方的视频。
 
->[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)
