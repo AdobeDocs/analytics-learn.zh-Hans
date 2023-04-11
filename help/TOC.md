@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 525d6e2c4828f9fda07cf389b5e8e58331e494de
+source-git-commit: 01a70b931120a5ea8cd82ffd1c91369e3fa041cd
 workflow-type: tm+mt
-source-wordcount: '2349'
+source-wordcount: '2354'
 ht-degree: 100%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 100%
       + [在 Analysis Workspace 中提高生产力的提示](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [客户对于继续学习 Adobe Analytics 给出的提示](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + 在 Workspace 项目中导航 {#navigating-workspace-projects}
+      + [Analysis Workspace 中的数据词典](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [使用模板创建项目](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [培训教程模板](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [在 Analysis Workspace 中使用文件夹](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
