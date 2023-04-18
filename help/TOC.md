@@ -5,8 +5,8 @@ breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: d9688dbc8d4958e76aa5fd6d976a8fd28bfe63ba
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2361'
+ht-degree: 100%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 0%
       + [查看 Analysis Workspace 性能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 提示和技巧 {#tips-and-tricks}
       + [Analysis Workspace 的 7 个提示和技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
-      + [右键单击提示和技巧，以实现更高效的工作流](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+      + [右键单击“提示和技巧”获得更高效的工作流](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [在 Analysis Workspace 中提高生产力的提示](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [客户对于继续学习 Adobe Analytics 给出的提示](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + 在 Workspace 项目中导航 {#navigating-workspace-projects}
