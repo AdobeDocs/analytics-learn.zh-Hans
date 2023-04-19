@@ -7,7 +7,7 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!UICONTROL 区段生成器]中新的[!UICONTROL 非重复计数]运算符允许您根据任何[!UICONTROL 维度]中的唯一项目数进行分段。 筛选已查看超过 5 个页面的访问或单个订单中已购买超过 5 个产品的点击。
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
 
 这项功能还能更酷吗？ :)
 
