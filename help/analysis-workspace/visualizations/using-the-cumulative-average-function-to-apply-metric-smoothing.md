@@ -7,10 +7,10 @@ kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!UICONTROL 量度]趋势所在的时段越长，就越难判断[!UICONTROL 量度]的定向趋势。 要解决此问题，可以使用[!UICONTROL 计算量度]中的[!UICONTROL 累积平均][!UICONTROL 函数]对 Analysis Workspace 中的[!UICONTROL 量度]应用平滑。
 
->[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
 
 >[!INFO]
 >
