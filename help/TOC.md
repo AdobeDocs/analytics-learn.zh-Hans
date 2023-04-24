@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: bb9b02a58b9c39e57021433869388b652627e550
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2369'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
