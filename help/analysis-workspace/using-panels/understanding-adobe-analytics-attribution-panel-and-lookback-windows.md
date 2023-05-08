@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
+source-git-commit: 48dbac6921a69dbdba1e98bf412ff55ceb27baf5
 workflow-type: tm+mt
-source-wordcount: '1883'
+source-wordcount: '1881'
 ht-degree: 1%
 
 ---
@@ -82,7 +82,7 @@ ht-degree: 1%
 
 Adobe定义 **回顾窗口** 作为“转化应回顾以包含接触点的时间”。 在查看不同的回顾窗口时，为首次交互分配更多点数的归因模型会发现差异较大。”
 
-* **访问回顾窗口**:回顾到发生转化时访问的开始时间
+* **访问回顾窗口**:回顾到发生转化时访问的开始。
 * **访客回顾窗口**:回顾到当前日期范围当月1日的所有访问。
 * **自定义回顾窗口**:允许您将归因窗口扩展到超出报表日期范围(最多为 **90天**.
 
