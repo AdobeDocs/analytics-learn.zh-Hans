@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
-source-git-commit: 5988e9d68f0c2200168da56373259bdf9f4f901b
+source-git-commit: 1b82bc495f72b099c44a1118145a63c255dcc62a
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 17%
@@ -34,7 +34,7 @@ ht-degree: 17%
 1. 首次访问转化率略高于回访率，二者的转化率为11.6%，而回访率为11.4%。
 1. 与2021年相比，这两个领域的转化率都有所下降。
 
-![访问次数表](assets/visits-table.png)
+![访问次数表](assets/cohort1.png)
 
 ## 第2部分：同类群组分析 — 访问可食用安排全局生产
 
@@ -70,14 +70,14 @@ ht-degree: 17%
 1) 数量最多的月份包括2月和5月
 1) 每月约有1,000名访客返回网站
 
-![2022年保留表](assets/2022-retention-table.png)
+![2022年保留表](assets/cohort2.png)
 
 **2021年：**
 
 1) 保留率最高的月份+1个月包括4月、1月和3月
 1) 数量最多的月份包括2月和5月
 
-![2021年保留率表](assets/2021-retention-table.png)
+![2021年保留率表](assets/cohort3.png)
 
 **操作项：**
 
@@ -128,7 +128,7 @@ ht-degree: 17%
 
 调查在结帐期间让用户创建帐户的网站用户体验
 
-![同类群组表4](assets/cohort-table-4.png)
+![同类群组表4](assets/cohort4.png)
 
 ## 第4部分：自定义Dimension同类群组
 
@@ -156,7 +156,7 @@ ht-degree: 17%
 1) Product2
 1) Product3  — 与平均保留率相比，通常性能要优于平均保留率。
 
-![同类群组表5](assets/cohort-table-5.png)
+![同类群组表5](assets/cohort5.png)
 
 ## 结论
 
