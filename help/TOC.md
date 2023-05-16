@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2404'
 ht-degree: 98%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 98%
       + [使用任何维度进行同类群组分析](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [用同类群组表进行延时分析](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [在同类群组表中计算滚动留存](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+      + [使用同类群组分析了解客户行为](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + 语音分析 {#voice-analytics}
       + [如何管理和跟踪语音助手应用程序数据](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [了解支持语音的设备之间的区别](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
