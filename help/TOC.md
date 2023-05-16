@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
+source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
 workflow-type: tm+mt
-source-wordcount: '2404'
-ht-degree: 98%
+source-wordcount: '2434'
+ht-degree: 97%
 
 ---
 
@@ -128,6 +128,7 @@ ht-degree: 98%
       + [汇总数字和汇总变更可视化图表](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [关键指标摘要可视化图表](analysis-workspace/visualizations/key-metric-summary.md)
       + [文本可视化图表](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [不只是词语 — 使用文本可视化和描述](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [散点图可视化图表](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [树形图可视化图表](analysis-workspace/visualizations/treemap-visualization.md)
       + [维恩图可视化图表](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -322,6 +323,7 @@ ht-degree: 98%
       + [分段中的维度模型](components/segmentation/dimension-models-in-segmentation.md)
       + [分段中的“等于任何”运算符](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [分析内部网络研讨会 - 客户分段策略](components/segmentation/customer-segmentation-strategies.md)
+      + [现在，只需等待一个区段……使用分段即可发现新的洞察](components/segmentation/segmentation-to-discover-new-insights.md)
    + 计算量度 {#calculated-metrics}
       + [计算量度中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [计算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
@@ -332,6 +334,7 @@ ht-degree: 98%
       + [计算量度 — 量度选择器](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Analysis Workspace 中的快速计算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [在计算量度中使用维度](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+      + [使用计算量度将数据分析提升到新的水平](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 分类{#classifications}
       + [分类概述](components/classifications/overview-of-classifications.md)
       + [使用分类规则生成器](components/classifications/using-the-classification-rule-builder.md)
