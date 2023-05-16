@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
+source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 99%
+source-wordcount: '2397'
+ht-degree: 98%
 
 ---
 
@@ -231,6 +231,7 @@ ht-degree: 99%
       + [创建 Adobe Analytics 内部站点](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [使用全局报告包](administration/admin-tips/use-a-global-report-suite.md)
       + [创建新闻和公告项目](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [使用执行摘要功能板取得成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + 公司设置 {#company-settings}
       + [强制执行电子邮件域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [查看您的帐户的可用功能](administration/company-settings/view-your-accounts-available-features.md)
