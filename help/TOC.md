@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
+source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
 workflow-type: tm+mt
-source-wordcount: '2434'
+source-wordcount: '2435'
 ht-degree: 97%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 97%
       + [Analysis Workspace 简介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 概述](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [导航到新的登陆页面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [通过预建报告开始您的分析](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [从头开始构建 Workspace 项目](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中创建和管理自定义模板](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [了解数据如何进入您的 Analysis Workspace 项目](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -128,7 +129,7 @@ ht-degree: 97%
       + [汇总数字和汇总变更可视化图表](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [关键指标摘要可视化图表](analysis-workspace/visualizations/key-metric-summary.md)
       + [文本可视化图表](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [不只是词语 — 使用文本可视化和描述](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+      + [多词 — 使用文本可视化图表和描述](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [散点图可视化图表](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [树形图可视化图表](analysis-workspace/visualizations/treemap-visualization.md)
       + [维恩图可视化图表](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -163,7 +164,7 @@ ht-degree: 97%
       + [转化事件简介](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由格式表中使用量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
       + [在 Analysis Workspace 中使用参与率量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
-      + [再见Excel，您好计算量度](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+      + [再见，Excel，您好，计算量度](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 维度 {#dimensions}
       + [在 Analysis Workspace 中将维度和量度添加到项目](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量变量简介 (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -186,7 +187,7 @@ ht-degree: 97%
       + [计划项目和可下载的项目](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace 中的项目共享](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
       + [Analysis Workspace 中的仅查看项目](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [释放仅查看共享的功能](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [解锁仅查看共享的功能](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [使用跨选项卡分析探索基本营销归因](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [添加 Attribution IQ 模型的并排比较](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
@@ -233,7 +234,6 @@ ht-degree: 97%
       + [创建 Adobe Analytics 内部站点](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [使用全局报告包](administration/admin-tips/use-a-global-report-suite.md)
       + [创建新闻和公告项目](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [使用执行摘要功能板取得成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + 公司设置 {#company-settings}
       + [强制执行电子邮件域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [查看您的帐户的可用功能](administration/company-settings/view-your-accounts-available-features.md)
@@ -323,7 +323,7 @@ ht-degree: 97%
       + [分段中的维度模型](components/segmentation/dimension-models-in-segmentation.md)
       + [分段中的“等于任何”运算符](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [分析内部网络研讨会 - 客户分段策略](components/segmentation/customer-segmentation-strategies.md)
-      + [现在，只需等待一个区段……使用分段即可发现新的洞察](components/segmentation/segmentation-to-discover-new-insights.md)
+      + [现在只需等待一个区段……使用分段发现新见解](components/segmentation/segmentation-to-discover-new-insights.md)
    + 计算量度 {#calculated-metrics}
       + [计算量度中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [计算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
