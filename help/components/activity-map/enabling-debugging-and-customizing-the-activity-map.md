@@ -8,9 +8,9 @@ kt: 1995
 role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,3 @@ ht-degree: 100%
 了解如何启用、调试和自定义在 Adobe Analytics 扩展中部署 [!UICONTROL Activity Map] 的方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频包含在[Adobe Analytics 中报表包的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)课程中，可在 Experience League 上免费观看！

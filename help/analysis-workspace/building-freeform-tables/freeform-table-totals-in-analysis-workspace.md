@@ -7,9 +7,9 @@ kt: 3857
 role: User
 level: Beginner
 exl-id: 22c1f256-041a-49e1-b8e8-47cfd4fb801d
-source-git-commit: 0f81e30dbee6bc52b3fcbf7f6c91a6c85cc33755
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '46'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 了解什么会影响自由格式表中的总计，以及如何启用和禁用它们。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频是可在 Experience League 上免费观看的[分析基础之自由格式表](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)课程的一部分！

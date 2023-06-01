@@ -7,9 +7,9 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '177'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,4 @@ ht-degree: 100%
 
 下拉列表也是整合项目和面板的有用方式。例如，如果您有某个提供了国家/地区特定的报告的项目的多个版本，您现在可以将这些项目折叠成一个项目，并添加到国家/地区下拉列表中以供用户切换。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=zh-Hans)。
-
->[!INFO]
->
-> 这段视频包含在[使用自定义细分和日期过滤您的数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)课程中，可在 Experience League 上免费观看！
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)。

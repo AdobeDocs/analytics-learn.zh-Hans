@@ -7,9 +7,9 @@ thumbnail: 23975.jpg
 role: User
 level: Beginner
 exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=zh-Hans)。
-
->[!INFO]
->
-> 这段视频包含在[使用自定义细分和日期过滤您的数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)课程中，可在 Experience League 上免费观看！

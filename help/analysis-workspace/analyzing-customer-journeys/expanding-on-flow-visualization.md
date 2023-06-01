@@ -11,9 +11,9 @@ kt: 2280
 role: User
 level: Beginner
 exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,3 @@ ht-degree: 100%
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=zh-Hans#analysis-workspace)。
 
->[!INFO]
->
-> 这段视频包含在[将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)课程中，可在 Experience League 上免费观看！

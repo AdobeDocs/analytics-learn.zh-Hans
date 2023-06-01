@@ -6,9 +6,9 @@ kt: 3565
 role: User
 level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
-source-git-commit: 53db4c11ce54076099f1d38e2005103a2fe82d72
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '46'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 数据如何从您的页面进入 Adobe Analytics 中的报告？此视频介绍此过程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频包含在[引导式分析实施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)课程中，可在 Experience League 上免费观看！

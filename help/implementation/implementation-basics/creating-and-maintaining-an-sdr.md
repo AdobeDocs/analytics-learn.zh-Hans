@@ -7,9 +7,9 @@ level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ ht-degree: 100%
 [下载](assets/aa-implementation-playbook.xlsx)一个示例 Excel 模板以记录您数字财产的要求和数据收集设计。
 
 [下载](assets/geometrixx-clothiers-brd-sdr.xlsx)在此视频中展示的 Excel 文档和/或观看相关的[业务要求文档视频](creating-a-business-requirements-document.md)。
-
->[!INFO]
->
-> 这段视频包含在[引导式分析实施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)课程中，可在 Experience League 上免费观看！

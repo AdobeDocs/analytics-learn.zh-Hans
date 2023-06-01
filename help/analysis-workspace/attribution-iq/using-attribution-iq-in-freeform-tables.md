@@ -7,9 +7,9 @@ kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
@@ -29,10 +29,3 @@ ht-degree: 100%
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
 
->[!INFO]
->
-> 这段视频是可在 Experience League 上免费观看的[分析基础之自由格式表](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)课程的一部分！
-
->[!INFO]
->
-> 这段视频包含在[将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)课程中，可在 Experience League 上免费观看！

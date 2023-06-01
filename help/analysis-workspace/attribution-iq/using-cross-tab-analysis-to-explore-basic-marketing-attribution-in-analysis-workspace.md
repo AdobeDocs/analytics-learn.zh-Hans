@@ -10,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,3 @@ ht-degree: 100%
 * 4:30 — 现在可以批量（而不是逐个）更新列设置。 观看本视频的 8:45 部分以了解详情：[自由格式表中的行和列设置](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 有关此主题的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html)。
-
->[!INFO]
->
-> 这段视频包含在[将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)课程中，可在 Experience League 上免费观看！

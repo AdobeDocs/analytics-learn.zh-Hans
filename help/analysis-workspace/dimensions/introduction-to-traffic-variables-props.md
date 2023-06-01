@@ -6,9 +6,9 @@ kt: 3576
 role: User
 level: Beginner
 exl-id: e5ccac21-d0ac-4882-b8aa-0da749cbf6e7
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '42'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 本视频介绍了流量变量，包括“[!UICONTROL 页面名称]”、“[!UICONTROL 网站区域]”和“[!UICONTROL props]”。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频包含在[引导式分析实施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)课程中，可在 Experience League 上免费观看！

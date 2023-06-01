@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 339441.jpg
 kt: 9528
 exl-id: 39ac3d0e-7f5c-44c3-946d-57e2a395a9f6
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '59'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/339441/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=zh-Hans)。
-
->[!INFO]
->
-> 这段视频包含在 [Adobe Analytics 中报表包的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)课程中，可在 Experience League 上免费观看！

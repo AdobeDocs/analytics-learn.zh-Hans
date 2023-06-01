@@ -11,9 +11,9 @@ kt: 5553
 role: User
 level: Intermediate
 exl-id: eea84902-834c-4826-91cd-5d258fcb4f0e
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html#lookback-windows)。
-
->[!INFO]
->
-> 这段视频包含在[将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)课程中，可在 Experience League 上免费观看！

@@ -10,9 +10,9 @@ kt: 2014
 role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ ht-degree: 100%
 本视频介绍了在[!DNL Freeform]分析中使用日期的三种不同方法：日历、[!UICONTROL 日期范围]元素和粒度元素。 未显示，有点尴尬：如何使用日期来启用折线图。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频包含在[使用自定义细分和日期过滤您的数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)课程中，可在 Experience League 上免费观看！

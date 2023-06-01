@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 25444.jpg
 kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,3 @@ ht-degree: 100%
 在 [!UICONTROL Report Builder] 中，您可以返回 [!UICONTROL 量度] 实际值、期望值以及上限和下限，深化您要分析和共享的数据。
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=zh-Hans)。
-
->[!INFO]
->
-> 这段视频包含在[导出 Adobe Analytics 数据并使其大众化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)课程中，可在 Experience League 上免费观看！

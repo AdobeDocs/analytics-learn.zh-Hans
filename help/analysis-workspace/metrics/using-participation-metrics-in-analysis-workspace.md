@@ -7,9 +7,9 @@ kt: 6355
 role: User
 level: Beginner
 exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '53'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html)。
-
->[!INFO]
->
-> 这段视频是可在 Experience League 上免费观看的[分析基础之自由格式表](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)课程的一部分！

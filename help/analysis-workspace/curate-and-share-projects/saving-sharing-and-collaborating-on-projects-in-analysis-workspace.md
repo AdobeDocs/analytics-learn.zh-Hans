@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: 33634.jpg
 kt: 4108
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -21,8 +21,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html)。
-
->[!INFO]
->
-> 这段视频包含在 [Analysis Workspace 快速入门](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)和[导出 Adobe Analytics 数据并使其大众化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)多个课程中，可在 Experience League 上免费观看！
-

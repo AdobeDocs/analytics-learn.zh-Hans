@@ -8,9 +8,9 @@ level: Intermediate, Experienced
 thumbnail: 335745.jpg
 kt: 8459
 exl-id: 0949cb1f-9ea2-4682-8ca5-62b74434e722
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '118'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,3 @@ ht-degree: 100%
 使用“用户管理”页面的“管理报表用户和群组”可管理用户和群组，以及控制对报表、工具和报表包的访问。 您可以通过 Adobe Analytics 中的用户管理将用户帐户项（例如，功能板、日历活动和书签）从一个用户帐户分配到另一个用户帐户。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335745/?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频包含在 [Adobe Analytics 中报表包的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)课程中，可在 Experience League 上免费观看！

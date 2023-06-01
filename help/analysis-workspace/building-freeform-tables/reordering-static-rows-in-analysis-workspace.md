@@ -7,9 +7,9 @@ kt: 4218
 role: User
 level: Beginner
 exl-id: 1a4e82fe-12ac-4c44-afec-60010f1214f6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 您可以在自由格式表生成器中手动为静态行重新排序。 这允许您按照所需的确切顺序排列表静态行 — 例如，依次为访问次数、订单数和转化率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频是可在 Experience League 上免费观看的[分析基础之自由格式表](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)课程的一部分！

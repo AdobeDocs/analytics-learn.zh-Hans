@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 340078.jpg
 kt: 9576
 exl-id: ae7760e6-5ec3-4e2a-a717-cf63b760bba0
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/340078/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-classifications.html?lang=zh-Hans)。
-
->[!INFO]
->
-> 这段视频包含在 [Adobe Analytics 中报表包的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)课程中，可在 Experience League 上免费观看！

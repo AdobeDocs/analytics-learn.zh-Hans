@@ -10,9 +10,9 @@ kt: 1942
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12&learn=on)
 
 您将了解如何查看不同页面上触发的内容、加载变量的友好名称以及导出高级用例的结果。
-
->[!INFO]
->
-> 这段视频包含在[引导式分析实施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)课程中，可在 Experience League 上免费观看！

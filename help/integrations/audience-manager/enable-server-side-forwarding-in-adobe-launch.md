@@ -12,9 +12,9 @@ topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '55'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,3 @@ ht-degree: 100%
 了解如何使用 Adobe [!DNL Experience Platform Launch] 以使您的 Adobe Analytics 点击通过服务器端转发自动发送到 Adobe Audience Manager。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频包含在 [Adobe Analytics 中报表包的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)课程中，可在 Experience League 上免费观看！

@@ -11,9 +11,9 @@ kt: 5554
 role: User
 level: Intermediate
 exl-id: fc7a4eda-0e1b-45a5-876d-022b97ef6e42
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ Analysis Workspace 中的“算法归因”模型可使用统计技术动态确�
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html)。
-
->[!INFO]
->
-> 这段视频包含在[将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)课程中，可在 Experience League 上免费观看！

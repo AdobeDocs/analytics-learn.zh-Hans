@@ -8,9 +8,9 @@ kt: 4105
 role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
@@ -22,11 +22,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html)。
-
->[!INFO]
->
-> 该视频是两门课程的一部分：
-> * [Analysis Workspace 快速入门](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
-> * [使用自定义分段和日期筛选您的数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
->
-> 这两门课程都可以在 Experience League 上免费观看！

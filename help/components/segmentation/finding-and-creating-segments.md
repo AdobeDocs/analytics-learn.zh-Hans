@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: 334092.jpg
 kt: 8058
 exl-id: ea359d50-b24b-406d-bf0e-0277351a0be9
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/334092/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-workflow.html?lang=zh-Hans)。
-
->[!INFO]
->
-> 这段视频包含在[使用自定义细分和日期过滤您的数据](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)课程中，可在 Experience League 上免费观看！

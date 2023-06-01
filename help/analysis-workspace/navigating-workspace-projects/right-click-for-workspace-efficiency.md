@@ -7,9 +7,9 @@ kt: 5939
 role: User
 level: Beginner
 exl-id: 4f0ce6d2-4ce4-4aa7-907d-efcaab958674
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 了解我们喜欢的各种 Analysis Workspace 右键单击及其用法。 从[!UICONTROL 自由格式表]到[!UICONTROL 流失可视化图表]，右键单击将使您在 [!DNL Workspace] 中更加高效和熟练。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频是可在 Experience League 上免费观看的[分析基础之自由格式表](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)课程的一部分！

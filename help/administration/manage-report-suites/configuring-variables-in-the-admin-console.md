@@ -8,9 +8,9 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,3 @@ ht-degree: 100%
 定义要在 [!DNL Analytics] 实施中使用的变量和事件后，您需要转至 [!DNL Admin Console] 来配置这些变量和事件，以使报表/维度/量度都具有正确的名称和行为。 本视频向您说明在何处以及如何做到这一点。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频包含在[引导式分析实施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)和[Adobe Analytics 中报表包的配置和管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)多个课程中，可在 Experience League 上免费观看！

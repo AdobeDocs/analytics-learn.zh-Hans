@@ -11,9 +11,9 @@ kt: 2276
 role: User
 level: Beginner
 exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -23,9 +23,5 @@ ht-degree: 100%
 本视频对客户强烈请求的[!DNL Fallout Visualization]更新进行介绍，包括直接步骤与最终步骤、重命名接触点、比较无限区段以及确定随时间变化的接触点转化百分比趋势。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频包含在[将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)课程中，可在 Experience League 上免费观看！
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hans)。

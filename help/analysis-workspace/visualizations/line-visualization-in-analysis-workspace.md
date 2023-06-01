@@ -7,9 +7,9 @@ kt: 6277
 role: User
 level: Beginner
 exl-id: 7d638458-0e52-4824-8667-873045cfc372
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
@@ -20,8 +20,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=zh-Hans)。
-
->[!INFO]
->
-> 这段视频包含在[使用可视化来讲述您的数据故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)课程中，可在 Experience League 上免费观看！
+有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html)。

@@ -7,9 +7,9 @@ level: Beginner
 kt: 2115
 thumbnail: 23991.jpg
 exl-id: cb10bbb0-fb2c-4849-a4bb-a4d1c3f87254
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 我们不知道该怎么称呼这项功能，但它真的太酷了。 当您通过维度值创建折线图时，您现在可以选择不同的维度值并动态地更改图形。观看视频，了解更多信息!
 
 >[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12&learn=on)
-
->[!INFO]
->
-> 这段视频包含在[使用可视化来讲述您的数据故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)课程中，可在 Experience League 上免费观看！

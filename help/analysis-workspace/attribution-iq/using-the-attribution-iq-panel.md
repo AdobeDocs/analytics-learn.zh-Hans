@@ -11,9 +11,9 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12&learn=on)
 
 Analysis Workspace 中的 [!DNL Attribution IQ] [!UICONTROL 面板]可让您以可视方式快速比较十种基于规则的[!DNL attribution models]中的任一模型。 了解每种模型会对任何使用[!DNL Bar Charts]、[!DNL Venn diagrams]、[!DNL Histograms]、[!DNL Scatter Plots]甚至[!DNL Flow Diagram]的维度产生哪些影响。 [!DNL Attribution] [!UICONTROL 面板]是更复杂的归因分析的良好起点。
-
->[!INFO]
->
-> 这段视频包含在[将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)课程中，可在 Experience League 上免费观看！
