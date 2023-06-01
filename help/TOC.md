@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
+source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
 workflow-type: tm+mt
-source-wordcount: '2435'
-ht-degree: 97%
+source-wordcount: '2444'
+ht-degree: 96%
 
 ---
 
@@ -115,6 +115,7 @@ ht-degree: 97%
       + [可视化图表类型 ](analysis-workspace/visualizations/visualization-types.md)
       + [可视化图表用例](analysis-workspace/visualizations/visualization-use-cases.md)
       + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [数据可视化剧本](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [将数据纳入可视化图表](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的“组件”下拉菜单](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [面积图和堆叠面积可视化图表](analysis-workspace/visualizations/area-and-area-stacked.md)
@@ -181,7 +182,8 @@ ht-degree: 97%
       + [在 Analysis Workspace 中保存、共享和协作项目](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace 中的简化和共享](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [项目的直接链接](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [以 CSV 格式下载 50,000 项](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
+      + [与Analysis Workspace中的任何用户共享](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [以 CSV 格式下载 50,000 个项目](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [从 Analysis Workspace 导出为 CSV 和 PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [共享嵌入的组件](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [计划项目和可下载的项目](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
