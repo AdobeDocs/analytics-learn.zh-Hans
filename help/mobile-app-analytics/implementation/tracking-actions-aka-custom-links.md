@@ -11,10 +11,10 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 4d467928756950074620388645523021b21fb0d5
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 这些数据采用 `contextData` 的形式，这还意味着您随后需要使用[!UICONTROL 处理规则]从这些 `contextData` 变量取得移动数据并将其映射到 Adobe Analytics 中的 [!DNL eVars]、[!DNL Props]、事件等等。
 
-有关 trackAction 的详细信息，请参阅[文档](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference)。
+有关 trackAction 的详细信息，请参阅[文档](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics)。
