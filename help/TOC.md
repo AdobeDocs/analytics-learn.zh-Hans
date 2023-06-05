@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
+source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
 workflow-type: tm+mt
-source-wordcount: '2444'
+source-wordcount: '2443'
 ht-degree: 96%
 
 ---
@@ -87,7 +87,6 @@ ht-degree: 96%
       + [使用 Analysis Workspace 中的表、可视化图表和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace 中的“Quick Insights”面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [使用 Attribution IQ 面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
-      + [了解Adobe Analytics归因面板和回顾窗口](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Analysis Workspace 中的“媒体并行查看者”面板](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [“媒体播放耗时”面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [使用下拉过滤器](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -236,6 +235,7 @@ ht-degree: 96%
       + [创建 Adobe Analytics 内部站点](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [使用全局报告包](administration/admin-tips/use-a-global-report-suite.md)
       + [创建新闻和公告项目](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [使用执行摘要仪表板推动成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + 公司设置 {#company-settings}
       + [强制执行电子邮件域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [查看您的帐户的可用功能](administration/company-settings/view-your-accounts-available-features.md)
