@@ -7,10 +7,10 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '310'
+ht-degree: 96%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 _数据层_&#x200B;是开发人员添加到数字网页的 JavaScript 对象框架。 Analytics 解决方案最终使用数据层填充报告。 Tag Management 系统，包括 [!DNL Experience Platform Tags] 是读取数据层、将值映射到变量并将数据发送到数字体验解决方案的中介。
 
-在 [Experience Cloud 文档](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=zh-Hans)和博文[数据层：从 Buzzword 到最佳实践](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice)中查看有关数据层的其他信息。
+在中查看有关数据层的其他信息 [Experience Cloud文档](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=zh-Hans).
 
 ## 数据层、[!DNL Experience Platform Tags] 和 Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 

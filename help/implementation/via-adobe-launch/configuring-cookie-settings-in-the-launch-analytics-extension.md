@@ -10,9 +10,9 @@ kt: 2856
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '95'
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
+workflow-type: tm+mt
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -22,5 +22,3 @@ ht-degree: 100%
 如果您刚刚开始使用 Experience Platform Launch 和 Adobe Analytics 扩展，本视频可以帮助您了解是否以及如何设定 [!DNL Analytics] 扩展中的 Cookie 设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=12&learn=on)
-
-有关这些设置的其他信息，请访问[文档](https://docs.adobelaunch.com/extension-reference/web/adobe-analytics-extension#cookies)。

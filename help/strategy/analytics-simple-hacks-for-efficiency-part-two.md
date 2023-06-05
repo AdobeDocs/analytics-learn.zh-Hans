@@ -3,9 +3,9 @@ title: 提高效率和自助服务的简单技巧——第二部分
 description: 了解 Analytics 团队目前面临的主要挑战，以及我们关于使用内置工具策略克服这些挑战的建议。
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '730'
 ht-degree: 100%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 100%
 **第 2 部分：内置工具策略**
 
 该文章描述了 Analytics 团队目前面临的主要挑战，以及我们关于使用内置工具策略克服这些挑战的建议。前往[此处](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md)查看第 1 部分。
-
-有关 Adobe Analytics 平台之外的有效解决方案的更多信息，请点击[这里](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
 
 ## 提高效率的关键：内置工具策略
 
@@ -93,7 +91,5 @@ ht-degree: 100%
 ## Adobe 2.0 报告 API
 
 利用报告 API 将标准报告从[!UICONTROL 工作区]移动到计划报告和仪表板。此外，利用[!UICONTROL  Analysis Workspace] 来构建 API 请求。
-
-我们希望这篇关于内置工具策略的文章很有帮助。有关 Adobe Analytics 平台之外提高效率的有效解决方案的更多信息，请点击[这里](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)。
 
 在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心详细了解战略和思想领导力。
