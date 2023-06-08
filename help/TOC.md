@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 0e99202f5861310370cba2753339e8a9a45d6804
+source-git-commit: e4975a7fad9eb42ab4d2bbad99efb73cabea564e
 workflow-type: tm+mt
-source-wordcount: '2438'
+source-wordcount: '2445'
 ht-degree: 96%
 
 ---
@@ -65,11 +65,13 @@ ht-degree: 96%
       + [Analysis Workspace 中的组件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [在 Analysis Workspace 中选择报告包](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [查看 Analysis Workspace 性能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
+      + [创建机器人报表](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + 提示和技巧 {#tips-and-tricks}
       + [Analysis Workspace 的 7 个提示和技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [右键单击“提示和技巧”获得更高效的工作流](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [在 Analysis Workspace 中提高生产力的提示](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [客户对于继续学习 Adobe Analytics 给出的提示](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
+      + [创建动态下拉过滤器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + 在 Workspace 项目中导航 {#navigating-workspace-projects}
       + [Analysis Workspace 中的数据词典](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [使用模板创建项目](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
