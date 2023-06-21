@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: e4975a7fad9eb42ab4d2bbad99efb73cabea564e
+source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
 workflow-type: tm+mt
-source-wordcount: '2445'
-ht-degree: 96%
+source-wordcount: '2451'
+ht-degree: 97%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 96%
       + [Analysis Workspace 简介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 概述](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [导航到新的登陆页面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [通过预建报告开始您的分析](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
+      + [使用预建的报告开始分析](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [从头开始构建 Workspace 项目](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中创建和管理自定义模板](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [了解数据如何进入您的 Analysis Workspace 项目](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -95,6 +95,7 @@ ht-degree: 96%
       + [为面板选择区段](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Analysis Workspace 中的多个报表包](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [下一个/上一个及页面摘要工作区面板和报告](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [了解归因面板和回顾窗口](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
    + 构建自由格式表 {#building-freeform-tables}
       + [了解您的数据 - 自由格式表](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [使用左边栏构建自由格式表](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -337,7 +338,7 @@ ht-degree: 96%
       + [计算量度 — 量度选择器](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Analysis Workspace 中的快速计算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [在计算量度中使用维度](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [使用计算量度将数据分析提升到新的水平](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [使用计算量度将您的数据分析提升到新的水平](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 分类{#classifications}
       + [分类概述](components/classifications/overview-of-classifications.md)
       + [使用分类规则生成器](components/classifications/using-the-classification-rule-builder.md)
