@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
+source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
 workflow-type: tm+mt
-source-wordcount: '2451'
+source-wordcount: '2446'
 ht-degree: 97%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 97%
       + [批注](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [视图密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [使用过滤器](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+   + 实时报告 {#real-time-reports}
+      + [实时报告](analysis-workspace/real-time-reports/realtime-reporting.md)
    + 使用面板 {#using-panels}
       + [使用 Analysis Workspace 中的表、可视化图表和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace 中的“Quick Insights”面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -217,8 +219,6 @@ ht-degree: 97%
       + [在语音应用程序中降低错误率和提高成功率](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [了解针对语音助手的用户行为](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [了解用户的语音历程](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Reports and Analytics {#reports-and-analytics}
-   + [Reports and Analytics 中的实时报告](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
    + 关键管理技巧 {#key-admin-skills}
       + [创建赋权社区](administration/key-admin-skills/empowered-community.md)
