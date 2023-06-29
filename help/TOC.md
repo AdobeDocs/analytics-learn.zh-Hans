@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
+source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
 source-wordcount: '2446'
-ht-degree: 97%
+ht-degree: 96%
 
 ---
 
@@ -328,15 +328,15 @@ ht-degree: 97%
       + [分段中的“等于任何”运算符](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [分析内部网络研讨会 - 客户分段策略](components/segmentation/customer-segmentation-strategies.md)
       + [现在只需等待一个区段……使用分段发现新见解](components/segmentation/segmentation-to-discover-new-insights.md)
-   + 计算量度 {#calculated-metrics}
-      + [计算量度中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [计算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
-      + [计算量度 — 量度生成器](components/calculated-metrics/calculated-metrics-metric-builder.md)
+   + 计算度量 {#calculated-metrics}
+      + [计算量度生成器概述](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [计算量度 — 函数](components/calculated-metrics/calculated-metrics-functions.md)
       + [计算量度 — 无实施量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [计算量度 — 分段量度](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
       + [计算量度 — 量度选择器](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Analysis Workspace 中的快速计算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [计算量度中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [计算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [在计算量度中使用维度](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [使用计算量度将您的数据分析提升到新的水平](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 分类{#classifications}
