@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
+source-git-commit: 5f49401fd82602a7d6c046a33623698c4eb45397
 workflow-type: tm+mt
 source-wordcount: '2446'
 ht-degree: 96%
@@ -333,8 +333,8 @@ ht-degree: 96%
       + [计算量度 — 函数](components/calculated-metrics/calculated-metrics-functions.md)
       + [计算量度 — 无实施量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [计算量度 — 分段量度](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [计算量度 — 量度选择器](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Analysis Workspace 中的快速计算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [管理计算量度](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [计算量度中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [计算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [在计算量度中使用维度](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
