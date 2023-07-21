@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
+source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
 workflow-type: tm+mt
-source-wordcount: '2446'
+source-wordcount: '2451'
 ht-degree: 96%
 
 ---
@@ -162,6 +162,7 @@ ht-degree: 96%
       + [在 Analysis Workspace 中使用区段限制数据](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace 中的快速区段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
       + [构建客户历程区段](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [构建客户历程区段 — 第2部分](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + 量度 {#metrics}
       + [了解基本访客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [在 Analysis Workspace 中将维度和量度添加到您的项目](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
@@ -185,7 +186,7 @@ ht-degree: 96%
       + [在 Analysis Workspace 中保存、共享和协作项目](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace 中的简化和共享](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [项目的直接链接](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [与Analysis Workspace中的任何用户共享](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [Analysis Workspace 中的“与任何人共享”](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [以 CSV 格式下载 50,000 个项目](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [从 Analysis Workspace 导出为 CSV 和 PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [共享嵌入的组件](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
