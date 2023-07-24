@@ -1,9 +1,12 @@
 ---
 title: 提高效率和自助服务的简单技巧——第 1 部分
 description: 了解 Analytics 团队目前面临的主要挑战，以及我们对使用 Adobe Analytics UI 之外的策略来克服这些挑战的建议。
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 100%

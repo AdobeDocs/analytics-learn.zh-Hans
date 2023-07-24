@@ -1,9 +1,12 @@
 ---
 title: 通过虚拟分析师和 Segment IQ 掌握客户情报
 description: 了解使用人工智能和机器学习（AI/ML）的重要性。查看使用虚拟分析师和 Segment IQ 来检测异常情况、避免出现离群值并最大限度地提高 ROI 方面的益处，并从全球客户那里了解实际的成功案例。
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '1104'
 ht-degree: 100%
