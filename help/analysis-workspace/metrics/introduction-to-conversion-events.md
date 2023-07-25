@@ -1,20 +1,21 @@
 ---
 title: 转化事件简介
-description: 在本视频中，了解转化“事件”或有助于跟踪您网站上的转化的变量（例如，订单、登记、注册、表单填写等）
+description: 了解Adobe Analytics中转化事件（通常称为成功事件）的基础知识。 它们测量数字资产上的转化，并在报表中用作指标。
 feature: Metrics
 kt: 3578
 role: User
 level: Beginner
+thumbnail: 28764.jpg
 exl-id: 3f2876fe-d7da-47d3-a23d-0d8f790f7f5b
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 28e6e043ac050c0c3b51be1f47e3088915d63075
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
 # 转化事件简介
 
-在本视频中，了解转化“事件”或有助于跟踪您网站上的转化的变量（例如，订单、登记、注册、表单填写等）
+在中了解转化事件（通常称为成功事件）的基础知识 [!DNL Adobe Analytics]. 它们测量数字资产上的转化，并在报表中用作指标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)
