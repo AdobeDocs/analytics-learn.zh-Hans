@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
 source-wordcount: '2448'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -38,13 +38,13 @@ ht-degree: 95%
       + [如何收集 Analytics 数据](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [登录到 Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [了解和创建报告包](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [了解基本访客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [了解基本访客指标](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
       + [流量变量简介 (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
       + [转化变量简介 (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [转化事件简介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + 自定义 UI {#customizing-the-ui}
       + [自定义 Analysis Workspace 用户偏好设置](intro-to-analytics/customizing-the-ui/user-preferences.md)
-      + [添加维度和量度描述](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
+      + [添加维度和指标描述](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [自定义 Reports and Analytics 中的菜单](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [增强安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [将 Analysis Workspace 项目设置为您的登陆页面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
@@ -61,11 +61,11 @@ ht-degree: 95%
       + [从头开始构建 Workspace 项目](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中创建和管理自定义模板](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [了解数据如何进入您的 Analysis Workspace 项目](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
-      + [Adobe Analytics 中的基本量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
+      + [Adobe Analytics 中的基本指标](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace 中的组件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [在 Analysis Workspace 中选择报告包](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
-      + [查看 Analysis Workspace 性能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
-      + [创建机器人报表](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
+      + [查看 Analysis Workspace 性能指标](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
+      + [创建机器人报告](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + 提示和技巧 {#tips-and-tricks}
       + [Analysis Workspace 的 7 个提示和技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [右键单击“提示和技巧”获得更高效的工作流](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
@@ -97,7 +97,7 @@ ht-degree: 95%
       + [为面板选择区段](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Analysis Workspace 中的多个报表包](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [下一个/上一个及页面摘要工作区面板和报告](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
-      + [了解归因面板和回顾窗口](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
+      + [了解归因面板和回顾 Windows](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
    + 构建自由格式表 {#building-freeform-tables}
       + [了解您的数据 - 自由格式表](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [使用左边栏构建自由格式表](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -118,7 +118,7 @@ ht-degree: 95%
       + [可视化图表类型 ](analysis-workspace/visualizations/visualization-types.md)
       + [可视化图表用例](analysis-workspace/visualizations/visualization-use-cases.md)
       + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [数据可视化剧本](analysis-workspace/visualizations/data-visualization-playbook.md)
+      + [数据可视化战术手册](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [将数据纳入可视化图表](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的“组件”下拉菜单](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [面积图和堆叠面积可视化图表](analysis-workspace/visualizations/area-and-area-stacked.md)
@@ -133,11 +133,11 @@ ht-degree: 95%
       + [汇总数字和汇总变更可视化图表](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [关键指标摘要可视化图表](analysis-workspace/visualizations/key-metric-summary.md)
       + [文本可视化图表](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [多词 — 使用文本可视化图表和描述](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+      + [不仅仅是文字 – 使用文本可视化和描述](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [散点图可视化图表](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [树形图可视化图表](analysis-workspace/visualizations/treemap-visualization.md)
       + [维恩图可视化图表](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [使用累积平均函数应用量度平滑功能](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [使用累积平均函数应用指标平滑功能](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [灵活的布局](analysis-workspace/visualizations/flexible-layouts.md)
       + [更改可视化图表上的刻度/轴](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [维度图实时链接](analysis-workspace/visualizations/dimension-graph-live-linking.md)
@@ -162,16 +162,16 @@ ht-degree: 95%
       + [在 Analysis Workspace 中使用区段限制数据](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace 中的快速区段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
       + [构建客户历程区段](analysis-workspace/applying-segments/building-customer-journey-segments.md)
-      + [构建客户历程区段 — 第2部分](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
-   + 量度 {#metrics}
+      + [构建客户历程区段 – 第 2 部分](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
+   + 指标 {#metrics}
       + [了解基本访客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [将维度和量度添加到项目](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [转化事件简介](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由格式表中使用量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
       + [在Analysis Workspace中使用参与率量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
-      + [再见，Excel，您好，计算量度](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+      + [从 Excel 转为使用计算指标](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 维度 {#dimensions}
-      + [在 Analysis Workspace 中将维度和量度添加到项目](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中将维度和指标添加到项目](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量变量简介 (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [转化变量简介 (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [在自由格式表中使用维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
@@ -193,11 +193,11 @@ ht-degree: 95%
       + [计划项目和可下载的项目](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace 中的项目共享](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
       + [Analysis Workspace 中的仅查看项目](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [解锁仅查看共享的功能](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [释放仅供查看共享的力量](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [使用跨选项卡分析探索基本营销归因](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [添加 Attribution IQ 模型的并排比较](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
-      + [计算量度中的 Attribution IQ](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
+      + [计算指标中的 Attribution IQ](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
       + [在自由格式表中使用 Attribution IQ](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
       + [使用 Attribution IQ 面板](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
       + [将不同的 Attribution IQ 模型用于区段](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
@@ -212,7 +212,7 @@ ht-degree: 95%
       + [使用任何维度进行同类群组分析](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [用同类群组表进行延时分析](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [在同类群组表中计算滚动留存](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
-      + [使用同类群组分析了解客户行为](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
+      + [使用同类群组分析来理解客户行为](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + 语音分析 {#voice-analytics}
       + [如何管理和跟踪语音助手应用程序数据](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [了解支持语音的设备之间的区别](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
@@ -238,7 +238,7 @@ ht-degree: 95%
       + [创建 Adobe Analytics 内部站点](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [使用全局报告包](administration/admin-tips/use-a-global-report-suite.md)
       + [创建新闻和公告项目](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [使用执行摘要仪表板推动成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [用高管摘要仪表板促进取得成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + 公司设置 {#company-settings}
       + [强制执行电子邮件域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [查看您的帐户的可用功能](administration/company-settings/view-your-accounts-available-features.md)
@@ -328,18 +328,18 @@ ht-degree: 95%
       + [分段中的维度模型](components/segmentation/dimension-models-in-segmentation.md)
       + [分段中的“等于任何”运算符](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [分析内部网络研讨会 - 客户分段策略](components/segmentation/customer-segmentation-strategies.md)
-      + [现在只需等待一个区段……使用分段发现新见解](components/segmentation/segmentation-to-discover-new-insights.md)
-   + 计算量度 {#calculated-metrics}
-      + [计算量度生成器概述](components/calculated-metrics/calculated-metrics-metric-builder.md)
-      + [计算量度 — 无实施量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
-      + [计算量度 — 分段量度](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [计算量度 — 函数](components/calculated-metrics/calculated-metrics-functions.md)
-      + [计算量度中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Analysis Workspace 中的快速计算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
-      + [管理计算量度](components/calculated-metrics/manage-your-calculated-metrics.md)
-      + [计算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
-      + [在计算量度中使用维度](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [使用计算量度将您的数据分析提升到新的水平](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [现在只需等待一个区段...使用分段来发现新的见解](components/segmentation/segmentation-to-discover-new-insights.md)
+   + 计算指标 {#calculated-metrics}
+      + [计算指标生成器概述](components/calculated-metrics/calculated-metrics-metric-builder.md)
+      + [计算指标 — 无实施指标](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
+      + [计算指标 — 分段指标](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [计算指标 — 函数](components/calculated-metrics/calculated-metrics-functions.md)
+      + [计算指标中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Analysis Workspace 中的快速计算指标](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [管理您的计算指标](components/calculated-metrics/manage-your-calculated-metrics.md)
+      + [计算指标中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
+      + [在计算指标中使用维度](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+      + [使用计算指标将您的数据分析提升到新的水平](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 分类{#classifications}
       + [分类概述](components/classifications/overview-of-classifications.md)
       + [使用分类规则生成器](components/classifications/using-the-classification-rule-builder.md)
@@ -375,7 +375,7 @@ ht-degree: 95%
    + Report Builder {#report-builder}
       + [在 Report Builder 中将区段同时添加到多个请求](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Report Builder 中的异常检测](exporting/report-builder/anomaly-detection-in-report-builder.md)
-      + [跨请求编辑量度](exporting/report-builder/edit-metrics-across-requests.md)
+      + [跨请求编辑指标](exporting/report-builder/edit-metrics-across-requests.md)
       + [使用 Report Builder 学习 Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
       + [开始使用 Report Builder](exporting/report-builder/get-started-with-report-builder.md)
       + [计划一项 Report Builder 请求](exporting/report-builder/schedule-a-report-builder-request.md)
@@ -398,7 +398,7 @@ ht-degree: 95%
       + [创建 Analytics 网站历程配置文件](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [创建 Analytics 区段以供激活和报告](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
       + [用 Adobe Analytics 创建 Advertising Cloud 警报](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [用 Advertising Cloud 数据创建 Analytics 自定义量度](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [用 Advertising Cloud 数据创建 Analytics 自定义指标](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [创建 Advertising Cloud 网站进入报告](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [创建 Advertising Cloud 功能板](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + 临时分析{#ad-hoc-analytics}
@@ -430,7 +430,7 @@ ht-degree: 95%
 + 移动应用程序分析{#mobile-app-analytics}
    + 实施{#implementation}
       + [移动应用程序的管理设置](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
-      + [用 Experience Platform SDK 初始化和查看生命周期量度](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
+      + [用 Experience Platform SDK 初始化和查看生命周期指标](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [跟踪行为（又称自定义链接）](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [跟踪状态（又称页面或屏幕）](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [在 iOS Swift 应用程序中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
