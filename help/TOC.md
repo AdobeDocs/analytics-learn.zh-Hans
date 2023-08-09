@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -331,15 +331,15 @@ ht-degree: 98%
       + [现在只需等待一个区段...使用分段来发现新的见解](components/segmentation/segmentation-to-discover-new-insights.md)
    + 计算指标 {#calculated-metrics}
       + [计算指标生成器概述](components/calculated-metrics/calculated-metrics-metric-builder.md)
-      + [计算量度 — 无实施量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
-      + [计算指标 — 分段指标](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [计算量度 — 函数](components/calculated-metrics/calculated-metrics-functions.md)
-      + [计算量度中的近似非重复计数函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Analysis Workspace中的快速计算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
-      + [管理您的计算指标](components/calculated-metrics/manage-your-calculated-metrics.md)
+      + [计算量度 - 无实施量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
+      + [计算量度 - 分段量度](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [计算量度 - 函数](components/calculated-metrics/calculated-metrics-functions.md)
+      + [计算量度中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Analysis Workspace 中的快速计算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [管理您的计算量度](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [计算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [在计算量度中使用维度](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [利用计算量度将数据分析提升到新的水平](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [使用计算量度将您的数据分析提升到新的水平](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 分类{#classifications}
       + [分类概述](components/classifications/overview-of-classifications.md)
       + [使用分类规则生成器](components/classifications/using-the-classification-rule-builder.md)
