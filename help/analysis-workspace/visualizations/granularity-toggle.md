@@ -1,21 +1,23 @@
 ---
-title: Analysis Workspace 中的粒度切换
-description: 粒度选择器已添加到趋势可视化图表设置中，这可让您非常轻松地调整从分钟到年的数据粒度。 此设置将同时调整图和源表，为您免去了取消隐藏和操作表的步骤。
+title: 设置可视化图表的粒度
+description: 粒度选择器可用于趋势可视化图表设置，使您能够非常轻松地调整数据的显示方式。
 feature: Visualizations
 thumbnail: 23548.jpg
 kt: 1770
 role: User
 level: Beginner
 exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '72'
+ht-degree: 0%
 
 ---
 
-# Analysis Workspace 中的[!UICONTROL 粒度]切换 {#granularity-toggle-in-analysis-workspace}
+# 设置可视化图表的粒度
 
-[!UICONTROL 粒度]选择器已添加到趋势[!UICONTROL 可视化图表]设置中，这可让您非常轻松地调整从分钟到年的数据[!UICONTROL 粒度]。 此设置将同时调整图和源表，为您免去了取消隐藏和操作表的步骤。
+粒度选择器可用于趋势可视化图表设置，使您能够非常轻松地调整数据的显示方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
+
+粒度设置将同时调整图和源表，为您免去了取消隐藏和操作表的步骤。

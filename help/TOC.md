@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: ht
-source-wordcount: '2448'
-ht-degree: 100%
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+workflow-type: tm+mt
+source-wordcount: '2458'
+ht-degree: 99%
 
 ---
 
@@ -126,6 +126,7 @@ ht-degree: 100%
       + [靶心图可视化图表](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [圆环图可视化图表](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [直方图可视化图表](analysis-workspace/visualizations/histogram-visualization.md)
+      + [使用直方图解锁洞察](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [折线图可视化图表](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [组合图表](analysis-workspace/visualizations/combo-charts.md)
       + [向折线图可视化图表添加趋势线](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -137,11 +138,11 @@ ht-degree: 100%
       + [散点图可视化图表](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [树形图可视化图表](analysis-workspace/visualizations/treemap-visualization.md)
       + [维恩图可视化图表](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [使用累积平均函数应用指标平滑功能](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [使用累积平均函数应用指标平滑](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [灵活的布局](analysis-workspace/visualizations/flexible-layouts.md)
       + [更改可视化图表上的刻度/轴](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [维度图实时链接](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [粒度切换](analysis-workspace/visualizations/granularity-toggle.md)
+      + [设置可视化图表的粒度](analysis-workspace/visualizations/granularity-toggle.md)
       + [Analysis Workspace 中的内部链接](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [重新排列可视化图表并调整其大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [自定义可视化图例](analysis-workspace/visualizations/customize-visualization-legends.md)
@@ -239,6 +240,7 @@ ht-degree: 100%
       + [使用全局报告包](administration/admin-tips/use-a-global-report-suite.md)
       + [创建新闻和公告项目](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [用高管摘要仪表板促进取得成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [创建操作仪表板](administration/admin-tips/create-operational-dashboards.md)
    + 公司设置 {#company-settings}
       + [强制执行电子邮件域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [查看您的帐户的可用功能](administration/company-settings/view-your-accounts-available-features.md)
