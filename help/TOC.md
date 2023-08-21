@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: a59a2e6f6a08e9dab5c519488e84d916d289c869
+source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
 workflow-type: tm+mt
-source-wordcount: '2465'
+source-wordcount: '2457'
 ht-degree: 99%
 
 ---
@@ -143,9 +143,7 @@ ht-degree: 99%
       + [更改可视化图表上的刻度/轴](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [维度图实时链接](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [设置可视化图表的粒度](analysis-workspace/visualizations/granularity-toggle.md)
-      + [Analysis Workspace 中的内部链接](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [项目内部或外部的链接](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
-      + [重新排列可视化图表并调整其大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [自定义可视化图例](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [百分比堆叠可视化图表](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [表和可视化图表数据源设置](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
