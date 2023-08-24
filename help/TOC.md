@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2457'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -126,7 +126,7 @@ ht-degree: 99%
       + [靶心图可视化图表](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [圆环图可视化图表](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [直方图可视化图表](analysis-workspace/visualizations/histogram-visualization.md)
-      + [使用直方图解锁洞察](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+      + [通过直方图解锁洞察](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [折线图可视化图表](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [组合图表](analysis-workspace/visualizations/combo-charts.md)
       + [向折线图可视化图表添加趋势线](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -142,7 +142,7 @@ ht-degree: 99%
       + [灵活的布局](analysis-workspace/visualizations/flexible-layouts.md)
       + [更改可视化图表上的刻度/轴](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [维度图实时链接](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [设置可视化图表的粒度](analysis-workspace/visualizations/granularity-toggle.md)
+      + [设置可视化的粒度](analysis-workspace/visualizations/granularity-toggle.md)
       + [项目内部或外部的链接](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
       + [自定义可视化图例](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [百分比堆叠可视化图表](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
