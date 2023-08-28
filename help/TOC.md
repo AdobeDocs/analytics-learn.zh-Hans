@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教程
 user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分利用您的数据。
 breadcrumb-title: Analytics 教程
 solution: Analytics
-source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
+source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
 workflow-type: tm+mt
-source-wordcount: '2457'
+source-wordcount: '2450'
 ht-degree: 99%
 
 ---
@@ -114,13 +114,11 @@ ht-degree: 99%
       + [自由格式表过滤器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [时间划分维度](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + 可视化 {#visualizations}
-      + [Analysis Workspace 中的数据可视化图表](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
-      + [可视化图表类型 ](analysis-workspace/visualizations/visualization-types.md)
+      + [可视化图表类型和概述](analysis-workspace/visualizations/visualization-types.md)
       + [可视化图表用例](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [选择要可视化的数据](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [数据可视化战术手册](analysis-workspace/visualizations/data-visualization-playbook.md)
+      + [数据可视化剧本](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [将数据纳入可视化图表](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [使用 Workspace 中的“组件”下拉菜单](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [使用Workspace中的组件下拉列表](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [面积图和堆叠面积可视化图表](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [条形图和堆叠条形图可视化图表](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [靶心图可视化图表](analysis-workspace/visualizations/bullet-graph-visualization.md)
