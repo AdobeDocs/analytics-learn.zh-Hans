@@ -1,7 +1,7 @@
 ---
 title: 了解和创建报告包
 description: 此视频将帮助您了解报告包是什么，并将介绍如何在界面中创建它们，以使您可跟踪和优化访问您网站的人员。
-short-description: 此视频将帮助您了解什么是报告包以及如何创建报告包。
+short-description: 此视频帮助您了解报表包是什么以及如何创建它们。
 feature: Analytics Basics
 kt: 3574
 role: User
