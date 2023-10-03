@@ -4,10 +4,10 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: bb057df9b6c1b06ebe834a4235bfb010e9060ac7
+source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
 workflow-type: tm+mt
-source-wordcount: '2441'
-ht-degree: 100%
+source-wordcount: '2435'
+ht-degree: 97%
 
 ---
 
@@ -313,17 +313,17 @@ ht-degree: 100%
       + [区段生成器概述](components/segmentation/segment-builder-overview.md)
       + [查找和创建区段](components/segmentation/finding-and-creating-segments.md)
       + [区段中的滚动日期范围](components/segmentation/rolling-date-ranges-in-segments.md)
-      + [Analysis Workspace 中的区段比较](components/segmentation/segment-comparison-in-analysis-workspace.md)
+      + [Analysis Workspace中的区段比较](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [区段容器](components/segmentation/segment-containers.md)
       + [区段管理和共享](components/segmentation/segment-management-and-sharing.md)
-      + [在 Analysis Workspace 中使用区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
-      + [在 Analysis Workspace 中将区段用作维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
-      + [在 Analysis Workspace 中使用区段限制数据](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
+      + [在Analysis Workspace中应用区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
+      + [将区段用作维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
+      + [使用区段限制数据](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
       + [区段生成器和快速区段之间的差异](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [顺序分段](components/segmentation/sequential-segmentation.md)
       + [在顺序分段中的序列之前/之后](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [对非重复维度计数分段](components/segmentation/segmentation-on-distinct-dimension-counts.md)
-      + [分段中的维度模型](components/segmentation/dimension-models-in-segmentation.md)
+      + [分段中的Dimension模型](components/segmentation/dimension-models-in-segmentation.md)
       + [分段中的“等于任何”运算符](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [分析内部网络研讨会 - 客户分段策略](components/segmentation/customer-segmentation-strategies.md)
       + [现在只需等待一个区段...使用分段来发现新的见解](components/segmentation/segmentation-to-discover-new-insights.md)
