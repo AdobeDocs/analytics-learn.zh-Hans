@@ -4,10 +4,10 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
-workflow-type: ht
-source-wordcount: '2436'
-ht-degree: 100%
+source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
+workflow-type: tm+mt
+source-wordcount: '2429'
+ht-degree: 99%
 
 ---
 
@@ -341,11 +341,11 @@ ht-degree: 100%
    + 分类{#classifications}
       + [分类概述](components/classifications/overview-of-classifications.md)
       + [使用分类规则生成器](components/classifications/using-the-classification-rule-builder.md)
-   + 虚拟报告包{#virtual-report-suites}
-      + [虚拟报告包](components/virtual-report-suites/virtual-report-suites.md)
-      + [虚拟报告包中的组件简化](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
-      + [虚拟报告包中的上下文感知会话](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [在虚拟报告包中对任何事件开始新访问](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+   + 虚拟报表包 {#virtual-report-suites}
+      + [虚拟报表包概述](components/virtual-report-suites/virtual-report-suites.md)
+      + [组件管理](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
+      + [在虚拟报表包中自定义访问](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+      + [对任意事件开始新访问](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map{#activity-map}
       + [Activity Map 概述](components/activity-map/activity-map-overview.md)
       + [启用、调试和自定义 Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
