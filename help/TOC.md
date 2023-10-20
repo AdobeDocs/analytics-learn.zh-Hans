@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2429'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -343,9 +343,9 @@ ht-degree: 99%
       + [使用分类规则生成器](components/classifications/using-the-classification-rule-builder.md)
    + 虚拟报表包 {#virtual-report-suites}
       + [虚拟报表包概述](components/virtual-report-suites/virtual-report-suites.md)
-      + [组件管理](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
-      + [在虚拟报表包中自定义访问](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [对任意事件开始新访问](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+      + [组件策划](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
+      + [在虚拟报告包中自定义访问](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+      + [开始对任何事件的新访问](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map{#activity-map}
       + [Activity Map 概述](components/activity-map/activity-map-overview.md)
       + [启用、调试和自定义 Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
