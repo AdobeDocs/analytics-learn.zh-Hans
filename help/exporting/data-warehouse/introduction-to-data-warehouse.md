@@ -1,22 +1,21 @@
 ---
-title: Data Warehouse 简介
-description: Adobe Analytics 中的 Data Warehouse 请求工具可让您查询原始数据。 在针对各个计划报告和已下载报告的单个请求中，Data Warehouse 可处理无限数量的行。本视频对该工具进行了介绍，包括创建 Data Warehouse 报告的演练。
+title: Data warehouse导出简介
+description: 了解如何充分利用Data Warehouse报表UI以及导出帐户和位置。 本视频介绍向电子邮件和Amazon S3投放报告的基本工作流程。
 feature: Data Warehouse
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 7%
 
 ---
 
-# [!UICONTROL Data Warehouse] 简介 {#introduction-to-data-warehouse}
+# Data warehouse导出简介
 
-Adobe Analytics 中的 [!UICONTROL Data Warehouse] 请求工具可让您查询原始数据。 在针对各个计划报告和已下载报告的单个请求中，[!UICONTROL Data Warehouse] 可处理无限数量的行。 本视频对该工具进行了介绍，包括创建 [!UICONTROL Data Warehouse] 报告的演练。
+了解如何充分利用Data Warehouse报表UI以及导出帐户和位置。 本视频介绍向电子邮件和Amazon S3投放报告的基本工作流程。 有关详细文档，请参阅 [Data Warehouse概述](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=zh-Hans) 以及相关的文档。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)
