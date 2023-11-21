@@ -4,10 +4,10 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: ht
-source-wordcount: '2428'
-ht-degree: 100%
+source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
+workflow-type: tm+mt
+source-wordcount: '2425'
+ht-degree: 99%
 
 ---
 
@@ -170,9 +170,9 @@ ht-degree: 100%
       + [在 Analysis Workspace 中使用参与率量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [从 Excel 转为使用计算指标](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 维度 {#dimensions}
-      + [在 Analysis Workspace 中将维度和指标添加到项目](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
-      + [流量变量简介 (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
-      + [转化变量简介 (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
+      + [向您的项目添加维度和量度](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [流量变量简介 (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
+      + [转化变量简介(eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [在自由格式表中使用维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + 日历和日期范围 {#calendar-and-date-ranges}
       + [在 Analysis Workspace 中使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
