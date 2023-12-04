@@ -1,32 +1,21 @@
 ---
-title: 配置 Launch Analytics 扩展中的常规设置
-description: 如果您刚刚开始使用 Adobe Launch 和 Adobe Analytics 扩展，本视频可以帮助您完成配置的常规设置部分，包括设置跟踪服务器。
+title: 在Experience Platform标记中配置Analytics扩展的常规设置
+description: 了解Adobe标签中Analytics扩展的常规配置选项，包括设置跟踪服务器。
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '126'
-ht-degree: 100%
+source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 1%
 
 ---
 
-# 配置 [!DNL Launch Analytics] [!UICONTROL 扩展]中的[!UICONTROL 常规]设置 {#configuring-general-settings-in-the-launch-analytics-extension}
+# 在Experience Platform标记中配置Analytics扩展的常规设置 {#configuring-general-settings-in-the-launch-analytics-extension}
 
-如果您刚刚开始使用 Experience Platform Launch 和 Adobe Analytics [!UICONTROL 扩展]，本视频可以帮助您完成配置的[!UICONTROL 常规]设置部分，包括设置跟踪服务器。
+了解Adobe标签中Analytics扩展的常规配置选项，包括设置跟踪服务器。 有关详细文档，请参阅 [Adobe Analytics扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=zh-Hans).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
 
-有关此用例各个方面的其他信息，请参阅以下文档主题：
-
-[邮政编码](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=zh-Hans)
-
-[分类](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
-
-[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
