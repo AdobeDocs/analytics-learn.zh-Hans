@@ -4,10 +4,10 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
+source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
 workflow-type: tm+mt
-source-wordcount: '2260'
-ht-degree: 98%
+source-wordcount: '2264'
+ht-degree: 99%
 
 ---
 
@@ -231,6 +231,7 @@ ht-degree: 98%
       + [您问的问题是否有效？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 管理员提示和最佳实践{#admin-tips}
       + [下载实施剧本](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [审核数据字典](administration/admin-tips/audit-your-data-dictionary.md)
       + [创建标准的命名惯例](administration/admin-tips/create-standardized-naming-conventions.md)
       + [创建标准化代码模板](administration/admin-tips/create-standardized-code-templates.md)
       + [创建基本视频和培训](administration/admin-tips/create-basic-videos-and-training.md)
@@ -281,10 +282,10 @@ ht-degree: 98%
       + [如何标识分析跟踪服务器和报告包 ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [创建业务要求文档](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [创建和维护 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + 使用Experience Platform标签 {#via-adobe-launch}
+   + 使用 Experience Platform 标记 {#via-adobe-launch}
       + [用 Experience Platform Launch 在网站中实施 Experience Cloud](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Analytics扩展的基本配置](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [为Analytics扩展配置库管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [配置 Analytics 扩展的库管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [配置Analytics扩展的常规设置](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [配置 Launch Analytics 扩展中的全局变量](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [配置 Launch Analytics 扩展中的 Cookie 设置](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
