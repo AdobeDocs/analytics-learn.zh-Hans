@@ -4,10 +4,10 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
+source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
 workflow-type: tm+mt
 source-wordcount: '2264'
-ht-degree: 99%
+ht-degree: 98%
 
 ---
 
@@ -287,7 +287,7 @@ ht-degree: 99%
       + [Analytics扩展的基本配置](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [配置 Analytics 扩展的库管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [配置Analytics扩展的常规设置](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [配置 Launch Analytics 扩展中的全局变量](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [为Analytics扩展配置全局变量设置](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [配置 Launch Analytics 扩展中的 Cookie 设置](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [在配置 Launch Analytics 扩展时使用自定义代码](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [使用数据层通过 Launch 设置页码和其他变量](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
