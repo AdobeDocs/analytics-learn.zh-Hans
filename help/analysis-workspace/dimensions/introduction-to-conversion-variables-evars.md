@@ -1,20 +1,23 @@
 ---
 title: 转化变量简介 (eVars)
-description: 本视频介绍了转化变量（也称为“eVars”）。 此外，还要了解流量和转化变量之间的区别以及它们与转化事件之间的关系。
+description: 了解转化变量（也称为eVar）在Adobe Analytics中的使用方式，包括它们如何与转化事件相关以及如何与流量变量不同。
 feature: Dimensions
 kt: 3577
 role: User
 level: Beginner
+last-substantial-update: 2023-12-14T00:00:00Z
 exl-id: 4f7bedec-efca-46e8-981a-18118982012f
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 73cc929263263065545f6db7b3bebecbf10ddaa3
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 100%
+source-wordcount: '68'
+ht-degree: 19%
 
 ---
 
-# 转化变量简介 ([!DNL eVars])
+# 转化变量简介([!DNL eVars])
 
-本视频介绍了转化变量（也称为“[!DNL eVars]”）。 此外，还要了解流量和转化变量之间的区别以及它们与转化[!DNL events]之间的关系。
+了解转化变量(也称为 [!DNL eVars]、在Adobe Analytics中使用，包括它们与转化事件之间的关系以及与流量变量的不同之处。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
+
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=zh-Hans)。
