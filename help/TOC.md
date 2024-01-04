@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2249'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -34,13 +34,13 @@ ht-degree: 98%
    + 从第三方平台转换 {#transitioning-from-other-platforms}
       + [从 Google Analytics 转换](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 基础知识 {#analytics-basics}
-      + [了解Analytics周期](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
-      + [如何收集Analytics数据](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
+      + [了解 Analytics 周期](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
+      + [如何收集 Analytics 数据](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [登录 Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [了解和创建报表包](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [了解和创建报告包](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [了解基本访客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
-      + [流量变量简介(props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
-      + [转化变量简介(eVar)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+      + [流量变量简介 (Prop)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [转化变量简介 (eVar)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [转化事件简介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + 自定义 UI {#customizing-the-ui}
       + [自定义 Analysis Workspace 用户偏好设置](intro-to-analytics/customizing-the-ui/user-preferences.md)
@@ -169,8 +169,8 @@ ht-degree: 98%
       + [从 Excel 转为使用计算指标](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 维度 {#dimensions}
       + [向您的项目添加维度和量度](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
-      + [流量变量简介 (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
-      + [转化变量简介 (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
+      + [流量变量简介 (prop)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
+      + [转化变量简介 (eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [在自由格式表中使用维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + 日历和日期范围 {#calendar-and-date-ranges}
       + [在 Analysis Workspace 中使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
@@ -301,7 +301,7 @@ ht-degree: 98%
       + [创建针对成功事件的 Experience Platform Launch 规则](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
       + [将 Experience Platform Launch 库发布到暂存和生产环境](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + 使用 JavaScript{#using-javascript}
-      + [在不使用标签管理器的情况下进行自定义链接跟踪](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
+      + [在不使用标记管理器的情况下进行自定义链接跟踪](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [在不使用 Experience Platform Launch 时更新 AppMeasurement](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
    + 验证和故障排除{#validating-and-troubleshooting}
       + [用 Adobe Experience Cloud Debugger 检查实施](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
