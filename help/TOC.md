@@ -179,16 +179,16 @@ ht-degree: 99%
       + [创建自定义日期范围](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace 中的日期比较](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [将按月和按年比较添加到趋势](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + 简化和共享项目 {#curate-and-share-projects}
+   + 策划和共享项目 {#curate-and-share-projects}
       + [保存、共享和协作处理项目](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
-      + [简化和共享项目](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
+      + [策划和共享项目](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [项目的直接链接](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [与任何人共享](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
-      + [以 CSV 格式下载 50,000 个项目](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
+      + [将 50000 项下载为 CSV 文件](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [导出为 CSV 和 PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [共享嵌入的组件](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [共享只读项目](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [释放仅供查看共享的力量](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [发挥仅查看共享的强大功能](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [使用跨选项卡分析探索基本营销归因](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [添加 Attribution IQ 模型的并排比较](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
