@@ -4,10 +4,10 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
-workflow-type: ht
-source-wordcount: '2227'
-ht-degree: 100%
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
+workflow-type: tm+mt
+source-wordcount: '2192'
+ht-degree: 94%
 
 ---
 
@@ -278,26 +278,26 @@ ht-degree: 100%
       + [如何标识分析跟踪服务器和报告包 ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [创建业务要求文档](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [创建和维护 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + 使用 Experience Platform 标记 {#via-adobe-launch}
-      + [用 Experience Platform Launch 在网站中实施 Experience Cloud](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
+   + Experience Platform标记 {#experience-platform-tags}
+      + [使用标记在网站中实施Experience Cloud解决方案](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Analytics 扩展的基本配置](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [配置 Analytics 扩展的库管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [配置 Analytics 扩展的常规设置](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [配置 Analytics 扩展的全局变量设置](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
-      + [配置 Launch Analytics 扩展中的 Cookie 设置](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
-      + [在配置 Launch Analytics 扩展时使用自定义代码](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [使用数据层通过 Launch 设置页码和其他变量](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [在 Launch 中添加实施插件](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
-      + [在 Adobe Analytics 扩展中使用 doPlugins](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [在Analytics扩展中配置库管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [在Analytics扩展中配置常规设置](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [在Analytics扩展中配置全局变量设置](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [在Analytics扩展中配置Cookie设置](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
+      + [在Analytics扩展中使用自定义代码](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
+      + [使用数据层设置变量](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [添加实施插件](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
+      + [在Adobe Analytics扩展中使用doPlugins](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [配置轻松下载链接跟踪](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [配置轻松退出链接跟踪](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
-      + [为 Analytics 实施准备 Experience Platform Launch](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
-      + [在 Experience Platform Launch 中为 Analytics 实施配置数据要素](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
-      + [在 Experience Platform Launch 中创建全局页面规则](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
-      + [在 Experience Platform Launch 中验证全局页面加载规则](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
-      + [创建针对特殊页面的 Experience Platform Launch 规则](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
-      + [创建针对成功事件的 Experience Platform Launch 规则](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
-      + [将 Experience Platform Launch 库发布到暂存和生产环境](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+      + [为Analytics实施准备标记](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
+      + [为Analytics实施创建数据元素](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
+      + [创建全局页面加载规则](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
+      + [验证全局页面加载规则](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
+      + [为特殊页面创建规则](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
+      + [创建成功事件的规则](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
+      + [将标记库发布到暂存和生产环境](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + 使用 JavaScript{#using-javascript}
       + [在不使用标记管理器的情况下进行自定义链接跟踪](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [在不使用 Experience Platform Launch 时更新 AppMeasurement](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
