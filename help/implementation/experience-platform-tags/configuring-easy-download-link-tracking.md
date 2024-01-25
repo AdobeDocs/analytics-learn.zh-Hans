@@ -1,6 +1,6 @@
 ---
-title: 在 Experience Platform [!DNL tags] 中配置轻松下载链接跟踪
-description: 只需在 Experience Platform [!DNL tags] 的 Adobe Analytics 扩展中点击几下，即可开始跟踪您网站上的下载链接（用于将非浏览器文件下载到您的计算机的链接）。
+title: 在Experience Platform标签中配置轻松下载链接跟踪
+description: 只需在Experience Platform标签中的Adobe Analytics扩展中单击几下，即可开始跟踪您网站上的下载链接（将非浏览器文件下载到计算机的链接）。
 feature: Tags
 topics: Development
 activity: implement
@@ -10,20 +10,16 @@ kt: 1844
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: ht
-source-wordcount: '137'
-ht-degree: 100%
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 70%
 
 ---
 
 # 在 Experience Platform [!DNL tags] 中配置轻松下载链接跟踪
 
 只需在 Experience Platform [!DNL tags] 的 Adobe Analytics Extension 中点击几下，即可开始跟踪您网站上的下载链接（用于将非浏览器文件下载到您的计算机的链接）。
-
->[!NOTE]
->
-> Launch 现在改名为 **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 

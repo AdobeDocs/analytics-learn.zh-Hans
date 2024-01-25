@@ -1,6 +1,6 @@
 ---
-title: 在 Experience Platform [!DNL tags] 中配置轻松退出链接跟踪
-description: 只需在 Experience Platform [!DNL tags] 的 Adobe Analytics 扩展中点击几下，即可开始跟踪您网站上的退出链接（用于转到另一个网站的链接）。这段视频展示如何设置它。
+title: 在Experience Platform标签中配置轻松退出链接跟踪
+description: 只需在Experience Platform标签中的Adobe Analytics扩展中单击几下，即可开始跟踪您网站上的退出链接（指向其他网站的链接）。 这段视频展示如何设置它。
 feature: Tags
 topics: Development
 activity: implement
@@ -10,20 +10,16 @@ kt: 2273
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: ht
-source-wordcount: '155'
-ht-degree: 100%
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 75%
 
 ---
 
 # 在 Experience Platform [!DNL tags] 中配置轻松退出链接跟踪
 
 只需在 Experience Platform [!DNL tags] 的 Adobe Analytics 扩展中点击几下，即可开始跟踪您网站上的退出链接（用于转到另一个网站的链接）。这段视频展示如何设置它。
-
->[!NOTE]
->
-> Launch 现在改名为 **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
 
