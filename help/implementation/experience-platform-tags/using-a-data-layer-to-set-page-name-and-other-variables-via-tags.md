@@ -1,6 +1,6 @@
 ---
-title: 使用数据层在 Experience Platform  [!DNL tags] 中设置 Analytics 变量
-description: 了解如何使用数据层来获取 Analytics 数据和其他 Experience Cloud 解决方案。
+title: 使用数据层在 Experience Platform [!DNL tags] 中设置 Analytics 变量
+description: 了解如何使用数据层获得 Analytics 数据和其他 Experience Cloud 解决方案。
 feature: Tags
 topics: Development
 role: Developer, Data Engineer
