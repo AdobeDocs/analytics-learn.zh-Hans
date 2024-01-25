@@ -1,6 +1,6 @@
 ---
-title: 在的Adobe Analytics扩展中使用自定义代码 [!DNL tags]
-description: 了解在中配置Adobe Analytics扩展时使用自定义代码编辑器的用例和技术注意事项 [!DNL tags].
+title: 在 [!DNL tags] 的 Adobe Analytics 扩展中使用自定义代码
+description: 了解在配置 [!DNL tags] 的 Adobe Analytics 扩展时使用自定义代码编辑器的用例和技术注意事项。
 feature: Tags
 topics: Development
 doc-type: technical video
@@ -10,16 +10,16 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在的Adobe Analytics扩展中使用自定义代码 [!DNL tags]
+# 在 [!DNL tags] 的 Adobe Analytics 扩展中使用自定义代码
 
-了解在中配置Adobe Analytics扩展时使用自定义代码编辑器的用例和技术注意事项 [!DNL tags].
+了解在配置 [!DNL tags] 的 Adobe Analytics 扩展时使用自定义代码编辑器的用例和技术注意事项。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
-查看 [文档](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html) 欲知关于 <i>doPlugins函数</i> 在此视频中引用。
+查看[文档](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html)以了解有关在这段视频中引用的 <i>doPlugins 函数</i>的详情。
