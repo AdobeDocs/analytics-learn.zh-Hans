@@ -1,24 +1,24 @@
 ---
-title: 验证Experience Platform中的全局页面加载规则 [!DNL tags]
-description: 在您的网站上实施Adobe Analytics时，您需要在此过程中验证代码。 了解如何使用Experience Platform调试器验证全局页面加载规则。
+title: 在 Experience Platform [!DNL tags] 中验证全局页面加载规则
+description: 在网站上实施 Adobe Analytics 的过程中，您需要验证代码。了解如何使用 Experience Platform 调试器验证全局页面加载规则。
 feature: Validation
 kt: 3589
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 验证Experience Platform中的全局页面加载规则 [!DNL tags]
+# 在 Experience Platform [!DNL tags] 中验证全局页面加载规则
 
-在您的网站上实施Adobe Analytics时，您需要在此过程中验证代码。 了解如何使用Experience Platform调试器验证全局页面加载规则。
+在网站上实施 Adobe Analytics 的过程中，您需要验证代码。了解如何使用 Experience Platform 调试器验证全局页面加载规则。
 
 >[!NOTE]
 >
-> Launch现在为 **[!DNL tags]**
+> Launch 现在改名为 **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12&learn=on)
