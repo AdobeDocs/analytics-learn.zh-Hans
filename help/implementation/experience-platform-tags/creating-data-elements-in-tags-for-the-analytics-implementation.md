@@ -1,6 +1,6 @@
 ---
-title: 在Experience Platform中创建数据元素 [!DNL tags] 适用于Analytics实施的
-description: 本视频说明如何在中为Analytics实施创建数据元素 [!DNL tags] 基于解决方案设计参考(SDR)文档中记录的变量和事件。
+title: 在 Experience Platform [!DNL tags] 中为 Analytics 实施配置数据元素
+description: 这段视频展示如何根据在解决方案设计参考 (SDR) 文档中记载的变量和事件，在 [!DNL tags] 中为您的 Analytics 实施创建数据元素。
 feature: Tags
 topics: Development
 activity: implement
@@ -11,18 +11,18 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在Experience Platform中创建数据元素 [!DNL tags] 适用于Analytics实施的
+# 在 Experience Platform [!DNL tags] 中为 Analytics 实施配置数据元素
 
 >[!NOTE]
 >
-> Launch现在为 **[!DNL tags]**
+> Launch 现在改名为 **[!DNL tags]**
 
-本视频说明如何在中为Analytics实施创建数据元素 [!DNL tags] 基于解决方案设计参考(SDR)文档中记录的变量和事件。
+这段视频展示如何根据在解决方案设计参考 (SDR) 文档中记载的变量和事件，在 [!DNL tags] 中为您的 Analytics 实施创建数据元素。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)
