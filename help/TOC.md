@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
 workflow-type: tm+mt
-source-wordcount: '2192'
+source-wordcount: '2187'
 ht-degree: 99%
 
 ---
@@ -287,8 +287,7 @@ ht-degree: 99%
       + [配置 Analytics 扩展中的 Cookie 设置](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [在 Analytics 扩展中使用自定义代码](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [使用数据层设置变量](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
-      + [添加实施插件](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
-      + [在 Adobe Analytics 扩展中使用 doPlugins](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [使用doPlugins和实施插件](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
       + [配置轻松下载链接跟踪](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
       + [配置轻松退出链接跟踪](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [为您的 Analytics 实施准备标记](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
