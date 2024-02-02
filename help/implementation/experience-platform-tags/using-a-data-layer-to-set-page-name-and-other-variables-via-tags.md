@@ -9,17 +9,17 @@ kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
 source-git-commit: 7c9c1da81fac391f030c6a39a81d039a5b084f63
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
 # 使用数据层在 Experience Platform [!DNL tags] 中设置 Analytics 变量
 
-了解如何从数据层中提取值并在Experience Platform中使用它们 [!DNL tags] 以在Adobe Analytics中填充变量。 将数据层用于 [!DNL Analytics] 而其他Experience Cloud解决方案则是最佳实践。
+了解如何从数据层提取值以及在 Experience Platform [!DNL tags] 中使用这些值填充 Adobe Analytics 中的变量。将数据层用于 [!DNL Analytics] 和其他 Experience Cloud 解决方案是一项最佳实践。
 
-在中查看有关数据层的其他信息 [分析](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=zh-Hans) 和 [Experience Platform标签](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html) 文档。
+查看 [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=zh-Hans) 和 [Experience Platform 标记](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=zh-Hans)文档中有关数据层的更多信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
