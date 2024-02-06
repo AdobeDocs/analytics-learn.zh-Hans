@@ -1,6 +1,6 @@
 ---
-title: 在Experience Platform标签中配置轻松下载链接跟踪
-description: 只需在Experience Platform标签中的Adobe Analytics扩展中单击几下，即可开始跟踪您网站上的下载链接（将非浏览器文件下载到计算机的链接）。
+title: 在 Experience Platform 标记中配置轻松下载链接跟踪
+description: 只需在 Experience Platform 标记中的 Adobe Analytics 扩展中单击几下，即可开始跟踪您网站上的下载链接（用于将非浏览器文件下载到您的计算机的链接）。
 feature: Tags
 topics: Development
 activity: implement
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
 source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
