@@ -1,6 +1,6 @@
 ---
 title: 在 Experience Platform 标记中配置轻松退出链接跟踪
-description: 了解如何只需在Experience Platform标签中的Adobe Analytics扩展中单击几下，即可跟踪您网站上的退出链接（指向其他网站的链接）。
+description: 了解如何在 Experience Platform 标记中的 Adobe Analytics 扩展中通过几次单击来跟踪您网站上的退出链接（用于转到另一个网站的链接）。
 feature: Tags
 topics: Development
 activity: implement
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
 source-git-commit: 6dd1575364f3bb3cf81c3f5ffb642f3c1043eb8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
