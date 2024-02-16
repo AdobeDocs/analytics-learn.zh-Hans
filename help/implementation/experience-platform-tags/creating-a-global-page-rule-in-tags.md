@@ -1,25 +1,21 @@
 ---
 title: 在 Experience Platform [!DNL tags] 中创建全局页面规则
-description: 每个页面上都有一些您要发送到 Adobe Analytics 的数据点。这段视频展示如何在 [!DNL tags] 中设置全局页面加载规则以送入这些数据点。
+description: 了解如何使用Experience Platform为每个页面上要发送到Adobe Analytics的数据点设置全局页面规则 [!DNL tags].
 feature: Tags
 topics: Development
 kt: 3588
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 7c72ec72-3de8-4472-a1de-c47f54d61d61
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: ht
-source-wordcount: '91'
-ht-degree: 100%
+source-git-commit: 00a8c4f4b28707f2854f4fb7050979cd8bbd5f27
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 24%
 
 ---
 
 # 在 Experience Platform [!DNL tags] 中创建全局页面规则
 
-每个页面上都有一些您要发送到 Adobe Analytics 的数据点。这段视频展示如何在 [!DNL tags] 中设置全局页面加载规则以送入这些数据点。
-
->[!NOTE]
->
-> Launch 现在改名为 **[!DNL tags]**
+了解如何使用Experience Platform为每个页面上要发送到Adobe Analytics的数据点设置全局页面规则 [!DNL tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)
