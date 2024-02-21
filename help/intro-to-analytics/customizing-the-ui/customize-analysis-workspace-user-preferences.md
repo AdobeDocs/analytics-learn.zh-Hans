@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 332600.jpg
 kt: 7478
 source-git-commit: 01812bf314ee0ba4fda322d08c27b282dfca7db2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '43'
 ht-degree: 100%
 
