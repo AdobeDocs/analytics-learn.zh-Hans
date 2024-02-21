@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
-workflow-type: ht
-source-wordcount: '2187'
+source-git-commit: 5539caf525f83074f0862eabe5775a1da2d7b5cd
+workflow-type: tm+mt
+source-wordcount: '2180'
 ht-degree: 100%
 
 ---
@@ -284,7 +284,6 @@ ht-degree: 100%
       + [配置 Analytics 扩展中的库管理](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [配置 Analytics 扩展中的常规设置](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
       + [配置 Analytics 扩展中的全局变量设置](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
-      + [配置 Analytics 扩展中的 Cookie 设置](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [在 Analytics 扩展中使用自定义代码](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [使用数据层设置变量](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [使用 doPlugins 和实施插件](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
