@@ -8,9 +8,9 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
-workflow-type: tm+mt
-source-wordcount: '320'
+source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
+workflow-type: ht
+source-wordcount: '244'
 ht-degree: 100%
 
 ---
@@ -30,17 +30,6 @@ ht-degree: 100%
 
 在课程部分，我们还提供了按角色和技能水平策划的学习体验。您只需通过 Adobe ID 登录，然后前往顶部导航区域中的&#x200B;**“学习” > “推荐课程”**&#x200B;即可。
 
-<div id="whats-new-section">
-
-## 新增功能
-
-* **[Adobe Analytics 移动记分卡应用程序](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *了解如何下载移动记分卡应用程序并查看在 [!DNL Analysis Workspace] 中创建的移动记分卡。*
-
-* **[工作区中的注释（视频）](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *[!DNL Analysis Workspace] 注释使您能够有效地将上下文数据的细微差别和见解传达给您的组织中的用户。请用已知数据问题、公共假日、活动启动等注释日期或日期范围。 这会告知用户为什么他们会在折线图、表格等中看到不规则。*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
