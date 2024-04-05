@@ -4,8 +4,8 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5860c0948e61fde32bf6d814f701410df330a9e4
-workflow-type: ht
+source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
+workflow-type: tm+mt
 source-wordcount: '2176'
 ht-degree: 100%
 
@@ -48,8 +48,8 @@ ht-degree: 100%
       + [增强安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [将 Analysis Workspace 项目设置为您的登陆页面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + 获取帮助 {#getting-help}
-      + [在产品内提交支持服务单](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
       + [在 Adobe Analytics 中获取帮助](intro-to-analytics/getting-help/getting-help.md)
+      + [在产品内提交支持服务单](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace 基础知识 {#analysis-workspace-basics}
       + [Analysis Workspace 简介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
