@@ -4,10 +4,10 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
-workflow-type: ht
+source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
+workflow-type: tm+mt
 source-wordcount: '2176'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 100%
       + [创建动态下拉过滤器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + 在 Workspace 项目中导航 {#navigating-workspace-projects}
       + [Analysis Workspace 中的数据词典](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
-      + [使用模板创建项目](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [开始您的第一个项目](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [培训教程模板](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [在 Analysis Workspace 中使用文件夹](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [复制和插入面板和可视化图表](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
@@ -448,4 +448,3 @@ ht-degree: 100%
 + [Analytics University 课程](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [面向商业用户的 Analytics 基础知识已停用](retired-courses/retire-fundamentals-for-business-users-course.md)
-
