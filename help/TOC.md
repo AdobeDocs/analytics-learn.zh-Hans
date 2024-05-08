@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
-workflow-type: ht
-source-wordcount: '2176'
+source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+workflow-type: tm+mt
+source-wordcount: '2179'
 ht-degree: 100%
 
 ---
@@ -240,7 +240,8 @@ ht-degree: 100%
       + [查看您的帐户的可用功能](administration/company-settings/view-your-accounts-available-features.md)
    + 用户管理 {#user-management}
       + [将管理员添加到 Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
-      + [在 Admin Console 中限制对报告包的访问](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [创建产品配置文件](administration/user-management/create-product-profiles.md)
+      + [在 Admin Console 中限制对报表包的访问](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [将用户资源转移给其他用户](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [检查链接的 IMS ID 以防止登录问题](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + 管理报告包 {#manage-report-suites}
