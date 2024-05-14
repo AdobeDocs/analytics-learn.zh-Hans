@@ -1,6 +1,6 @@
 ---
-title: 通过 SFTP 发送 Data Warehouse 请求
-description: Data Warehouse 是指用于存储和自定义报告的 Analytics 数据副本，您可以通过筛选来运行这些数据。 您可以根据独特的问题，请求报告显示高级数据与原始数据的关系。 Data Warehouse 报告通过电子邮件或 FTP 发送，过程可能长达 72 小时。处理时间取决于查询的复杂程度和请求的数据量。
+title: 通过SFTP发送Data Warehouse报表
+description: 了解如何在Adobe Analytics中创建Data Warehouse请求，并设置该请求以进行SFTP交付。
 feature: Data Warehouse
 topic: Administration
 role: User, Architect
@@ -8,16 +8,17 @@ level: Beginner
 doc-type: feature video
 thumbnail: 335751.jpg
 kt: KT-8467
+last-substantial-update: 2024-05-13T00:00:00Z
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: c56deab9a0496c1152e971f98a832a9f57135d64
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 100%
+source-wordcount: '51'
+ht-degree: 11%
 
 ---
 
-# 通过 SFTP 发送 Data Warehouse 请求
+# 发送 [!DNL Data Warehouse] 通过SFTP报告
 
-Data Warehouse 是指用于存储和自定义报告的 Analytics 数据副本，您可以通过筛选来运行这些数据。 您可以根据独特的问题，请求报告显示高级数据与原始数据的关系。 Data Warehouse 报告通过电子邮件或 FTP 发送，过程可能长达 72 小时。处理时间取决于查询的复杂程度和请求的数据量。
+了解如何创建 [!DNL Data Warehouse] Adobe Analytics请求，并设置它以进行SFTP交付。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)
