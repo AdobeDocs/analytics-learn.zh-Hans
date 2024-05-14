@@ -5,7 +5,7 @@ breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2179'
 ht-degree: 100%
 
@@ -93,7 +93,7 @@ ht-degree: 100%
       + [使用下拉过滤器](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [使用面板整理您的 Analysis Workspace 项目](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [为面板选择区段](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
-      + [Analysis Workspace 中的多个报表包](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+      + [Analysis Workspace 中的多个报告包](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [下一个/上一个及页面摘要工作区面板和报告](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
       + [了解归因面板和回顾 Windows](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
    + 构建自由格式表 {#building-freeform-tables}
@@ -241,7 +241,7 @@ ht-degree: 100%
    + 用户管理 {#user-management}
       + [将管理员添加到 Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [创建产品配置文件](administration/user-management/create-product-profiles.md)
-      + [在 Admin Console 中限制对报表包的访问](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [在 Admin Console 中限制对报告包的访问](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [将用户资源转移给其他用户](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [检查链接的 IMS ID 以防止登录问题](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + 管理报告包 {#manage-report-suites}
@@ -336,8 +336,8 @@ ht-degree: 100%
    + 分类{#classifications}
       + [分类概述](components/classifications/overview-of-classifications.md)
       + [使用分类规则生成器](components/classifications/using-the-classification-rule-builder.md)
-   + 虚拟报表包 {#virtual-report-suites}
-      + [虚拟报表包概述](components/virtual-report-suites/virtual-report-suites.md)
+   + 虚拟报告包 {#virtual-report-suites}
+      + [虚拟报告包概述](components/virtual-report-suites/virtual-report-suites.md)
       + [组件策划](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [在虚拟报告包中自定义访问](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
       + [开始对任何事件的新访问](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
