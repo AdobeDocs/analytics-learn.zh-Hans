@@ -7,10 +7,10 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
-workflow-type: ht
-source-wordcount: '115'
-ht-degree: 100%
+source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 70%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
-[下载](assets/aa-implementation-playbook.xlsx)一个示例 Excel 模板以记录您数字财产的要求和数据收集设计。
+[下载](assets/aa_en_BRD_SDR_template.xlsx) 用于记录数字资产的要求、变量使用和分配、区段和数据收集设计的示例Excel模板。
 
-[下载](assets/geometrixx-clothiers-brd-sdr.xlsx)在此视频中展示的 Excel 文档和/或观看相关的[解决方案设计参考视频](creating-and-maintaining-an-sdr.md)。
+观看相关视频，了解如何创建 [解决方案设计参考文档](creating-and-maintaining-an-sdr.md).
