@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
 workflow-type: ht
-source-wordcount: '2179'
+source-wordcount: '2160'
 ht-degree: 100%
 
 ---
@@ -299,10 +299,6 @@ ht-degree: 100%
    + 使用 JavaScript{#using-javascript}
       + [在不使用标记管理器的情况下进行自定义链接跟踪](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [在不使用 Experience Platform Launch 时更新 AppMeasurement](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + 验证和故障排除{#validating-and-troubleshooting}
-      + [用 Adobe Experience Cloud Debugger 检查实施](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-   + SPA 页面{#spa-pages}
-      + [在跟踪 SPA 时遵循最佳实践](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + 组件{#components}
    + 分段{#segmentation}
       + [区段生成器概述](components/segmentation/segment-builder-overview.md)
