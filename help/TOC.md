@@ -4,10 +4,10 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
+source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
 workflow-type: tm+mt
-source-wordcount: '2160'
-ht-degree: 100%
+source-wordcount: '2157'
+ht-degree: 99%
 
 ---
 
@@ -339,7 +339,7 @@ ht-degree: 100%
       + [开始对任何事件的新访问](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map{#activity-map}
       + [Activity Map 概述](components/activity-map/activity-map-overview.md)
-      + [启用、调试和自定义 Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
+      + [启用、调试和自定义Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + 其他工具{#additional-tools}
    + [Adobe Labs（技术预览）](additional-tools/adobe-labs-technology-previews.md)
    + Analytics 功能板 {#analytics-dashboards}
