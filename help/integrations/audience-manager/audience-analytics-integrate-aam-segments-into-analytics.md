@@ -15,14 +15,14 @@ badgeIntegration: label="集成" type="positive"
 exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
 source-git-commit: dd8bd00ee533126d77596e33915c666ccb591cd2
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 61%
+source-wordcount: '118'
+ht-degree: 65%
 
 ---
 
 # Audience Analytics：将 AAM [!DNL Segments]集成到 [!DNL Analytics] 中 {#audience-analytics-integrate-aam-segments-into-analytics}
 
-[!UICONTROL Audience Analytics] 是一种集成，允许您将区段从Audience Manager共享到 [!DNL Analytics] 实时通知受众发现、分段和优化。
+[!UICONTROL Audience Analytics]是一种集成，可让您实时共享从Audience Manager到[!DNL Analytics]的区段，以告知受众发现、分段和优化。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
 

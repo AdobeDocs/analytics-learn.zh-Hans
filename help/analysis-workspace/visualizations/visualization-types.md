@@ -1,5 +1,5 @@
 ---
-title: 可视化图表类型和概述
+title: 可视化类型和概述
 description: 了解可放入Analysis Workspace项目中的各种可视化图表或类型，帮助您讲述数据故事。
 feature: Visualizations
 last-substantial-update: 2023-08-25T00:00:00Z
@@ -9,12 +9,12 @@ level: Beginner
 exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 25%
+source-wordcount: '209'
+ht-degree: 23%
 
 ---
 
-# 可视化图表类型和概述 {#visualization-types-in-analysis-workspace}
+# 可视化类型和概述 {#visualization-types-in-analysis-workspace}
 
 了解可放入Analysis Workspace项目中的各种可视化图表或类型，帮助您讲述数据故事。
 
@@ -62,7 +62,7 @@ ht-degree: 25%
 <td style="vertical-align: top;">
 
 * 条形图
-* 水平条
+* 水平条形图
 * 堆叠的条形图
 * 栈叠的水平条形图
 * 自由格式表
@@ -138,7 +138,7 @@ ht-degree: 25%
 
 * 流失
 * 流量
-* 同类群组
+* 同类组
 
   </td>
 </tr>
@@ -156,4 +156,4 @@ ht-degree: 25%
 
 </table>
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=zh-Hans)。

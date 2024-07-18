@@ -1,5 +1,5 @@
 ---
-title: 转化变量简介 (eVars)
+title: 转化变量简介 (eVar)
 description: 了解转化变量（也称为eVar）在Adobe Analytics中的使用方式，包括它们如何与转化事件相关以及如何与流量变量不同。
 feature: Dimensions
 kt: 3577
@@ -16,7 +16,7 @@ ht-degree: 19%
 
 # 转化变量简介([!DNL eVars])
 
-了解转化变量(也称为 [!DNL eVars]、在Adobe Analytics中使用，包括它们与转化事件之间的关系以及与流量变量的不同之处。
+了解转化变量（也称为[!DNL eVars]）如何在Adobe Analytics中使用，包括它们如何与转化事件相关以及如何与流量变量不同。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
 

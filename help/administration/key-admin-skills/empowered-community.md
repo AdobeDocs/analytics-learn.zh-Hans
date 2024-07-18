@@ -12,7 +12,7 @@ kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '1556'
+source-wordcount: '1522'
 ht-degree: 100%
 
 ---
@@ -29,25 +29,25 @@ ht-degree: 100%
 
 * 创建用户入门培训流程：
 
-   与贵企业的 Adobe Analytics 访问权限关联的要求和流程是什么？如果您还没有为新用户入门培训提出要求和制定流程，那么创建该基础设施可以为可扩展性提供支持。
+  与贵企业的 Adobe Analytics 访问权限关联的要求和流程是什么？如果您还没有为新用户入门培训提出要求和制定流程，那么创建该基础设施可以为可扩展性提供支持。
 
 * 实施适当的用户管理和访问权限：
 
-   用户对报告包、量度、维度、工具、报告和组件的访问权限是 Adobe Analytics 的基础，也是[用户组管理流程](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=zh-Hans)的一个关键部分。适当的工具访问权限使用户能够在 Analysis Workspace 和 Reports &amp; Analytics 中获得自助服务。
+  用户对报告包、量度、维度、工具、报告和组件的访问权限是 Adobe Analytics 的基础，也是[用户组管理流程](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=zh-Hans)的一个关键部分。适当的工具访问权限使用户能够在 Analysis Workspace 和 Reports &amp; Analytics 中获得自助服务。
 
 * 了解实施：
 
-   作为最佳实践，用户必须基本了解其实施所满足的业务需求，通常通过[业务需求文档](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hans) (BRD) 和[解决方案设计参考文档](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=zh-Hans) (SDR) 来记录这些业务需求。这些需求应包括已实施的内容，并按类别定义业务需求、报告、eVar、事件等。
+  作为最佳实践，用户必须基本了解其实施所满足的业务需求，通常通过[业务需求文档](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hans) (BRD) 和[解决方案设计参考文档](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=zh-Hans) (SDR) 来记录这些业务需求。这些需求应包括已实施的内容，并按类别定义业务需求、报告、eVar、事件等。
 
 * 使用报告模板：
 
-   Adobe Analytics 报告模板和项目是使工具用户能够了解您的业务实施、报告用例和最佳实践的关键资源。这些资源应该可以解决常见的业务问题，并阐明如何在工具中以最佳方式回答这些问题。
+  Adobe Analytics 报告模板和项目是使工具用户能够了解您的业务实施、报告用例和最佳实践的关键资源。这些资源应该可以解决常见的业务问题，并阐明如何在工具中以最佳方式回答这些问题。
 
 ## 2. 规划一下谁是运营者以及谁是参与者
 
 * 确定社区运营者：
 
-   赋权社区最初是为管理和实施业务需求而建立的一个基础设施。因此，企业的 Adobe Analytics 管理和支持工作的管理团队通常对用户组或内部社区的管理至关重要。
+  赋权社区最初是为管理和实施业务需求而建立的一个基础设施。因此，企业的 Adobe Analytics 管理和支持工作的管理团队通常对用户组或内部社区的管理至关重要。
 
 * 定义参与者、角色和职责：
 
@@ -65,7 +65,7 @@ ht-degree: 100%
 
 * [创建项目章程](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx)（模板下载）：
 
-   项目章程通常是让您的业务围绕着内部赋权社区的机会进行调整的一种好方法。通过回答以下问题，您可以获得起草章程所需的信息：
+  项目章程通常是让您的业务围绕着内部赋权社区的机会进行调整的一种好方法。通过回答以下问题，您可以获得起草章程所需的信息：
 
    * 您尝试解决的问题的陈述是什么？您的社区目标是什么，您预见哪些需要负责或哪些不需要负责？
    * “这对我有什么好处？”潜在的收益或成本是什么，如何衡量成功，以及风险是什么？

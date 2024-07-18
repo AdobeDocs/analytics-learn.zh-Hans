@@ -29,6 +29,6 @@ ht-degree: 46%
 1. 将百分比取整到最接近的整数
 1. 在表的顶部显示/隐藏平均百分比行。
 
-平均行数非常适合查看 [!UICONTROL 维系] 或 [!UICONTROL 流失] 总体而言，而不是按个人 [!UICONTROL 同类群组] 行。
+平均行数适合用于查看总体[!UICONTROL 维系]或[!UICONTROL 流失]，而不是单个[!UICONTROL 同类群组]行。
 
 有关[!UICONTROL 同类群组]分析的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=zh-Hans)。

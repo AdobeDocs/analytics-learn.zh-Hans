@@ -8,8 +8,8 @@ level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
 source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 31%
+source-wordcount: '88'
+ht-degree: 22%
 
 ---
 
@@ -19,6 +19,6 @@ Dimension在计算指标生成器中可用，并且可添加到任何计算指�
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
-此功能简化了在计算量度中创建和使用区段的工作流。
+此功能简化了计算量度中创建和使用区段的工作流。
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=zh-Hans)。

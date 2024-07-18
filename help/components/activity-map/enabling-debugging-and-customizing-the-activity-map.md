@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # 启用、调试和自定义Adobe Analytics [!UICONTROL Activity Map]
 
-了解如何启用、调试和自定义方法 [!UICONTROL Activity Map] 在Adobe Experience Platform标记的Analytics扩展中部署。
+了解如何启用、调试和自定义在Adobe Experience Platform标记中的Analytics扩展中部署[!UICONTROL Activity Map]的方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-有关如何部署的详细信息 [!UICONTROL Activity Map]，请访问 [文档](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+有关如何部署[!UICONTROL Activity Map]的详细信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable)。

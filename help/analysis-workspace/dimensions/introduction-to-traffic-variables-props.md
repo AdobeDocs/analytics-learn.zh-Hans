@@ -1,5 +1,5 @@
 ---
-title: 流量变量简介 (props)
+title: 流量变量简介 (prop)
 description: 了解流量变量的类型以及如何在Adobe Analytics中使用它们。
 feature: Dimensions
 kt: 3576
@@ -9,12 +9,12 @@ last-substantial-update: 2023-11-21T00:00:00Z
 exl-id: e5ccac21-d0ac-4882-b8aa-0da749cbf6e7
 source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 20%
+source-wordcount: '52'
+ht-degree: 23%
 
 ---
 
-# 流量变量简介([!UICONTROL Prop])
+# 流量变量简介([!UICONTROL Props])
 
 了解流量变量的类型以及如何在Adobe Analytics中使用它们，包括流量、内容和流量分析。
 

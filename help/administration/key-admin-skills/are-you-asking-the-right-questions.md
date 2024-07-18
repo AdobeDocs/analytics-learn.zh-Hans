@@ -10,7 +10,7 @@ kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
 source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1082'
 ht-degree: 99%
 
 ---
@@ -50,7 +50,7 @@ _所有这些_。这是利益相关者对以下问题最常见的答案之一：
 
 这些问题因技术或分析能力、公司结构或数据收集主题的复杂性而异。从高层次开始，提出关于整个组织的问题，然后讨论您的利益相关者在支持这些组织目标方面的职能等细节信息，这通常是很有帮助的。然后，您可以确保所讨论的粒度数据点可有效支持组织的总体目标。它还使您能够进行创造性思考，并为支持实现其目标的数据提出新的想法。
 
-[浏览此模板](assets/stakeholder-questionnaire.pdf){target="_blank"} 包含多个用于利益相关者访谈的示例问题。 重复使用这些问题或对其进行调整，以准备相关的讨论问题。
+[探索此模板](assets/stakeholder-questionnaire.pdf){target="_blank"}，其中包含几个用于利益相关者访谈的示例问题。 重复使用这些问题或对其进行调整，以准备相关的讨论问题。
 
 ### 2、请求示例报告
 

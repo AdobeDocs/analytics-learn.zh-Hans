@@ -96,6 +96,6 @@ Adobe Analytics 收集大量数据。 [!DNL Virtual Report Suites]中的组件�
 
 [单击此处以查找有关 Experience League 的更多提示和技巧](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
 
-| 关于作者 |  |
+| 关于作者 |            |
 |------------|------------|
 | ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser 是 Adobe Analytics 产品管理团队的经理。 <br>作为经理，她需要与客户会面以了解他们的业务需求，<br>利用她所学到的知识为 Adobe Analytics 产品路线图提供信息<br>并确定新产品功能的优先级。 在担任目前的职位之前，<br>Jen 是 Adobe 咨询团队的首席顾问，并且是<br>数据可视化、Analysis Workspace 和 [!DNL Report Builder] 领域的主题专家。 <br><br>得益于她的实际洞察，我们整理了以下提示和技巧，<br>帮助您更轻松地构建、可视化和共享您的 Analysis Workspace 项目 |

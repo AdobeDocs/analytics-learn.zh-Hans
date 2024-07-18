@@ -8,7 +8,7 @@ solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '718'
 ht-degree: 100%
 
 ---

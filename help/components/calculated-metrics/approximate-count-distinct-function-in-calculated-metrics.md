@@ -1,6 +1,6 @@
 ---
 title: 计算量度中的“近似非重复计数”函数
-description: 了解如何使用“近似非重复计数”函数创建计算量度，该函数返回选定维度的维度项的近似非重复计数。
+description: 了解如何使用“近似非重复计数”函数创建计算量度，该函数返回选定维度的维度项目的近似非重复计数。
 feature: Calculated Metrics
 kt: 1910
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 计算量度中的“近似非重复计数”函数 {#approximate-count-distinct-function-in-calculated-metrics}
 
-了解如何使用“近似非重复计数”函数创建计算量度，该函数返回选定维度的维度项的近似非重复计数。
+了解如何使用“近似非重复计数”函数创建计算量度，该函数返回选定维度的维度项目的近似非重复计数。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 

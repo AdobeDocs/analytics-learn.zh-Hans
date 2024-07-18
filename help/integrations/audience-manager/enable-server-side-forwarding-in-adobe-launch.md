@@ -17,12 +17,12 @@ ht-degree: 1%
 
 ---
 
-# 集成 [!DNL Adobe Analytics] 替换为 [!DNL Adobe Audience Manager] 使用服务器端转发
+# 使用服务器端转发将[!DNL Adobe Analytics]与[!DNL Adobe Audience Manager]集成
 
-了解如何发送 [!DNL Adobe Analytics] 数据到 [!DNL Adobe Audience Manager] 使用服务器端转发。
+了解如何使用服务器端转发将[!DNL Adobe Analytics]数据发送到[!DNL Adobe Audience Manager]。
 
 >[!NOTE]
 >
->&quot;[!UICONTROL Launch]“”已重命名为“[!UICONTROL 标记]Experience Cloud ”作为前缀。 选择 [!UICONTROL 数据收集] 从 [!UICONTROL 应用程序切换器] 以打开标记并执行本视频中介绍的步骤。
+>在Experience Cloud界面中，[!UICONTROL Launch]已重命名为[!UICONTROL 标记]。 从[!UICONTROL 应用程序切换器]中选择[!UICONTROL 数据收集]以打开标记并执行此视频中介绍的步骤。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

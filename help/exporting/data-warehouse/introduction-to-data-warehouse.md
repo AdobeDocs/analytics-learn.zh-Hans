@@ -9,13 +9,13 @@ kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
 source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 7%
+source-wordcount: '87'
+ht-degree: 1%
 
 ---
 
 # Data warehouse导出简介
 
-了解如何充分利用Data Warehouse报表UI以及导出帐户和位置。 本视频介绍向电子邮件和Amazon S3投放报告的基本工作流程。 有关详细文档，请参阅 [Data Warehouse概述](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=zh-Hans) 以及相关的文档。
+了解如何充分利用Data Warehouse报表UI以及导出帐户和位置。 本视频介绍向电子邮件和Amazon S3投放报告的基本工作流程。 有关详细文档，请参阅[Data Warehouse概述](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=zh-Hans)和相关文档。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)

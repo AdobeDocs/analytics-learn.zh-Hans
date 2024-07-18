@@ -9,7 +9,7 @@ hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 79%
 
 ---
@@ -24,7 +24,7 @@ Adobe 很荣幸地向您的大学介绍这些 Analytics 基础内容。在该课
 
 ### 一门帮助您做好准备的新课程
 
-为了准备学习和教授Analytics课程，我们在Adobe Education Exchange上推出了一门全新的课程，您可以在其中学习如何教授以下概述的所有核心概念。 我们建议您从此课程开始，以确保您准备好在4个核心模块及其他方面对学生进行教育。
+为了准备学习和教授Analytics课程，我们在Adobe Education Exchange上推出了一门全新的课程，您可以在该课程中学习如何教授以下概述的所有核心概念。 我们建议您从此课程开始，以确保您准备好在4个核心模块及其他方面对学生进行教育。
 
 请在此处注册课程：[https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 

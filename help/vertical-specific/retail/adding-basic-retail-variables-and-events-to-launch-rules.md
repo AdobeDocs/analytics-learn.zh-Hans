@@ -1,6 +1,6 @@
 ---
-title: 将基本零售业变量和事件添加到Experience Platform中的规则 [!DNL tags]
-description: 本视频演示如何在中使用特殊的产品字符串扩展 [!DNL tags] 用于跟踪基本零售变量和事件，如产品查看、购物车添加和结账。
+title: 将基本零售业变量和事件添加到Experience Platform [!DNL tags]中的规则
+description: 此视频演示如何在 [!DNL tags] 中使用特殊的产品字符串扩展来跟踪基本零售变量和事件，如产品查看、购物车添加和结账。
 feature: Tags
 topics: Development
 kt: 3592
@@ -10,16 +10,16 @@ exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 将基本零售业变量和事件添加到Experience Platform中的规则 [!DNL tags]
+# 将基本零售业变量和事件添加到Experience Platform[!DNL tags]中的规则
 
-本视频演示如何在中使用特殊的产品字符串扩展 [!DNL tags] 用于跟踪基本零售变量和事件，如产品查看、购物车添加和结账。
+此视频演示如何在[!DNL tags]中使用特殊的产品字符串扩展来跟踪基本零售变量和事件，如产品查看、购物车添加和结账。
 
 >[!NOTE]
 >
-> Launch现在为 **[!DNL tags]**
+> Launch 现在改名为 **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
