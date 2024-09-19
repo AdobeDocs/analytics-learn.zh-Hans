@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
+source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
 workflow-type: tm+mt
-source-wordcount: '2166'
+source-wordcount: '2161'
 ht-degree: 99%
 
 ---
@@ -252,7 +252,6 @@ ht-degree: 99%
       + [配置付费搜索检测](administration/manage-report-suites/configure-paid-search-detection.md)
       + [配置营销渠道](administration/manage-report-suites/set-up-marketing-channels.md)
       + [创建营销渠道处理规则](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [自定义 Reports &amp; Analytics 中的菜单](administration/manage-report-suites/customize-menus.md)
       + [使用处理规则操作传入的数据](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [配置流量变量 (prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [配置流量分类](administration/manage-report-suites/configure-traffic-classifications.md)
