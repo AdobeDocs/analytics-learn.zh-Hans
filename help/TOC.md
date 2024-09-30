@@ -4,10 +4,10 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
+source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
 workflow-type: tm+mt
-source-wordcount: '2161'
-ht-degree: 99%
+source-wordcount: '2160'
+ht-degree: 96%
 
 ---
 
@@ -379,18 +379,18 @@ ht-degree: 99%
    + Target {#target}
       + [Analysis Workspace 中的 Analytics for Target (A4T) 面板](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [使用 A4T 面板分析自动定位活动](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + Ad Cloud {#ad-cloud}
+   + Adobe Advertising DSP{#adobe-advertising-dsp}
       + [配置 Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [将跟踪模板实施到搜索引擎中](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Analytics for Advertising Cloud DSP 集成简介](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
-      + [创建发布前营销活动分析](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
-      + [用 Advertising Cloud Marketing Channels 进行报告](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+      + [Adobe Advertising DSP集成简介](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [创建启动前营销活动分析](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
+      + [Advertising DSP营销渠道报表](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [创建 Analytics 网站历程配置文件](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
-      + [创建 Analytics 区段以供激活和报告](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
-      + [用 Adobe Analytics 创建 Advertising Cloud 警报](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [用 Advertising Cloud 数据创建 Analytics 自定义指标](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
-      + [创建 Advertising Cloud 网站进入报告](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
-      + [创建 Advertising Cloud 功能板](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
+      + [创建Analytics区段以供激活和报告](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
+      + [使用Adobe Analytics创建Advertising DSP警报](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [使用Advertising DSP数据创建Analytics自定义量度](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [创建Advertising DSP站点登入报表](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [创建Advertising DSP功能板](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + 临时分析{#ad-hoc-analytics}
       + [使用项目转换器将项目从 Ad hoc Analysis 移至 Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
