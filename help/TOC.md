@@ -4,9 +4,9 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
+source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2164'
 ht-degree: 96%
 
 ---
@@ -363,6 +363,7 @@ ht-degree: 96%
       + [查找您的数据馈送 ID](exporting/data-feeds/find-your-data-feed-id.md)
       + [重新运行数据馈送作业](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
+      + [升级和重新计划工作簿](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
       + [在 Report Builder 中将区段同时添加到多个请求](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Report Builder 中的异常检测](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [跨请求编辑指标](exporting/report-builder/edit-metrics-across-requests.md)
