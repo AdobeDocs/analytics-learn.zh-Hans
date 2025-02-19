@@ -4,7 +4,7 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
+source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
 workflow-type: tm+mt
 source-wordcount: '2164'
 ht-degree: 96%
@@ -174,7 +174,7 @@ ht-degree: 96%
       + [转化变量简介 (eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [在自由格式表中使用维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + 日历和日期范围 {#calendar-and-date-ranges}
-      + [在 Analysis Workspace 中使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+      + [在Analysis Workspace中使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [在项目中应用可重复使用的日期范围](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [在 Analysis Workspace 中使用日期范围和比较](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
       + [创建自定义日期范围](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
@@ -379,14 +379,14 @@ ht-degree: 96%
       + [Audience Analytics — 将 AAM 区段集成到 Analytics 中](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Analysis Workspace 中的 Analytics for Target (A4T) 面板](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
-      + [使用 A4T 面板分析自动定位活动](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + Adobe Advertising DSP{#adobe-advertising-dsp}
+      + [使用 A4T 面板分析自动锁定活动](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
+   + Adobe Advertising DSP {#adobe-advertising-dsp}
       + [配置 Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [将跟踪模板实施到搜索引擎中](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
       + [Adobe Advertising DSP集成简介](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [创建启动前营销活动分析](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
       + [Advertising DSP营销渠道报表](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
-      + [创建 Analytics 网站历程配置文件](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
+      + [创建 Analytics 网站历程轮廓](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [创建Analytics区段以供激活和报告](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
       + [使用Adobe Analytics创建Advertising DSP警报](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
       + [使用Advertising DSP数据创建Analytics自定义量度](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
