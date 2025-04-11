@@ -4,10 +4,10 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
+source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
 workflow-type: tm+mt
-source-wordcount: '2164'
-ht-degree: 96%
+source-wordcount: '2160'
+ht-degree: 92%
 
 ---
 
@@ -238,29 +238,29 @@ ht-degree: 96%
       + [用高管摘要仪表板促进取得成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
       + [创建操作仪表板](administration/admin-tips/create-operational-dashboards.md)
    + 公司设置 {#company-settings}
-      + [强制执行电子邮件域限制](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [强制执行电子邮件域名限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [查看您的帐户的可用功能](administration/company-settings/view-your-accounts-available-features.md)
    + 用户管理 {#user-management}
-      + [将管理员添加到 Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [向Adobe Analytics添加管理员](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [创建产品配置文件](administration/user-management/create-product-profiles.md)
-      + [在 Admin Console 中限制对报告包的访问](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [在Admin Console中限制对报表包的访问](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [将用户资源转移给其他用户](administration/user-management/transfer-user-assets-to-a-different-user.md)
-      + [检查链接的 IMS ID 以防止登录问题](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
+      + [检查链接的IMS ID以防止登录问题](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + 管理报告包 {#manage-report-suites}
-      + [如何配置常规帐户设置](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [配置常规帐户设置](administration/manage-report-suites/configuring-general-account-settings.md)
       + [自定义日历设置](administration/manage-report-suites/customize-calendar-settings.md)
       + [配置付费搜索检测](administration/manage-report-suites/configure-paid-search-detection.md)
       + [配置营销渠道](administration/manage-report-suites/set-up-marketing-channels.md)
       + [创建营销渠道处理规则](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [使用处理规则操作传入的数据](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
-      + [配置流量变量 (prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [使用处理规则处理传入数据](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [配置流量变量(prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [配置流量分类](administration/manage-report-suites/configure-traffic-classifications.md)
       + [配置层级变量](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [在 Admin Console 中配置变量](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [配置事件和变量](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [配置转化分类](administration/manage-report-suites/configure-conversion-classifications.md)
       + [配置列表变量](administration/manage-report-suites/configuring-list-variables.md)
       + [配置查找方法](administration/manage-report-suites/configure-finding-methods.md)
-      + [设置内部 URL 过滤器](administration/manage-report-suites/set-internal-url-filters.md)
+      + [设置内部URL过滤器](administration/manage-report-suites/set-internal-url-filters.md)
       + [配置邮编设置](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [启用时间戳可选设置](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [在 Analytics 中配置机器人规则](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
@@ -270,7 +270,7 @@ ht-degree: 96%
       + [服务器调用使用情况](administration/traffic-management/server-call-usage.md)
       + [管理即将到来的流量尖峰](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + 日志 {#logs}
-      + [Analysis Workspace 的使用日志跟踪](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Analysis Workspace的使用日志跟踪](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Analytics 管理日志概述](administration/logs/overview-of-analytics-admin-logs.md)
 + 实施 {#implementation}
    + 实施基础 {#implementation-basics}
