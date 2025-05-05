@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何构建自定义仪表板，以简单、灵活且直观的方式管理和跟踪语音助手应用程序的性能。
 
->[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34955/?quality=12&learn=on&captions=chi_hans)

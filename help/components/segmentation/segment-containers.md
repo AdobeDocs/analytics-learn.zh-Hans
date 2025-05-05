@@ -18,6 +18,6 @@ ht-degree: 100%
 
 在构建区段时，点击、访问和访客容器可控制您的区段将包含的数据量。 在本视频中，了解如何使用容器并聆听每种容器的一些示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429103/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hans)。

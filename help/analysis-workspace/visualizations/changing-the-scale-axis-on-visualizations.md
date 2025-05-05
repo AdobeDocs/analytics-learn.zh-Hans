@@ -21,4 +21,4 @@ ht-degree: 100%
 
 本视频说明如何在 Analysis Workspace 中的[!UICONTROL 折线]图上轻松地更改 Y 轴的比例（或轴限制），从而使您和其他人更难以误解数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41450/?quality=12&learn=on&captions=chi_hans)

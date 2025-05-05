@@ -20,6 +20,6 @@ ht-degree: 20%
 
 了解Workspace中的“与任何人共享”功能。 您可以使用此功能向无权访问Workspace或Customer Journey Analytics的人员（包括组织外部的收件人）授予对Adobe Analytics项目的只读访问权限。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452472/?learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=zh-Hans#share-public-link)。

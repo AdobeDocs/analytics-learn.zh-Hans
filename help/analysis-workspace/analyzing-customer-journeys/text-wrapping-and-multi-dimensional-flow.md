@@ -23,6 +23,6 @@ ht-degree: 100%
 
 本视频说明如何在[!DNL flow visualization]中打开和关闭标记截断。 此外，了解如何将维度拖放到[!DNL flow]中以进行多维度[!DNL flow]分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327474/?quality=12&learn=on&captions=chi_hans)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hans)。

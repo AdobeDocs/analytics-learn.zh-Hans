@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解使用 doPlugins 功能的好处，并添加 Analytics 实施插件以丰富数据收集。该视频介绍了在哪里可以找到相应的代码以及在 Experience Platforms 中添加代码的位置 [!DNL tags]。有关更多详细信息，请参阅有关 [doPlugins](https://experienceleague.adobe.com/docs/analytics/implementation/vars/functions/doplugins.html?lang=zh-Hans) 和 [Analytics 实施插件](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=zh-Hans)的文档。
 
->[!VIDEO](https://video.tv.adobe.com/v/28772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428854/?quality=12&learn=on&captions=chi_hans)

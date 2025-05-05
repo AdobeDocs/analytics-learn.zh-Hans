@@ -18,4 +18,4 @@ ht-degree: 1%
 
 了解如何充分利用Data Warehouse报表UI以及导出帐户和位置。 本视频介绍向电子邮件和Amazon S3投放报告的基本工作流程。 有关详细文档，请参阅[Data Warehouse概述](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=zh-Hans)和相关文档。
 
->[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428490/?quality=12&learn=on&captions=chi_hans)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何使用[!UICONTROL 分类规则生成器]在 Adobe Analytics 中自动应用基于规则的[!UICONTROL 分类]。
 
->[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434381?quality=12&learn=on&captions=chi_hans)

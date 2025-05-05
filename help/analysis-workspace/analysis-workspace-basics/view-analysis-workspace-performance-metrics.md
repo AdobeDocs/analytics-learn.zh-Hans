@@ -21,4 +21,4 @@ ht-degree: 100%
 各种因素都可能会影响 Analysis Workspace 中的项目性能。使用“性能”选项，您可以查看影响项目性能的因素，包括网络、浏览器和项目因素。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335737/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418516/?quality=12&learn=on&captions=chi_hans)

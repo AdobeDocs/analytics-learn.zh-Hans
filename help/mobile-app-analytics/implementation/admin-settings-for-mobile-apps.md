@@ -22,6 +22,6 @@ ht-degree: 100%
 
 了解如何在 Adobe Analytics 中设置移动应用程序报告，包括[!UICONTROL 生命周期]组件、[!UICONTROL 位置跟踪]和[!UICONTROL 后台点击]报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39729/?quality=12&learn=on&captions=chi_hans)
 
 有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=zh-Hans)。

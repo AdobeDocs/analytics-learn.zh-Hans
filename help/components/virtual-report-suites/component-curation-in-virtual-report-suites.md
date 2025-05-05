@@ -18,4 +18,4 @@ ht-degree: 40%
 
 可以对虚拟报表包进行管理，以在Analysis Workspace中包含和排除[!UICONTROL 维度]、[!UICONTROL 量度]和[!UICONTROL 区段]，这在您与只需要特定数据切片或使用其他数据命名法的其他团队共享它的情况下很有用。 有关详细文档，请访问[虚拟报表包组件管理](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=zh-Hans){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425528/?quality=12&learn=on&captions=chi_hans)

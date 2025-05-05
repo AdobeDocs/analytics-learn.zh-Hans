@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解流可视化的一些重大改进。改进包括您可以配置感兴趣的路径的开头和结尾，对某列进行筛选以包含或排除特定项，以及可预配置的高级设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/344222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410739/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/create-flow.html?lang=zh-Hans)。

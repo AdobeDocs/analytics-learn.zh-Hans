@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # 获得话语权
 
->[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345308/?quality=12&learn=on&captions=chi_hans)
 
 “获得话语权。”多年来，这句流行语一直是业界的热门话题。不过，这是什么意思？“获得话语权”表示您被纳入高层决策转换中。您不仅受到邀请，而且您的意见还受到重视和赞赏。我会向您展示，无论您的正式职位是管理员、数据分析师，还是其他职位，获得话语权如何能帮助您的公司和您作为 Adobe Analytics 超级用户的职业生涯。
 

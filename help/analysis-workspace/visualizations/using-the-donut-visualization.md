@@ -18,6 +18,6 @@ ht-degree: 100%
 
 在本视频中，了解如何在 Analysis Workspace 项目中添加和配置圆环图可视化图表。
 
->[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416622/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=zh-Hans)。

@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Analysis Workspace 中的[!DNL Fallout]允许您将维度和量度作为漏斗和工作流中的接触点来进行混合和匹配。
 
->[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327469/?quality=12&learn=on&captions=chi_hans)
 
 利用这项强大的功能，您可以更灵活地定义要调查的用户步骤。
 

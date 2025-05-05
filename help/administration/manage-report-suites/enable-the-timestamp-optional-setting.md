@@ -20,4 +20,4 @@ ht-degree: 100%
 
 利用“可选时间戳”，可以将加盖时间戳和未加盖时间戳的数据混合到同一个全局报表包中，将来自移动应用程序的加盖时间戳数据发送到全局报表包中，然后将应用程序升级为无需创建新报表包即可使用离线跟踪。
 
->[!VIDEO](https://video.tv.adobe.com/v/335740/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418611/?quality=12&learn=on&captions=chi_hans)

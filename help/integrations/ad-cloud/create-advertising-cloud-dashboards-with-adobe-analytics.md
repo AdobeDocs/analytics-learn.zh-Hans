@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解用于创建适合实时监控促销活动的 Advertising Cloud 仪表板的技术。
 
->[!VIDEO](https://video.tv.adobe.com/v/35121/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40953/?quality=12&learn=on&captions=chi_hans)

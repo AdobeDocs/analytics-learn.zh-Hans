@@ -19,6 +19,6 @@ ht-degree: 100%
 
 本视频提供了关于 Adobe Analytics 中的基本访客量度以及相互关系的概念性描述。还将利用几个用户案例向大家展示何时使用报告中的页面查看次数、访问次数和独特访客人数。
 
->[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437875/?quality=12&learn=on&captions=chi_hans)
 
 有关文档中的更多信息，请参阅[页面查看次数](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=zh-Hans)、[访问次数](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=zh-Hans)和[独特访客人数](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=zh-Hans)。

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 适用于 [!UICONTROL Analysis Workspace] 的 [!DNL Magento Marketing and Commerce] 模板简介。虽然此功能面向 [!DNL Magento] 的用户，但任何在线零售商均可利用它。其中包括关于您商业活动的零售商预置见解以帮助您提高销量。
 
->[!VIDEO](https://video.tv.adobe.com/v/28164/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34305/?quality=12&learn=on&captions=chi_hans)

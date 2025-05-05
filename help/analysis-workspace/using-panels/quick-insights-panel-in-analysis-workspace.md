@@ -18,6 +18,6 @@ ht-degree: 100%
 
 [!UICONTROL 快速见解]为非分析人员和 Analysis Workspace 的新用户提供指导，帮助他们了解如何快速而轻松地回答业务问题。
 
->[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326701/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=zh-Hans)。

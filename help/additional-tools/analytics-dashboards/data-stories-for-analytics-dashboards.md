@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何使用 Analytics 仪表板应用程序在移动记分卡项目中创建数据故事。数据故事通过呈现相关数据点、业务背景和相关量度来讲述一个完整的故事，同时将最重要的关键量度放在最突出的位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416392/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420558/?quality=12&learn=on&captions=chi_hans)

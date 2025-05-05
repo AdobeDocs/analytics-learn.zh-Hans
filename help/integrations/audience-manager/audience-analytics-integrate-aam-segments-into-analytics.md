@@ -24,7 +24,7 @@ ht-degree: 65%
 
 [!UICONTROL Audience Analytics]是一种集成，可让您实时共享从Audience Manager到[!DNL Analytics]的区段，以告知受众发现、分段和优化。
 
->[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40735/?quality=12&learn=on&captions=chi_hans)
 
 可以共享的示例[!UICONTROL 区段]数据包括：来自第三方数据提供程序的人口统计数据、来自广告服务器的活动数据（例如场外展示次数）和已载入的 CRM 数据。 这是市场上DMP和分析引擎之间的第一个产品化集成。
 

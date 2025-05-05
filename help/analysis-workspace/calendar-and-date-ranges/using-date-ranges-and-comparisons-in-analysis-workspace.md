@@ -19,6 +19,6 @@ ht-degree: 100%
 
 在本视频中，您将了解如何使用日期、[!UICONTROL 日期范围]和日期比较以针对正确的时间范围来自定义表和可视化图表。
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33232/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=zh-Hans)。

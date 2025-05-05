@@ -22,4 +22,4 @@ ht-degree: 3%
 >
 > Launch 现在改名为 **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31208/?quality=12&learn=on&captions=chi_hans)

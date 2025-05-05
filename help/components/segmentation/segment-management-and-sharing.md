@@ -18,6 +18,6 @@ ht-degree: 100%
 
 既然您能够创建出色的区段，为什么要秘而不宣呢？ 在本视频中，您将了解一些共享和管理区段的提示，以便您和其他人能够乐享其中。
 
->[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37589/?quality=12&learn=on&captions=chi_hans)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=zh-Hans)。

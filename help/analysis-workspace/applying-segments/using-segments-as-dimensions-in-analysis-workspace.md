@@ -18,4 +18,4 @@ ht-degree: 100%
 
 本视频说明如何通过在 Analysis Workspace 中将区段用作维度来比较和可视化区段。
 
->[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37497/?quality=12&learn=on&captions=chi_hans)

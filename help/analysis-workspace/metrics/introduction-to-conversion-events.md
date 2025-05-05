@@ -18,4 +18,4 @@ ht-degree: 12%
 
 了解[!DNL Adobe Analytics]中转化事件（通常称为成功事件）的基础知识。 它们测量数字资产上的转化情况，并在报表中用作量度。
 
->[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31224/?quality=12&learn=on&captions=chi_hans)

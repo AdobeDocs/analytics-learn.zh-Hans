@@ -18,6 +18,6 @@ ht-degree: 13%
 
 粒度选择器可用于趋势可视化图表设置，使您能够非常轻松地调整数据的显示方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41455/?quality=12&learn=on&captions=chi_hans)
 
 粒度设置将同时调整图和源表，为您免去了取消隐藏和操作表的步骤。

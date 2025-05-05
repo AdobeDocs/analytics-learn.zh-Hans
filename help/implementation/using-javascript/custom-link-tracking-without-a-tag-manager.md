@@ -32,7 +32,7 @@ ht-degree: 100%
 >
 >在本视频中，我们将向您说明如何在不使用标签管理器（如 Adobe [!DNL Experience Platform Launch]）的情况下为自定义链接点击编码。 我们建议您使用 [!DNL Experience Platform Launch]（面向实施的最佳实践建议）。 不过，如果您需要在 `s.tl()` 中进行编码，请使用以下方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34642/?quality=12&learn=on&captions=chi_hans)
 
 ## 示例代码 {#sample-code}
 

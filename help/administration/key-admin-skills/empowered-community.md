@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # 创建赋权社区
 
->[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341117/?quality=12&learn=on&captions=chi_hans)
 
 赋权社区具有一些显著的特征。首先，它由其 Adobe Analytics 管理员予以支持。它熟知业务需求在其实施中的表现方式。最后但同样重要的是，它能够自信地使用分析做出数据驱动型决策。许多企业将从内部 Adobe Analytics 用户组或更正式的社区所提供的结构中受益。
 

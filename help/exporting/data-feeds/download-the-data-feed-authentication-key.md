@@ -20,4 +20,4 @@ ht-degree: 100%
 
 通过创建数据馈送，Adobe 可以了解发送原始数据文件的位置以及要包含在每个文件中的内容。 Analytics 中提供的数据馈送的 SFTP 支持。它需要 SFTP 主机、用户名和目的地站点，以便包含有效的 RSA 或 DSA 公钥。您可以在创建馈送时下载相应的公钥。
 
->[!VIDEO](https://video.tv.adobe.com/v/335739/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418489/?quality=12&learn=on&captions=chi_hans)

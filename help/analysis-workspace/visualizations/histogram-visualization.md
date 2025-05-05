@@ -18,6 +18,6 @@ ht-degree: 15%
 
 [!UICONTROL 直方图]允许您可视化跨访客、访问和点击的量度分布，以查找高价值和低价值区段。
 
->[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41502/?quality=12&learn=on&captions=chi_hans)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=zh-Hans)。

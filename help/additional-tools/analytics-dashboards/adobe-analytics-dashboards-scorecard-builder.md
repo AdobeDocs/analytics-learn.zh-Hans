@@ -19,6 +19,6 @@ ht-degree: 29%
 
 在本视频中，了解如何在Analysis Workspace中创建和共享“记分卡”，以便在Adobe Analytics功能板（移动设备应用程序）上查看。
 
->[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38139/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=zh-Hans)。

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL 项目] > [!UICONTROL 项目信息和设置] 下的[!UICONTROL 视图密度]设置可让您控制应用于左边栏和表格的垂直边距（[!UICONTROL 自由格式]和[!UICONTROL 同类群组]）。 您可以选择“已展开（默认）”、“舒适”或“紧凑”。
 
->[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40314/?quality=12&learn=on&captions=chi_hans)

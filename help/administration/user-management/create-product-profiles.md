@@ -21,6 +21,6 @@ ht-degree: 71%
 
 在 Experience Cloud Admin Console 中创建 Analytics 产品配置文件，管理对报告包、量度、维度和工具的访问。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448817/?learn=on&captions=chi_hans)
 
 有关更多信息，请转至[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics/admin/admin-console/permissions/product-profile)。

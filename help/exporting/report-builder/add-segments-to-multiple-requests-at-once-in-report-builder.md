@@ -19,6 +19,6 @@ ht-degree: 100%
 
 本视频说明如何使用 [!UICONTROL Report Builder] 一次性将区段添加到您的所有请求，从而节省您的时间并减少麻烦。
 
->[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40098/?quality=12&learn=on&captions=chi_hans)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=zh-Hans)。

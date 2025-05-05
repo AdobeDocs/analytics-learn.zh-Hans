@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何利用 Adobe Analytics 警报的强大功能来监控您的 Advertising Cloud 付费媒体营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40947/?quality=12&learn=on&captions=chi_hans)

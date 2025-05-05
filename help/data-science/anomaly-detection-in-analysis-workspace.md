@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Analysis Workspace 自动检测任何时间序列[!UICONTROL 可视化图表]或数据表中的数据异常。 用户无需执行任何其他操作便可捕获“未知事件”！
 
->[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40730/?quality=12&learn=on&captions=chi_hans)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=zh-Hans)。

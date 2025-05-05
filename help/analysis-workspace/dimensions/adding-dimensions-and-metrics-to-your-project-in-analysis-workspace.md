@@ -17,6 +17,6 @@ ht-degree: 100%
 
 在本视频中，了解[!UICONTROL 维度]和[!UICONTROL 量度]、它们之间的区别以及如何将它们添加到 Analysis Workspace 中的表和可视化图表中。 还了解如何添加现成的[!UICONTROL 计算量度]。
 
->[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33233/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=zh-Hans)。

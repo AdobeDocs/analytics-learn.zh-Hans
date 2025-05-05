@@ -18,7 +18,7 @@ ht-degree: 100%
 
 此视频介绍如何使用 Chrome 中的 Adobe Experience Platform Debugger 扩展观察数据从页面流入 Analysis Workspace 中的表格和可视化图表的过程。
 
->[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33229/?quality=12&learn=on&captions=chi_hans)
 
 有关 Adobe Experience Platform Debugger 的详细信息，请访问此[文档](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=zh-Hans)。
 

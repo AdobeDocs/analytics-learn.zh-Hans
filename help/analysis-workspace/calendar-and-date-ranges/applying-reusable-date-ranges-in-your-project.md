@@ -19,6 +19,6 @@ ht-degree: 100%
 
 在产品中使用自定义日期和日期范围可帮助您专注于讲述数据故事的信息。 在本视频中，我们探究了可在 Analysis Workspace 项目中使用日期范围的几个地方。
 
->[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447612/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=zh-Hans)。

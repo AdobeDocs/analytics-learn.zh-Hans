@@ -19,7 +19,7 @@ ht-degree: 100%
 
 了解如何使用现成模板，并在 Analysis Workspace 中创建自定义模板，以便您和您的团队可从预定义的报告集着手。
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428580/?quality=12&learn=on&captions=chi_hans)
 
 Analysis Workspace 附带几个预定义模板，有助于启动分析。 话虽如此，有时您也只想要自己的模板。 了解如何将任何项目创建为自己的自定义模板。 您可以更轻松地帮助新用户上手、找到您喜爱的功能板/项目或在团队间共享您的功能板。
 

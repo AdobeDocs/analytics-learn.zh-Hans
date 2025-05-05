@@ -17,6 +17,6 @@ ht-degree: 0%
 
 了解如何使用“近似非重复计数”函数创建计算量度，该函数返回选定维度的维度项目的近似非重复计数。
 
->[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37524/?quality=12&learn=on&captions=chi_hans)
 
 您可以将此视频中显示的量度用于任何报表，以了解一个维度相对于另一个维度的值的计数。 一个非常常见的用例是使用此函数创建客户ID量度，然后您可以在任何报表中使用它来查看有多少客户应用于不同的维度值。

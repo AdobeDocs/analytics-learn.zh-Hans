@@ -20,7 +20,7 @@ ht-degree: 30%
 
 在本视频中，了解关于反向链接的设置，将其设置为内部反向链接（以编制路径报表）或外部反向链接（以编制反向链接/反向链接域报表）。 有关详细文档，请访问[内部URL筛选器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=zh-Hans){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412915/?quality=12&learn=on&captions=chi_hans)
 
 >[!NOTE]
 >

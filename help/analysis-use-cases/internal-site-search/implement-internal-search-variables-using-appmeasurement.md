@@ -19,4 +19,4 @@ ht-degree: 100%
 
 在本视频中，我们将介绍使用 Experience Platform Launch 为 Adobe Analytics 实施内部站点搜索变量的步骤，包括搜索词、结果数等。
 
->[!VIDEO](https://video.tv.adobe.com/v/333604/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413579/?quality=12&learn=on&captions=chi_hans)

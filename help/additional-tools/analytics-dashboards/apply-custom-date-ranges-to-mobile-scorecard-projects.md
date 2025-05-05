@@ -20,6 +20,6 @@ ht-degree: 100%
 
 本视频说明在为移动设备设置分析项目时如何管理不同的日期范围选项，包括选择要显示的即用型范围，以及创建自己的自定义日期范围。
 
->[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411530/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=zh-Hans)。

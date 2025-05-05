@@ -18,4 +18,4 @@ ht-degree: 100%
 
 在 Analysis Workspace 中添加可视化图表时，有几种不同的方法可以向其中添加数据，具体取决于可视化图表类型。 本视频演示了这些方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/332507/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411536/?quality=12&learn=on&captions=chi_hans)

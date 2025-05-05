@@ -18,7 +18,7 @@ ht-degree: 100%
 
 解决方案设计参考 (SDR) 文档是 Analytics 针对您数字资产的业务要求和数据收集设计的蓝图。了解如何创建和维护本文档，使其作为您 Analysis 解决方案的事实来源。
 
->[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31221/?quality=12&learn=on&captions=chi_hans)
 
 [下载](assets/aa_en_BRD_SDR_template.xlsx)示例 Excel 模板，用以记录数字属性的要求、变量使用和分配、分段和数据收集设计。
 

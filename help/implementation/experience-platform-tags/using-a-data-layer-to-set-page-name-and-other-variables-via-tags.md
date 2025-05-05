@@ -21,7 +21,7 @@ ht-degree: 100%
 
 查看 [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=zh-Hans) 和 [Experience Platform 标记](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=zh-Hans)文档中有关数据层的更多信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327646/?quality=12&learn=on&captions=chi_hans)
 
 >[!NOTE]
 >

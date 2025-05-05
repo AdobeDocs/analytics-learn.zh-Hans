@@ -21,4 +21,4 @@ ht-degree: 100%
 
 这段视频展示如何根据在解决方案设计参考 (SDR) 文档中记载的变量和事件，在 [!DNL tags] 中为您的 Analytics 实施创建数据元素。
 
->[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31213/?quality=12&learn=on&captions=chi_hans)

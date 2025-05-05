@@ -18,4 +18,4 @@ ht-degree: 20%
 
 了解如何从头开始或利用模板创建新的Analysis Workspace项目。 模板可以为您的分析开一个好头，并且可通过现成和公司创建的项目使用。 有关详细文档，请参阅[在Analysis Workspace中创建项目](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects)。
 
->[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429812/?quality=12&learn=on&captions=chi_hans)

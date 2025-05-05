@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解如何在 Analysis Workspace 项目中添加和配置树形图可视化图表。 此可视化图表可以帮助您一次性直观分析大量数据点。
 
->[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416852/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=zh-Hans)。

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解什么会影响自由格式表中的总计，以及如何启用和禁用它们。
 
->[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32733/?quality=12&learn=on&captions=chi_hans)

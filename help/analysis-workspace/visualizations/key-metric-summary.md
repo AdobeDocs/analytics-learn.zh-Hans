@@ -19,6 +19,6 @@ ht-degree: 100%
 
 了解 Analysis Workspace 中的关键指标摘要可视化，它让您了解某个重要指标在单个时间范围内趋势如何。通过它，还可比较量度在两个时间范围内的表现。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413791/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=zh-Hans)

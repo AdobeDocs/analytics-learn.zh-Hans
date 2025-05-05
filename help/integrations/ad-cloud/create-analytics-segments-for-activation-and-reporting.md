@@ -19,4 +19,4 @@ ht-degree: 100%
 
 使用 Advertising Cloud 维度创建区段，以进行报告和分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40945/?quality=12&learn=on&captions=chi_hans)

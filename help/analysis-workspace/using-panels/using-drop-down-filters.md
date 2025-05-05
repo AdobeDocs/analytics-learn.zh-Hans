@@ -18,7 +18,7 @@ ht-degree: 100%
 
 在本视频中，您将了解如何使用 Analysis Workspace 中的下拉筛选器来动态更改面板的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327489/?quality=12&learn=on&captions=chi_hans)
 
 面板拖放区域现在具备下拉筛选功能。利用下拉筛选器，分析人员和最终用户能够通过受控筛选器与数据进行交互。您可以从任何组件类型创建下拉筛选器，然后在下拉列表中的项目之间切换来筛选面板内容。您还可以将多个下拉列表添加到单个面板来增加控制能力。
 

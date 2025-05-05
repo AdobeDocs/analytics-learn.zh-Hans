@@ -19,4 +19,4 @@ ht-degree: 24%
 
 了解如何将整个项目或各个表导出到CSV，以便在Excel和其他BI工具中进行分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429884/?quality=12&learn=on&captions=chi_hans)

@@ -24,7 +24,7 @@ ht-degree: 100%
 
 在此用例中，我们将配置系统以引入邮政编码，将其分类为市场内或市场外，然后在 Analysis Workspace 中使用这些数据，以便我们能够查看地理定位营销活动的有效性。
 
->[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35515/?quality=12&learn=on&captions=chi_hans)
 
 有关此用例各个方面的其他信息，请参阅以下文档主题：
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在 Analysis Workspace 中共享和管理组件（例如维度、量度、区段等）。
 
->[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37495/?quality=12&learn=on&captions=chi_hans)

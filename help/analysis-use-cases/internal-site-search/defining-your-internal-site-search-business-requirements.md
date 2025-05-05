@@ -19,4 +19,4 @@ ht-degree: 100%
 
 在决定跟踪您站点上的内部搜索时，请务必先决定要跟踪搜索的哪些方面，以及在分析结果后可以采取哪些措施。本视频介绍了业务要求的记录。
 
->[!VIDEO](https://video.tv.adobe.com/v/333511/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413448/?quality=12&learn=on&captions=chi_hans)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 将组件直接放入空白项目、面板或自由格式表中，系统会按照建议的格式自动为您构建一个表。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413478/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418548/?quality=12&learn=on&captions=chi_hans)
