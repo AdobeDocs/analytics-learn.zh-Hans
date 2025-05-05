@@ -23,4 +23,4 @@ ht-degree: 71%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
 
-有关更多信息，请转至[文档](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/permissions/product-profile)。
+有关更多信息，请转至[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics/admin/admin-console/permissions/product-profile)。

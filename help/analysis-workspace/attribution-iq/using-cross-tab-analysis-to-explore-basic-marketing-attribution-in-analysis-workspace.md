@@ -37,4 +37,4 @@ ht-degree: 100%
 * 3:20 — 跨选项卡维度在删除时会自动动态变化，这意味着其值会随着时间的推移而改变。 对于此分析，最好是改为引入静态列。 观看本视频的 6:33 部分以详细了解动态列：[自由格式表中的行和列设置](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 — 现在可以批量（而不是逐个）更新列设置。 观看本视频的 8:45 部分以了解详情：[自由格式表中的行和列设置](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
-有关此主题的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html)。
+有关此主题的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hans)。

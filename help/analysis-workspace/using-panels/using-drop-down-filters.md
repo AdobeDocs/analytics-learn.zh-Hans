@@ -24,4 +24,4 @@ ht-degree: 100%
 
 下拉列表也是整合项目和面板的有用方式。例如，如果您有某个提供了国家/地区特定的报告的项目的多个版本，您现在可以将这些项目折叠成一个项目，并添加到国家/地区下拉列表中以供用户切换。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=zh-Hans)。

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html?lang=zh-Hans)。

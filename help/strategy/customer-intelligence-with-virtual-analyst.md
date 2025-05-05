@@ -126,4 +126,4 @@ Analytics 具有挑战性且耗时，但仍需要不断缩减获得洞察所用�
 
 有关详细信息，请观看我们的[网络研讨会](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)。
 
-在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心详细了解战略和思想领导力。
+在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hans)中心详细了解战略和思想领导力。

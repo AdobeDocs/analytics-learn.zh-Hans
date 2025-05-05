@@ -19,4 +19,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
 
-请访问文档，了解有关在创建计算量度时使用[basic](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html)和[advanced](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html)函数的更多信息。
+请访问文档，了解有关在创建计算量度时使用[basic](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=zh-Hans)和[advanced](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=zh-Hans)函数的更多信息。

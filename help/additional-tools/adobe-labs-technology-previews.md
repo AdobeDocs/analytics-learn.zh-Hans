@@ -22,4 +22,4 @@ ht-degree: 100%
 
 在使用 [!DNL Labs] 原型时，您可在自身的业务用例和数据的背景下评估该功能。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=zh-Hans)。

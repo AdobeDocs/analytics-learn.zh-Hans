@@ -25,4 +25,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html)。
+有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html?lang=zh-Hans)。

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=zh-Hans#analysis-workspace)。
 
-如果要导出均线或一次性将多个平均值添加到表中，您可以改为创建计算量度。 在[本视频](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html#analysis-workspace)中了解详情。
+如果要导出均线或一次性将多个平均值添加到表中，您可以改为创建计算量度。 在[本视频](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=zh-Hans#analysis-workspace)中了解详情。

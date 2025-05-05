@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # 配置 Experience Platform [!DNL tags] 中 Analytics 扩展的常规设置
 
-了解 [!DNL tags] 中 Analytics 扩展的常规配置选项，包括设置跟踪服务器。有关详细文档，请参阅 [Adobe Analytics 扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}。
+了解 [!DNL tags] 中 Analytics 扩展的常规配置选项，包括设置跟踪服务器。有关详细文档，请参阅 [Adobe Analytics 扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=zh-Hans){target="_blank"}。
 
 >[!NOTE]
 >

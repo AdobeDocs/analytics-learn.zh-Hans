@@ -22,4 +22,4 @@ ht-degree: 52%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=zh-Hans)。

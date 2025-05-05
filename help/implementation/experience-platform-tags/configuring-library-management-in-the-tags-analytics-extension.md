@@ -16,6 +16,6 @@ ht-degree: 100%
 
 # 配置 Analytics 扩展的库管理
 
-了解 Experience Platform [!DNL tags] 中 Analytics 扩展的库管理配置选项。这段视频还涉及为数据收集选择报告包。有关详细文档，请参阅 [Adobe Analytics 扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}。
+了解 Experience Platform [!DNL tags] 中 Analytics 扩展的库管理配置选项。这段视频还涉及为数据收集选择报告包。有关详细文档，请参阅 [Adobe Analytics 扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=zh-Hans){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)

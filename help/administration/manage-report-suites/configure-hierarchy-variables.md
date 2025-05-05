@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
 
-有关其他信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html)。
+有关其他信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=zh-Hans)。

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-有关如何部署[!UICONTROL Activity Map]的详细信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable)。
+有关如何部署[!UICONTROL Activity Map]的详细信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/activity-map/getting-started/activitymap-enable)。
