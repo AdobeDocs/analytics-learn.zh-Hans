@@ -22,4 +22,4 @@ ht-degree: 20%
 
 日期比较是一种增加当前Analysis Workspace表深度的简单方法，可帮助您轻松地将当前数据与历史绩效相结合。
 
-有关此功能的更多信息，请参阅[文档](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison)。
+有关此功能的更多信息，请参阅[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison)。

@@ -23,4 +23,4 @@ ht-degree: 37%
 
 ## 其他资源 {#additional-resources}
 
-有关更多信息，请参阅[功能文档](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html)。
+有关更多信息，请参阅[功能文档](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html?lang=zh-Hans)。
