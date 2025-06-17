@@ -1,7 +1,7 @@
 ---
 title: 使用同类群组分析来理解客户行为
 description: 要改善客户体验和收入，企业必须了解客户行为。 同类群组分析有助于理解参与度和维系率，从而采取改进客户创建和创建大流量月份促销活动等措施。
-feature: Cohort Analysis
+feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
@@ -9,7 +9,7 @@ last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '1146'
 ht-degree: 13%
@@ -55,7 +55,7 @@ ht-degree: 13%
 1. **包含条件：**&#x200B;访问
 1. **返回条件：**&#x200B;访问
 1. **粒度：**&#x200B;个月
-1. **设置：**&#x200B;滚动计算
+1. **设置：**滚动计算
 \*\*允许您根据前一列而不是所包含的列计算维系。 因此，这意味着每个月都会包含用户\*\*
 1. **区段：**&#x200B;您可以选择特定区段以进一步推动此分析
    1. 特定登陆页面
@@ -115,7 +115,7 @@ ht-degree: 13%
 1. **包含条件：**&#x200B;访问+登录成功事件
 1. **返回条件：**&#x200B;访问
 1. **粒度：**&#x200B;个月
-1. **设置：**&#x200B;滚动计算
+1. **设置：**滚动计算
 \*\*允许您根据前一列而不是所包含的列计算维系。 因此，这意味着每个月都会包含用户\*\*
 
 ### 解释结果
@@ -132,7 +132,7 @@ ht-degree: 13%
 
 ![同类群组表4](assets/cohort4.png)
 
-## 第4部分：自定义同类Dimension
+## 第4部分：自定义Dimension同类群组
 
 自定义Dimension同类群组：创建基于所选维度的同类群组，而不是基于时间的同类群组（默认）。 许多客户想要按时间以外的其他方式分析他们的同类群组，现在，通过新的自定义维度同类群组功能，可以灵活地根据他们所选的维度构建同类群组。在 Adobe Analytics 中使用营销渠道、促销活动、产品、页面、区域或任何其他维度，可显示维系率根据这些维度值的不同有何变化。 
 
@@ -144,7 +144,7 @@ ht-degree: 13%
 
 ### 哪些产品在提升网站吸引力？
 
-自定义Dimension同类群组表重点列出了保留率高于平均值的产品。  此表可帮助识别您的顶级产品，以推动以顶级受关注产品为特色的内部和外部营销活动。
+自定义Dimension同类群组表重点列出了留存率高于平均值的产品。  此表可帮助识别您的顶级产品，以推动以顶级受关注产品为特色的内部和外部营销活动。
 
 **在2月：** 3个产品脱颖而出，保留率较高
 
@@ -170,6 +170,6 @@ ht-degree: 13%
 
 ![Jennifer Yacenda](assets/jennifer-yacenda.png)
 
-**Jennifer Yacenda**，万豪高级Director
+**Jennifer Yacenda**，万豪高级总监
 
 Adobe Analytics 负责人

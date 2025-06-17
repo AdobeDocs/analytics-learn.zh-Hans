@@ -1,7 +1,7 @@
 ---
 title: 将按月和按年比较添加到趋势
 description: 了解如何在 Analysis Workspace 中应用自定义日期范围为任何量度创建月度和年度趋势“比较”。
-feature: Calendar
+feature: Date Ranges
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 5031
 role: User
 level: Beginner
 exl-id: ea65bc06-c725-4115-bb62-f8e646bc1164
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在 Analysis Workspace 中应用自定义日期范围为任何量度创建月度和年度趋势“比较”。
 
->[!VIDEO](https://video.tv.adobe.com/v/37186/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12&learn=on)
