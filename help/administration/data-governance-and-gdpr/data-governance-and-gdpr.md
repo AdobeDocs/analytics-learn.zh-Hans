@@ -18,6 +18,6 @@ ht-degree: 100%
 
 本视频将介绍数据治理以及数据标记如何适应 GDPR 准备情况。 它提供了一个使用数据治理进行数据标记的实践示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40788/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=zh-Hans)。

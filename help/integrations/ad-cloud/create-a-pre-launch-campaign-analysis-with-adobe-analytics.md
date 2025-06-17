@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何使用 Adobe Analytics 为启动 Advertising Cloud 付费媒体营销活动奠定基础。
 
->[!VIDEO](https://video.tv.adobe.com/v/35114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40939/?quality=12&learn=on&captions=chi_hans)

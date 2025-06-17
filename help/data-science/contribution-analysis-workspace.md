@@ -21,7 +21,7 @@ ht-degree: 100%
 
 本视频介绍[!UICONTROL 贡献分析]及其使用机器学习快速轻松地解释导致数据趋势的因素的能力。
 
->[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40762/?quality=12&learn=on&captions=chi_hans)
 
 Analysis Workspace 中提供了[!UICONTROL 贡献分析]以供 Adobe Analytics Premium 客户使用。
 

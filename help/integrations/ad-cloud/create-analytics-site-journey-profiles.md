@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何使用 Adobe Analytics 为 Advertising 再营销创建稳固的站点重定向池。
 
->[!VIDEO](https://video.tv.adobe.com/v/35116/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40943/?quality=12&learn=on&captions=chi_hans)
