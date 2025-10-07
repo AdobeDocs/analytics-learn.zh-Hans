@@ -4,10 +4,10 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
+source-git-commit: ff729de74f29a07316140459a52f589dac7db198
 workflow-type: tm+mt
-source-wordcount: '2160'
-ht-degree: 92%
+source-wordcount: '2167'
+ht-degree: 88%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 92%
 # Analytics 教程 {#tutorials}
 
 + [Analytics 教程](overview.md)
-+ Analytics 简介 {#intro-to-analytics}
++ Analytics简介 {#intro-to-analytics}
    + [什么是 Analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-   + Adobe Analytics 可为我做什么？{#what-can-aa-do-for-me}
+   + Adobe Analytics能为我做什么？ {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace 可怎样变革您的业务](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [不只是数据，更是客户情报](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei 和 Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
@@ -27,22 +27,22 @@ ht-degree: 92%
       + [Summit 2019 超级讲座 — 旅游和酒店业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 超级讲座 — 零售业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 超级讲座 — 高科技行业](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + 战略与思维领导力{#strategy}
+   + 战略与思想领导力{#strategy}
       + [第 1 部分——提高效率的简单技巧](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [第 2 部分——提高效率的简单技巧](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
       + [通过 Adobe Analytics 中的虚拟分析师和 Segment IQ 掌握客户情报](strategy/customer-intelligence-with-virtual-analyst.md)
-   + 从第三方平台转换 {#transitioning-from-other-platforms}
+   + 从其他平台转换 {#transitioning-from-other-platforms}
       + [从 Google Analytics 转换](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
-   + Analytics 基础知识 {#analytics-basics}
+   + Analytics 基础 {#analytics-basics}
       + [了解 Analytics 周期](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [如何收集 Analytics 数据](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [登录 Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [了解和创建报告包](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [了解基本访客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=zh-Hans)
-      + [流量变量简介 (Prop)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=zh-Hans)
-      + [转化变量简介 (eVar)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=zh-Hans)
-      + [转化事件简介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=zh-Hans)
-   + 自定义 UI {#customizing-the-ui}
+      + [了解基本访客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [流量变量简介 (Prop)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [转化变量简介 (eVar)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+      + [转化事件简介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
+   + 自定义UI {#customizing-the-ui}
       + [自定义 Analysis Workspace 用户偏好设置](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [添加维度和指标描述](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [增强安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
@@ -51,7 +51,7 @@ ht-degree: 92%
       + [在 Adobe Analytics 中获取帮助](intro-to-analytics/getting-help/getting-help.md)
       + [在产品内提交支持服务单](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
-   + Analysis Workspace 基础知识 {#analysis-workspace-basics}
+   + Analysis Workspace基础知识 {#analysis-workspace-basics}
       + [Analysis Workspace 简介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 概述](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [导航到新的登陆页面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
@@ -71,7 +71,7 @@ ht-degree: 92%
       + [在 Analysis Workspace 中提高生产力的提示](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [客户对于继续学习 Adobe Analytics 给出的提示](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
       + [创建动态下拉过滤器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
-   + 在 Workspace 项目中导航 {#navigating-workspace-projects}
+   + 浏览Workspace项目 {#navigating-workspace-projects}
       + [Analysis Workspace 中的数据词典](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [开始您的第一个项目](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [培训教程模板](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
@@ -89,9 +89,9 @@ ht-degree: 92%
    + 使用面板 {#using-panels}
       + [使用 Analysis Workspace 中的表、可视化图表和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace 中的“Quick Insights”面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
-      + [使用 Attribution IQ 面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=zh-Hans)
+      + [使用 Attribution IQ 面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
       + [Analysis Workspace 中的“媒体并行查看者”面板](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
-      + [“媒体播放耗时”面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=zh-Hans)
+      + [“媒体播放耗时”面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [使用下拉过滤器](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [使用面板整理您的 Analysis Workspace 项目](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [为面板选择区段](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
@@ -107,13 +107,13 @@ ht-degree: 92%
       + [自由格式表中的行和列设置](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [自由格式表总计](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [使用自由格式表生成器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [用右键单击提高 Workspace 效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=zh-Hans)
+      + [用右键单击提高 Workspace 效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [重新排序静态行](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [在自由格式表中使用 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=zh-Hans)
+      + [在自由格式表中使用 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
       + [交叉销售分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [自由格式表过滤器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [时间划分维度](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-   + 可视化 {#visualizations}
+   + 可视化图表 {#visualizations}
       + [可视化类型和概述](analysis-workspace/visualizations/visualization-types.md)
       + [可视化图表用例](analysis-workspace/visualizations/visualization-use-cases.md)
       + [数据可视化战术手册](analysis-workspace/visualizations/data-visualization-playbook.md)
@@ -154,25 +154,25 @@ ht-degree: 92%
    + 应用区段 {#applying-segments}
       + [将区段应用于您的 Analysis Workspace 项目](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [应用临时区段](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [将不同的 Attribution IQ 模型用于区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=zh-Hans)
-      + [为面板选择区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=zh-Hans)
+      + [将不同的 Attribution IQ 模型用于区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
+      + [为面板选择区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [在 Analysis Workspace 中将区段用作维度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [在 Analysis Workspace 中使用区段限制数据](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace 中的快速区段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
       + [构建客户历程区段](analysis-workspace/applying-segments/building-customer-journey-segments.md)
       + [构建客户历程区段 – 第 2 部分](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
-   + 指标 {#metrics}
+   + 量度 {#metrics}
       + [了解基本访客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [向您的项目添加维度和量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=zh-Hans)
+      + [向您的项目添加维度和量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [转化事件简介](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [在自由格式表中使用量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=zh-Hans)
+      + [在自由格式表中使用量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
       + [在 Analysis Workspace 中使用参与率量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [从 Excel 转为使用计算指标](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 维度 {#dimensions}
       + [向您的项目添加维度和量度](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量变量简介 (prop)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [转化变量简介 (eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [在自由格式表中使用维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=zh-Hans)
+      + [在自由格式表中使用维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + 日历和日期范围 {#calendar-and-date-ranges}
       + [在Analysis Workspace中使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [在项目中应用可重复使用的日期范围](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
@@ -180,7 +180,7 @@ ht-degree: 92%
       + [创建自定义日期范围](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace 中的日期比较](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [将按月和按年比较添加到趋势](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + 策划和共享项目 {#curate-and-share-projects}
+   + 简化和共享项目 {#curate-and-share-projects}
       + [保存、共享和协作处理项目](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [策划和共享项目](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [项目的直接链接](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
@@ -198,7 +198,7 @@ ht-degree: 92%
       + [使用 Attribution IQ 面板](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
       + [将不同的 Attribution IQ 模型用于区段](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
       + [Attribution IQ 中的算法模型](analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md)
-      + [Attribution IQ 中的自定义回看窗口期](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
+      + [Attribution IQ 中的自定义回顾时间范围](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + 同类群组分析 {#cohort-analysis}
       + [Analysis Workspace 中的同类群组分析](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
       + [了解您的数据 — 同类群组表](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
@@ -217,7 +217,7 @@ ht-degree: 92%
       + [了解针对语音助手的用户行为](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [了解用户的语音历程](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
 + 管理 {#administration}
-   + 关键管理技巧 {#key-admin-skills}
+   + 关键管理员技能 {#key-admin-skills}
       + [创建赋权社区](administration/key-admin-skills/empowered-community.md)
       + [简化培训环节并缩短用户的培训时间](administration/key-admin-skills/simplify-training-users.md)
       + [让合适的人员加入您的 Analytics 团队](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
@@ -226,7 +226,7 @@ ht-degree: 92%
       + [以非技术方式翻译 Adobe Analytics 技术语言](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [跨职能工作](administration/key-admin-skills/working-cross-functionally.md)
       + [您问的问题是否有效？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
-   + 管理员提示和最佳实践{#admin-tips}
+   + 管理员提示和最佳实践 {#admin-tips}
       + [下载实施剧本](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [审核您的数据词典](administration/admin-tips/audit-your-data-dictionary.md)
       + [创建标准的命名惯例](administration/admin-tips/create-standardized-naming-conventions.md)
@@ -246,7 +246,7 @@ ht-degree: 92%
       + [在Admin Console中限制对报表包的访问](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [将用户资源转移给其他用户](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [检查链接的IMS ID以防止登录问题](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
-   + 管理报告包 {#manage-report-suites}
+   + 管理报表包 {#manage-report-suites}
       + [配置常规帐户设置](administration/manage-report-suites/configuring-general-account-settings.md)
       + [自定义日历设置](administration/manage-report-suites/customize-calendar-settings.md)
       + [配置付费搜索检测](administration/manage-report-suites/configure-paid-search-detection.md)
@@ -264,23 +264,23 @@ ht-degree: 92%
       + [配置邮编设置](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [启用时间戳可选设置](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [在 Analytics 中配置机器人规则](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
-   + 数据治理和 GDPR {#data-governance-and-gdpr}
+   + 数据治理和GDPR {#data-governance-and-gdpr}
       + [Adobe Analytics 中的数据治理和 GDPR](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
    + 流量管理 {#traffic-management}
       + [服务器调用使用情况](administration/traffic-management/server-call-usage.md)
       + [管理即将到来的流量尖峰](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
-   + 日志 {#logs}
+   + 日志{#logs}
       + [Analysis Workspace的使用日志跟踪](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Analytics 管理日志概述](administration/logs/overview-of-analytics-admin-logs.md)
 + 实施 {#implementation}
    + 实施基础 {#implementation-basics}
-      + [了解和创建报告包](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=zh-Hans)
+      + [了解和创建报告包](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
       + [用处理规则将 contextData 变量映射到 prop 和 eVar](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [如何标识分析跟踪服务器和报告包 ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [创建业务要求文档](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [创建和维护 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Experience Platform 标记 {#experience-platform-tags}
-      + [在网站中使用标记实施 Experience Cloud 解决方案](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=zh-Hans)
+   + Experience Platform标记 {#experience-platform-tags}
+      + [在网站中使用标记实施 Experience Cloud 解决方案](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Analytics 扩展的基本配置](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [配置 Analytics 扩展中的库管理](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [配置 Analytics 扩展中的常规设置](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
@@ -297,20 +297,20 @@ ht-degree: 92%
       + [创建针对特殊页面的规则](implementation/experience-platform-tags/creating-tags-rules-for-special-pages.md)
       + [创建针对成功事件的规则](implementation/experience-platform-tags/creating-tags-rules-for-success-events.md)
       + [将标记库发布到暂存和生产环境](implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production.md)
-   + 使用 JavaScript{#using-javascript}
+   + 使用JavaScript {#using-javascript}
       + [在不使用标记管理器的情况下进行自定义链接跟踪](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [在不使用 Experience Platform Launch 时更新 AppMeasurement](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-+ 组件{#components}
-   + 分段{#segmentation}
++ 组件 {#components}
+   + 区段 {#segmentation}
       + [区段生成器概述](components/segmentation/segment-builder-overview.md)
       + [查找和创建区段](components/segmentation/finding-and-creating-segments.md)
       + [区段中的滚动日期范围](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Analysis Workspace 中的区段比较](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [区段容器](components/segmentation/segment-containers.md)
       + [区段管理和共享](components/segmentation/segment-management-and-sharing.md)
-      + [在 Analysis Workspace 中应用区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=zh-Hans)
-      + [将区段用作维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=zh-Hans)
-      + [使用区段限制数据](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=zh-Hans)
+      + [在 Analysis Workspace 中应用区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
+      + [将区段用作维度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
+      + [使用区段限制数据](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
       + [区段生成器与快速区段的区别](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [顺序分段](components/segmentation/sequential-segmentation.md)
       + [在顺序分段中的序列之前/之后](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
@@ -319,7 +319,7 @@ ht-degree: 92%
       + [在分段中使用“等于任何”](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [分析内部网络研讨会 - 客户分段策略](components/segmentation/customer-segmentation-strategies.md)
       + [现在只需等待一个区段...使用分段来发现新的见解](components/segmentation/segmentation-to-discover-new-insights.md)
-   + 计算指标 {#calculated-metrics}
+   + 计算量度 {#calculated-metrics}
       + [计算指标生成器概述](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [计算量度 - 无实施量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [计算量度 - 分段量度](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
@@ -327,21 +327,23 @@ ht-degree: 92%
       + [计算量度中的“近似非重复计数”函数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Analysis Workspace 中的快速计算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [管理您的计算量度](components/calculated-metrics/manage-your-calculated-metrics.md)
-      + [计算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=zh-Hans)
+      + [计算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [在计算量度中使用维度](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [使用计算量度将您的数据分析提升到新的水平](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
-   + 分类{#classifications}
+   + 分类 {#classifications}
       + [分类概述](components/classifications/overview-of-classifications.md)
       + [使用分类规则生成器](components/classifications/using-the-classification-rule-builder.md)
+      + [分类集简介](components/classifications/introduction-to-classification-sets.md)
+      + [使用分类集](components/classifications/use-classification-sets.md)
    + 虚拟报告包 {#virtual-report-suites}
       + [虚拟报告包概述](components/virtual-report-suites/virtual-report-suites.md)
       + [组件策划](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [在虚拟报告包中自定义访问](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
       + [开始对任何事件的新访问](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
-   + Activity Map{#activity-map}
+   + Activity Map {#activity-map}
       + [Activity Map 概述](components/activity-map/activity-map-overview.md)
       + [启用、调试和自定义Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
-+ 其他工具{#additional-tools}
++ 其他工具 {#additional-tools}
    + [Adobe Labs（技术预览）](additional-tools/adobe-labs-technology-previews.md)
    + Analytics 功能板 {#analytics-dashboards}
       + [Adobe Analytics 功能板记分卡生成器](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
@@ -350,14 +352,14 @@ ht-degree: 92%
       + [Analytics 功能板应用程序内体验](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
       + [创建自定义详细信息视图](additional-tools/analytics-dashboards/create-custom-detail-views.md)
       + [Analytics 仪表板的数据故事](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
-+ 导出{#exporting}
-   + 从 UI{#from-the-ui}
++ 导出 {#exporting}
+   + 从UI {#from-the-ui}
       + [从 Analysis Workspace 导出到 CSV](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse 导出](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [通过 SFTP 发送 Data Warehouse 请求](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
       + [在 Tableau 数据提取中发送 Data Warehouse 报告](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
-   + 数据馈送{#data-feeds}
+   + 数据源 {#data-feeds}
       + [数据馈送管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [下载数据馈送身份验证密钥](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [查找您的数据馈送 ID](exporting/data-feeds/find-your-data-feed-id.md)
@@ -371,9 +373,9 @@ ht-degree: 92%
       + [开始使用 Report Builder](exporting/report-builder/get-started-with-report-builder.md)
       + [计划一项 Report Builder 请求](exporting/report-builder/schedule-a-report-builder-request.md)
       + [对 Power BI 使用 Report Builder 高级投放选项](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
-+ 集成{#integrations}
++ 集成 {#integrations}
    + Experience Cloud {#experience-cloud}
-      + [改进了 Experience Cloud 受众发布](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
+      + [已改进 Experience Cloud 受众发布 ](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [在 Experience Platform Launch 中启用服务器端转发](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics — 将 AAM 区段集成到 Analytics 中](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
@@ -392,52 +394,52 @@ ht-degree: 92%
       + [使用Advertising DSP数据创建Analytics自定义量度](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [创建Advertising DSP站点登入报表](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [创建Advertising DSP功能板](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
-   + 临时分析{#ad-hoc-analytics}
-      + [使用项目转换器将项目从 Ad hoc Analysis 移至 Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
+   + Ad Hoc Analytics {#ad-hoc-analytics}
+      + [使用项目转换器将项目从 Ad Hoc Analysis 移至 Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Power BI 中的 Adobe Analytics 连接器](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
       + [Magento Analysis Workspace 模板](integrations/magento/magento-analysis-workspace-template.md)
-+ 数据科学{#data-science}
++ 数据科学 {#data-science}
    + [使用 Adobe Analytics 机器学习和 AI 捕捉重要的时刻](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Analysis Workspace 中的异常检测](data-science/anomaly-detection-in-analysis-workspace.md)
    + [Analysis Workspace 中的贡献分析](data-science/contribution-analysis-workspace.md)
    + [智能警报](data-science/intelligent-alerts.md)
    + [Adobe Analytics 和 Adobe Sensei — 让数据科学惠及大众](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
-+ 垂直市场特有{#vertical-specific}
-   + 高科技行业{#high-tech}
-      + [Summit 2019 超级讲座 — 高科技行业](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=zh-Hans)
-   + 旅游和酒店业{#travel-and-hospitality}
-      + [Summit 2019 超级讲座 — 旅游和酒店业](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html?lang=zh-Hans)
-   + 零售业{#retail}
++ 垂直市场特有 {#vertical-specific}
+   + 高科技行业 {#high-tech}
+      + [Summit 2019 超级讲座 — 高科技行业](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html)
+   + 旅游和酒店业 {#travel-and-hospitality}
+      + [Summit 2019 超级讲座 — 旅游和酒店业](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html)
+   + 零售 {#retail}
       + [零售业变量和事件简介](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [将基本零售业变量和事件添加到 Experience Platform Launch 规则](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [添加针对购买事件的 Experience Platform Launch 规则](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
-      + [Summit 2019 超级讲座 — 零售业](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=zh-Hans)
-+ 媒体分析{#media-analytics}
-   + 测量 Media Analytics {#measuring-media-analytics}
+      + [Summit 2019 超级讲座 — 零售业](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
++ 媒体分析 {#media-analytics}
+   + 测量Media Analytics {#measuring-media-analytics}
       + [“媒体播放耗时”面板](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [使用 Analysis Workspace 中的“音频消耗量”模板](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ 移动应用程序分析{#mobile-app-analytics}
-   + 实施{#implementation}
++ 移动设备应用程序分析 {#mobile-app-analytics}
+   + 实施 {#implementation}
       + [移动应用程序的管理设置](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [用 Experience Platform SDK 初始化和查看存留期指标](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [跟踪行为（又称自定义链接）](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [跟踪状态（又称页面或屏幕）](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [在 iOS Swift 应用程序中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=zh-Hans)
-      + [在 iOS Objective-C 应用程序中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=zh-Hans)
-      + [在 Android 应用程序中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=zh-Hans)
-   + 测量移动分析{#measuring-mobile-analytics}
+      + [在 iOS Swift 应用程序中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [在 iOS Objective-C 应用程序中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [在 Android 应用程序中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
+   + 测量移动分析 {#measuring-mobile-analytics}
       + [Adobe 移动分析快速入门](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [接触点对移动历程的影响](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [分析各个渠道的用户行为](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [如何提高参与率和留存率](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API {#apis}
    + [使用 Analysis Workspace 构建 API 2.0 请求](apis/using-analysis-workspace-to-build-api-2-requests.md)
-   + [使用 Report Builder 学习 Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=zh-Hans)
+   + [使用 Report Builder 学习 Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
    + [使用 Postman 发出 Adobe Analytics 2.0 API 请求](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
-+ 分析用例{#analysis-use-cases}
-   + 内部网站搜索 {#internal-site-search}
++ Analysis用例 {#analysis-use-cases}
+   + 内部站点搜索 {#internal-site-search}
       + [定义您的内部网站搜索业务要求](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
       + [利用 AppMeasurement 实施内部搜索变量](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
       + [利用 Web SDK 实施内部搜索变量](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
