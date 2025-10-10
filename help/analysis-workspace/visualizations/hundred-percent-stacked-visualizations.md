@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解如何以百分比设置堆叠可视化图表，而不仅仅使用原始值。
 
->[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27414/?quality=12&learn=on&captions=chi_hans)
 
 堆叠图表有助于表示整体趋势的各个部分。 100% 堆叠可视化图表设置可进一步帮助快速查看每个部分对整体的贡献（以百分比值而非原始值呈现）。 可以从堆叠面积图、堆叠条形图和堆叠的水平条形图可视化图表的右上角的可视化图表设置齿轮中使用这个新的设置。

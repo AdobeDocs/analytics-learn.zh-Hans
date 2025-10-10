@@ -20,4 +20,4 @@ ht-degree: 35%
 
 了解如何在Analysis Workspace项目中创建内部链接或外部链接。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423014/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449610/?learn=on&captions=chi_hans)

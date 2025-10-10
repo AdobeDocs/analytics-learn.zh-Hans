@@ -18,7 +18,7 @@ ht-degree: 63%
 
 了解有关在自由格式表中使用维度的所有信息，包括添加维度、对维度进行排序、筛选维度、按其他维度对其细分等。
 
->[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328526/?quality=12&learn=on&captions=chi_hans)
 
 视频中包含的主题（含时间）：
 

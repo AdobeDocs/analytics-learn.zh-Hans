@@ -20,4 +20,4 @@ ht-degree: 100%
 
 机器人规则允许您从由已知蜘蛛程序和机器人生成的报表包中删除流量。 删除机器人流量可更准确地衡量您网站上的用户活动。 定义机器人规则之后，所有传入的流量会与定义的规则进行比较。报告包中不会收集符合这些规则的流量，并且不会包括在流量量度中。
 
->[!VIDEO](https://video.tv.adobe.com/v/335738/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418506/?quality=12&learn=on&captions=chi_hans)

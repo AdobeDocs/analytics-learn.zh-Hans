@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Attribution IQ] 允许您在[!UICONTROL 自由格式]列上动态地将归因[!UICONTROL 模型]更改为十个基于规则的模型中的任一模型。
 
->[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37441/?quality=12&learn=on&captions=chi_hans)
 
 每个归因[!UICONTROL 模型]完全支持分段和细分，并且允许您在任何维度上不受限制地执行比较（甚至 [!DNL props]！）。
 

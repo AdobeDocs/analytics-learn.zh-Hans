@@ -20,4 +20,4 @@ ht-degree: 21%
 
 了解Analysis Workspace中的目录，其中提供了使用户能够快速跳转到项目中的面板和可视化图表的链接。 有关详细信息，请访问[项目目录](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents)。
 
->[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35185/?quality=12&learn=on&captions=chi_hans)

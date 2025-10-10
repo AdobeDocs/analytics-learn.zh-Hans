@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe 尝试与客户合作，确保高流量活动取得成功。计划好流量尖峰是合作过程的起点。您可以通过计划流量尖峰部分提醒 Adobe 出现临时流量尖峰，以便可以分配适合的资源来处理。
 
->[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418696/?quality=12&learn=on&captions=chi_hans)

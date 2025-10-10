@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解新登陆页面的一些重大改进和新增内容。我们听取您的客户反馈并尝试整合最重要的功能，如调整列大小、新增列类型、实时报告和机器人报告的链接以及许多其他功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/342476/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346467/?quality=12&learn=on&captions=chi_hans)

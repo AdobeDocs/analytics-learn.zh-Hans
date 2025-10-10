@@ -21,4 +21,4 @@ ht-degree: 100%
 
 浏览一些新增功能，这些功能允许分析师和营销人员调整图表中的标签，以满足您的 [!UICONTROL 可视化] 需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327479/?quality=12&learn=on&captions=chi_hans)

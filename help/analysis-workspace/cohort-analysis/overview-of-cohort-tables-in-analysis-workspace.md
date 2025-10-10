@@ -22,6 +22,6 @@ ht-degree: 100%
 
 [!UICONTROL 同类群组表]中的[!UICONTROL 滚动计算]设置可用于分析各个时段的[!UICONTROL 同类群组]，以了解相同用户如何随时间的推移保留（或[!UICONTROL 流失]）。
 
->[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430085/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hans)。

@@ -18,7 +18,7 @@ ht-degree: 27%
 
 了解可放入Analysis Workspace项目中的各种可视化图表或类型，帮助您讲述数据故事。
 
->[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37489/?quality=12&learn=on&captions=chi_hans)
 
 作为视频的回顾，以下是基于要对数据执行哪种分析而添加到项目中的一些可视化图表类别和建议的可视化图表。 如视频中所述，这些都不是一项硬而快速的规则，而是在您习惯不同的可视化图表时为您提供的一些建议：
 

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 在本视频中，了解如何为 [!DNL Report Builder] 工作簿设置基本计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346449/?quality=12&learn=on&captions=chi_hans)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=zh-Hans)。

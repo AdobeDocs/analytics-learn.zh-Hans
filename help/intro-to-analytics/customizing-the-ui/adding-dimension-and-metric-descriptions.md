@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何在 [!DNL Adobe Analytics] 中为维度和量度添加上下文。 如果分配给您的报告和量度名称无法向贵组织用户清晰表明其意，请使用描述字段。
 
->[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39722/?quality=12&learn=on&captions=chi_hans)

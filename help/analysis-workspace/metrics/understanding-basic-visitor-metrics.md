@@ -23,4 +23,4 @@ ht-degree: 11%
 
 * 查看示例[!UICONTROL Workspace]项目，该项目显示这些指标在界面中的显示方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31227/?quality=12&learn=on&captions=chi_hans)

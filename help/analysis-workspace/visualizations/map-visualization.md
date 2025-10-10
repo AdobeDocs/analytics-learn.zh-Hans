@@ -18,6 +18,6 @@ ht-degree: 100%
 
 本视频说明如何使用 Analysis Workspace 中的新的地图可视化图表。 地图可视化图表将允许您根据动态地图查看[!UICONTROL 移动纬度/经度]或 Web（IP 地址）数据，从而了解客户在其所在位置的使用情况。
 
->[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41507/?quality=12&learn=on&captions=chi_hans)
 
 有关此可视化功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=zh-Hans)。

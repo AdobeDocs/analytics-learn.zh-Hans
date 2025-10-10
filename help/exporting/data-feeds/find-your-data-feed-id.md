@@ -20,4 +20,4 @@ ht-degree: 100%
 
 有时，如果数据馈送交付失败或请求重新发送数据馈送文件，则您可能需要联系 Adobe。 如果客户提供了数据馈送 ID，客户支持团队便能轻松处理此类请求。
 
->[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418478/?quality=12&learn=on&captions=chi_hans)

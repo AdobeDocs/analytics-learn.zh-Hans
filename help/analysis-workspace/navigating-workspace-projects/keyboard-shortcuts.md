@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何在 Analysis Workspace 中使用键盘快捷键。 这些是帮助您在项目中执行各种任务的省时技术。
 
->[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41384/?quality=12&learn=on&captions=chi_hans)

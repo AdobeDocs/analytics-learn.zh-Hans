@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Adobe Analytics 中出现错误或丢失的链接 IMS ID 会导致用户的登录出现问题。 用户可以检查链接 IMS ID 本身，如有任何问题，请联系客户支持，从而不用麻烦地执行常见故障排除步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/335749/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418701/?quality=12&learn=on&captions=chi_hans)

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 是否准备好开始构建您自己的项目？了解如何从头开始构建 Analytics Workspace 项目，包括如何构建表格、附加可视化等。
 
->[!VIDEO](https://video.tv.adobe.com/v/334076/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415636/?quality=12&learn=on&captions=chi_hans)
 
 有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=zh-Hans)。

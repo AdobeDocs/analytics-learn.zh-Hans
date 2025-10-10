@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何使用模板对移动应用程序进行 Adobe Analytics。Analysis Workspace 中预置的[!UICONTROL 标准模板]帮助您了解用户参与和应用程序性能[!UICONTROL 指标]。此外，还可了解如何用我们易用的拖放界面自定义您的项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33615/?quality=12&learn=on&captions=chi_hans)

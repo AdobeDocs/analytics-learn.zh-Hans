@@ -18,6 +18,6 @@ ht-degree: 100%
 
 在本视频中，了解如何在 Analysis Workspace 中将面积图和堆叠面积图可视化图表添加到您的项目中，并了解一些提示以帮助根据您的需求自定义可视化图表。
 
->[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416612/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=zh-Hans#)

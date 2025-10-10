@@ -21,4 +21,4 @@ ht-degree: 100%
 
 观看从 [!DNL Summit] 2019 上的高科技行业“超级讲座”精选的视频片段
 
->[!VIDEO](https://video.tv.adobe.com/v/30548/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330379/?quality=12&learn=on&captions=chi_hans)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 本视频说明如何在 Analysis Workspace 中将项目用户限制到其使用工具处理的一个或多个特定区段。
 
->[!VIDEO](https://video.tv.adobe.com/v/24038/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328758/?quality=12&learn=on&captions=chi_hans)

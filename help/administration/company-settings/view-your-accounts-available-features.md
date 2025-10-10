@@ -19,4 +19,4 @@ ht-degree: 100%
 
 通过查看 Analytics 上的“管理员”部分下面的功能访问级别设置，您可以看到您的公司有权查看的 Adobe Analytics 包和功能的访问级别。 这包括：Activity Map、Advertising Analytics、“警报中的异常检测”等。
 
->[!VIDEO](https://video.tv.adobe.com/v/335742/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418473/?quality=12&learn=on&captions=chi_hans)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 [!DNL Freeform table builder]可让您拖放多个维度、细分、量度和区段来生成可解答更复杂的业务问题的表格。 数据将不会即时更新；而是在您单击“生成”后更新，这样一来，表格只会更新一次，从而为您节省时间。
 
->[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33276/?quality=12&learn=on&captions=chi_hans)

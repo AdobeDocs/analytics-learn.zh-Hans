@@ -21,6 +21,6 @@ ht-degree: 100%
 
 了解 [!DNL ServiceNow] 如何通过 Adobe Advertising Cloud 和 Adobe Analytics，从其营销渠道中获得切实可行的数据并提高付费搜索广告的 ROI。
 
->[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35527/?quality=12&learn=on&captions=chi_hans)
 
 Adobe Experience Cloud 提供在跨渠道营销、数字广告、受众和数据优化等方面表现出色所需的综合工具。

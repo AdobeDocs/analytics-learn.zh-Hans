@@ -20,7 +20,7 @@ ht-degree: 100%
 
 在本视频中，我们演示了如何在 Analytics 报表包中配置营销渠道报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/340789/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344357/?quality=12&learn=on&captions=chi_hans)
 
 >[!NOTE]
 >

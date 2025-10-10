@@ -17,4 +17,4 @@ ht-degree: 100%
 
 如果您有一个零售网站，我们专为您创建了某些变量和事件（您就是特别的）！本视频将为您快速介绍这些零售特定变量和事件，供您了解。
 
->[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31223/?quality=12&learn=on&captions=chi_hans)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 在 [!DNL tags] 中实施 Analytics 之前，您需要一些支持文档，并且需要在 Analytics 和 [!DNL tags] 中都设置一些东西。这段视频涵盖这些东西。
 
->[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429970/?quality=12&learn=on&captions=chi_hans)

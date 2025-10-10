@@ -18,7 +18,7 @@ ht-degree: 20%
 
 在本视频中，您将了解如何利用[!UICONTROL 自由格式表] — “[!UICONTROL 添加时间段列]”和“[!UICONTROL 比较时间段]”中的两种日期比较功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327679/?quality=12&learn=on&captions=chi_hans)
 
 日期比较是一种增加当前Analysis Workspace表深度的简单方法，可帮助您轻松地将当前数据与历史绩效相结合。
 

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何在 Analysis Workspace 中使用名为标记的过滤器。这些是帮助您高效构建项目的省时技术。
 
->[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36693/?quality=12&learn=on&captions=chi_hans)

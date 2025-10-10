@@ -18,7 +18,7 @@ ht-degree: 100%
 
 通过 [!DNL Adobe Labs]（技术预览版），可接触到新兴技术、获得宝贵的见解以及影响未来的 [!DNL Analytics] 功能开发和优先级。
 
->[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36688/?quality=12&learn=on&captions=chi_hans)
 
 在使用 [!DNL Labs] 原型时，您可在自身的业务用例和数据的背景下评估该功能。
 

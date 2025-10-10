@@ -18,4 +18,4 @@ ht-degree: 100%
 
 这段视频展示如何在 [!DNL tags] 中使用规则跟踪您网站上的转化事件（成功事件）。
 
->[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429958/?quality=12&learn=on&captions=chi_hans)

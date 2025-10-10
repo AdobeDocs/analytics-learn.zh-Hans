@@ -20,6 +20,6 @@ ht-degree: 100%
 
 通过 [!DNL Analytics for Target] (A4T) 面板，可分析您的 Adobe Target 活动和体验。 在本视频中，您将了解如何使用 [!DNL Analytics for Target] 面板可视化自动锁定测试的结果。
 
->[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412966/?quality=12&learn=on&captions=chi_hans)
 
 有关 Analytics for Target 的更多信息，请参阅此 [Spark 页面](https://spark.adobe.com/page/Lo3Spm4oBOvwF/)。

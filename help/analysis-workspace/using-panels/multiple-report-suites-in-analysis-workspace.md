@@ -21,7 +21,7 @@ ht-degree: 100%
 
 通过在面板级别选择[!UICONTROL 报表包]，可以在一个 [!DNL Workspace] 项目中分析多个[!UICONTROL 报表包]。 这样，您就可以跨不同的数据集进行并排面板分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36690/?quality=12&learn=on&captions=chi_hans)
 
 >[!TIP]
 >

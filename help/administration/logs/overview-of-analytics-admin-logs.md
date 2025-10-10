@@ -21,4 +21,4 @@ ht-degree: 100%
 日志文件有助于您了解用户登录的时间、用户使用情况、访问情况、报表包，以及管理员执行的更改。 管理日志报告管理员在管理工具中执行的所有更改。 该日志提供了从三个日志中的任何一个到用户定义的报告的网关。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335735/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418521/?quality=12&learn=on&captions=chi_hans)

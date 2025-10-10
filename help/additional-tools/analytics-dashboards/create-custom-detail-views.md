@@ -20,4 +20,4 @@ ht-degree: 100%
 
 学习自定义详细视图（包括 Adobe Analytics 仪表板的文本）以完善您要通过移动记分卡项目向利益相关者讲述的故事。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413785/?quality=12&learn=on&captions=chi_hans)

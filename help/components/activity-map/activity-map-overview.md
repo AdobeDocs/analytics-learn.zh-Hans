@@ -19,6 +19,6 @@ ht-degree: 44%
 
 了解Activity Map，它有助于您直接在网站上可视化用户活动数据。 直接查看页面链接的点击次数（或其他量度）。
 
->[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39682/?quality=12&learn=on&captions=chi_hans)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/activity-map/activity-map)。

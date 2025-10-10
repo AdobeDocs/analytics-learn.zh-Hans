@@ -21,7 +21,7 @@ ht-degree: 100%
 
 在此视频中，我们将介绍 Adobe Analytics 连接器，包括创建并加载请求、更改数据格式、构建[!UICONTROL 可视化]并发布到在线服务。
 
->[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37440/?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源 {#additional-resources}
 

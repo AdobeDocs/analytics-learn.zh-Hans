@@ -18,4 +18,4 @@ ht-degree: 100%
 
 我们已将两种的新面板类型添加到 Analysis Workspace（“下一项/上一项”和“页面摘要”）并可列出它们，以使其作为现成报表的一部分。这些面板使 Workspace 可与某些更流行的 Reports &amp; Analytics 报表媲美。
 
->[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346416/?quality=12&learn=on&captions=chi_hans)

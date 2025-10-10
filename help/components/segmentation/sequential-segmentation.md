@@ -18,6 +18,6 @@ ht-degree: 100%
 
 本视频说明如何根据网站或应用程序中的行为序列在 Analysis Workspace 中构建区段。 换句话说，您可能需要构建一个访客区段，这些访客依次执行了“操作 A”和“操作 B”，这样您就能够了解该事件序列如何影响所有其他数据。 敬请阅览！
 
->[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37426/?quality=12&learn=on&captions=chi_hans)
 
 有关此主题的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=zh-Hans)。

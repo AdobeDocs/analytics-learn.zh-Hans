@@ -19,6 +19,6 @@ ht-degree: 28%
 
 在本视频中，了解如何使用Adobe Analytics功能板（移动设备应用程序）访问和查看由您创建或与您共享的“记分卡”。
 
->[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38138/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=zh-Hans)。

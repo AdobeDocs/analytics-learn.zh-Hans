@@ -17,4 +17,4 @@ ht-degree: 100%
 
 在实施 Adobe Analytics 和分析网站上的活动时，让合适的人员加入您的团队非常重要。 本视频将让您快速了解要填充的不同角色。
 
->[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31233/?quality=12&learn=on&captions=chi_hans)

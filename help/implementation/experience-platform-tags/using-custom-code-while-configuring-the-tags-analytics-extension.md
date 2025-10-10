@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解在配置 [!DNL tags] 的 Adobe Analytics 扩展时使用自定义代码编辑器的用例和技术注意事项。
 
->[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327660/?quality=12&learn=on&captions=chi_hans)
 
 查看[文档](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=zh-Hans)以了解有关在这段视频中引用的 <i>doPlugins 函数</i>的详情。

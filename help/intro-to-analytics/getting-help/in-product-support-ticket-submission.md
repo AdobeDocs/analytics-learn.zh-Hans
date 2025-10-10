@@ -17,4 +17,4 @@ ht-degree: 60%
 
 了解如何直接从产品中向Adobe的[!DNL Customer Care]提交支持工单，从而简化解决问题的过程。
 
->[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430051/?quality=12&learn=on&captions=chi_hans)

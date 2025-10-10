@@ -22,6 +22,6 @@ ht-degree: 100%
 
 对于 Media Analytics 客户，通过“媒体并行查看者”面板，您可以了解出现并发峰值或发生流失的位置，从而针对内容质量和查看者参与情况提供宝贵的洞察，并帮助进行故障排除或者容量/规模的规划。
 
->[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342834/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=zh-Hans#analysis-workspace)。

@@ -22,6 +22,6 @@ ht-degree: 100%
 
 在本视频中，您将看到 [!DNL Attribution IQ] [!UICONTROL 面板]，它是您构建归因 Analysis Workspace 项目时的良好起点。
 
->[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37445/?quality=12&learn=on&captions=chi_hans)
 
 Analysis Workspace 中的 [!DNL Attribution IQ] [!UICONTROL 面板]可让您以可视方式快速比较十种基于规则的[!DNL attribution models]中的任一模型。 了解每种模型会对任何使用[!DNL Bar Charts]、[!DNL Venn diagrams]、[!DNL Histograms]、[!DNL Scatter Plots]甚至[!DNL Flow Diagram]的维度产生哪些影响。 [!DNL Attribution] [!UICONTROL 面板]是更复杂的归因分析的良好起点。

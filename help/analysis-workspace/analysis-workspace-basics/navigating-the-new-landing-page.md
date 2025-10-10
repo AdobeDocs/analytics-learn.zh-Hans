@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何充分利用新的 Analytics 登陆页面及其功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/334278/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346461/?quality=12&learn=on&captions=chi_hans)

@@ -17,4 +17,4 @@ ht-degree: 100%
 
 在此视频中，我们介绍登录，以使您可进入和管理 [!DNL Analytics] 以及进行您的分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31231/?quality=12&learn=on&captions=chi_hans)

@@ -18,7 +18,7 @@ ht-degree: 100%
 
 筛选器可让您更好地控制在[!DNL freeform table]中共享哪些数据行。
 
->[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327360/?quality=12&learn=on&captions=chi_hans)
 
 在 Analysis Workspace 中，我们现在通过 11 个筛选条件和 AND/OR 运算符提供更多筛选控制。
 
