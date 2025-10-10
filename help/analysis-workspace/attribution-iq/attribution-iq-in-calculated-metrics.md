@@ -26,4 +26,4 @@ ht-degree: 100%
 
 ## 其他资源 {#additional-resources}
 
-有关 [!DNL Attribution IQ] 的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html)。
+有关 [!DNL Attribution IQ] 的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html?lang=zh-Hans)。

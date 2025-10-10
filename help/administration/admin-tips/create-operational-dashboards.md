@@ -47,7 +47,7 @@ _浏览 Adobe Analytics Workspace 中的操作仪表板如何彻底改变沟通�
 
 厌倦了无休止的重复答案？停！通过制作常见问题解答仪表板来节省时间。用户可以在询问之前查阅它，或者您可以在回复中快速链接到它。
 
-只需创建[文本可视化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html)，其中问题格式为标题，答案/解释为内容，所有内容都折叠起来仅显示问题。按相关性（例如页面或产品）对它们进行分组或使用面板。保持简单，将常见查询优先放在顶部。
+只需创建[文本可视化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=zh-Hans)，其中问题格式为标题，答案/解释为内容，所有内容都折叠起来仅显示问题。按相关性（例如页面或产品）对它们进行分组或使用面板。保持简单，将常见查询优先放在顶部。
 
 与其写长电子邮件或重新发现旧的解释，不如更新您的常见问题解答仪表板。从现在开始并随着时间的推移而扩展。使用超链接引用报告中的其他仪表板或相关常见问题解答。通过从其他仪表板链接到常见问题解答，在需要时提供复杂的上下文。
 

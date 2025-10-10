@@ -95,4 +95,4 @@ ht-degree: 100%
 
 利用报告 API 将标准报告从[!UICONTROL 工作区]移动到计划报告和仪表板。此外，利用[!UICONTROL  Analysis Workspace] 来构建 API 请求。
 
-在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心详细了解战略和思想领导力。
+在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hans)中心详细了解战略和思想领导力。

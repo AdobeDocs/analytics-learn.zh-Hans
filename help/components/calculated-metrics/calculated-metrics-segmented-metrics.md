@@ -19,4 +19,4 @@ ht-degree: 94%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html?lang=zh-Hans)。

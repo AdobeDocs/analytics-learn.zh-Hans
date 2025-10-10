@@ -28,11 +28,11 @@ ht-degree: 100%
 
 如果您是商业用户、商业从业人员或其他类似角色，我们建议您参加以下课程，以获得有助于您在使用 Analysis Workspace 时表现出色的基础知识：
 
-1. [Analysis Workspace 入门](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
-1. [自由格式表 - 分析的基础](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-1. [利用可视化项讲述您的数据故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
-1. [将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
+1. [Analysis Workspace 入门](https://experienceleague.adobe.com/?lang=zh-hans&recommended=Analytics-U-1-2020.1.workspace)
+1. [自由格式表 - 分析的基础](https://experienceleague.adobe.com/?lang=zh-hans&recommended=Analytics-U-1-2020.3)
+1. [利用可视化项讲述您的数据故事](https://experienceleague.adobe.com/?lang=zh-hans&recommended=Analytics-U-1-2021.1.visualizations)
+1. [将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?lang=zh-hans&recommended=Analytics-U-1-2020.2)
 
-您可以在 Experience League 上获得与 [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) 相关的其他课程。
+您可以在 Experience League 上获得与 [Adobe Analytics](https://experienceleague.adobe.com/?lang=zh-hans&recommended=Analytics-U-1-2020.1.workspace) 相关的其他课程。
 
 谢谢！

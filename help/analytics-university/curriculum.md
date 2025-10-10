@@ -42,6 +42,6 @@ Adobe 很荣幸地向您的大学介绍这些 Analytics 基础内容。在该课
 
 此课程在每个部分的结尾都设有专门的活动，可与 Adobe Analytics University 沙盒环境相结合。
 
-在此处注册即可访问：[Analytics 课程注册](https://experienceleague.adobe.com/landing/analytics-university/)
+在此处注册即可访问：[Analytics 课程注册](https://experienceleague.adobe.com/landing/analytics-university/?lang=zh-Hans)
 
 [下载课程 PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)

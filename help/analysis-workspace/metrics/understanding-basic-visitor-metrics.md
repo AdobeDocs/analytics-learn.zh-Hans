@@ -15,7 +15,7 @@ ht-degree: 11%
 
 # 了解基本访客指标
 
-了解Adobe Analytics中的[[!UICONTROL 页面查看次数]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en)、[[!UICONTROL 访问次数]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=zh-Hans)和[[!UICONTROL 访客数]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=zh-Hans)。
+了解Adobe Analytics中的[[!UICONTROL 页面查看次数]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=zh-Hans)、[[!UICONTROL 访问次数]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=zh-Hans)和[[!UICONTROL 访客数]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=zh-Hans)。
 
 * 获取这些基本访问量度的定义并了解它们的异同。
 

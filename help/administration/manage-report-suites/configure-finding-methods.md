@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html?lang=zh-Hans)。

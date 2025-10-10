@@ -29,4 +29,4 @@ ht-degree: 100%
 
 无法将多个[!UICONTROL 报表包]中的数据并入表、[!UICONTROL 区段]或[!UICONTROL 计算量度]（相加、相除等）中。 全面数据方法的最佳实践仍是将所有点击发送到“全局包”。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html?lang=zh-Hans)。

@@ -38,7 +38,7 @@ ht-degree: 100%
 
 ## 其他资源 {#additional-resources}
 
-* [关于日志的详细信息](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
+* [关于日志的详细信息](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=zh-Hans)
 * [下载演示仪表板](https://adobe.ly/2ygP5ws)
 
 新增功能：我们力争尽快在 [!DNL Analytics] 中用一个简单易用的 UI（并具有更多细节）展示这些信息。

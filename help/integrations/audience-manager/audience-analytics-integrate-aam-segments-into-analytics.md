@@ -28,4 +28,4 @@ ht-degree: 65%
 
 可以共享的示例[!UICONTROL 区段]数据包括：来自第三方数据提供程序的人口统计数据、来自广告服务器的活动数据（例如场外展示次数）和已载入的 CRM 数据。 这是DMP与市场上的分析引擎之间的第一个产品化集成。
 
-有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)。
+有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=zh-Hans)。
