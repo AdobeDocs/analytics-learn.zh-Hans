@@ -22,6 +22,6 @@ ht-degree: 100%
 
 自定义回顾时间范围允许您将归因时间范围扩展到报告范围以外（最长 90 天），并应用于报告范围内的每次转化。 此选项通常会通过计算在之前月份发生的交互来提高在报告期初期所发生事件的归因准确性。
 
->[!VIDEO](https://video.tv.adobe.com/v/40042/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
-有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hans#lookback-windows)。
+有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html#lookback-windows)。

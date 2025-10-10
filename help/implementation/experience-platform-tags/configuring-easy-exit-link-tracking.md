@@ -21,6 +21,6 @@ ht-degree: 100%
 
 只需在 Experience Platform [!DNL tags] 的 Adobe Analytics 扩展中点击几下，即可开始跟踪您网站上的退出链接（用于转到另一个网站的链接）。这段视频展示如何设置它。
 
->[!VIDEO](https://video.tv.adobe.com/v/37635/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
 
 您的网站上可能有链接转到您拥有或与之合作的其他网站。往往想要了解有多少人从您的页面通过点击转到这些网站。使用在这段视频中所述的配置，可非常快速而轻松地设置退出链接跟踪，甚至还可修改它以适合您的需求。

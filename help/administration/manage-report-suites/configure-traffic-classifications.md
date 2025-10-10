@@ -20,6 +20,6 @@ ht-degree: 100%
 
 在本视频中，我们将介绍流量变量（通常称为“prop”）以及 pagename 等的分类配置。
 
->[!VIDEO](https://video.tv.adobe.com/v/342930/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/340024/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=zh-Hans)。

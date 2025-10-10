@@ -21,4 +21,4 @@ ht-degree: 100%
 
 客户情报从未像现在这样充满希望。 不过，即便是先进的数据科学团队，也无法单独整合对组织内的商业用户有用的数据，从而及时了解重要趋势并顺应该趋势采取行动。 通过使用您已收集的数据，可让 Adobe Analytics 中的这些 Adobe Sensei AI 和机器学习功能发挥更大作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/328333/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12&learn=on)

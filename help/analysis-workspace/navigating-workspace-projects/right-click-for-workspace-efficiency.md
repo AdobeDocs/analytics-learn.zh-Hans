@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解我们喜欢的各种 Analysis Workspace 右键单击及其用法。 从[!UICONTROL 自由格式表]到[!UICONTROL 流失可视化图表]，右键单击将使您在 [!DNL Workspace] 中更加高效和熟练。
 
->[!VIDEO](https://video.tv.adobe.com/v/327562/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)

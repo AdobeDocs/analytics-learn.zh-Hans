@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!UICONTROL 同类群组表]提供两种分析类型 — [!UICONTROL 保留]和[!UICONTROL 流失]。 [!UICONTROL 保留]显示随着时间的推移保留的用户数，[!UICONTROL 流失]选项将描述丢失的用户数（1 — 保留）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430155/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hans)。

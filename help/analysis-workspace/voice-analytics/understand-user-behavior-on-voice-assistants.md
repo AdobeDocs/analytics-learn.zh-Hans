@@ -21,4 +21,4 @@ ht-degree: 100%
 
 学习如何通过查看主要意图、参数和用户身份验证等关键[!UICONTROL 量度]来了解用户行为并获得洞察。
 
->[!VIDEO](https://video.tv.adobe.com/v/34989/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)

@@ -22,6 +22,6 @@ ht-degree: 100%
 
 本视频对客户强烈请求的[!DNL Fallout Visualization]更新进行介绍，包括直接步骤与最终步骤、重命名接触点、比较无限区段以及确定随时间变化的接触点转化百分比趋势。
 
->[!VIDEO](https://video.tv.adobe.com/v/328034/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hans)。

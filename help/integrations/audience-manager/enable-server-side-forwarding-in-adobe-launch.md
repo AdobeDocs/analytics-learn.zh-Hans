@@ -25,4 +25,4 @@ ht-degree: 1%
 >
 >在Experience Cloud界面中，[!UICONTROL Launch]已重命名为[!UICONTROL 标记]。 从[!UICONTROL 应用程序切换器]中选择[!UICONTROL 数据收集]以打开标记并执行此视频中介绍的步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/34637?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

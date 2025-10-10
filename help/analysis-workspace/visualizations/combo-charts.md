@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解 Analysis Workspace 中的组合图表可视化。 通过组合图表可视化，无需事先构建表格，即可轻松而快速地构建比较可视化。可在线条/条形组合中轻松地查看您数据中的趋势。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413014/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3409159/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html)。

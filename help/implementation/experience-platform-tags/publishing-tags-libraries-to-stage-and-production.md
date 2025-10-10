@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何在 Experience Platform [!DNL tags] 中发布网站从开发到暂存和生产阶段的分析代码，以及如何设置报表包，以正确接收恰当的数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429977/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Adobe Analytics [!UICONTROL 数据馈送] 允许您导出原始点击流数据以导入 EDW 或数据湖并与其中其他数据源合并。 您可以在 Adobe Analytics 中创建和管理自己的[!UICONTROL 数据馈送]。 本视频向您展示如何做到这一点。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428569/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
 
 有关此功能的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=zh-Hans#)。

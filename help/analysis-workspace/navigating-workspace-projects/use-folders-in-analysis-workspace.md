@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何在 Analysis Workspace 中的文件夹和子文件夹内整理您的项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/3417496/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3413167/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/workspace-folders/about-folders.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/workspace-folders/about-folders.html)。

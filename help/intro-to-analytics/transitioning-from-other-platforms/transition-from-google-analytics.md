@@ -9,14 +9,14 @@ thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '3413'
-ht-degree: 100%
+source-wordcount: '3403'
+ht-degree: 97%
 
 ---
 
 # 从 Google Analytics 过渡到 Adobe Analytics 的综合指南{#comprehensive-guide-for-transitioning-to-Adobe-Analytics}
 
-## 1. 简介
+## &#x200B;1. 简介
 
 对于任意工具之间的转换，面临的最大挑战之一是学习在何处找到等价的功能，以及学习如何高效地使用新工具。此讨论属于更全面的指南的一部分，旨在帮助用户更轻松地转换为 Adobe Analytics（可以是新用户，也可以是来自 Google Analytics 的用户）。提供了与 GA 的深入对比（这可能是大部分用户熟悉的相当工具），以帮助用户将现有知识运用到新的工具集上。当没有替代练习的方法时，这有助于您开始并减少您在此期间可能遇到的挫折。
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 | 一个量度，表示您的网站或应用程序上在同一个时间范围内发生的一组交互 | 访问 | 会话 |
 | 一个量度，定义标识的一个设备（基于多种标准，包括 Cookie 和用于拼接用户信息的其他行为模式） | 独特访客 | 用户 |
 
-## 2. 界面
+## &#x200B;2. 界面
 
 当人们比较 Adobe Analytics 和 Google Analytics 时，他们认为 Adobe 的界面起初看起来让人望而却步。事实确实是这样的，但信不信由您，这是一个优势而非弱点。Adobe 提供了广泛的工具，实现了更灵活的数据可视化，让您可以更自由地根据需求进行构建。
 
@@ -40,13 +40,13 @@ ht-degree: 100%
 
 Adobe Analytics 和 Google Analytics 均提供了方法，用于自定义用户登录时看到的第一个视图。
 
-##### 2.1.1.1. 工作区/自定义设置主屏幕 (Adobe Analytics)
+##### 2.1.1.1。Workspace/自定义设置主屏幕(Adobe Analytics)
 
 Adobe Analytics 并未打算为所有用户创建在登录时看到的预建报表。默认主页会将用户转到工作区登录屏幕，其中向每位用户显示了他们自己已创建或者已经与他们分享的所有报告。此外，每位用户能够自行选择将任意这些报告设置为其主屏幕。
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
-本指南的后文中将更详细地介绍工作区。 请参见第 2.1.2.1 部分
+本指南的后文中将更详细地介绍工作区。 请参阅部分2.1.2.1
 
 >[!TIP]
 >
@@ -54,7 +54,7 @@ Adobe Analytics 并未打算为所有用户创建在登录时看到的预建报�
 
 
 
-##### 2.1.1.2. 主屏幕洞察 (Google Analytics)
+##### 2.1.1.2。主屏幕分析(Google Analytics)
 
 * Google Analytics 主屏幕为您提供了一些预建的可视化图表。其中涵盖的内容如下：
 * 过去七天内的用户数、会话数、跳出率和会话持续时间
@@ -70,13 +70,13 @@ Adobe Analytics 并未打算为所有用户创建在登录时看到的预建报�
 
 ![google-analytics-interfaces](assets/ga-to-aa_2.png)
 
-这可能是您对 Adobe Analytics 最怀念的一件事。 没有为您预先构建的主屏幕。 但是，您可以轻松设置自定义工作区，以复制上述列表中的所需内容，并将其设置为登录屏幕。 有关此主题的详情见后文（或者参见第 2.1.2.1 部分“Adobe Workspace”）。
+这可能是您对 Adobe Analytics 最怀念的一件事。 没有为您预先构建的主屏幕。 但是，您可以轻松设置自定义工作区，以复制上述列表中的所需内容，并将其设置为登录屏幕。 有关此主题的详情见后文(或参阅第2.1.2.1部分Adobe Workspace)。
 
 #### 2.1.2. 原位 Report Builder
 
 除了分析工具提供的简单报表之外，每个工具还可以提供更强大的功能，用于构建您自己的自定义报表。
 
-##### 2.1.2.1. Adobe Analytics Workspace
+##### 2.1.2.1。Adobe Analytics Workspace
 
 这是 Adobe Analytics 的强大之处，自 2017 年推出以来，它成为了 Analytics 分析的首选之地，以及 Reports 部分很快消失的主要原因。
 
@@ -139,7 +139,7 @@ Adobe Analytics 并未打算为所有用户创建在登录时看到的预建报�
 >
 >要详细了解使用下拉列表以及自由格式的细分，请参阅 <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
 
-##### 2.1.2.2. Google Analytics：仪表板、自定义报告和已保存报告
+##### 2.1.2.2。Google Analytics：功能板、自定义报表和已保存报表
 
 Google 提供了几种工具用于在界面中创建报表，但是它们仍然具有与报表部分相同的显示方式和限制。
 
@@ -155,7 +155,7 @@ Google 仪表板和自定义报告允许您将多个可视化一起提取到一�
 
 Google 和 Adobe 均有一些可导航的报表，它们是基于某个维度的预建表和基本时间线图。
 
-##### 2.1.3.1. Adobe Analytics 报表
+##### 2.1.3.1。Adobe Analytics报表
 
 Adobe Analytics 也有一个“报告”分区，但为了支持 Analysis Workspace，该分区正在逐步取消。 事实上, 由于“工作区”是一个功能更强大的工具，因此该界面已宣布终止使用。 这些表中的大多数都可以更容易地构建和修改。Adobe 的这些部分划分得更加细致，这可能会让人望而生畏：
 
@@ -175,7 +175,7 @@ Adobe Analytics 也有一个“报告”分区，但为了支持 Analysis Worksp
 
 “流量源”、“促销活动”和“营销渠道”报告类似于 Google 产品中的“客户获取”报告。流量源侧重于实际反向链接，促销活动侧重于您的促销活动代码，而营销渠道也侧重于促销活动代码，但还应用了您确定的如何处理信息的逻辑。Adobe 在如何设置规则方面提供了更多自主权。 相比之下，Google 为您设置很多规则，这是思维的转变。 默认情况下，Google 的活动代码属性为六个月。 默认情况下，Adobe 的属性设置为一周。 此项可以在您的管理设置中更改，但在工作区中，您实际上可在任意维度上应用自定义的归因，这为您提供了更大的“实时”灵活性。
 
-“访客维系”和“访客个人资料”报表类似于 Google Analytics 中的“受众”报表。维系更多地侧重于回访频率，而访客个人资料更多地侧重于用户的地理位置和技术。
+“访客维系”和“访客轮廓”报表类似于 Google Analytics 中的“受众”报表。维系更多地侧重于回访频率，而访客轮廓更多地侧重于用户的地理位置和技术。
 
 自定义转化和自定义流量报告都是自定义维度报告。 转化是 eVar。 您可以将自定义过期时间设置为“点击”、“访问”、“月”和“年”等值。 除非被覆盖，否则该值在配置的时间范围内对用户保持持久性。 流量变量属于 props。您还可以为“路径报告”设置这些变量，或设置为根据您选择的分隔符踹分多个值的列表项。
 
@@ -185,13 +185,13 @@ Adobe Analytics 也有一个“报告”分区，但为了支持 Analysis Worksp
 
 “书签”部分类似于自定义报表，可以在报表界面中为经常使用的报表添加书签，这样就更容易找到它们。
 
-“功能板”是旧版产品，允许用户将数据的小型报表组合到一个可视化中。但是，工作区中的功能（第 2.1.2.1 部分）使用起来要容易得多，以至于它仅作为旧版报表的访问点存在，在此功能失效之前应该重新构建这些报表。
+“功能板”是旧版产品，允许用户将数据的小型报表组合到一个可视化中。但是，Workspace中的功能（第2.1.2.1部分）使用起来要容易得多，以至于它仅作为旧版报表的访问点存在，在此功能失效之前应该重新构建这些报表。
 
 目标允许人们在特定时间段内根据目标创建报告。 团队监控活动，以查看他们是否有望达到流量目标。
 
 此处的所有报表允许使用多个量度列和维度细分。不过，有时候可视化的简化性以及哪些元素可以相互关联的逻辑可能会让人摸不着头脑。
 
-##### 2.1.3.2. Google Analytics 报表
+##### 2.1.3.2。Google Analytics报表
 
 Google Analytics 将这些报表拆分为以下部分：“实时”、“受众”、“客户获取”、“行为”和“对话”（在 GA3 中），并分为“生命周期”（包括以下子部分：“客户获取”、“参与”、“盈利”和“维系”）以及“用户”（包括以下子部分：“人口统计”和“技术”）。
 
@@ -223,7 +223,7 @@ Report Builder 是 Microsoft® Excel 的一个插件，允许您创建与 Adobe 
 
 需要注意的是，API 仍会按照拉取请求中的指定，应用细分和区段来拉入关联数据。
 
-Adobe 的工作区（第2.1.2.1节）使用 API 构建报告，如果在工作区中启用调试模式，它会显示所使用的确切 API 调用。这是构建 API 调用的快速方法。 通过使用工作区构建和验证要提取的数据，然后使用这些 API 调用将数据取出来供您自行处理。
+Adobe的Workspace（第2.1.2.1部分）使用API构建报表，如果在Workspace中启用调试模式，它会显示所使用的确切API调用。 这是构建 API 调用的快速方法。 通过使用工作区构建和验证要提取的数据，然后使用这些 API 调用将数据取出来供您自行处理。
 
 
 #### 2.2.3. Google Analytics Data Studio
@@ -238,7 +238,7 @@ Adobe 的工作区（第2.1.2.1节）使用 API 构建报告，如果在工作�
 对于我自己使用，在需要从 Google Analytics 中以扩展方式拉取数据时，我个人的首选工具是 Google Spreadsheet Extension。尽管我需要与 GA 表建立多个连接，但我可以从原始数据中引用单元格并构建所需的报告。 然后，我使用 Google 电子表格的绘图功能将它们绘制为可视化图表。
 
 
-## 3. 原始数据导出
+## &#x200B;3. 原始数据导出
 
 当您真正需要原始数据时，Adobe 和 Google 都提供了以这种方式提取信息的功能。
 
@@ -259,7 +259,7 @@ Adobe 的工作区（第2.1.2.1节）使用 API 构建报告，如果在工作�
 
 然而，这不是提供完整的原始数据转储，而是允许工程师通过 SQL 查询访问数据，以提取目标原始数据或所有原始数据列。
 
-## 4. 结论
+## &#x200B;4. 结论
 
 与任何系统一样，需要练习才能熟悉该工具。 希望本指南能够帮助您开始使用 Adobe Analytics，或者提供一些技巧来提高您对 Adobe Analytics 的使用。
 
@@ -267,7 +267,7 @@ Adobe 的工作区（第2.1.2.1节）使用 API 构建报告，如果在工作�
 
 在本指南之外，还有许多资源可帮助您改进策略：
 
-* [Adobe Experience League](https://experienceleague.adobe.com/zh-hans#home) – 包含教程、视频、文档和社区论坛
+* [Adobe Experience League](https://experienceleague.adobe.com/#home) – 包含教程、视频、文档和社区论坛
 * [Adobe 用户组](https://analytics-augs.adobe.com/) – 一个社区活动中心，帮助用户相互联系并改进其实施。
 * [Adobe Analytics 用户组 YouTube 频道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) – 无法进行 Adobe Analytics 用户组会话？ 重新观看以前在全球范围内的用户组会议，以了解更多关于您的同行如何使用该工具的信息。
 * [Measure Chat Slack 频道](https://www.measure.chat/) – 与世界各地的 Adobe Analytics 用户联系，分享行业知识，向同行提问，并加入以量度为重点的兴趣小组。

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何通过创建行为的热图[!UICONTROL 可视化图表]，将您的时间划分分析提升到新的水平。
 
->[!VIDEO](https://video.tv.adobe.com/v/35170/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)

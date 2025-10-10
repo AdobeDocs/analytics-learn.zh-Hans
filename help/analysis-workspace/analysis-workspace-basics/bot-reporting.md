@@ -20,6 +20,6 @@ ht-degree: 52%
 
 了解如何在Analysis Workspace中报告机器人数据。 可作为摘要数据获得机器人数据，并可在支持机器人的报表包中分析机器人数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447647/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html)。

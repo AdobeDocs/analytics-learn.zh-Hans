@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在 Analysis Workspace 中应用自定义日期范围为任何量度创建月度和年度趋势“比较”。
 
->[!VIDEO](https://video.tv.adobe.com/v/37186/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12&learn=on)

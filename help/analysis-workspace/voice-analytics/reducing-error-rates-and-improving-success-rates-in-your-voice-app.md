@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何使用[!UICONTROL 流失率]、成功率和错误率以及回退意图等功能找到语音应用程序需改进的方面。
 
->[!VIDEO](https://video.tv.adobe.com/v/327674/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=12&learn=on)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 在移动设备上查看分析时，使用正确的可视化图表比以往任何时候都更加重要。 在本视频中，了解如何将可视化图表添加到移动记分卡项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445776/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解在 Adobe Analytics 中使用 Advertising Cloud 数据时创建的有用自定义量度。
 
->[!VIDEO](https://video.tv.adobe.com/v/40949/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/35119/?quality=12&learn=on)

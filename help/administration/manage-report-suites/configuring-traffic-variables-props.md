@@ -19,6 +19,6 @@ ht-degree: 100%
 
 本视频介绍 Analytics Admin Console 中流量变量的配置（通常称为“props”）。
 
->[!VIDEO](https://video.tv.adobe.com/v/342179/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/339441/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=zh-Hans)。

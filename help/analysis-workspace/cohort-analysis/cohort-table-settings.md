@@ -21,7 +21,7 @@ ht-degree: 46%
 
 了解如何使用同类群组表设置自定义保留或流失表的视图。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430096/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
 利用[!UICONTROL 同类群组表]的自定义设置，可以：
 

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 您可以使用维恩图可视化图表在 Analysis Workspace 中直观地显示区段的重叠和交集。 只需几秒钟，即可轻松创建令人惊叹且富有洞察力的维恩图。 本视频向您说明如何做到这一点。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416880/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12&learn=on)
 
 有关此功能的更多信息，请转至[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hans)。

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何使用 Web SDK 为内部搜索词跟踪用例实施 Analytics 变量。 查看从页面到 Experience Edge 再到 Adobe Analytics 的数据流。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413455/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/333605/?quality=12&learn=on)

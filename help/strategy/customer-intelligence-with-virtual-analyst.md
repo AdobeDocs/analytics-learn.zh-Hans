@@ -79,7 +79,7 @@ Analytics 具有挑战性且耗时，但仍需要不断缩减获得洞察所用�
 * 活动终止——收入每天增加 170 万美元，其主要原因是因为活动提前结束。
 * 供应商错误——由于标记管理器错误导致自动从购物车中删除某些产品，购物车减货量增加了73%。
 * 浏览器问题——与 Chrome 浏览器相关的购物车放弃量增加 8%。这一修复措施使每日收入增加 120 万美元。
-* 优惠券欺诈——发现两个主要的每日促销/优惠券网站推广欺诈性的洗漱用品优惠券，以此方式引流使订单激增 81%。 这些订单可以取消。
+* 产品建议券欺诈——发现两个主要的每日促销/产品建议券网站推广欺诈性的洗漱用品产品建议券，以此方式引流使订单激增 81%。 这些订单可以取消。
 * 公司间谍活动——主要竞争对手创建的机器人/爬虫程序将网站内容刮出以便重用，导致访问量增加了 200%。这些 IP 能够被封锁。
 
 ## Adobe Analytics 的功能 
@@ -126,4 +126,4 @@ Analytics 具有挑战性且耗时，但仍需要不断缩减获得洞察所用�
 
 有关详细信息，请观看我们的[网络研讨会](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)。
 
-在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hans)中心详细了解战略和思想领导力。
+在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心详细了解战略和思想领导力。

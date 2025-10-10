@@ -41,4 +41,4 @@ ht-degree: 100%
 
 有关详细信息，请观看下方的视频。
 
->[!VIDEO](https://video.tv.adobe.com/v/40898/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)

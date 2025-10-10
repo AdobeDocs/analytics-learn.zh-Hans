@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL Intelligent Alerts]将[!UICONTROL 异常检测]功能直接置于收件箱中或手机上。 即时获知关键量度和区段的重大变化意味着不会错过任何机会。
 
->[!VIDEO](https://video.tv.adobe.com/v/40926/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12&learn=on)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=zh-Hans)。

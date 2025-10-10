@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何在 Adobe Analytics Admin Console 中完成“付费搜索检测”部分的配置，包括一些建议。
 
->[!VIDEO](https://video.tv.adobe.com/v/343275/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=zh-Hans#section_0C2CFA0AF77B47098BE37CB024665D0D)。

@@ -18,10 +18,10 @@ ht-degree: 100%
 
 筛选器可让您更好地控制在[!DNL freeform table]中共享哪些数据行。
 
->[!VIDEO](https://video.tv.adobe.com/v/327360/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
 
 在 Analysis Workspace 中，我们现在通过 11 个筛选条件和 AND/OR 运算符提供更多筛选控制。
 
-有关可用筛选器的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=zh-Hans)。
+有关可用筛选器的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en)。
 
 **注意：**&#x200B;高级特殊字符在 Analysis Workspace 中不可用。

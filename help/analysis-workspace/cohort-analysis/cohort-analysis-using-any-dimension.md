@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!UICONTROL 自定义同类群组][!UICONTROL 维度]选项允许您使用时间以外的[!UICONTROL 维度]分析[!UICONTROL 同类群组]。 按营销渠道、活动区域、产品页面等比较[!UICONTROL 同类群组]以更好地了解[!UICONTROL 保留]（或[!UICONTROL 流失]）如何按[!UICONTROL 维度]项目发生变化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430182/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hans)。

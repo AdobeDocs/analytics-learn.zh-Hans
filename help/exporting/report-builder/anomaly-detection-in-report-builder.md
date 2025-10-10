@@ -19,7 +19,7 @@ ht-degree: 100%
 
 了解如何将 [!UICONTROL 异常检测] [!UICONTROL 量度] 添加到您的数据请求，以及如何创造性地绘制数据图表。
 
->[!VIDEO](https://video.tv.adobe.com/v/37461/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12&learn=on)
 
 [!UICONTROL 异常检测] 使用统计建模，自动查找数据中的意外趋势。
 

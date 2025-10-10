@@ -25,6 +25,6 @@ ht-degree: 100%
 
 在本视频中，您将了解如何配置[!UICONTROL 邮政编码]设置，以便能根据此区域数据进行分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/35174/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 有关[!UICONTROL 邮政编码]设置的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=zh-Hans)。

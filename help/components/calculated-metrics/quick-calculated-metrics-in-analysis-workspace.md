@@ -18,4 +18,4 @@ ht-degree: 100%
 
 现在，您可以在 Analysis Workspace 中动态构建[!UICONTROL 计算量度]。  如果要在[!UICONTROL 自由格式表]中用几个[!UICONTROL 指标]快速更改百分比或做除法，则只需从标题中选择这些[!UICONTROL 指标]，然后单击右键并选取所需的运算符。随后将在右侧显示新的[!UICONTROL 计算指标]。
 
->[!VIDEO](https://video.tv.adobe.com/v/41470/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)

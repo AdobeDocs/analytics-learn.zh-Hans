@@ -23,7 +23,7 @@ ht-degree: 100%
 
 此视频介绍如何将[!UICONTROL 使用日志跟踪]用于 [!DNL Workspace] 项目，这样可帮助您更好地了解用户对 Adobe Analytics 的使用情况。
 
->[!VIDEO](https://video.tv.adobe.com/v/32854/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 [!DNL Workspace] 跟踪选项包括：
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 ## 其他资源 {#additional-resources}
 
-* [关于日志的详细信息](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=zh-Hans)
+* [关于日志的详细信息](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [下载演示仪表板](https://adobe.ly/2ygP5ws)
 
 新增功能：我们力争尽快在 [!DNL Analytics] 中用一个简单易用的 UI（并具有更多细节）展示这些信息。

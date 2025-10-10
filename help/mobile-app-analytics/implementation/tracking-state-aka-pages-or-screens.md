@@ -22,6 +22,6 @@ ht-degree: 99%
 
 状态代表应用程序中的屏幕或视图。每次在您的应用程序中显示一个新状态，例如当用户从主页导航到动态信息馈送时，可调用 `trackState` 以送入状态名称（在 [!DNL Analytics] 中为页面名称）以及其他数据。此视频介绍如何这样做。
 
->[!VIDEO](https://video.tv.adobe.com/v/328317/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
 
 有关 trackState 的详细信息，请参阅[文档](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-app-states-and-screens-for-adobe-analytics)。

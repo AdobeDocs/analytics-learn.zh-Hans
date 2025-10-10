@@ -19,6 +19,6 @@ ht-degree: 100%
 
 能够操作进入报表包的数据以根据流入的数据添加或更改数据非常有用。 本视频概述了 Adobe Analytics 中的处理规则，并讨论了其用途。 它还包含一些提示、示例甚至警告。
 
->[!VIDEO](https://video.tv.adobe.com/v/342187/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=zh-Hans)。

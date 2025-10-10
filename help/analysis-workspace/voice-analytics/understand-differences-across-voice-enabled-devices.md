@@ -21,4 +21,4 @@ ht-degree: 100%
 
 学习如何了解各种语音辅助设备的不同性能和功能，以帮助确定产品路线图的优先级。
 
->[!VIDEO](https://video.tv.adobe.com/v/34979/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=12&learn=on)

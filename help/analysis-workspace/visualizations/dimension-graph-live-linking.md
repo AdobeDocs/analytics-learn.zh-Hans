@@ -18,4 +18,4 @@ ht-degree: 100%
 
 我们不知道该怎么称呼这项功能，但它真的太酷了。 当您通过维度值创建折线图时，您现在可以选择不同的维度值并动态地更改图形。观看视频，了解更多信息!
 
->[!VIDEO](https://video.tv.adobe.com/v/327451/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12&learn=on)

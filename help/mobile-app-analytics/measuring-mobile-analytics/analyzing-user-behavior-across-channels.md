@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何使用 [!DNL Flow] 发现用户在移动应用程序中转化的路径并将它与 Web 等其他体验进行比较。定义多步过程并度量其中的转化情况以促使您的移动应用程序取得成功。
 
->[!VIDEO](https://video.tv.adobe.com/v/32087/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12&learn=on)

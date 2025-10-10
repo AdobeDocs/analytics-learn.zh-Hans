@@ -18,8 +18,8 @@ ht-degree: 100%
 
 在[!UICONTROL 可视化图表设置]下，您可以选择将回归或均线趋势线添加到折线图系列，这有助于通过数据描述更清晰的模式。 选项包括“线性”、“对数”、“指数”、“幂”、“二次”和“均线”。
 
->[!VIDEO](https://video.tv.adobe.com/v/342841/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/330176/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=zh-Hans#analysis-workspace)。
 
-如果要导出均线或一次性将多个平均值添加到表中，您可以改为创建计算量度。 在[本视频](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=zh-Hans#analysis-workspace)中了解详情。
+如果要导出均线或一次性将多个平均值添加到表中，您可以改为创建计算量度。 在[本视频](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html#analysis-workspace)中了解详情。

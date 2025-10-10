@@ -23,6 +23,6 @@ ht-degree: 100%
 
 借助 [!DNL Analytics for Target] (A4T) 面板，您可以满怀信心地在 [!UICONTROL Analysis Workspace] 中分析 Adobe Target 活动和体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/326712/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html?lang=zh-Hans)。
+有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html)。

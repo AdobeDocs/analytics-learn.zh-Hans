@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # 简化培训环节并缩短用户的培训时间的提示和技巧
 
->[!VIDEO](https://video.tv.adobe.com/v/341109/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
 确保组织中的商业用户接受过 Adobe Analytics 的良好培训，这对于帮助培养数据驱动的决策文化至关重要。如果用户可以在 Adobe Analytics 中轻松地查找信息，就可以自行解答简单的业务问题，这就让分析人员可以将时间用于解答更具挑战性的业务问题。分享您的知识来帮助推动数据普及化，让商业用户可以更独立地从绩效出发制定决策。
 

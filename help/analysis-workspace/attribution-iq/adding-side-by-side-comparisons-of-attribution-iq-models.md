@@ -22,4 +22,4 @@ ht-degree: 100%
 
 在本视频中，了解如何快速比较 [!DNL Attribution IQ models]，包括一个自动创建的列，该列显示两个模型的数字之间的百分比差异。
 
->[!VIDEO](https://video.tv.adobe.com/v/327797/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12&learn=on)

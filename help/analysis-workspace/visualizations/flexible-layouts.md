@@ -17,4 +17,4 @@ ht-degree: 24%
 
 自由格式分析包括更改图表和表的位置、宽度和高度的功能，使您能够构建更丰富的项目。 本视频说明如何更改版面。
 
->[!VIDEO](https://video.tv.adobe.com/v/41491/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12&learn=on)

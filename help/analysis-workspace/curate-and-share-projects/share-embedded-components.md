@@ -20,6 +20,6 @@ ht-degree: 100%
 
 有时，您需要共享 Analysis Workspace 项目，但您忘记还要与同事共享包含的区段和量度。 本视频说明您现在如何在共享项目的过程中共享区段和量度，以便同事每次都能看到您的意图。
 
->[!VIDEO](https://video.tv.adobe.com/v/3438797/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
 
 有关此功能的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=zh-Hans)。

@@ -17,4 +17,4 @@ ht-degree: 100%
 
 在某些时候，我们都需要 Adobe Analytics 的相关帮助。 本视频向您说明了一些在您遇到意外困难并需要帮助时触手可及的绝佳资源。
 
->[!VIDEO](https://video.tv.adobe.com/v/31229/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12&learn=on)

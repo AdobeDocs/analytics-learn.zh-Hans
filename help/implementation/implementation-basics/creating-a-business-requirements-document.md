@@ -18,7 +18,7 @@ ht-degree: 100%
 
 了解定义您要在 Adobe Analytics 中捕获并分析的行为数据的最重要步骤。 您的业务关于访问者如何使用您的数字财产需要了解哪些方面？首先写下这些要求，然后决定如何使用 Analytics 事件、维度和量度来捕获这些要求。
 
->[!VIDEO](https://video.tv.adobe.com/v/31222/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
 [下载](assets/aa_en_BRD_SDR_template.xlsx)示例 Excel 模板，用以记录数字属性的要求、变量使用和分配、分段和数据收集设计。
 

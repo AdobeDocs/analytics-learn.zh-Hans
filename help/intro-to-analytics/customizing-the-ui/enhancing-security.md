@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解公司设置中的安全管理器设置以控制对 Adobe Analytics 的访问。 这包括强密码、密码过期和恢复功能、IP 登录限制及电子邮件域限制。
 
->[!VIDEO](https://video.tv.adobe.com/v/40795/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12&learn=on)

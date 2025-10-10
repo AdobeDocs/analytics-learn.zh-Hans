@@ -21,6 +21,6 @@ ht-degree: 100%
 
 要成为体验式业务，数据驱动营销至关重要。将您的分析成熟度提升到一个新的水平 - 从数据到洞察再到行动。
 
->[!VIDEO](https://video.tv.adobe.com/v/35528/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
 
 了解 Adobe 可如何帮助您从各个角度了解您的客户：[https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)

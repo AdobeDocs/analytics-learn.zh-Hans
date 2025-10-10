@@ -18,6 +18,6 @@ ht-degree: 100%
 
 在本视频中，了解如何通过将区段应用于数据来限制表和可视化图表中的数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/33231/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html)。

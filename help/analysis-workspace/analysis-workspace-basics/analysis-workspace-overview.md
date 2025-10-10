@@ -18,4 +18,4 @@ ht-degree: 100%
 
 获得 Analysis Workspace 的高级概述，包括项目创建和模板、面板、可视化图表、维度、量度、区段和高价值功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/35509/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/26266/?quality=12&learn=on)

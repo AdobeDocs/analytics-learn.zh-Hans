@@ -10,7 +10,7 @@ exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 23%
+ht-degree: 27%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 23%
 
 了解可放入Analysis Workspace项目中的各种可视化图表或类型，帮助您讲述数据故事。
 
->[!VIDEO](https://video.tv.adobe.com/v/37489/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
 
 作为视频的回顾，以下是基于要对数据执行哪种分析而添加到项目中的一些可视化图表类别和建议的可视化图表。 如视频中所述，这些都不是一项硬而快速的规则，而是在您习惯不同的可视化图表时为您提供的一些建议：
 
@@ -49,9 +49,9 @@ ht-degree: 23%
 <td style="vertical-align: top;">
 
 * 自由格式表
-* 关键指标摘要
+* 关键量度摘要
 * 摘要数字
-* 概要变化
+* 摘要变化
 
 </td>
 </tr>
@@ -63,8 +63,8 @@ ht-degree: 23%
 
 * 条形图
 * 水平条形图
-* 堆叠的条形图
-* 栈叠的水平条形图
+* 条形图堆叠
+* 堆叠的水平条形图
 * 自由格式表
 * 带有条件格式的自由格式表
 * 组合图表
@@ -156,4 +156,4 @@ ht-degree: 23%
 
 </table>
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)。

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 “快速区段”是直接在 Workspace 画布中进行的简化分段体验。快速区段允许用户最多使用三个规则构建即时区段，而无需离开您的分析工作流。
 
->[!VIDEO](https://video.tv.adobe.com/v/345335/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/341466/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=zh-Hans)。

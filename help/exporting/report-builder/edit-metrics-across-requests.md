@@ -19,7 +19,7 @@ ht-degree: 81%
 
 您现在可以使用添加、替换和删除选项，一次性编辑跨多个 [!UICONTROL Report Builder] 数据请求的[!UICONTROL 量度]。
 
->[!VIDEO](https://video.tv.adobe.com/v/38009/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
 除了现有功能之外，此功能用于跨请求编辑 [!UICONTROL 报告包]、[!UICONTROL 日期范围]、[!UICONTROL 粒度] 和 [!UICONTROL 区段]。 可以从右键单击菜单或“管理”窗口中的“[!UICONTROL 编辑多个]”批量编辑请求。
 

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 在本视频中，了解如何自行保存和导出项目、将项目发送给其他收件人以及邀请其他人就您的项目进行协作。
 
->[!VIDEO](https://video.tv.adobe.com/v/33230/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html)。

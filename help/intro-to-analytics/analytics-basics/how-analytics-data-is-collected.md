@@ -17,4 +17,4 @@ ht-degree: 100%
 
 数据如何从您的页面进入 Adobe Analytics 中的报告？此视频介绍此过程。
 
->[!VIDEO](https://video.tv.adobe.com/v/31232/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12&learn=on)

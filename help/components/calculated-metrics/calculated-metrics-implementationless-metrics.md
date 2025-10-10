@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Analytics 中创建新的[!UICONTROL 量度]而不更改您的实施。
 
->[!VIDEO](https://video.tv.adobe.com/v/37926/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12&learn=on)

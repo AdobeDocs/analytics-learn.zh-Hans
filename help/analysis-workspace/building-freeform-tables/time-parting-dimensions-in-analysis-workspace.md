@@ -18,6 +18,6 @@ ht-degree: 100%
 
 [!DNL Time-parting]会采用所收集的点击量的时间戳，并将其划分为更有意义的维度，例如“每天时间”或“每周时间”。 Analysis Workspace 中提供这些维度。
 
->[!VIDEO](https://video.tv.adobe.com/v/41460/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=zh-Hans)。

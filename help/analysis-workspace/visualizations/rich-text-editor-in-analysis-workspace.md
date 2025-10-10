@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解可让分析人员和营销人员对 Analysis Workspace 中的文本可视化图表（或描述）进行编辑的功能：粗体、斜体、标题、超链接等。
 
->[!VIDEO](https://video.tv.adobe.com/v/328062/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)

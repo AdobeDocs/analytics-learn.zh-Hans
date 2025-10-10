@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL HomeDepot.com] 是一家市值 1000 亿美元的公司内的一个市值 70 亿美元的电子商务网站，它通过确保客户体验正确无误而在竞争中保持领先。了解 [!DNL Home Depot] 如何使用 Adobe 解决方案，通过个性化、自定义的购物体验创造品牌忠诚度和客户满意度。
 
->[!VIDEO](https://video.tv.adobe.com/v/35526/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12&learn=on)

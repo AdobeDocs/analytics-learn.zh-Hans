@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何在 Analysis Workspace 中复制和插入面板和可视化图表。 这些是改进当前项目或在新项目上抢先一步的省时技巧。
 
->[!VIDEO](https://video.tv.adobe.com/v/37457/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)

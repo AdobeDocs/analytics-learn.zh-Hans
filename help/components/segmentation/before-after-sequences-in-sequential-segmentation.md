@@ -18,6 +18,6 @@ ht-degree: 100%
 
 本视频说明如何在 Adobe Analytics 中进行[!UICONTROL 分段]，以便仅获取特定用户路径之前或之后的数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/37640/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12&learn=on)
 
 有关此主题的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=zh-Hans)。

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 在本视频中，了解如何配置用于控制搜索引擎、搜索关键词以及其他查找方法报表和组件如何对待转化事件归因的设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412927/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html)。

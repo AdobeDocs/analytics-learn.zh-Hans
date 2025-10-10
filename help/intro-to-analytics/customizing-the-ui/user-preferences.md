@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何在 [!DNL Analysis Workspace] 中更改和自定义用户偏好设置。 这包括默认的常规设置、显示和数据偏好设置，以及切换用户界面主题。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429988/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/332600/?quality=12&learn=on)

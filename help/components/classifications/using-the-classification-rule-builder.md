@@ -14,10 +14,11 @@ source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 100%
+
 ---
 
 # 使用 Adobe Analytics 中的[!UICONTROL 分类规则生成器] {#using-the-classification-rule-builder-in-adobe-analytics}
 
 了解如何使用[!UICONTROL 分类规则生成器]在 Adobe Analytics 中自动应用基于规则的[!UICONTROL 分类]。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434381?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12&learn=on)

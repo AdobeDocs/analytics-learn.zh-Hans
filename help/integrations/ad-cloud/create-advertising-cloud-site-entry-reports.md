@@ -19,4 +19,4 @@ ht-degree: 100%
 
 创建 Advertising Cloud 站点登入报告，以监测每周的某天、每天的某个时间、浏览器和地理影响。
 
->[!VIDEO](https://video.tv.adobe.com/v/40951/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/35120/?quality=12&learn=on)

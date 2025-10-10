@@ -18,6 +18,6 @@ ht-degree: 100%
 
 本视频说明如何在 Analysis Workspace 中添加和配置汇总数字和汇总变更可视化图表。 这些可视化图表为您提供了一个很大的数字，以便您能够在每个人都能看到的位置显示您最重要的量度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416886/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html)。

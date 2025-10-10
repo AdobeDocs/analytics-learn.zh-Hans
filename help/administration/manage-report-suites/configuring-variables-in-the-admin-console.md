@@ -19,5 +19,5 @@ ht-degree: 0%
 
 了解如何在报表包管理器中配置变量和事件，确保报表、维度和量度具有正确的名称和行为。
 
->[!VIDEO](https://video.tv.adobe.com/v/31220/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
 

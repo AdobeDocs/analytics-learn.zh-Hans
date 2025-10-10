@@ -22,4 +22,4 @@ ht-degree: 84%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=zh-Hans#dynamic-drop-down-filters)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters)。

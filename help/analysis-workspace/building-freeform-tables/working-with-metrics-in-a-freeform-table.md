@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解在自由格式表（位于 Analysis Workspace 中）中可以使用量度的各种方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/328561/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/40817/?quality=12&learn=on)

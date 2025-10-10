@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Adobe Analytics 用户只需要对正确数据的访问权限。 了解如何使用 [!UICONTROL Admin Console]，以确保用户只能访问其角色所必需的报表包。 执行 [Adobe Admin Console](https://adminconsole.adobe.com/) 中的这些快速步骤，在您的组织中创建特定于报表包的产品配置文件。
 
->[!VIDEO](https://video.tv.adobe.com/v/327036/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)

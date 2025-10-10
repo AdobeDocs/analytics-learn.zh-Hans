@@ -17,7 +17,7 @@ ht-degree: 99%
 
 # 您问的问题是否有效？
 
->[!VIDEO](https://video.tv.adobe.com/v/346455/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
 _所有这些_。这是利益相关者对以下问题最常见的答案之一：_您希望跟踪哪些数据？_&#x200B;识别和收集&#x200B;_可操作数据点_&#x200B;会比记录每个元素更有价值。有效地确定这些数据点需要一个基本规划以及与利益相关者进行富有创意的讨论。
 

@@ -17,6 +17,6 @@ ht-degree: 94%
 
 了解如何根据区段创建计算指标，以使您可更有效地分析属于该区段的访客数、访问次数和页面查看次数。
 
->[!VIDEO](https://video.tv.adobe.com/v/37925/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html)。

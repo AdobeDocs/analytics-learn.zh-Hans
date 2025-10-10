@@ -21,6 +21,6 @@ ht-degree: 100%
 
 在本视频中，您将了解如何使用 Analysis Workspace 项目的构建基块，即面板、表和可视化图表。 这些元素是用于为数据绘图的画布。
 
->[!VIDEO](https://video.tv.adobe.com/v/33234/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12&learn=on)
 
 有关更多信息，请访问[面板](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=zh-Hans)和[可视化图表](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=zh-Hans)的文档。

@@ -1,6 +1,6 @@
 ---
 title: 在计算量度中使用维度
-description: Dimension在计算指标生成器中可用，并且可添加到任何计算指标公式中，以将新指标限制为某个维度或维度值。
+description: 维度在计算量度生成器中可用，并且可添加到任何计算量度公式中，以将新量度限制为维度或维度值。
 feature: Calculated Metrics
 kt: 1904
 role: User
@@ -15,9 +15,9 @@ ht-degree: 22%
 
 # 在计算量度中使用维度 {#using-dimensions-in-calculated-metrics}
 
-Dimension在计算指标生成器中可用，并且可添加到任何计算指标公式中，以将新指标限制为某个维度或维度值。
+维度在计算量度生成器中可用，并且可添加到任何计算量度公式中，以将新量度限制为维度或维度值。
 
->[!VIDEO](https://video.tv.adobe.com/v/37466/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
 此功能简化了计算量度中创建和使用区段的工作流。
 

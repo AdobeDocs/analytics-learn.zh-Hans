@@ -14,7 +14,7 @@ ht-degree: 39%
 
 ---
 
-# 在Experience Platform[!DNL tags]中为购买事件添加规则
+# 在Experience Platform [!DNL tags]中为购买事件添加规则
 
 本视频演示了如何在 [!DNL Experience Platform Launch] 中使用产品字符串 [!UICONTROL 扩展] 来跟踪网站上的购买情况，从而通过分析得出[!UICONTROL 收入]、[!UICONTROL 订单]和[!UICONTROL 单位] [!UICONTROL 量度]。
 
@@ -22,4 +22,4 @@ ht-degree: 39%
 >
 > Launch 现在改名为 **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/31207/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12&learn=on)

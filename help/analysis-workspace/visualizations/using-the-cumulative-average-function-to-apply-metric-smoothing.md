@@ -18,4 +18,4 @@ ht-degree: 100%
 
 量度趋势所在的时段越长，就越难判断量度的定向趋势。 要解决此问题，可以使用计算量度中的累积平均函数对 Analysis Workspace 中的量度应用平滑。
 
->[!VIDEO](https://video.tv.adobe.com/v/35005/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 观看从 [!DNL Summit] 2019 上的零售业“超级讲座”精选的视频片段
 
->[!VIDEO](https://video.tv.adobe.com/v/330387/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12&learn=on)

@@ -1,5 +1,5 @@
 ---
-title: 使用 A4T 面板分析自动定位活动
+title: 使用 A4T 面板分析自动锁定活动
 description: 通过 Analytics for Target (A4T) 面板，可分析您的 Adobe Target 活动和体验。 在本视频中，您将了解如何使用 Analytics for Target 面板可视化自动定位测试的结果。
 feature: Experience Cloud Integration
 topic: Integrations
@@ -16,10 +16,10 @@ ht-degree: 100%
 
 ---
 
-# 使用 A4T 面板分析自动定位活动
+# 使用 A4T 面板分析自动锁定活动
 
-通过 [!DNL Analytics for Target] (A4T) 面板，可分析您的 Adobe Target 活动和体验。 在本视频中，您将了解如何使用 [!DNL Analytics for Target] 面板可视化自动定位测试的结果。
+通过 [!DNL Analytics for Target] (A4T) 面板，可分析您的 Adobe Target 活动和体验。 在本视频中，您将了解如何使用 [!DNL Analytics for Target] 面板可视化自动锁定测试的结果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412966/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
 
 有关 Analytics for Target 的更多信息，请参阅此 [Spark 页面](https://spark.adobe.com/page/Lo3Spm4oBOvwF/)。

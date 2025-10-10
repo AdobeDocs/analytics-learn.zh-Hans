@@ -22,6 +22,6 @@ ht-degree: 11%
 
 了解如何向用户共享只读Workspace Analysis项目，并了解可用于此权限级别的功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/40058/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
-有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html?lang=zh-Hans)。
+有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)。

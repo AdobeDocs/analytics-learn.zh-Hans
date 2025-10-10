@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!UICONTROL 同类群组表]中的[!UICONTROL 延迟表]设置允许您分析包含事件之前和之后的[!UICONTROL 同类群组]行为（不仅仅是在标准[!UICONTROL 同类群组]描述之后）。 例如，此设置有助于分析新产品或活动发布的影响。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430189/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hans)。

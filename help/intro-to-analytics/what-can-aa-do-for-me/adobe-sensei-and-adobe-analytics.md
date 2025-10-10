@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL Adobe Sensei] 让 Adobe Analytics 更加智能，并且帮助营销人员获得关于其客户的有意义的见解。此视频包括 Adobe Analytics 中受 [!DNL Adobe Sensei] 支持的主要功能（包括 A[!UICONTROL Anomaly Detection]、[!UICONTROL Contribution Analysis]、[!UICONTROL Intelligent Alerts]、Clustering、[!UICONTROL Segment IQ] 和 Propensity Modeling）的额外解释。
 
->[!VIDEO](https://video.tv.adobe.com/v/35529/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12&learn=on)
 
 可在[此处](https://www.adobe.com/cn/sensei.html)详细了解 [!DNL Adobe Sensei]。

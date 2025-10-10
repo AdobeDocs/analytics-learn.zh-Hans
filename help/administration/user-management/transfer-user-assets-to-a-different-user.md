@@ -19,4 +19,4 @@ ht-degree: 100%
 
 使用“用户管理”页面的“管理报表用户和群组”可管理用户和群组，以及控制对报表、工具和报表包的访问。 您可以通过 Adobe Analytics 中的用户管理将用户帐户项（例如，功能板、日历活动和书签）从一个用户帐户分配到另一个用户帐户。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418511/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335745/?quality=12&learn=on)

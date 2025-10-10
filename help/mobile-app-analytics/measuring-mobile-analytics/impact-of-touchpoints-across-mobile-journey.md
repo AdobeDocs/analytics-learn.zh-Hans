@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解移动应用程序用户如何受接触点影响并了解哪些渠道使用 [!DNL Attribution IQ] 对您的移动应用程序产生实质性影响。了解哪些渠道共同发挥作用，从而在您的移动应用程序中推进成功事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/32093/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12&learn=on)

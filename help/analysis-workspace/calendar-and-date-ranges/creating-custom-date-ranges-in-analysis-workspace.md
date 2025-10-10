@@ -18,6 +18,6 @@ ht-degree: 100%
 
 在 Analysis Workspace 中配置和自定义项目时，您可能需要使用产品中预建的日期范围以外的日期范围。 本视频说明如何创建三个自定义日期范围示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/327425/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=zh-Hans)。

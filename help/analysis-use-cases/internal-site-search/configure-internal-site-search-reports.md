@@ -19,4 +19,4 @@ ht-degree: 100%
 
 在 Analysis Workspace 中创建和配置自由格式表以便分析您站点上的内部搜索功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413469/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/333607/?quality=12&learn=on)

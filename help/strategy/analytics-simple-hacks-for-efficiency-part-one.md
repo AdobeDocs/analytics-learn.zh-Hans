@@ -9,7 +9,7 @@ exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '711'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -47,11 +47,11 @@ Analytics 团队发现，由于各种原因，他们的生产力和效率都在�
 
    **技术规范**
 
-   _用例：_&#x200B;描述如何构造数据收集脚本的说明
+   描述如何构造数据收集脚本的用例&#x200B;:_说明(_U)
 
-   _主要用户：_&#x200B;开发人员
+   主要用户&#x200B;:_开发人员(_P)
 
-   _其他注释：_
+   其他注释(_O):_
 
    * 专门为您的部署环境构建的技术含量很高的文档
    * 对初始实施和后续维护/参考都很有用
@@ -74,11 +74,11 @@ Analytics 团队发现，由于各种原因，他们的生产力和效率都在�
 
    Analytics Health Dashboard (AHD)：
 
-   _用例：_&#x200B;单个报告包捕获的每个量度和维度的快照
+   用例&#x200B;:_单个报表包捕获的每个量度和维度的快照(_U)
 
-   _主要用户：_&#x200B;领导 Analytics SME 和/或开发人员
+   主要用户&#x200B;:_领导Analytics SME和/或开发人员(_P)
 
-   _其他注释：_
+   其他注释(_O):_
    * 使用 Adobe 报告 API 的自定义集成通过 Excel 交付
    * 用户必须具有 Analytics 网页服务 API 的访问权限
    * 存在半自动化选项
@@ -89,4 +89,4 @@ Analytics 团队发现，由于各种原因，他们的生产力和效率都在�
    * 通过帮助社交发布和获胜来建立他们的影响力
    * 利用正常的办公时间帮助培训师，减少临时要求
 
-在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hans)中心详细了解战略和思想领导力。
+在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心详细了解战略和思想领导力。

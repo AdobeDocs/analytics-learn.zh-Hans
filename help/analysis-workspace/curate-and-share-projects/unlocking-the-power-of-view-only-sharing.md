@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # 在Analysis Workspace中解锁只读共享的强大功能
 
-了解如何以“只读”形式共享AdobeAnalysis Workspace项目以创建具有干净的用户界面和预定义筛选选项的面向执行官的仪表板报表，以及“移动记分卡”如何简化与旅途中的执行官共享数字体验KPI。
+了解如何以“只读”形式共享Adobe Analysis Workspace项目以创建具有干净的用户界面和预定义筛选选项的面向执行官的仪表板报表，以及“移动记分卡”如何简化与旅途中的执行官共享数字体验KPI。
 
 与同事共享Adobe Analytics Workspace项目是Analytics用于做出更好业务决策的重要用途。 我们可以与其他用户共享项目，以获取“编辑原件”、“编辑副本”和“只读”访问权限。 大多数情况下，我们可能共享具有编辑原始项目或编辑副本访问权限的项目，以便我们可以协作更新项目，或者其他用户可以将项目复制为自己的项目以进行进一步更新。 但是，有时只读共享是超出访问权限名称所建议的访问控制范围的一个非常好的共享选项。
 
@@ -47,6 +47,6 @@ ht-degree: 1%
 
 ![刘銮雄](assets/leo_headshot.png)
 
-**Leo Lau**，Director，MarTech亚洲区负责人
+**Leo Lau**，MarTech亚洲区主管
 
 Adobe Analytics 负责人

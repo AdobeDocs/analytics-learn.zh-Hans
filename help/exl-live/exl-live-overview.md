@@ -93,4 +93,4 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 >[!TIP]
 >
->如需了解更多学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)和各个[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需了解更多学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)和各个[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。

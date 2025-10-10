@@ -18,4 +18,4 @@ ht-degree: 100%
 
 在 Adobe Analytics 中使用区段对数据进行切片和切块。 本视频向您介绍区段生成器并提供基本概述。
 
->[!VIDEO](https://video.tv.adobe.com/v/37411/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)

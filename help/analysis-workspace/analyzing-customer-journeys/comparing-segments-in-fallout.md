@@ -22,6 +22,6 @@ ht-degree: 100%
 
 本视频说明如何在 Analysis Workspace 中比较各个区段的关键工作流。
 
->[!VIDEO](https://video.tv.adobe.com/v/328033/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=zh-Hans)。

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何使用 Experience Platform 在每个页面上为要发送到 Adobe Analytics 的数据点设置全局页面规则[!DNL tags]。
 
->[!VIDEO](https://video.tv.adobe.com/v/31212/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)
