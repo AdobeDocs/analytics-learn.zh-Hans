@@ -34,7 +34,7 @@ ht-degree: 79%
 
 **其次**，如果您执行本视频中的步骤，则需了解您可以[使用自由格式表生成器](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)来设置表。
 
-* 3:20 — 交叉表维度在删除时自动动态变化，这意味着其值会随着时间的推移而改变。 对于此分析，最好是改为引入静态列。 在视频的6:33处了解有关动态列的详细信息：自由格式表中的行和列设置[](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-* 4:30 — 现在可以批量更新列设置，而不是逐个更新。 在视频的8:45了解详情：自由格式表中的行和列设置[](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 3:20 — 交叉表维度在删除时自动动态变化，这意味着其值会随着时间的推移而改变。 对于此分析，最好是改为引入静态列。 在视频的6:33处了解有关动态列的详细信息：自由格式表中的行和列设置[&#128279;](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 4:30 — 现在可以批量更新列设置，而不是逐个更新。 在视频的8:45了解详情：自由格式表中的行和列设置[&#128279;](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 有关此主题的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html)。
