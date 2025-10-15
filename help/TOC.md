@@ -376,7 +376,7 @@ ht-degree: 88%
       + [对 Power BI 使用 Report Builder 高级投放选项](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + 集成 {#integrations}
    + Experience Cloud {#experience-cloud}
-      + [已改进 Experience Cloud 受众发布 ](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
+      + [已改进 Experience Cloud 受众发布 &#x200B;](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [在 Experience Platform Launch 中启用服务器端转发](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics — 将 AAM 区段集成到 Analytics 中](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
