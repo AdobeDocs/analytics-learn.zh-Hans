@@ -22,4 +22,4 @@ ht-degree: 11%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics/components/classifications/sets/overview){target="_blank"}。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics/components/classifications/sets/overview){target="_blank"}。
