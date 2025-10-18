@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何使用 Analysis Workspace 中的左边栏来查找、创建项目并将其添加到自由格式表。
 
->[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475918/?captions=chi_hans&quality=12&learn=on)

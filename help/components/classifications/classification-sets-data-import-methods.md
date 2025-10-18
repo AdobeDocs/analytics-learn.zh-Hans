@@ -20,6 +20,6 @@ ht-degree: 11%
 
 了解使用分类集导入分类数据的不同方法以及一些相关用例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475838/?captions=chi_hans&learn=on&enablevpops)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics/components/classifications/sets/overview){target="_blank"}。
