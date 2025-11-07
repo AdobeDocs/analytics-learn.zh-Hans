@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Adobe Analytics中的虚拟报表包 {#virtual-report-suites-in-adobe-analytics}
 
-Adobe Analytics允许您为您的用户创建“虚拟报表包”，从而对您的数据进行分段并将用户/组限制为仅允许的数据区段。 本视频向您说明如何创建和使用虚拟报表包。 有关详细文档，请访问[虚拟报表包概述](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html){target="_blank"}。
+Adobe Analytics允许您为您的用户创建“虚拟报表包”，从而对您的数据进行分段并将用户/组限制为仅允许的数据区段。 本视频向您说明如何创建和使用虚拟报表包。 有关详细文档，请访问[虚拟报表包概述](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=zh-Hans){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12&learn=on)
 
