@@ -18,4 +18,4 @@ ht-degree: 100%
 
 此视频帮助您了解[!UICONTROL 报告包]是什么，并介绍如何在界面中创建它们，以使您可跟踪和优化访问您网站的流量。
 
->[!VIDEO](https://video.tv.adobe.com/v/31228/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12&learn=on)

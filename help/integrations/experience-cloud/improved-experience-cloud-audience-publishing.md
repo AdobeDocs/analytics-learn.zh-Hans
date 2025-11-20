@@ -24,9 +24,9 @@ ht-degree: 100%
 
 Experience Cloud 的受众发布功能得到增强。 如今，发布受众（[!UICONTROL 区段]）并成为可用受众的过程提速 6 倍，延迟时间由当前的 48 小时缩短为约 8 小时，而且速度有可能还会更快，具体情况取决于流量和[!UICONTROL 区段]的大小。
 
->[!VIDEO](https://video.tv.adobe.com/v/36689/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12&learn=on)
 
 此外，可一次性发布的[!UICONTROL 区段]数量已从 20 增至 75（每[!UICONTROL 报告包]）。
-有关更多信息，请参阅 Analytics 帮助中的[将区段发布到 Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=zh-Hans)。
+有关更多信息，请参阅 Analytics 帮助中的[将区段发布到 Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html)。
 
-此外，请阅读 Experience Cloud 帮助中的[受众](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html?lang=zh-Hans)以了解有关[!UICONTROL 受众库]的信息。
+此外，请阅读 Experience Cloud 帮助中的[受众](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html)以了解有关[!UICONTROL 受众库]的信息。
