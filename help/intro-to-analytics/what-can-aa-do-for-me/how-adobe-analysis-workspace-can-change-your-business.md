@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解 [!DNL Analysis Workspace] 中可用的分析类型，例如 [!DNL Ad Hoc]、[!DNL Cohort] 和 [!DNL Fallout]。 使用拖放功能可以轻松快速地分析数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35530/?captions=chi_hans&quality=12&learn=on)
 
 [详细了解 Adobe Analysis Workspace ](https://business.adobe.com/cn/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)
