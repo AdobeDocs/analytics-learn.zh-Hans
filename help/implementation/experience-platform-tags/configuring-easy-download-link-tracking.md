@@ -7,10 +7,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 只需在 Experience Platform [!DNL tags] 的 Adobe Analytics Extension 中点击几下，即可开始跟踪您网站上的下载链接（用于将非浏览器文件下载到您的计算机的链接）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429932/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
 您的网站上可能有用于下载无法在浏览器中打开的文件（如白皮书、手册、音频或视频文件等）的链接。在这些文件上，您无法在页面上添加 [!DNL Analytics] 代码以供跟踪。通过这段视频中所述的配置，可跟踪用于下载文件的链接。

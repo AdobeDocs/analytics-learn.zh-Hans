@@ -7,10 +7,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 100%
@@ -41,4 +41,4 @@ ht-degree: 100%
 
 有关详细信息，请观看下方的视频。
 
->[!VIDEO](https://video.tv.adobe.com/v/40898/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)

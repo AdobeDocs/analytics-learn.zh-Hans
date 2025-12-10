@@ -4,10 +4,10 @@ description: 这段视频展示如何在 [!DNL tags] 中使用规则跟踪您网
 feature: Tags
 topics: Development
 kt: 3591
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
-source-git-commit: 48eef6315e8213c39d0d70093597260a4444d81b
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 这段视频展示如何在 [!DNL tags] 中使用规则跟踪您网站上的转化事件（成功事件）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429958/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)

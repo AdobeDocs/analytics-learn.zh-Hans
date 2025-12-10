@@ -1,29 +1,27 @@
 ---
 title: 使用 Analysis Workspace 的使用日志跟踪
 seo-title: Using the Usage Log Tracking for Analysis Workspace
-description: 此视频介绍如何将使用日志跟踪用于 Workspace 项目，这样可帮助您更好地了解用户对 Adobe Analytics 的使用情况。
-seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
-feature: data configuration and collection
-topics: null
+description: 此视频介绍如何将使用日志跟踪用于Workspace项目，这样可帮助您更好地了解用户对Adobe Analytics的使用情况。
+seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users' usage of Adobe Analytics.
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 100%
+ht-degree: 65%
 
 ---
 
 
 # 将[!UICONTROL 使用日志跟踪]用于 Analysis Workspace {#using-the-usage-log-tracking-for-analysis-workspace}
 
-此视频介绍如何将[!UICONTROL 使用日志跟踪]用于 [!DNL Workspace] 项目，这样可帮助您更好地了解用户对 Adobe Analytics 的使用情况。
+本视频说明如何在[!UICONTROL 项目上使用]使用情况日志跟踪[!DNL Workspace]，这可以帮助您更好地了解用户对Adobe Analytics的使用情况。
 
->[!VIDEO](https://video.tv.adobe.com/v/32854/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 [!DNL Workspace] 跟踪选项包括：
 
@@ -38,7 +36,7 @@ ht-degree: 100%
 
 ## 其他资源 {#additional-resources}
 
-* [关于日志的详细信息](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=zh-Hans)
+* [关于日志的详细信息](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [下载演示仪表板](https://adobe.ly/2ygP5ws)
 
 新增功能：我们力争尽快在 [!DNL Analytics] 中用一个简单易用的 UI（并具有更多细节）展示这些信息。

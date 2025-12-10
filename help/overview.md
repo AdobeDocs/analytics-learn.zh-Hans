@@ -2,13 +2,13 @@
 title: Analytics 的视频和教程
 description: 充分利用 Adobe Analytics。通过这些教程学习 Analytics 的各项功能并使您的公司享受其带来的益处。 此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。
 feature: Analytics Basics
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 100%
@@ -72,7 +72,7 @@ ht-degree: 100%
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="“Analysis Workspace 概述”视频的缩略图" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="“Analysis Workspace 概述”视频的缩略图图像" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">

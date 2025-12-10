@@ -4,10 +4,10 @@ description: 此视频演示如何在 [!DNL tags] 中使用特殊的产品字符
 feature: Tags
 topics: Development
 kt: 3592
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 3%
@@ -22,4 +22,4 @@ ht-degree: 3%
 >
 > Launch 现在改名为 **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/31208/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)

@@ -11,10 +11,10 @@ author: Doug Moore
 team: Technical Marketing
 kt: 2679
 topic: Administration
-role: Admin, Architect
+role: Admin, Developer
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 在本视频中，您将了解如何配置[!UICONTROL 邮政编码]设置，以便能根据此区域数据进行分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/35174/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 有关[!UICONTROL 邮政编码]设置的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=zh-Hans)。
