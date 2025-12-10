@@ -21,7 +21,7 @@ ht-degree: 65%
 
 本视频说明如何在[!UICONTROL 项目上使用]使用情况日志跟踪[!DNL Workspace]，这可以帮助您更好地了解用户对Adobe Analytics的使用情况。
 
->[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32854/?captions=chi_hans&quality=12&learn=on)
 
 [!DNL Workspace] 跟踪选项包括：
 
