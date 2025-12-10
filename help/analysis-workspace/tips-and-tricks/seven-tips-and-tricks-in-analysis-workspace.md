@@ -94,7 +94,7 @@ Adobe Analytics 收集大量数据。 [!DNL Virtual Report Suites]中的组件�
 >
 >**强烈要求的功能：**&#x200B;一些客户要求我们提供将项目另存为自定义模板的功能。 现在，此功能已成为他们最喜欢的功能之一。
 
-[单击此处以查找有关 Experience League 的更多提示和技巧](https://experienceleague.adobe.com/?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
+[单击此处以查找有关 Experience League 的更多提示和技巧](https://experienceleague.adobe.com/zh-hans?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | 关于作者 |            |
 |------------|------------|

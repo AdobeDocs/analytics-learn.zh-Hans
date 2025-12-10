@@ -16,6 +16,6 @@ ht-degree: 86%
 
 # Experience Platform [!DNL tags] 中 Analytics 扩展的基本配置
 
-这段视频展示 Experience Platform [!DNL tags] 中 Analytics 扩展对于基本网站的快速配置。有关详细信息，请参阅[Adobe Analytics扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}。
+这段视频展示 Experience Platform [!DNL tags] 中 Analytics 扩展对于基本网站的快速配置。有关详细信息，请参阅[Adobe Analytics扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=zh-Hans){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)
