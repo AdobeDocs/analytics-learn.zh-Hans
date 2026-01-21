@@ -9,7 +9,7 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 充分利用 [!DNL Adobe Analytics]。通过这些教程学习 Analytics 的各项功能并使您的公司享受其带来的益处。 此内容适用于管理员、数据分析师、营销人员、开发人员和架构师。
 
-要开始使用，
+要开始教程，
 
 * 请参考下方的&#x200B;**“新增功能”**&#x200B;部分，以查看最新的更新和功能。
 * **员工精选**&#x200B;重点介绍我们喜爱的一些内容
