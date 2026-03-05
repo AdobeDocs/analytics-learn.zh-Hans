@@ -20,6 +20,6 @@ ht-degree: 57%
 
 Adobe Analytics [!UICONTROL 数据馈送]允许您导出原始点击流数据以导入并与Adobe Analytics之外的其他数据源合并。 您可以在Adobe Analytics中创建和管理自己的[!UICONTROL 数据馈送]。 本视频向您展示如何做到这一点。
 
->[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428569/?captions=chi_hans&quality=12&learn=on)
 
 有关此功能的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=zh-Hans#)。
