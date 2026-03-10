@@ -1,23 +1,22 @@
 ---
 title: 重新运行数据馈送作业
-description: Adobe Analytics 中的数据馈送 UI 使数据馈送管理更加容易。 如果您有权限管理数据馈送，那么您可以使用数据馈送 UI 自行重新运行数据馈送作业，而无需让客户支持团队重新发送最近的数据馈送文件。
+description: Adobe Analytics中的数据馈送UI使数据馈送管理更加容易。 如果您有权管理数据馈送，则可以自行在数据馈送UI中重新运行数据馈送作业，而无需让客户支持团队重新发送数据馈送文件。
 feature: Data Feeds, Data Configuration and Collection
 topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
-thumbnail: 335748.jpg
-kt: KT-8465
+kt: 8465
+last-substantial-update: 2026-03-09T00:00:00Z
 exl-id: 7cf7ea59-4516-486d-99f5-79cb55b23a3c
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: dbfe7953a2d22f6c4d3305b046afcabda7f193df
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 9%
 
 ---
 
 # 重新运行数据馈送作业
 
-Adobe Analytics 中的数据馈送 UI 使数据馈送管理更加容易。 如果您有权限管理数据馈送，那么您可以使用数据馈送 UI 自行重新运行数据馈送作业，而无需让客户支持团队重新发送最近的数据馈送文件。
+Adobe Analytics中的数据馈送UI使数据馈送管理更加容易。 如果您有权管理数据馈送，则可以自行在数据馈送UI中重新运行数据馈送作业，而无需让客户支持团队重新发送数据馈送文件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418501/?quality=12&learn=on&captions=chi_hans)
+>[!SLIDE](aa-rerun-data-feed-job)
