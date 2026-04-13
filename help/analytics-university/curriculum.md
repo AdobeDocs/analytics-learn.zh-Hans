@@ -5,9 +5,8 @@ feature: Analytics Basics
 role: Leader
 level: Intermediate
 hide: true
-hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
+source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 79%
@@ -16,7 +15,7 @@ ht-degree: 79%
 
 # Adobe Analytics 教学课程
 
->[!VIDEO](https://video.tv.adobe.com/v/3443869/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Analytics 课程内容
 
@@ -42,6 +41,6 @@ Adobe 很荣幸地向您的大学介绍这些 Analytics 基础内容。在该课
 
 此课程在每个部分的结尾都设有专门的活动，可与 Adobe Analytics University 沙盒环境相结合。
 
-在此处注册即可访问：[Analytics 课程注册](https://experienceleague.adobe.com/landing/analytics-university/?lang=zh-Hans)
+在此处注册即可访问：[Analytics 课程注册](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [下载课程 PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
