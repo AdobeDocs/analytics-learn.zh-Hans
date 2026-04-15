@@ -334,7 +334,7 @@ ht-degree: 99%
       + [分类概述](components/classifications/overview-of-classifications.md)
       + [使用分类规则生成器](components/classifications/using-the-classification-rule-builder.md)
       + [分类集简介](components/classifications/introduction-to-classification-sets.md)
-      + [使用分类集 ](components/classifications/use-classification-sets.md)
+      + [使用分类集 &#x200B;](components/classifications/use-classification-sets.md)
       + [分类集数据导入方法](components/classifications/classification-sets-data-import-methods.md)
       + [分类集作业历史记录](components/classifications/classification-sets-job-history.md)
    + 虚拟报表包 {#virtual-report-suites}
@@ -377,7 +377,7 @@ ht-degree: 99%
       + [对 Power BI 使用 Report Builder 高级投放选项](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + 集成 {#integrations}
    + Experience Cloud {#experience-cloud}
-      + [已改进 Experience Cloud 受众发布 ](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
+      + [已改进 Experience Cloud 受众发布 &#x200B;](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [在 Experience Platform Launch 中启用服务器端转发](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics — 将 AAM 区段集成到 Analytics 中](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
