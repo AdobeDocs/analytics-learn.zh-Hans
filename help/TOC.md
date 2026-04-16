@@ -4,7 +4,7 @@ user-guide-description: 观看 Adobe Analytics 视频教程，了解如何充分
 breadcrumb-title: Analytics 教程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2915e2410ba2189b75323ced05e007697d5c0956
+source-git-commit: 7f3b8f3da6d6d98d49735d00258665f0a47412b0
 workflow-type: tm+mt
 source-wordcount: '2177'
 ht-degree: 99%
@@ -448,6 +448,6 @@ ht-degree: 99%
       + [将 Web SDK 变量映射到 Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [配置内部站点搜索报告](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [设置市场内邮编分析](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Analytics University 课程](analytics-university/curriculum.md)
-+ [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [面向商业用户的 Analytics 基础知识已停用](retired-courses/retire-fundamentals-for-business-users-course.md)
++ {hide-from-toc}[Analytics University 课程](analytics-university/curriculum.md)
++ {hide-from-toc}[Experience League LIVE](exl-live/exl-live-overview.md)
++ {hide-from-toc}[“面向商业用户的 Analytics 基础知识”已停用](retired-courses/retire-fundamentals-for-business-users-course.md)

@@ -5,9 +5,8 @@ feature: Analytics Basics
 role: Leader
 level: Intermediate
 hide: true
-hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
+source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 79%
@@ -16,7 +15,7 @@ ht-degree: 79%
 
 # Adobe Analytics 教学课程
 
->[!VIDEO](https://video.tv.adobe.com/v/3443869/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3443869/?captions=chi_hans&quality=12&learn=on)
 
 ## Analytics 课程内容
 

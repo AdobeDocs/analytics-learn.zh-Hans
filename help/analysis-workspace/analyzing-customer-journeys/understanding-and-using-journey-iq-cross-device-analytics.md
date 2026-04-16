@@ -120,7 +120,7 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/cn/legal/produ
 * 访问人员使用多台设备完成一项任务的情况
 
 *人员级别区段*
-![[!DNL Segment Builder][!UICONTROL 人员]容器](assets/cda-segment-builder-person-container.png)
+![[!DNL Segment Builder]&#x200B;[!UICONTROL 人员]容器](assets/cda-segment-builder-person-container.png)
 
 ### 维度持久性
 
