@@ -30,6 +30,6 @@ ht-degree: 12%
 
 # 在虚拟报表包中自定义访问
 
-可以使用虚拟报表包以无损方式更改Adobe Analytics中访问的定义。 本视频说明以及可用的不同选项。 有关详细文档，请访问[上下文感知会话](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html){target="_blank"}。
+可以使用虚拟报表包以无损方式更改Adobe Analytics中访问的定义。 本视频说明以及可用的不同选项。 有关详细文档，请访问[上下文感知会话](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=zh-Hans){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12&learn=on)

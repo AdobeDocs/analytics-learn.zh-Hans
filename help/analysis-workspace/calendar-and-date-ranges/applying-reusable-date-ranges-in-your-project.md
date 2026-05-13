@@ -33,4 +33,4 @@ ht-degree: 33%
 
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar)。

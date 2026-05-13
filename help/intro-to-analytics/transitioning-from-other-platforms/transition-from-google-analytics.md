@@ -168,7 +168,7 @@ Adobe Analytics 并未打算为所有用户创建在登录时看到的预建报�
 
 >[!IMPORTANT]
 >
->要详细了解使用下拉列表以及自由格式的细分，请参阅 <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>要详细了解使用下拉列表以及自由格式的细分，请参阅 <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=zh-Hans>
 
 ##### 2.1.2.2. Google Analytics：功能板、自定义报表和已保存报表
 
@@ -298,7 +298,7 @@ Adobe的Workspace（第2.1.2.1部分）使用API构建报表，如果在Workspac
 
 在本指南之外，还有许多资源可帮助您改进策略：
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home) – 包含教程、视频、文档和社区论坛
+* [Adobe Experience League](https://experienceleague.adobe.com/zh-hans#home) – 包含教程、视频、文档和社区论坛
 * [Adobe 用户组](https://analytics-augs.adobe.com/) – 一个社区活动中心，帮助用户相互联系并改进其实施。
 * [Adobe Analytics 用户组 YouTube 频道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) – 无法进行 Adobe Analytics 用户组会话？ 重新观看以前在全球范围内的用户组会议，以了解更多关于您的同行如何使用该工具的信息。
 * [Measure Chat Slack 频道](https://www.measure.chat/) – 与世界各地的 Adobe Analytics 用户联系，分享行业知识，向同行提问，并加入以量度为重点的兴趣小组。

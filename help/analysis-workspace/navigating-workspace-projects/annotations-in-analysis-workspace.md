@@ -40,4 +40,4 @@ Workspace 注释使您能够有效地将上下文数据的细微差别和洞察�
 
 >[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=en)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=zh-Hans)。

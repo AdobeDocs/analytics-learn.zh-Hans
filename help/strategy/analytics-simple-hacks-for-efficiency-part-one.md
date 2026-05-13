@@ -112,4 +112,4 @@ Analytics 团队发现，由于各种原因，他们的生产力和效率都在�
    * 通过帮助社交发布和获胜来建立他们的影响力
    * 利用正常的办公时间帮助培训师，减少临时要求
 
-在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心详细了解战略和思想领导力。
+在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hans)中心详细了解战略和思想领导力。
