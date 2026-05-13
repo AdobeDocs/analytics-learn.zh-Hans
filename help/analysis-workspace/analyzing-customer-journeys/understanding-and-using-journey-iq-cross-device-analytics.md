@@ -10,10 +10,31 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
+TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: a544b409-2610-410d-a842-474ac1d0d54e
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1466'
-ht-degree: 100%
+source-wordcount: 1607
+ht-degree: 94%
 
 ---
 
@@ -29,12 +50,12 @@ ht-degree: 100%
 
 以下是一个示例。 假设 Isabelle 通过以下方式与您的品牌互动：
 
-*Isabelle 是三个访客*
-![传统分析历程](assets/cda-isabelle-journey-traditional-analytics.png)
+*Isabelle是三个访客*
+![传统Analytics历程](assets/cda-isabelle-journey-traditional-analytics.png)
 
 通过使用传统分析，Isabelle 的历程分为三个部分。 她表示为三个独特访客，每个人员均使用不同的设备来执行独立任务。 我们需要的是一个统一的、跨设备的 Isabelle 互动视图。 [!DNL Journey IQ: Cross-Device Analytics] 提供了此视图。
 
-*Isabelle 是一个人员*
+*Isabelle是一个人*
 ![跨设备分析历程](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### 跨设备视图提高了分析质量
@@ -63,17 +84,17 @@ CDA 通过特殊类型的跨设备[[!UICONTROL 虚拟报表包]](https://experie
 
 在 VRS 生成器的第一步中，选择已由 Adobe 配置为支持 CDA 的[!UICONTROL 报表包]：
 
-*选择支持 CDA 的基本（源）[!UICONTROL 报表包]*
+*选择启用CDA的基本（源） [!UICONTROL 报告包]*
 ![[!UICONTROL 虚拟报表包]第一步](assets/cda-vrs-step-one.png)
 
 然后，开启[!UICONTROL 报表时间处理]并启用[!UICONTROL 跨设备拼接]：
 
-*启用[!UICONTROL 报表时间处理]和[!UICONTROL 跨设备拼接]*
+*启用[!UICONTROL 报告时间处理]和[!UICONTROL 跨设备拼接]*
 ![[!UICONTROL 虚拟报表包]第二步](assets/cda-vrs-step-two.png)
 
 完成并保存 VRS 设置。 CDA VRS 将显示在 Analysis Workspace 中，它旁边有一个特殊图标，如下所示：
 
-*选择 Analysis Workspace 中的 CDA VRS*
+*在Analysis Workspace中选择CDA VRS*
 ![[!UICONTROL 虚拟报表包]第三步](assets/cda-vrs-step-three.png)
 
 >[!TIP]
@@ -88,7 +109,7 @@ CDA 通过特殊类型的跨设备[[!UICONTROL 虚拟报表包]](https://experie
 
 ![[!DNL Cross-Device Analytics]历程](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-有可能是 Isabelle 在购买之前没有登录，并且 [!DNL Device Graph] 直到 Isabelle 购买后的某个时间才将其设备映射到一起。不过，CDA 的 30 天回顾允许 CDA 在人员级别重述 Isabelle 过去的行为，并为您提供所需的 Isabelle 历程的跨设备视图。
+有可能是 Isabelle 在购买之前没有登录，并且 [!DNL Device Graph] 直到 Isabelle 购买后的某个时间才将其设备映射到一起。 不过，CDA 的 30 天回顾允许 CDA 在人员级别重述 Isabelle 过去的行为，并为您提供所需的 Isabelle 历程的跨设备视图。
 
 >[!NOTE]
 >
@@ -101,14 +122,14 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/cn/legal/produ
 * 您的公司必须使用 [!DNL Adobe Experience Platform Identity Service Device Graph]。
 * 您必须实施 [!DNL Device Graph] 所需的一切，包括 [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hans) 以及与图表同步的 ID。
 * 目前无法将两个 IMS 组织与单个 [!DNL Device Graph] 结合使用，因此您必须在单个 IMS 组织上进行标准化。
-* [!DNL Device Graph] 以及某些 CDA 组件托管于 [!DNL Microsoft Azure] 中。这意味着 [!DNL Analytics] 数据在 Adobe 的数据处理中心和 Adobe 在 [!DNL Microsoft Azure] 中的状态之间来回复制。 一些 [!DNL Analytics] 数据将存储在 [!DNL Azure] 中。 您的公司必须同意此安排。
+* [!DNL Device Graph] 以及某些 CDA 组件托管于 [!DNL Microsoft Azure] 中。 这意味着 [!DNL Analytics] 数据在 Adobe 的数据处理中心和 Adobe 在 [!DNL Microsoft Azure] 中的状态之间来回复制。 一些 [!DNL Analytics] 数据将存储在 [!DNL Azure] 中。 您的公司必须同意此安排。
 * CDA 需要“跨设备”[!UICONTROL 报表包]。 也就是说，用于 CDA 的[!UICONTROL 报表包]必须包括来自多种不同的设备类型或“表面”的数据，例如桌面 Web、移动 Web 和移动应用程序。 自 2019 年 9 月起，此[!UICONTROL 报表包]的服务器调用量必须等于或少于 100MM 服务器调用数/天。 （服务器调用量限制将在未来几个月内增加。）
 
 ## 解释跨设备数据
 
 ### 非访客人员
 
-在 CDA [!UICONTROL 虚拟报表包]中，您将看到几项更改。 例如，[!UICONTROL 独特访客]量度已由两个新的量度替换：[!UICONTROL 人员]和[!UICONTROL 独特设备]。 这两个新量度可让您更好地了解受众规模。
+在 CDA [!UICONTROL 虚拟报表包]中，您将看到几项更改。 例如，[!UICONTROL 独特访客]量度已由两个新的量度替换：[!UICONTROL 人员]和[!UICONTROL 独特设备]。 这两个新量度可让您更好地洞察受众规模。
 
 *人员和独特设备*
 ![CDA [!UICONTROL 人员指标]](assets/cda-people-metric.png)
@@ -120,7 +141,7 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/cn/legal/produ
 * 访问人员使用多台设备完成一项任务的情况
 
 *人员级别区段*
-![[!DNL Segment Builder]&#x200B;[!UICONTROL 人员]容器](assets/cda-segment-builder-person-container.png)
+![[!DNL Segment Builder] [!UICONTROL 人员]容器](assets/cda-segment-builder-person-container.png)
 
 ### 维度持久性
 
@@ -144,7 +165,7 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/cn/legal/produ
 
 借助 CDA 和 Analysis Workspace，您可以在[[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=zh-Hans)中直观说明人员如何随着时间的推移从一台设备移动到另一台设备。 您可以查看他们在历程中何时退出，何时继续。
 
-*[!DNL Flow]，带 CDA*
+具有CDA的&#x200B;*[!DNL Flow]*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### 跨设备[!DNL Fallout]
@@ -153,7 +174,7 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/cn/legal/produ
 
 不用担心，CDA 为您提供了解决方法。 CDA 创建了跨设备视图，可让[!DNL Fallout visualizations]变得更有用。 毕竟，真正重要的是人员是否最终在某个地方成功地完成了其任务。
 
-*[!DNL Fallout]，带 CDA*
+具有CDA的&#x200B;*[!DNL Fallout]*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
 
 ### [!DNL Cross-Device Attribution IQ]
@@ -162,7 +183,7 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/cn/legal/produ
 
 例如，假设您想了解在最终促使成功的交互中，手机作为首个使用设备的频率。 这代表了手机的“客户获取率”。 CDA + [!DNL Attribution IQ] 允许您执行此分析：
 
-*[!DNL Attribution IQ]，带 CDA*
+具有CDA的&#x200B;*[!DNL Attribution IQ]*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
 有关更多信息，请参阅[[!DNL Cross-Device Analytics] 帮助文档](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=zh-Hans)。

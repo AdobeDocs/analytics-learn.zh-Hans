@@ -10,10 +10,37 @@ kt: 3945
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1054'
-ht-degree: 100%
+source-wordcount: 1072
+ht-degree: 91%
 
 ---
 
@@ -36,7 +63,7 @@ Analysis Workspace 是 Adobe Analytics 中的一个功能强大的工具，可�
 
 ### ***提示 2：在不离开工作流的情况下创建简单量度***
 
-利用快速[!UICONTROL 计算量度]，您可以在 Analysis Workspace 中创建新的[!UICONTROL 量度]，而不是退出[!UICONTROL 计算量度]生成器。 仅选择要计算的[!UICONTROL 量度]列，然后从右键单击菜单中，选择“[!UICONTROL 通过所选内容创建量度]。” 现在，您可以执行加、减、除、乘等运算，而无需离开项目并打断思路。
+利用快速[!UICONTROL 计算量度]，您可以在 Analysis Workspace 中创建新的[!UICONTROL 量度]，而不是退出[!UICONTROL 计算量度]生成器。 只需选择要计算的[!UICONTROL 量度]列，然后从右键单击菜单中，选择“[!UICONTROL 从所选内容创建量度]”。 现在，您可以执行加、减、除、乘等运算，而无需离开项目并打断思路。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41470/?captions=chi_hans&quality=12&learn=on)
 
@@ -94,8 +121,8 @@ Adobe Analytics 收集大量数据。 [!DNL Virtual Report Suites]中的组件�
 >
 >**强烈要求的功能：**&#x200B;一些客户要求我们提供将项目另存为自定义模板的功能。 现在，此功能已成为他们最喜欢的功能之一。
 
-[单击此处以查找有关 Experience League 的更多提示和技巧](https://experienceleague.adobe.com/zh-hans?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
+[单击此处以查找有关Experience League的更多提示和技巧](https://experienceleague.adobe.com/zh-hans?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | 关于作者 |            |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser 是 Adobe Analytics 产品管理团队的经理。 <br>作为经理，她需要与客户会面以了解他们的业务需求，<br>利用她所学到的知识为 Adobe Analytics 产品路线图提供信息<br>并确定新产品功能的优先级。 在担任目前的职位之前，<br>Jen 是 Adobe 咨询团队的首席顾问，并且是<br>数据可视化、Analysis Workspace 和 [!DNL Report Builder] 领域的主题专家。 <br><br>得益于她的实际洞察，我们整理了以下提示和技巧，<br>帮助您更轻松地构建、可视化和共享您的 Analysis Workspace 项目 |
+| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser是Adobe Analytics产品管理团队的经理。<br> 作为经理，她需要与客户会面以了解他们的业务需求，<br>利用她所学到的知识为Adobe Analytics产品路线图<br>提供信息并确定新产品功能的优先级。 在担任目前的职位之前，<br>Jen 是 Adobe 咨询团队的首席顾问，并且是<br>数据可视化、Analysis Workspace 和 [!DNL Report Builder] 领域的主题专家。 <br><br>得益于她的实际洞察，我们整理了以下提示和技巧，<br>帮助您更轻松地构建、可视化和共享您的 Analysis Workspace 项目 |

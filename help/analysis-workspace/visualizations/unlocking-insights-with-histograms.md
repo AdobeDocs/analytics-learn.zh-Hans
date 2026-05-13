@@ -1,18 +1,25 @@
 ---
 title: 使用直方图解锁洞察；超出Analytics中的平均值
-description: 探索直方图在Analytics中的影响，以获得超出平均值的见解。
+description: 了解直方图在分析中的影响，以获得超出平均水平的洞察。
 feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
 exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/YsHPJO-w7ZhVlI-xuZfF5fYj0q3HQGoypJsUQfoc5oc
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1098'
-ht-degree: 1%
+source-wordcount: 1112
+ht-degree: 3%
 
 ---
 

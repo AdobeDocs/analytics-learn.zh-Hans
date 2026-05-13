@@ -5,14 +5,34 @@ feature: Segmentation
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13268
 thumbnail: KT-13268.jpeg
 exl-id: 7743debd-57d8-4c79-a332-187180fc9701
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/SqW3fb-f-er2nTJ1FbayhC4MjiYvrU5iEj5UvzfHiqU
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: a544b409-2610-410d-a842-474ac1d0d54e
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '812'
-ht-degree: 1%
+source-wordcount: 878
+ht-degree: 7%
 
 ---
 
@@ -30,7 +50,7 @@ ht-degree: 1%
 
 但是，有时您不需要完整的比较面板来为您的最终用户提供主键分析。 值得庆幸的是，某些功能也可以在标准面板中进行比较。
 
-[维恩图可视化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hans)有助于创建快速比较，允许您悬停并查看重叠会话、订单、用户等。 介于2-3个自定义区段之间。 您还可以通过右键单击任何重叠部分来快速生成区段：
+[维恩图可视化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hans)有助于创建快速比较，允许您悬停并查看2-3个自定义区段之间的重叠会话、订单、用户等。 您还可以通过右键单击任何重叠部分来快速生成区段：
 
 ![区段02](assets/s02.png)
 

@@ -1,6 +1,6 @@
 ---
 title: 如何标识分析跟踪服务器和报告包 ID
-description: 在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 Analytics“跟踪服务器”或您将数据发送到其中的“报告包”一般都很有帮助，甚至必须这样做。此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
+description: 在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 Analytics“跟踪服务器”或您将数据发送到其中的“报告包”一般都很有帮助，甚至必须这样做。 此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
 feature: Implementation Basics
 topics: null
 activity: implement
@@ -10,16 +10,28 @@ kt: 2358
 role: Developer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/DRy-lxNuEQR9Tb-nIoev0Mu1OzSiCcLcqve1eDf7p6Q
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: 334
 ht-degree: 100%
 
 ---
 
 # 如何标识 Analytics [!DNL tracking server]和[!UICONTROL 报告包 ID] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
-在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 Analytics“跟踪服务器”或您将数据发送到其中的[!UICONTROL 报告包]一般都很有帮助，甚至必须这样做。此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
+在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 Analytics“跟踪服务器”或您将数据发送到其中的[!UICONTROL 报告包]一般都很有帮助，甚至必须这样做。 此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
 
 >[!IMPORTANT]
 >
@@ -27,13 +39,13 @@ ht-degree: 100%
 
 ## 实施之后 {#after-implementation}
 
-在网站上实施 Analytics 之后，即可直接在跟踪信标中找到 [!DNL tracking server] 和 [!DNL report suite ID]。[!DNL tracking server] 就是信标中的主机名，因此很方便就能找到。[!UICONTROL 报告包] ID 是信标的路径名称中紧接在“/b/ss/”后面的一个用逗号分隔的列表。
+在网站上实施 Analytics 之后，即可直接在跟踪信标中找到 [!DNL tracking server] 和 [!DNL report suite ID]。 [!DNL tracking server] 就是信标中的主机名，因此很方便就能找到。 [!UICONTROL 报告包] ID 是信标的路径名称中紧接在“/b/ss/”后面的一个用逗号分隔的列表。
 
 要查看信标以及发往 Analytics 和其他 Experience Cloud 解决方案的所有其他信息，请安装[“Experience Cloud Debugger”Chrome 扩展](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=zh-Hans)。
 
 ## 实施之前 {#before-implementation}
 
-**[!DNL Tracking server]** - 如果尚未开始使用您的 Adobe Analytics 实施，则您将为“.sc.omtrdc.net”[!DNL tracking server]选择一个子域。例如，我有一个在线帽子商店，称为“Jim&#39;s Brims”。我就可以将 [!DNL tracking server] 设置为：
+**[!DNL Tracking server]** - 如果尚未开始使用您的 Adobe Analytics 实施，则您将为“.sc.omtrdc.net”[!DNL tracking server]选择一个子域。 例如，我有一个在线帽子商店，称为“Jim&#39;s Brims”。 我就可以将 [!DNL tracking server] 设置为：
 
 “jimsbrims.sc.omtrdc.net”。
 

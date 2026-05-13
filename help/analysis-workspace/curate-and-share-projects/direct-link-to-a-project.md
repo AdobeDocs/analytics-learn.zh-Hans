@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace 中的项目的直接链接
-description: 本视频说明如何通过创建缩短链接来更好地使分析普及化，这些链接会将您的同事转至 Analysis Workspace 项目。
+description: 本视频说明如何通过创建缩短链接来更好地使分析民主化，这些链接会将您的同事转至 Analysis Workspace 项目。
 feature: Curate and Share
 topic: Collaboration
 role: User
@@ -9,17 +9,29 @@ doc-type: feature video
 thumbnail: 341027.jpg
 kt: 2296
 exl-id: 105c7767-4ca1-45d0-a1ca-7b99b4cfae6e
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/1yixJAX3qkOZ0zE7iyQsdbFffv7j3ReRNendpc2PBMU
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: 85
 ht-degree: 100%
 
 ---
 
 # Analysis Workspace 中的项目的直接链接
 
-本视频说明如何通过创建缩短链接来更好地使分析普及化，这些链接会将您的同事转至 Analysis Workspace 项目。
+本视频说明如何通过创建缩短链接来更好地使分析民主化，这些链接会将您的同事转至 Analysis Workspace 项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439095/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3439095/?captions=chi_hans&quality=12&learn=on)
 
 有关此功能的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=zh-hans)。

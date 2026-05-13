@@ -1,5 +1,5 @@
 ---
-title: 在不使用标签管理器的情况下进行自定义链接跟踪
+title: 在不使用标记管理器的情况下进行自定义链接跟踪
 description: 对于页面上的许多操作，不应将跟踪视为页面查看。 在本视频中，您将了解如何在不使用标签管理器（如 Experience Platform Launch）的情况下将链接跟踪信标编码到 Analytics。 查看代码并了解重要提示。
 feature: Appmeasurement Implementation
 topics: null
@@ -10,14 +10,24 @@ kt: 1845
 role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: 272
 ht-degree: 100%
 
 ---
 
-# 在不使用标签管理器的情况下进行自定义链接跟踪 {#custom-link-tracking-without-a-tag-manager}
+# 在不使用标记管理器的情况下进行自定义链接跟踪 {#custom-link-tracking-without-a-tag-manager}
 
 对于页面上的许多操作，不应将跟踪视为页面查看。 在本视频中，您将了解如何在不使用标签管理器（如 Adobe [!DNL Experience Platform Launch]）的情况下将链接跟踪信标编码到 Analytics。 查看代码并了解重要提示。
 

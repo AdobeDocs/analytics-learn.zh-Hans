@@ -1,20 +1,36 @@
 ---
 title: 了解 Analytics 周期
-description: 在这段简单却又重要的视频中，您将了解分析网站数据所涉及的步骤。花一点时间了解此过程对于您的 Analytics 计划取得成功大有帮助。
+description: 在这段简单却又重要的视频中，您将了解分析网站数据所涉及的步骤。 花一点时间了解此过程对于您的 Analytics 计划取得成功大有帮助。
 feature: Analytics Basics
 kt: 3564
 role: User
 level: Beginner
 exl-id: e106c36b-f636-4194-af4f-8c260f91fc93
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/2Rkfgo7aeVw1BbFLuuik1f2cOf73qdNLwmNVghJ1du8
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: 84
 ht-degree: 100%
 
 ---
 
 # 了解 [!DNL Analytics] 周期
 
-在这段简单却又重要的视频中，可了解分析网站数据所涉及的步骤。花一点时间了解此过程对于您的 [!DNL Analytics] 计划取得成功大有帮助。
+在这段简单却又重要的视频中，可了解分析网站数据所涉及的步骤。 花一点时间了解此过程对于您的 [!DNL Analytics] 计划取得成功大有帮助。
 
->[!VIDEO](https://video.tv.adobe.com/v/33239/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/33239/?captions=chi_hans&quality=12&learn=on)
