@@ -34,4 +34,4 @@ ht-degree: 100%
 
 获取在 Analysis Workspace 中选择报告包的一些建议。
 
->[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428557/?captions=chi_hans&quality=12&learn=on)

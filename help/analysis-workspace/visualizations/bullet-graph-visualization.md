@@ -29,6 +29,6 @@ ht-degree: 100%
 
 [!UICONTROL 项目符号]图表是一种显示分析中实现（或超过）目标的进度的有用方式。 它们为您提供了另一种直观地了解组织成功的方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41512/?captions=chi_hans&quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=zh-Hans)。

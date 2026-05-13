@@ -28,6 +28,6 @@ ht-degree: 100%
 
 在本视频中，您将了解如何设置高级计划，向 Power BI 发送 Report Builder 工作簿。
 
->[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346443/?captions=chi_hans&quality=12&learn=on)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=zh-Hans)。

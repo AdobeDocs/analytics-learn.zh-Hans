@@ -33,4 +33,4 @@ ht-degree: 100%
 
 了解让新手用户轻松进入工作区分析项目数据的有效方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40290/?captions=chi_hans&quality=12&learn=on)

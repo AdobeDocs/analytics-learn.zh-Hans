@@ -27,4 +27,4 @@ ht-degree: 100%
 
 查看分类集数据上传和下载的作业历史记录。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476037/?captions=chi_hans&learn=on&enablevpops)

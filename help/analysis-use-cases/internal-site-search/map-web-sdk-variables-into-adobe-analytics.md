@@ -30,7 +30,7 @@ ht-degree: 100%
 
 了解如何使用处理规则将分析变量从 Web SDK 映射到 Adobe Analytics。
 
->[!VIDEO](https://video.tv.adobe.com/v/333606/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413462/?captions=chi_hans&quality=12&learn=on)
 
 ## 其他信息
 

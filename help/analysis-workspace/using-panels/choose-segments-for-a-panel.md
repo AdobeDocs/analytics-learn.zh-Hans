@@ -34,4 +34,4 @@ ht-degree: 100%
 
 了解将区段应用到 Analysis Workspace 中的面板的一些技巧和策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412023/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416217/?captions=chi_hans&quality=12&learn=on)

@@ -34,7 +34,7 @@ ht-degree: 80%
 
 # Adobe Analytics 教学课程
 
->[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443869/?captions=chi_hans&quality=12&learn=on)
 
 ## Analytics 课程内容
 

@@ -55,7 +55,7 @@ Analysis Workspace 是 Adobe Analytics 中的一个功能强大的工具，可�
 
 只需将[!UICONTROL 区段]或任何其他组件拖放到任何面板顶部的[!UICONTROL 区段]放置区，您可以将该面板快速细分为特定的数据点。 例如，您可以通过将[!UICONTROL 量度]“订单”放置到[!UICONTROL 区段]放置区，细分您的面板以仅显示存在订单的点击。 您甚至可以通过在区域中放置维度项目“未指定”或“无”来按组件中不存在的数据进行分段（例如，查看没有订单的点击）。
 
->[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37496/?captions=chi_hans&quality=12&learn=on)
 
 >[!TIP]
 >
@@ -65,7 +65,7 @@ Analysis Workspace 是 Adobe Analytics 中的一个功能强大的工具，可�
 
 利用快速[!UICONTROL 计算量度]，您可以在 Analysis Workspace 中创建新的[!UICONTROL 量度]，而不是退出[!UICONTROL 计算量度]生成器。 只需选择要计算的[!UICONTROL 量度]列，然后从右键单击菜单中，选择“[!UICONTROL 从所选内容创建量度]”。 现在，您可以执行加、减、除、乘等运算，而无需离开项目并打断思路。
 
->[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41470/?captions=chi_hans&quality=12&learn=on)
 
 >[!TIP]
 >
@@ -77,7 +77,7 @@ Analysis Workspace 是 Adobe Analytics 中的一个功能强大的工具，可�
 
 从一个位置轻松复制可视化图表和面板，并将它们添加到另一个位置，甚至添加到不同的项目中。 这意味着，可以随着项目的发展轻松地移动数据，并与新用户共享您的发现，这样他们就不必从头开始分析。 只需右键单击要复制的面板或可视化图表，选择“[!UICONTROL 复制可视化图表]”，并右键单击空白面板以插入该图表。
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37457/?captions=chi_hans&quality=12&learn=on)
 
 >[!TIP]
 >
@@ -87,7 +87,7 @@ Analysis Workspace 是 Adobe Analytics 中的一个功能强大的工具，可�
 
 在使用趋势可视化图表时轻松更改时间视图。 在之前的 Analysis Workspace 迭代中，更改时间意味着取消隐藏源表，拖入新的[!UICONTROL 维度]，然后重新隐藏表。 现在，可以从“[!UICONTROL 可视化图表设置]”（右上角齿轮）下拉菜单中选择要演示的时间粒度。
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41455/?captions=chi_hans&quality=12&learn=on)
 
 ## 共享：让其他人更容易使用和理解发现
 
@@ -95,7 +95,7 @@ Analysis Workspace 是 Adobe Analytics 中的一个功能强大的工具，可�
 
 Adobe Analytics 收集大量数据。 [!DNL Virtual Report Suites]中的组件管理允许管理员为组织中的每个业务部门制作数据集。 这意味着在 Analysis Workspace 中工作的分析人员不必费力地浏览数据来找到对他们最重要的东西。 只需选中[!UICONTROL “组件]”下的[!UICONTROL 虚拟报表包]生成器中的“[!UICONTROL 启用虚拟报表包组件的自定义]”框，然后选择与特定团队测量的内容匹配的[!UICONTROL 组件]。
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425528/?captions=chi_hans&quality=12&learn=on)
 
 >[!TIP]
 >
@@ -105,7 +105,7 @@ Adobe Analytics 收集大量数据。 [!DNL Virtual Report Suites]中的组件�
 
 创建将受众转至 Analysis Workspace 中的任何位置的链接。 只需右键单击要链接到的面板，选择“[!UICONTROL 获取面板链接]”，然后复制。 然后突出显示要从中链接的文本，在文本框或描述的文本编辑器中选择链接图标，然后粘贴。 要链接到整个项目，只需单击[!UICONTROL 共享]选项卡，选择[!UICONTROL 获取项目链接]，然后执行上述相同步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327484/?captions=chi_hans&quality=12&learn=on)
 
 >[!TIP]
 >
@@ -115,7 +115,7 @@ Adobe Analytics 收集大量数据。 [!DNL Virtual Report Suites]中的组件�
 
 您现在可以轻松地将任何项目转换为自定义模板。 只需从[!UICONTROL 项目]下拉菜单中选择[!UICONTROL 另存为模板]，添加用于轻松查找模板的标记，然后单击[!UICONTROL 将项目另存为模板]。 现在，所有 Analysis Workspace 用户可以在[!UICONTROL 自定义模板]选项卡下使用模板。 这允许分析人员从有意义的数据点开始他们的项目，而不是从头开始。
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428580/?captions=chi_hans&quality=12&learn=on)
 
 >[!TIP]
 >

@@ -28,6 +28,6 @@ ht-degree: 100%
 
 了解我们的路径和漏斗工具如何协同工作，从而更好地了解用户历程中的洞察。
 
->[!VIDEO](https://video.tv.adobe.com/v/334095/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415646/?captions=chi_hans&quality=12&learn=on)
 
 有关更多信息，请访问[流失](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hans)和[流量](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=zh-Hans)可视化图表的文档。

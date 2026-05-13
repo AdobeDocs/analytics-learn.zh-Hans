@@ -29,4 +29,4 @@ ht-degree: 100%
 
 在本视频中，您将会了解到如何在 Analysis Workspace 中创建交叉销售报表，并将它进一步扩展到任何多值维度或分类。
 
->[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40767/?captions=chi_hans&quality=12&learn=on)

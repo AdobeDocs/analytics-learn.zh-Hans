@@ -37,7 +37,7 @@ ht-degree: 44%
 
 获取有关如何配置[!UICONTROL 报表包]以使用[!DNL Advertising Analytics]、如何设置[!DNL Advertising Analytics]的付费搜索帐户和报告详细信息的高级审查。
 
->[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37458/?captions=chi_hans&quality=12&learn=on)
 
 ## 其他资源 {#additional-resources}
 

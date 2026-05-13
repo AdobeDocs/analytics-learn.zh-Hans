@@ -37,7 +37,7 @@ ht-degree: 97%
 
 # 以非技术方式翻译 Adobe Analytics 技术语言
 
->[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345321/?captions=chi_hans&quality=12&learn=on)
 
 ## 说不同的语言
 

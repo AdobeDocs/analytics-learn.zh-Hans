@@ -38,6 +38,6 @@ ht-degree: 48%
 
 Workspace 注释使您能够有效地将上下文数据的细微差别和洞察传达给整个组织的用户。 您可以用已知的数据问题、公共假日、活动启动等批注日期或日期范围，以便更好地告知用户他们为什么会看到折线图、表格等中的相关内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344387/?captions=chi_hans&quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=zh-Hans)。

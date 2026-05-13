@@ -29,4 +29,4 @@ ht-degree: 90%
 
 了解 Experience Platform [!DNL tags] 中 Analytics 扩展的库管理配置选项。 这段视频还涉及为数据收集选择报告包。  有关详细信息，请参阅[Adobe Analytics扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=zh-Hans){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429834/?captions=chi_hans&quality=12&learn=on)

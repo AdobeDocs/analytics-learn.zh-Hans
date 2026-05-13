@@ -28,4 +28,4 @@ ht-degree: 100%
 
 了解如何借助使用频率、[!UICONTROL 同类群组]、访问/用户和会话时长等功能深入了解语音应用程序的参与质量。
 
->[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34948/?captions=chi_hans&quality=12&learn=on)

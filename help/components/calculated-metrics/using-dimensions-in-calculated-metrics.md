@@ -30,7 +30,7 @@ ht-degree: 32%
 
 维度在计算量度生成器中可用，并且可添加到任何计算量度公式中，以将新量度限制为维度或维度值。
 
->[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37466/?captions=chi_hans&quality=12&learn=on)
 
 此功能简化了计算量度中创建和使用区段的工作流。
 

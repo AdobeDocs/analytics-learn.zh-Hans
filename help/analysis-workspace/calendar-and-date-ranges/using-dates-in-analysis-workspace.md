@@ -28,4 +28,4 @@ ht-degree: 0%
 
 大致了解如何在Analysis Workspace中为可视化图表使用日历和日期
 
->[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327350/?captions=chi_hans&quality=12&learn=on)

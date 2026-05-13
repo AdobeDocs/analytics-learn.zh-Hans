@@ -34,4 +34,4 @@ ht-degree: 76%
 
 了解 Analysis Workspace 中下拉过滤器中多选字段的选项，允许用户显示任何选定字段的数据。 有关详细文档，请访问[面板概述](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439946/?captions=chi_hans&learn=on)

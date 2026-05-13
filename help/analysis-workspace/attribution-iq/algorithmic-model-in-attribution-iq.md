@@ -36,6 +36,6 @@ ht-degree: 100%
 
 Analysis Workspace 中的“算法归因”模型可使用统计技术动态确定所选量度的最佳点数分配方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40050/?captions=chi_hans&quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=zh-Hans)。

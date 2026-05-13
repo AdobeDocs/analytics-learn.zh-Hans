@@ -31,6 +31,6 @@ ht-degree: 100%
 
 了解在 Analysis Workspace 中，如何通过各种工具对整个分析创建和查找区段，包括同类群组、流失和流量。
 
->[!VIDEO](https://video.tv.adobe.com/v/334092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415641/?captions=chi_hans&quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-workflow.html?lang=zh-Hans)。

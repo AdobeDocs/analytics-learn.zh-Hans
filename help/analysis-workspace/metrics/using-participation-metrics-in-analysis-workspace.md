@@ -35,6 +35,6 @@ ht-degree: 40%
 
 了解如何在[!DNL Analysis Workspace]中创建和使用参与率量度。
 
->[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429891/?captions=chi_hans&quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html?lang=zh-Hans)。

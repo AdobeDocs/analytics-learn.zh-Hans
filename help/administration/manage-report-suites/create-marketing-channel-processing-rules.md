@@ -37,7 +37,7 @@ ht-degree: 100%
 
 在本视频中，我们逐步演示了如何为营销渠道配置处理规则。
 
->[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344350/?captions=chi_hans&quality=12&learn=on)
 
 >[!NOTE]
 >

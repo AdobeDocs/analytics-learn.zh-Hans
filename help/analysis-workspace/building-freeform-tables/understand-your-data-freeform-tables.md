@@ -28,6 +28,6 @@ ht-degree: 100%
 
 使用自由格式表（数据透视表）来了解和解释您的数据，找出有价值的洞察。
 
->[!VIDEO](https://video.tv.adobe.com/v/334093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415656/?captions=chi_hans&quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table.html?lang=zh-Hans)。

@@ -43,5 +43,5 @@ ht-degree: 100%
 >如果您不使用 Adobe Experience Platform 标记（标记管理器），本文和视频适用于 Adobe Analytics 的“AppMeasurement”实施。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327639/?captions=chi_hans&quality=12&learn=on)
 

@@ -31,6 +31,6 @@ ht-degree: 36%
 
 想知道哪些产品销售得最好吗？ 了解可视化图表的一些主要用例，例如流失、流量、同类群组等。
 
->[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415651/?captions=chi_hans&quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=zh-Hans)。

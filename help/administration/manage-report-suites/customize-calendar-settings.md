@@ -31,4 +31,4 @@ ht-degree: 100%
 
 在本视频中，了解一些提示和技巧以及在 Adobe Analytics 中自定义日历的机制。
 
->[!VIDEO](https://video.tv.adobe.com/v/333003/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412854/?captions=chi_hans&quality=12&learn=on)

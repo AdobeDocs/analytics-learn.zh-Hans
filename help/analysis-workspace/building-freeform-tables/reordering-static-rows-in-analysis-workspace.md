@@ -28,4 +28,4 @@ ht-degree: 100%
 
 您可以在自由格式表生成器中手动为静态行重新排序。 这允许您按照所需的确切顺序排列表静态行 — 例如，依次为访问次数、订单数和转化率。
 
->[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33273/?captions=chi_hans&quality=12&learn=on)

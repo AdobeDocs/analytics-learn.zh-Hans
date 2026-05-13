@@ -40,4 +40,4 @@ ht-degree: 100%
 
 了解如何将 Advertising Cloud 浏览进入和点进登入数据与 Adobe Analytics [!UICONTROL Marketing Channels] 结合使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40941/?captions=chi_hans&quality=12&learn=on)

@@ -32,4 +32,4 @@ ht-degree: 100%
 
 了解将 [!DNL Advertising Analytics] 中的跟踪模板实施到搜索引擎中的步骤。 这是收集数据并将其传递给 Adobe Analytics 所需的关键步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37439/?captions=chi_hans&quality=12&learn=on)
