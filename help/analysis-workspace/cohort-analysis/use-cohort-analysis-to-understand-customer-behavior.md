@@ -10,11 +10,16 @@ jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
 TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32
-subfeature_v2: id: f836f655-eebe-4b76-82bc-697955ec1ce3
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2:
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1155
@@ -61,7 +66,7 @@ ht-degree: 8%
 1. **包含条件：**&#x200B;访问
 1. **返回条件：**&#x200B;访问
 1. **粒度：**&#x200B;个月
-1. **设置：**滚动计算
+1. **设置：**&#x200B;滚动计算
 \*\*允许您根据前一列而不是所包含的列计算维系。 因此，这意味着每个月都会包含用户\*\*
 1. **区段：**&#x200B;您可以选择特定区段以进一步推动此分析
    1. 特定登陆页面
@@ -121,7 +126,7 @@ ht-degree: 8%
 1. **包含条件：**&#x200B;访问+登录成功事件
 1. **返回条件：**&#x200B;访问
 1. **粒度：**&#x200B;个月
-1. **设置：**滚动计算
+1. **设置：**&#x200B;滚动计算
 \*\*允许您根据前一列而不是所包含的列计算维系。 因此，这意味着每个月都会包含用户\*\*
 
 ### 解释结果

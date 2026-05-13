@@ -11,9 +11,12 @@ role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
 TQID: https://experienceleague.adobe.com/aGhNUan7Csi-FZ7jjlYDFXibo26PW2iB4mxnXhYIcOk
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 103
@@ -23,7 +26,7 @@ ht-degree: 59%
 
 # 使用任何[!UICONTROL 维度]进行[!UICONTROL 同类群组]分析 {#cohort-analysis-using-any-dimension}
 
-[!UICONTROL 自定义同类群组][!UICONTROL 维度]选项允许您使用时间以外的[!UICONTROL 维度]分析[!UICONTROL 同类群组]。 按营销渠道、营销活动区域、产品页面等比较[!UICONTROL 同类群组]以更好地了解[!UICONTROL 维度]项目如何更改[!UICONTROL 维系]（或[!UICONTROL 流失]）。
+[!UICONTROL 自定义同类群组]&#x200B;[!UICONTROL 维度]选项允许您使用时间以外的[!UICONTROL 维度]分析[!UICONTROL 同类群组]。 按营销渠道、营销活动区域、产品页面等比较[!UICONTROL 同类群组]以更好地了解[!UICONTROL 维度]项目如何更改[!UICONTROL 维系]（或[!UICONTROL 流失]）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 

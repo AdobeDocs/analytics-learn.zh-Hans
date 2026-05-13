@@ -11,11 +11,22 @@ jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
 TQID: https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: c153fd90-23e1-4614-81d3-3cc7571227f7id: f73667dc-d296-4875-8975-ac3fdc3adc42
-subfeature_v2: id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e38cbddc-1633-4cd5-bed5-9f289f2a6029
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1166
@@ -32,7 +43,7 @@ _浏览 Adobe Analytics Workspace 中的操作仪表板如何彻底改变沟通�
 
 我注意到用户经常忽略我对Confluence网站的引用，例如“我的VPN已关闭”或“我现在无法阅读”等。基本上，“我待会再看那份文件”意味着它永远不会被阅读，同样的问题将在下周被再次提问。
 
-***实现击中：**Workspace 的多功能性可能会改变游戏规则。 用户更喜欢在 Workspace 中快速、直接地得到答案，因此让我们将它们保留在那里，避免额外的步骤。*
+***实现击中：**&#x200B;Workspace 的多功能性可能会改变游戏规则。 用户更喜欢在 Workspace 中快速、直接地得到答案，因此让我们将它们保留在那里，避免额外的步骤。*
 
 我继续创建了操作仪表板以在全公司范围内共享。 到目前为止，他们让用户了解情况、集中信息并减少挫败感。 这是一个简单、不断发展的过程，随着时间的推移，效率会不断提高。
 
