@@ -9,10 +9,16 @@ doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
 exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/5xgcAdoRhVgZZ3wjDpBrDCEAXWNADptU4yQlbbZUGG0
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 92%
+source-wordcount: 301
+ht-degree: 89%
 
 ---
 
@@ -20,14 +26,14 @@ ht-degree: 92%
 
 **内容：**&#x200B;如果您留意到[此提示](create-basic-videos-and-training.md){target="_blank"}中有关创建培训文档的建议，那么您显然无法将其保存在硬盘上。 创建一个可供所有用户共享和查阅的中心位置——一个 Adobe Analytics 内部站点（Confluence 或其他），您可以在其中发布所有这些文档并维护不同的版本。
 
-**原因：**&#x200B;建立一个单一的共享存储库可为您提供一个指导所有新用户的地方，并为您所有文档的最新版本提供一个单一的真实来源。这有助于优化版本管理和协作。
+**原因：**&#x200B;建立一个单一的共享存储库可为您提供一个指导所有新用户的地方，并为您所有文档的最新版本提供一个单一的真实来源。 这有助于优化版本管理和协作。
 
 **方法：**&#x200B;以下是对该内部站点各部分的一些建议：
 
 * _介绍_：如何获取访问权限、联系人、如何登录、如何创建 JIRA 票证、从何处获取帮助等。
 * _标记文档_：属性文档、标记文档、代码模板等。
-* _知识文档_：您可以在此处发布命名惯例，也可以发布与培训视频具有相同用途的知识文档。例如：如何跟踪下载、如何跟踪产品建议券等。
-* _培训文档_：基础和高级培训课程，5-10 分钟的短片。您还可以提供指向 Adobe 资源的链接，如 Experience League、YouTube 频道等。
+* _知识文档_：您可以在此处发布命名惯例，也可以发布与培训视频具有相同用途的知识文档。 例如：如何跟踪下载、如何跟踪产品建议券等。
+* _培训文档_：基础和高级培训课程，5-10 分钟的短片。 您还可以提供指向 Adobe 资源的链接，如 Experience League、YouTube 频道等。
 * _管理文档_：SAINT 文件、JS 文件、数据馈送等管理方面的知识文档等。
 
 建议您在创建新帐户时，在“欢迎使用 Adobe Analytics”电子邮件中共享此站点的链接（并突出显示培训部分）。
@@ -39,8 +45,8 @@ ht-degree: 92%
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-NortonLifeLock 数字分析平台经理 Christel Guidon
-Adobe Analytics Champion
+NortonLifeLock的数字分析平台经理Christel Guidon
+Adobe Analytics 负责人
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 

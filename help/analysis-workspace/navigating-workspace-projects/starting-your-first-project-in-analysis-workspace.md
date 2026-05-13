@@ -7,15 +7,21 @@ level: Beginner
 thumbnail: 30368.jpg
 kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
+TQID: https://experienceleague.adobe.com/I4ALRhhmc7lnzqsm3vuiMGDKVx3NMt6kQ-rDLRB7N-0
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2: id: a5b0e28e-686f-409c-8733-7a2b13fe13c2id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: c45e2849-b5ab-4ac6-8df1-bbe34c2dd79eid: dcae653e-62c6-4cc8-84e6-ee110b848296id: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 20%
+source-wordcount: 88
+ht-degree: 34%
 
 ---
 
 # 在Analysis Workspace中开始您的第一个项目
 
-了解如何从头开始或利用模板创建新的Analysis Workspace项目。 模板可以为您的分析开一个好头，并且可通过现成和公司创建的项目使用。 有关详细文档，请参阅[在Analysis Workspace中创建项目](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects)。
+了解如何从头开始或利用模板创建新的 Analysis Workspace 项目。 模板可以为您的分析开一个好头，并且可通过现成和公司创建的项目使用。 有关详细文档，请参阅[在Analysis Workspace中创建项目](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429812/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)

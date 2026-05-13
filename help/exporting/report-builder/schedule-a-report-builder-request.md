@@ -8,9 +8,15 @@ doc-type: feature video
 thumbnail: 342376.jpg
 kt: 9873
 exl-id: 087565b7-6f73-4667-ae29-446e9a0a6fab
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/9-IGSnKsuZJOg-xLyyV2G5xl8c48CZmhLrG9v6NP6JM
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+subfeature_v2: id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: 63
 ht-degree: 100%
 
 ---
@@ -19,6 +25,6 @@ ht-degree: 100%
 
 在本视频中，了解如何为 [!DNL Report Builder] 工作簿设置基本计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/346449/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=zh-Hans)。

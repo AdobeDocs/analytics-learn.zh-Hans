@@ -4,13 +4,18 @@ description: 在第二部分中，了解如何构建购买和保留访问意图�
 feature: Segmentation
 role: User
 level: Experienced
-last-substantial-update: 2023-07-21T00:00:00Z
+last-substantial-update: 2023-07-21T00:00:00.000Z
 jira: KT-13476
 thumbnail: KT-13476.jpeg
 exl-id: 2db73010-5cd0-4454-a4ba-fc1667a50cba
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/YrOglocGHw94rFe3i5EejfNtsy3NDqqeHM7ZS-6t18s
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: b4dd41a7-ccf8-4e9d-918e-acaab534a307id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1997'
+source-wordcount: 2004
 ht-degree: 0%
 
 ---
@@ -53,7 +58,7 @@ ht-degree: 0%
 
 同样，“查看您的购买”页面（或在购买确认之前显示的任何页面）可能位于funnel的太下方，因此无法用于分析和定位。
 
-随着funnel进一步升级，您将越来越不清楚该信号是否可用于指示客户打算进行购买。 在我的例子中，“Book Now”类似于零售业“Checkout”链接，这是我使用的信号。 funnel但在零售上下文中，结帐可能仍然太远，因此“查看购物车”甚至“添加到购物车”可能更好。
+随着funnel进一步升级，您将越来越不清楚该信号是否可用于指示客户打算进行购买。 在我的例子中，“Book Now”类似于零售业“Checkout”链接，这是我使用的信号。 但在零售上下文中，结帐可能仍然太远，因此“查看购物车”甚至“添加到购物车”可能更好。
 
 我们可以把它想象成一家杂货店。 如果有人从货架上拿起一件产品，这并不意味着他们打算买它。 即使他们把它放在购物车里，他们也可以马上把它放回货架上。 但是，如果他们把产品放进购物车，然后开始四处走动，很可能就会购买它。 如果他们在结账行里买了那件产品，他们肯定会买的。
 
@@ -77,7 +82,7 @@ ht-degree: 0%
 
 确保您的购买意向区段不包括“一个”和“完成”区段。 您只需排除“一个”和“完成”区段，因为用于购买意图的信号非常具体。
 
-请注意，如果排除“完成”和“完成”区段，则可能会排除从结账页面上重新进入您网站的人员。 这是正常的。“一个”和“完成”的定义本身就是单页面查看，这意味着即使访客在结账页面上进入页面或进行刷新，他们的访问也不会继续，因此不会表达购买意图。
+请注意，如果排除“完成”和“完成”区段，则可能会排除从结账页面上重新进入您网站的人员。 这是正常的。 “一个”和“完成”的定义本身就是单页面查看，这意味着即使访客在结账页面上进入页面或进行刷新，他们的访问也不会继续，因此不会表达购买意图。
 
 ### 区段生成器中的购买意图区段
 
