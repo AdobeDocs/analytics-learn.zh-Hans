@@ -27,4 +27,4 @@ ht-degree: 77%
 
 不想从头开始吗？ 了解如何使用预建的报告在 Workspace 中开始分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/334279/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450701/?captions=chi_hans&learn=on)
