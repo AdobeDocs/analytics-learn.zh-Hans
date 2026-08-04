@@ -39,5 +39,5 @@ ht-degree: 100%
 
 [!UICONTROL Ad Hoc Analysis] 项目转换器通过单击按钮将 [!UICONTROL Ad Hoc Analysis] (AHA) 项目无缝转化为 [!UICONTROL Analysis Workspace] 项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37438/?captions=chi_hans&quality=12&learn=on)
 

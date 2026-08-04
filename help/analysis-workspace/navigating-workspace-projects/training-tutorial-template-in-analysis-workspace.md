@@ -37,6 +37,6 @@ ht-degree: 100%
 
 Analysis Workspace 培训教程向用户介绍常见的术语以及在 Workspace 中构建其第一个分析的各个步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37183/?captions=chi_hans&quality=12&learn=on)
 
 本模板可用作新项目模式中的标准模板。 通过此模板，您可以创建自己的教程，根据组织的独特用例和数据结构（eVars、自定义事件）对其进行定制。
