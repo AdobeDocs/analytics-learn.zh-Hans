@@ -32,6 +32,6 @@ ht-degree: 100%
 
 了解如何在 Adobe Admin Console 中将用户添加为管理员。
 
->[!VIDEO](https://video.tv.adobe.com/v/37648/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327029/?captions=chi_hans&quality=12&learn=on)
 
 有关更多信息，请转至[文档](https://helpx.adobe.com/cn/enterprise/using/admin-console.html)。
