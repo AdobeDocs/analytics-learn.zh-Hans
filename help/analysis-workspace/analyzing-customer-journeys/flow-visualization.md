@@ -34,6 +34,6 @@ ht-degree: 100%
 
 流程可视化用于浏览客户与您的品牌之间的确切历程。 流程可应用于页面、营销渠道以及您收集的任何其他维度或维度组合。
 
->[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452632/?captions=chi_hans&quality=12&learn=on)
 
 有关此功能的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=zh-Hans)。

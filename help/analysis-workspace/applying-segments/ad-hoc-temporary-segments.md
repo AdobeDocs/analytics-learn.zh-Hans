@@ -27,4 +27,4 @@ ht-degree: 100%
 
 了解如何快速创建一个简单区段来回答具体问题，然后丢弃该区段以使其不会填入已保存区段的列表。
 
->[!VIDEO](https://video.tv.adobe.com/v/23978/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416818/?captions=chi_hans&quality=12&learn=on)

@@ -34,4 +34,4 @@ ht-degree: 100%
 
 使用[!UICONTROL 同类群组]通过参与受众的行为识别参与受众以及了解让您的移动应用程序产生吸引力的根本原因。 使用 [!UICONTROL Segment IQ] 中的数据科学算法了解区段之间的区别和相似之处。
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32083/?captions=chi_hans&quality=12&learn=on)
