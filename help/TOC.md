@@ -7,9 +7,9 @@ product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
 usetq: true
 auto-video-transcripts: true
-source-git-commit: d7b45e224fc1102e669a4d7dd8e963e0eb665ffa
+source-git-commit: c3fe1c5d91aea129e8ec7b816917ccdcb9abf876
 workflow-type: tm+mt
-source-wordcount: 2607
+source-wordcount: 2614
 ht-degree: 96%
 
 ---
@@ -157,6 +157,7 @@ ht-degree: 96%
   + 应用区段 {#applying-segments}
     + [将区段应用于您的 Analysis Workspace 项目](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
     + [应用临时区段](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+    + [使用子点击分析的产品级别分段](analysis-workspace/applying-segments/product-level-segmentation-with-sub-hit-analysis.md)
     + [将不同的Attribution IQ模型用于区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=zh-Hans)
     + [为面板选择区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=zh-Hans)
     + [在 Analysis Workspace 中将区段用作维度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
