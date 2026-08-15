@@ -22,4 +22,4 @@ Adobe Analytics中的传统分段通常仅限于点击级别，当多个产品�
 
 有关其他信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics/components/segmentation/sub-hit){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497083/?captions=chi_hans&quality=12&learn=on)
