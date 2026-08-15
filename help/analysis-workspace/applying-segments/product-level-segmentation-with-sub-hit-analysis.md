@@ -20,6 +20,6 @@ Adobe Analytics中的传统分段通常仅限于点击级别，当多个产品�
 
 此视频演示了Adobe Analytics中的子点击分析如何提供更细粒度的分段功能。
 
-有关其他信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/sub-hit){target="_blank"}。
+有关其他信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics/components/segmentation/sub-hit){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
