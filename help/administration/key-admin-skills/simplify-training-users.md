@@ -9,31 +9,44 @@ level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
 exl-id: d7fb6c34-262c-482c-95ab-fc45399bf9be
-TQID: https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg
+TQID: 'https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
   - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+    internal-label: Alerts
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Privacy
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 926
+source-wordcount: '926'
 ht-degree: 95%
-
 ---
-
 # 简化培训环节并缩短用户的培训时间的提示和技巧
 
 >[!VIDEO](https://video.tv.adobe.com/v/341109/?captions=chi_hans&quality=12&learn=on)
@@ -45,7 +58,7 @@ ht-degree: 95%
 
 ## 面向所有人的基本培训
 
-首先要做的是，按照适合大多数人的日程创建一个标准化的基本培训课程，介绍 Adobe Analytics 的使用。 此课程可以在大约一小时左右，包含组织中的用户开始使用 Adobe Analytics 时需要了解的所有信息。
+首先要做的是，按照适合大多数人的日程创建一个标准化的基本培训课程，介绍 Adobe Analytics 的使用。 该课程时长可能约为一小时，包含组织中的用户开始使用 Adobe Analytics 所需的全部内容。
 
 * 编写日程来推动培训课程持续进行，这样您就不会忘记一些在您的头脑中可能不再重要的基础知识。
 * 不要忘记一些简单的事情，例如，如何获取访问权限、登录以及更改密码或电子邮件地址。
@@ -64,7 +77,7 @@ ht-degree: 95%
 
 ## 面向部分人员的高级培训
 
-当然，一个标准的基本培训课程无法涵盖组织中用户的所有问题和所有使用案例。 创建基本培训之后，请继续到其他课程中的相关培训主题。
+当然，一个标准的基本培训课程无法涵盖组织中用户的所有问题和所有用例。 创建基本培训之后，请继续到其他课程中的相关培训主题。
 
 * 请确保同样录制这些课程，并在创建了新内容后逐个发布它们。
 * 有时候，随着解决方案实施的增长和演变，您需要更新培训课程，确保内容为最新。

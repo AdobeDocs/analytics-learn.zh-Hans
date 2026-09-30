@@ -9,25 +9,34 @@ doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
 exl-id: be00c8c0-a4bc-4380-98da-d1e2a3d31ec5
-TQID: https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U
+TQID: 'https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 366
+source-wordcount: '366'
 ht-degree: 87%
-
 ---
-
 # 创建标准化代码模板
 
 **内容：**&#x200B;对于基线实施（即贵公司认为所有 Adobe Analytics 站点都必须具备的 KPI），贵组织应尽可能采用单一的实施方法。 例如，跨站点使用相同的数据层结构，并利用相同的标记管理器规则/自定义代码来捕获内部搜索或访客轮廓信息等方面的内容。
@@ -36,7 +45,7 @@ ht-degree: 87%
 
 **方法：**&#x200B;当新站点或标记增强功能上线时，采用单一格式的模板将其交付给开发人员。 在通常情况下，Word 文档可以很好地概述以下项目：
 
-* 正在实施的变量、它们的目的以及何时设置。 例如：
+* 要实施的变量、其用途以及设置时机。 例如：
 
 | AA 变量 | 描述 | 何时/何地设置 | 如何设置 |
 |--- |--- |--- |--- |
@@ -44,7 +53,7 @@ ht-degree: 87%
 | event8 | 内部搜索计数 | 登录内部搜索结果页面 | 发布规则 |
 
 * 有关如何设置的详细信息。 在这里，您可以指定所需的任何数据层对象及其语法，以及需要配置的任何 TMS 规则和设置规则的详细信息。
-* 要确保的测试用例以及您希望在成功的测试用例中看到的所有变量都包含在 QA 中。 概述当开发人员测试此增强功能时，成功的实施应该包括哪些内容。
+* 确保 QA 涵盖的测试用例，以及您希望在成功测试用例中看到的所有变量。 概述当开发人员测试此增强功能时，成功的实施应该包括哪些内容。
 
 理想情况下，此文档只需在下一个站点中进行调整，您可以在下一个站点中更新属性名称、页面命名惯例等基础知识。无需每次都进行方向盘再造，这样可以节省更多时间。
 

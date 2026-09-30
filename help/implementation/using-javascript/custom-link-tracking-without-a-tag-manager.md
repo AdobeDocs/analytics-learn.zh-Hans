@@ -2,7 +2,7 @@
 title: 在不使用标记管理器的情况下进行自定义链接跟踪
 description: 对于页面上的许多操作，不应将跟踪视为页面查看。 在本视频中，您将了解如何在不使用标签管理器（如 Experience Platform Launch）的情况下将链接跟踪信标编码到 Analytics。 查看代码并了解重要提示。
 feature: Appmeasurement Implementation
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,32 +10,41 @@ kt: 1845
 role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-TQID: https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA
+TQID: 'https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: d2311670-43bd-4c2e-bc98-1da2aaba9cef
+    internal-label: Appmeasurement implementation
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Measurement
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '272'
 ht-degree: 100%
-
 ---
-
 # 在不使用标记管理器的情况下进行自定义链接跟踪 {#custom-link-tracking-without-a-tag-manager}
 
 对于页面上的许多操作，不应将跟踪视为页面查看。 在本视频中，您将了解如何在不使用标签管理器（如 Adobe [!DNL Experience Platform Launch]）的情况下将链接跟踪信标编码到 Analytics。 查看代码并了解重要提示。
 
 ## 发送 s.tl() 信标 {#sending-an-s-tl-beacon}
 
-以下两个函数可将数据发送到 Adobe Analytics 中：
+以下两个函数可将数据发送到 Adobe Analytics：
 
-1. s.t() — 一个“跟踪”信标，它是一个页面查看点击，可增加给定页面名称的页面查看次数并设置其他变量
+1. s.t() — 一个“跟踪”信标，它是一个页面查看点击，会增加给定页面名称的页面查看次数，并设置其他变量
 1. s.tl() — 一个“跟踪链接”信标，它通常称为“自定义链接”点击/信标，不会增加页面查看次数，并且将忽略 pageName 变量。 这通常用于跟踪页面上不会加载新页面/屏幕的少量操作，或不会导致新页面加载的其他操作。
 
 >[!NOTE]

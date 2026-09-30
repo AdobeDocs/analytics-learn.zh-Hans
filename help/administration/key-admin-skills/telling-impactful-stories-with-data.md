@@ -1,6 +1,6 @@
 ---
 title: 用数据讲述有影响力的故事
-description: 用数据讲故事是艺术和科学结合了使用数据、可视化和叙述的产物。  利用这些构成要素，制作有影响力的数据故事可分为三个部分。 通过有效地用数据讲述故事，Analytics 可以变得更容易被更广泛的受众所接受，并且您可以通过数据驱动型决策提升您为组织带来的价值。
+description: 数据故事讲述是艺术与科学通过数据、可视化和叙述相结合的过程。  利用这些构成要素，制作有影响力的数据故事可分为三个部分。 通过有效地用数据讲述故事，Analytics 可以变得更容易被更广泛的受众所接受，并且您可以通过数据驱动型决策提升您为组织带来的价值。
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -8,28 +8,35 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: b7902626-fbce-4333-909f-60878cd3ac99
-TQID: https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io
+TQID: 'https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 462
+source-wordcount: '462'
 ht-degree: 91%
-
 ---
-
 # 用数据讲述有影响力的故事
 
-用数据讲故事是艺术和科学结合了使用数据、可视化和叙述的产物。  利用这些构成要素，制作有影响力的数据故事可分为三个部分。 通过有效地用数据讲述故事，Analytics 可以变得更容易被更广泛的受众所接受，并且您可以通过数据驱动型决策提升您为组织带来的价值。
+数据故事讲述是艺术与科学通过数据、可视化和叙述相结合的过程。  利用这些构成要素，制作有影响力的数据故事可分为三个部分。 通过有效地用数据讲述故事，Analytics 可以变得更容易被更广泛的受众所接受，并且您可以通过数据驱动型决策提升您为组织带来的价值。
 
 ## 确定机会或问题
 

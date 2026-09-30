@@ -2,7 +2,7 @@
 title: 了解和使用 Journey IQ — 跨设备分析
 description: 当用户与您的品牌互动时，他们可在多种设备上通过多种方式进行。 跨设备分析与 Adobe Experience Platform 身份标识服务集成以标识设备与人员的映射方式。 然后，它利用此智能来创建用户行为的跨设备视图。 这使得能够对人员而非设备执行分析。
 feature: CDA
-topics: null
+topics:
 activity: use
 doc-type: article
 team: Technical Marketing
@@ -10,34 +10,50 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+TQID: 'https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
 subfeature_v2:
   - id: a544b409-2610-410d-a842-474ac1d0d54e
+    internal-label: Segment Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
+  - id: f99536a1-75c7-4151-a2c8-073630632526
+    internal-label: CDA
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1607
+source-wordcount: '1607'
 ht-degree: 94%
-
 ---
-
 # 了解和使用 [!DNL Journey IQ] — 跨设备分析
 
 当用户与您的品牌互动时，他们可在多种设备上通过多种方式进行。 跨设备分析与 [!DNL Adobe Experience Platform Identity Service] 集成以标识设备与人员的映射方式。 然后，它利用此智能来创建用户行为的跨设备视图。 这使得能够对人员而非设备执行分析。
@@ -53,7 +69,7 @@ ht-degree: 94%
 *Isabelle是三个访客*
 ![传统Analytics历程](assets/cda-isabelle-journey-traditional-analytics.png)
 
-通过使用传统分析，Isabelle 的历程分为三个部分。 她表示为三个独特访客，每个人员均使用不同的设备来执行独立任务。 我们需要的是一个统一的、跨设备的 Isabelle 互动视图。 [!DNL Journey IQ: Cross-Device Analytics] 提供了此视图。
+通过使用传统分析，Isabelle 的历程分为三个部分。 她被视为三个独特访客，每个访客都使用不同的设备来执行独立任务。 我们需要的是一个统一的、跨设备的 Isabelle 互动视图。 [!DNL Journey IQ: Cross-Device Analytics] 提供了此视图。
 
 *Isabelle是一个人*
 ![跨设备分析历程](assets/cda-isabelle-journey-cross-device-analytics.png)
@@ -76,11 +92,11 @@ Isabelle 行为的以人员为中心的跨设备视图会给您的分析带来�
 
 ## [!DNL Cross-Device Analytics]的工作原理
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] 与 [!DNL Adobe Experience Platform Identity Service] 集成，以利用 [!DNL Device Graph] 标识设备与人员的映射方式。 然后，它利用此智能来创建用户行为的跨设备视图。 CDA 包含无与伦比的功能和工具，可帮助您的企业了解多设备使用情况以及这些设备与您的品牌互动时的客户体验。 它是 Analysis Workspace 下方的一个层，借助功能强大的工具（例如[!UICONTROL 流失]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ] 和 [!DNL Attribution IQ]）来提供对基于人员的受众分析和跨设备归因、分段和历程分析的深入洞察。
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] 与 [!DNL Adobe Experience Platform Identity Service] 集成，以利用 [!DNL Device Graph] 标识设备与人员的映射方式。 然后，它利用此智能来创建用户行为的跨设备视图。 CDA 包含无与伦比的功能和工具，可帮助您的企业了解多设备使用情况，以及客户在与您的品牌互动时跨这些设备获得的体验。 它是 Analysis Workspace 下方的一个层，借助功能强大的工具（例如[!UICONTROL 流失]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ] 和 [!DNL Attribution IQ]）来提供对基于人员的受众分析和跨设备归因、分段和历程分析的深入洞察。
 
 ### [!DNL Cross-Device Virtual Report Suite]
 
-CDA 通过特殊类型的跨设备[[!UICONTROL 虚拟报表包]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=zh-Hans)来呈现。 这允许您在将跨设备分析引入组织时继续使用基于设备的原始报表包。 设置 CDA VRS 是一项轻松的工作。
+CDA 通过特殊类型的跨设备[[!UICONTROL 虚拟报表包]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=zh-Hans)来呈现。 这允许您在将跨设备分析引入组织时继续使用基于设备的原始报告包。 设置 CDA VRS 很容易。
 
 在 VRS 生成器的第一步中，选择已由 Adobe 配置为支持 CDA 的[!UICONTROL 报表包]：
 
@@ -179,7 +195,7 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/cn/legal/produ
 
 ### [!DNL Cross-Device Attribution IQ]
 
-由于 CDA 在 Analysis Workspace 下创建了一个跨设备数据层，因此您的所有分析都将使用跨设备透视。 一个强有力的示例是通过 [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=zh-Hans)。 Analysis Workspace 中的 [!DNL Attribution IQ] 允许您并排比较多个归因模型。 通过将此功能与 CDA 结合使用，您现在可以比较不同设备对成功的贡献。
+由于 CDA 在 Analysis Workspace 下创建了一个跨设备数据层，因此您的所有分析都将带有跨设备视角。 一个强有力的示例是通过 [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=zh-Hans)。 Analysis Workspace 中的 [!DNL Attribution IQ] 允许您并排比较多个归因模型。 通过将此功能与 CDA 结合使用，您现在可以比较不同设备对成功的贡献。
 
 例如，假设您想了解在最终促使成功的交互中，手机作为首个使用设备的频率。 这代表了手机的“客户获取率”。 CDA + [!DNL Attribution IQ] 允许您执行此分析：
 

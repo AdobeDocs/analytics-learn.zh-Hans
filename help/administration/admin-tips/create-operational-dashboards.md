@@ -10,30 +10,46 @@ last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
-TQID: https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M
+TQID: 'https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1166
+source-wordcount: '1166'
 ht-degree: 89%
-
 ---
-
 # 在 Analysis Workspace 中创建操作仪表板
 
 _浏览 Adobe Analytics Workspace 中的操作仪表板如何彻底改变沟通和效率。 了解如何创建常见问题解答、新闻和公告以及错误和功能仪表板，以简化信息、改进用户体验并增强参与度。_
@@ -45,7 +61,7 @@ _浏览 Adobe Analytics Workspace 中的操作仪表板如何彻底改变沟通�
 
 ***实现击中：**&#x200B;Workspace 的多功能性可能会改变游戏规则。 用户更喜欢在 Workspace 中快速、直接地得到答案，因此让我们将它们保留在那里，避免额外的步骤。*
 
-我继续创建了操作仪表板以在全公司范围内共享。 到目前为止，他们让用户了解情况、集中信息并减少挫败感。 这是一个简单、不断发展的过程，随着时间的推移，效率会不断提高。
+于是我创建了可在全公司范围内共享的操作仪表板。 到目前为止，他们让用户了解情况、集中信息并减少挫败感。 这是一个简单、不断发展的过程，随着时间的推移，效率会不断提高。
 
 在没有我参与的情况下，人们可以获得许多有用的信息，了解网站区域，了解Adobe Analytics有多酷，并且（对我来说很重要😊）问我的问题更少，花费的时间也更少。
 
@@ -53,7 +69,7 @@ _浏览 Adobe Analytics Workspace 中的操作仪表板如何彻底改变沟通�
 
 所有这些都不会阻止您保留 Confluence 站点，该站点仍然非常有用。 我甚至在每个操作仪表板的顶部引用它。 但我喜欢快捷方式——无论是对我还是对我的用户。
 
-让我向您解释一下我为我的公司 GenDigital 创建的三个操作仪表板，它们帮助我实现了这些目标。
+让我带您了解一下我为我的公司 GenDigital 创建的三个操作仪表板，它们帮助我实现了这些目标。
 
 1. 常见问题解答
 1. 新闻与公告
@@ -66,9 +82,9 @@ _浏览 Adobe Analytics Workspace 中的操作仪表板如何彻底改变沟通�
 
 只需创建[文本可视化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=zh-Hans)，其中问题格式为标题，答案/解释为内容，所有内容都折叠起来仅显示问题。 按相关性（例如页面或产品）对它们进行分组或使用面板。 保持简单，将常见查询优先放在顶部。
 
-与其写长电子邮件或重新发现旧的解释，不如更新您的常见问题解答仪表板。 从现在开始并随着时间的推移而扩展。 使用超链接引用报告中的其他仪表板或相关常见问题解答。 通过从其他仪表板链接到常见问题解答，在需要时提供复杂的上下文。
+与其写长电子邮件或重新发现旧的解释，不如更新您的常见问题解答仪表板。 现在就开始，并随着时间推移逐步扩充。 使用超链接引用报告中的其他仪表板或相关常见问题解答。 通过从其他仪表板链接到常见问题解答，在需要时提供复杂的上下文。
 
-对于 Gen Digital，我们的常见问题解答侧重于定制 Adobe Analytics 使用，而不是基础知识。 通过右键单击、选择“获取可视化链接”并共享个性化 URL，通过电子邮件发送特定的常见问题解答链接。 这为用户突出显示了确切的内容。 使用自由格式表进行数据说明，通过“编辑描述”添加更多解释。
+对于 Gen Digital，我们的常见问题解答侧重于定制化的 Adobe Analytics 使用，而不是基础知识。 通过右键单击、选择“获取可视化链接”并共享个性化 URL，通过电子邮件发送特定的常见问题解答链接。 这为用户突出显示了确切的内容。 使用自由格式表进行数据说明，通过“编辑描述”添加更多解释。
 
 一旦您感觉常见问题解答很全面，请与公司分享以供集体访问和学习。 根据需要不断增强。
 
@@ -107,11 +123,11 @@ _浏览 Adobe Analytics Workspace 中的操作仪表板如何彻底改变沟通�
 
 我使用文本可视化并通过要点使其非常简单。 项目符号点以错误日期以及属性为前缀（例如：“3jan23-17jan23 - Norton.com”、“14sep22 之前 - 聊天”）。 然后我添加细节并尽量保持简短。 我避免指出哪个团队出了问题，也避免添加太多用户可能不关心的技术细节。
 
-最新的错误位于顶部，而较旧的错误位于年度文本报告中（例如“2022 - 已知错误、错误和更改”）- 全部折叠起来。
+最新的错误位于顶部，而较旧的错误位于年度文本报告中（例如“2022 - 已知问题、错误和更改”）- 全部折叠起来。
 
 没有什么花哨。 确实很容易做到，而且您必须承认，比您保存在硬盘上并在 Confluence 上不断更新的 Excel 文件要好得多。
 
-我还参考了概述仪表板和 Cool Reports，类似于其他操作仪表板。 常见问题解答、新闻和公告仪表板位于顶部。
+我还参考了概述仪表板和 Cool Reports，类似于其他操作仪表板。 常见问题解答以及新闻和公告仪表板的链接位于顶部。
 
 以下是您的日志的示例：
 

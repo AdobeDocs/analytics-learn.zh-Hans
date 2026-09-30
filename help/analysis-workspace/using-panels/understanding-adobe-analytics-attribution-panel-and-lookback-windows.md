@@ -9,26 +9,38 @@ last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
-TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
+TQID: 'https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1704
+source-wordcount: '1704'
 ht-degree: 1%
-
 ---
-
 # 了解Adobe Analytics归因面板和回顾窗口
 
 当我第一次思考[归因面板](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=zh-Hans)和&#x200B;**回顾窗口**&#x200B;时，会立即想起了“*时间旅行”*&#x200B;的概念；当然，也会想起我们对许多新工具（如这些工具）的典型反应：只是推迟尝试使用，因为它们看起来太复杂了。
@@ -64,7 +76,7 @@ ht-degree: 1%
 >**归因模型**&#x200B;频繁地与&#x200B;**营销渠道**&#x200B;相关联，以致于我故意在上图中&#x200B;*划掉* ❷渠道，以说明针对大多数其他&#x200B;***维度***&#x200B;执行&#x200B;**归因**&#x200B;分析是可能的。
 
 
-事实上，任何给定的客户历程很少是真正线性的，甚至更不容易预测。  此外，每位客户都将按照自己的步调前进；通常，他们可能会再次返回、停滞不前、退出或参与其他非线性行为。 这些免费操作使得我们很难或几乎不可能了解营销工作在整个客户历程中所产生的影响。 它还会妨碍将多个数据渠道绑定在一起的工作。
+事实上，任何给定的客户历程很少是真正线性的，甚至更不容易预测。  此外，每位客户都将按照自己的步调前进；通常，他们可能会再次返回、停滞不前、退出或参与其他非线性行为。 这些免费操作使得我们很难或几乎不可能了解营销工作在整个客户历程中所产生的影响。 这也会妨碍将多个渠道的数据关联起来的工作。
 
 没错。  把你的“多米诺骨牌”类比放在门口，让你的思想更接近于蝴蝶效应和弦理论 — 但就像其他一切一样，我们需要从一些基本概念开始。
 
@@ -88,9 +100,9 @@ ht-degree: 1%
 
 - **U形**：此方法将&#x200B;**40%**&#x200B;的点数分配给门中的&#x200B;*第一个人*，将&#x200B;**20%**&#x200B;的点数分配给&#x200B;*之间的所有*&#x200B;人，然后将&#x200B;**40%**&#x200B;分配给&#x200B;**最后一个**。 此模型最常用于您有&#x200B;**长的转化/销售周期**&#x200B;且在此过程中包含&#x200B;*多个接触点*&#x200B;的情况。  在本例中，您的目标是主要突出介绍有助于客户转化的&#x200B;***first***&#x200B;和&#x200B;***last***&#x200B;营销策略。
 - **J**-**形状**&#x200B;和&#x200B;**反向J**：
-   - 考虑&#x200B;**U型**，但此模型将&#x200B;**60%**&#x200B;点数分配给走进大门的&#x200B;*最后一位人员*，将&#x200B;**20%**&#x200B;分配给&#x200B;*第一个*，然后&#x200B;*将其余*&#x200B;的&#x200B;**20%**&#x200B;除以&#x200B;*其他各项*。  **反向J**&#x200B;则正好相反。
+  - 考虑&#x200B;**U型**，但此模型将&#x200B;**60%**&#x200B;点数分配给走进大门的&#x200B;*最后一位人员*，将&#x200B;**20%**&#x200B;分配给&#x200B;*第一个*，然后&#x200B;*将其余*&#x200B;的&#x200B;**20%**&#x200B;除以&#x200B;*其他各项*。  **反向J**&#x200B;则正好相反。
 
-     此处的目标是将重点大部分放在营销活动的&#x200B;*开头*&#x200B;或&#x200B;*结尾*&#x200B;处；但是，您仍希望在对面为参与项目分配一定数量的点数，同时在此过程中承认“小人物”。
+    此处的目标是将重点大部分放在营销活动的&#x200B;*开头*&#x200B;或&#x200B;*结尾*&#x200B;处；但是，您仍希望在对面为参与项目分配一定数量的点数，同时在此过程中承认“小人物”。
 
 - **时间衰减**：现在，如果不共享此时间衰减信息，我将会失职。 此模型的半衰期是指数衰减的 — 随着时间的推移！  在这种情况下，此模型半衰期的&#x200B;*默认*&#x200B;参数为&#x200B;**7天**。  其工作方式是根据&#x200B;*初始接触点*&#x200B;之后以及客户转化时经过的时间&#x200B;*，将*&#x200B;权重&#x200B;*应用于每个&#x200B;**营销渠道**、*。
 

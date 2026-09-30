@@ -10,41 +10,63 @@ kt: 3945
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-TQID: https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s
+TQID: 'https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+    internal-label: Workspace projects
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+    internal-label: Report Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1072
+source-wordcount: '1052'
 ht-degree: 91%
-
 ---
-
-# 有关更快更轻松地创建自定义 Analytics 项目的 7 个提示和技巧
+# 有关更快更轻松地创建自定义分析项目的 7 个提示和技巧
 
 **扩展您的 Analysis Workspace 技能集！**
 Analysis Workspace 是 Adobe Analytics 中的一个功能强大的工具，可以帮助您创建更具影响力的 Analytics 项目。 它有一个庞大的功能集，可让您执行任何类型的自由格式分析，并提供了简单的用户体验，使这种功能和规模变得易于使用。
@@ -103,7 +125,7 @@ Adobe Analytics 收集大量数据。 [!DNL Virtual Report Suites]中的组件�
 
 ### ***提示 6：链接到项目内或跨项目的面板和可视化图表***
 
-创建将受众转至 Analysis Workspace 中的任何位置的链接。 只需右键单击要链接到的面板，选择“[!UICONTROL 获取面板链接]”，然后复制。 然后突出显示要从中链接的文本，在文本框或描述的文本编辑器中选择链接图标，然后粘贴。 要链接到整个项目，只需单击[!UICONTROL 共享]选项卡，选择[!UICONTROL 获取项目链接]，然后执行上述相同步骤。
+创建将受众转至 Analysis Workspace 中的任何位置的链接。 只需右键单击要链接到的面板，选择“[!UICONTROL 获取面板链接]”，然后复制。 然后选中您要添加链接的文本，在文本框或描述的文本编辑器中选择链接图标，然后粘贴。 要链接到整个项目，只需单击[!UICONTROL 共享]选项卡，选择[!UICONTROL 获取项目链接]，然后执行上述相同步骤。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327484/?captions=chi_hans&quality=12&learn=on)
 
