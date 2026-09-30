@@ -8,36 +8,51 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: 00a457dc-ff0b-461f-8f02-afc4ecd6b54b
-TQID: https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU
+TQID: 'https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: c45e2849-b5ab-4ac6-8df1-bbe34c2dd79e
+    internal-label: Data Dictionary
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1027
+source-wordcount: '1045'
 ht-degree: 97%
-
 ---
-
 # 以非技术方式翻译 Adobe Analytics 技术语言
 
->[!VIDEO](https://video.tv.adobe.com/v/345321/?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## 说不同的语言
 
@@ -45,7 +60,7 @@ ht-degree: 97%
 
 我发现以下四个技巧有助于让我的利益相关者了解 Adobe Analytics 的技术语言。
 
-## 提示 1：让您的利益相关者变得强大
+## 提示 1：让利益相关者有个良好的开端
 
 为 Adobe Analytics 新用户制定可靠的入职计划，这是从一开始就推动采用该软件的关键。 很多时候，您的入职计划将让他们第一次接触到 prop 和 eVar 的精彩世界。 您的入职计划需要平易近人、与工作相关且令人难忘，确保您的用户会继续使用该工具。
 
@@ -54,13 +69,13 @@ ht-degree: 97%
 >[!TIP]
 >
 >**用描述清楚地命名各个组件（即维度、区段和量度）**
->共享 eVar 和 prop 的数据字典始终是使组织数据民主化的一个不错的措施，但不要指望临时用户通过索引/数字就能记住所有自定义变量及其预期用途。 相反，在 Adobe Workspace 中，请确保组件名称具有描述性，并带有有意义的标签和描述。 这将帮助您的用户在数百个 eVar 和无限量度/区段中快速找到正确的量度。
+>共享 eVar 和 prop 的数据字典始终是使组织数据民主化的一个不错的措施，但不要指望临时用户通过索引/数字就能记住所有自定义变量及其预期用途。 相反，在 Adobe Workspace 中，请确保组件名称具有描述性，并带有有意义的标签和描述。 这将帮助您的用户在数百个 eVar 和无数量度/区段中快速找到正确的量度。
 
 ## 提示 2：找到共同语言
 
 无论您从事哪个行业，都可以找到将 Adobe Analytics 世界与利益相关者熟悉的事物联系起来的共同语言。
 
-在 [!DNL The Home Depot]，商家或商店经理可能不熟悉点击、访问或独特访客。 我们可以向他们解释分析服务器调用、浏览会话、超时和 Cookie... 我们也可以重新向我们的实体店和客户解释这些内容（也就是使用共同语言）。 一位独特访客成为走进我们店面的顾客。 网站访问量对应顾客前往 [!DNL Home Depot] 商店的次数。 而点击对应顾客的行为，例如在过道上走动或者与店员交谈。
+在 [!DNL The Home Depot]，商家或商店经理可能不熟悉点击、访问或独特访客。 我们可以向他们解释分析服务器调用、浏览会话、超时和 Cookie… 或者也可以回到我们的实体店和客户这个类比上来（也就是使用共同语言）。 一位独特访客成为走进我们店面的顾客。 网站访问量对应顾客前往 [!DNL Home Depot] 商店的次数。 而点击则变成了客户的行为，例如在过道上走动或者与店员交谈。
 
 >[!TIP]
 >
@@ -69,9 +84,9 @@ ht-degree: 97%
 >
 >如果您发现有几个同义词经常出现，或者如果有些词经常让用户感到困惑，请考虑为您的组织创建自行控制的术语表。 积极主动地推行偏好术语的标准化。 在您的入职和培养课程中复习最常见的混淆术语，帮助用户适应这些术语。
 
-## 提示 3：利用明星效应
+## 提示 3：组建明星团队
 
-密切关注您的分析明星，即那些能够快速掌握 Adobe Analytics 技术的细微差别并可以在整个分析过程中轻松应用它们的人员。 无论以正式方式还是非正式方式，请让您的明星团队来测试您的入职程序的变化，或者使他们成为新报告的 Beta 版用户。 当他们自己的团队内部分析知识水平参差不齐时，他们还可以指出这一点。
+密切关注您的分析明星，即那些能够快速掌握 Adobe Analytics 技术的细微差别并可以在整个分析过程中轻松应用它们的人员。 无论以正式方式还是非正式方式，请让您的明星团队来测试您的入职程序的变化，或者使他们成为新报告的 Beta 版用户。 当他们自己的团队内部存在分析知识缺口时，他们还可以指出这一点。
 
 在 [!DNL The Home Depot]，我们举办了一场 Adobe Analytics 挑战赛，向用户询问了可以使用该工具解决的一些复杂问题。 这项挑战赛既树立了一些分析明星，也帮助我们了解了我们的利益相关者对 Adobe Analytics 技术细节的理解程度。
 
@@ -86,6 +101,6 @@ ht-degree: 97%
 
 在构建 Adobe Analytics 功能板时，为利益相关者提供充足的机会以获得帮助。 您可以设立开放办公时间，利益相关者可以在这段时间提出问题并与专家配对沟通。 或者建立一个帮助热线渠道，利益相关者可以在安全的学习环境中提问。
 
-在 [!DNL The Home Depot]，我们的利益相关者喜欢我们的开放办公时间和 Slack 帮助热线。 自成立这些开放渠道以来，我们发现，构建报告的准确性得以提高，并且我们的 Adobe Analytics 采用率大幅飙升。 之前，我们已经在全球零售商中进入 Adobe Analytics 采用分数的前 5%！
+在 [!DNL The Home Depot]，我们的利益相关者喜欢我们的开放办公时间和 Slack 帮助热线。 自成立这些开放渠道以来，我们发现，构建报告的准确性得以提高，并且我们的 Adobe Analytics 采用率大幅飙升。 之前，在全球零售商中，我们的 Adobe Analytics 采用得分已进入前 5%！
 
 帮助您的用户了解 Adobe Analytics 的技术世界绝非易事。 我希望上面这些技巧和示例能够帮助您的利益相关者深入研究、构建这些自由格式表并爱上 prop 和 eVar 的世界。

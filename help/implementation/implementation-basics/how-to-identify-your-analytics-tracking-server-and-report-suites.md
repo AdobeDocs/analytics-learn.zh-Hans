@@ -2,7 +2,7 @@
 title: 如何标识分析跟踪服务器和报告包 ID
 description: 在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 Analytics“跟踪服务器”或您将数据发送到其中的“报告包”一般都很有帮助，甚至必须这样做。 此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
 feature: Implementation Basics
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,25 +10,34 @@ kt: 2358
 role: Developer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-TQID: https://experienceleague.adobe.com/DRy-lxNuEQR9Tb-nIoev0Mu1OzSiCcLcqve1eDf7p6Q
+TQID: 'https://experienceleague.adobe.com/DRy-lxNuEQR9Tb-nIoev0Mu1OzSiCcLcqve1eDf7p6Q'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Measurement
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 334
+source-wordcount: '334'
 ht-degree: 100%
-
 ---
-
 # 如何标识 Analytics [!DNL tracking server]和[!UICONTROL 报告包 ID] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
 在设置 Adobe Analytics 或在其他 Experience Cloud 解决方案中引用它时，了解您所使用的 Analytics“跟踪服务器”或您将数据发送到其中的[!UICONTROL 报告包]一般都很有帮助，甚至必须这样做。 此视频介绍如何找到这两个值，无论您是否已实施了 Adobe Analytics。
@@ -53,4 +62,4 @@ ht-degree: 100%
 
 有关详细信息，请观看下方的视频。
 
->[!VIDEO](https://video.tv.adobe.com/v/40898/?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)

@@ -9,24 +9,34 @@ last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
+TQID: 'https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Customer experience
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1155'
 ht-degree: 8%
-
 ---
-
 # 使用同类群组分析来理解客户行为
 
 要改善客户体验和收入，企业必须了解客户行为。 同类群组分析有助于理解参与度和维系率，从而采取改进客户创建和创建大流量月份促销活动等措施。
@@ -66,7 +76,7 @@ ht-degree: 8%
 1. **包含条件：**&#x200B;访问
 1. **返回条件：**&#x200B;访问
 1. **粒度：**&#x200B;个月
-1. **设置：**&#x200B;滚动计算
+1. **设置：**滚动计算
 \*\*允许您根据前一列而不是所包含的列计算维系。 因此，这意味着每个月都会包含用户\*\*
 1. **区段：**&#x200B;您可以选择特定区段以进一步推动此分析
    1. 特定登陆页面
@@ -126,7 +136,7 @@ ht-degree: 8%
 1. **包含条件：**&#x200B;访问+登录成功事件
 1. **返回条件：**&#x200B;访问
 1. **粒度：**&#x200B;个月
-1. **设置：**&#x200B;滚动计算
+1. **设置：**滚动计算
 \*\*允许您根据前一列而不是所包含的列计算维系。 因此，这意味着每个月都会包含用户\*\*
 
 ### 解释结果
@@ -145,7 +155,7 @@ ht-degree: 8%
 
 ## 第4部分：自定义Dimension同类群组
 
-自定义Dimension同类群组：创建基于所选维度的同类群组，而不是基于时间的同类群组（默认）。 许多客户想要按时间以外的其他方式分析他们的同类群组，现在，通过新的自定义维度同类群组功能，可以灵活地根据他们所选的维度构建同类群组。 在 Adobe Analytics 中使用营销渠道、促销活动、产品、页面、区域或任何其他维度，可显示维系率根据这些维度值的不同有何变化。 此
+自定义Dimension同类群组：创建基于所选维度的同类群组，而不是基于时间的同类群组（默认）。 许多客户想要按时间以外的其他方式分析他们的同类群组，现在，通过新的自定义维度同类群组功能，可以灵活地根据他们所选的维度构建同类群组。 在 Adobe Analytics 中使用营销渠道、营销活动、产品、页面、区域或任何其他维度，可显示留存情况如何根据这些维度的不同值而变化。 此
 
 自定义Dimension同类群组区段定义仅将维度项用作包含时段的一部分，而不是回访定义的一部分。
 

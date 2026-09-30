@@ -5,47 +5,66 @@ feature: Implementation Basics
 role: Developer, Developer, Leader, User
 level: Beginner
 kt: 10454
-thumbnail: null
+thumbnail:
 last-substantial-update: 2022-10-14T00:00:00.000Z
 exl-id: ba2959f0-b667-40f9-bc59-9364a9d83f19
-TQID: https://experienceleague.adobe.com/6aNeRhdbEMFR0A9301GsuTWxWe3w-OUCeFhTOOaWUfg
+TQID: 'https://experienceleague.adobe.com/6aNeRhdbEMFR0A9301GsuTWxWe3w-OUCeFhTOOaWUfg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c67272a6-888e-425e-9e97-a87304637eed
+    internal-label: Anomaly Detection
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Machine learning
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 770
+source-wordcount: '770'
 ht-degree: 100%
-
 ---
-
 # 分析是什么？{#what-is-analytics}
 
 在您专心学习关于 Adobe Analytics 的内容之前，了解“分析是什么？”这个基本问题的答案很有帮助。 分析是一个含义广泛的用语，其中涉及促进业务发展和转型的多个领域，即业务分析和数据分析。 这两者之间有一个区别。 下面我们来仔细介绍。
 
 ## 业务分析的作用
 
-自 Internet 用于商业用途以来，这种做法在近年来日益成熟，因此组织关于消费者如何互动和参与其品牌而积累的数据量也急剧增长。 如果您以前听说过“大数据”这个术语，那么这就属于业务分析的范畴。
+近年来，将互联网用于商业用途这一做法兴起并日趋成熟，组织积累的有关消费者如何与其品牌互动和参与的数据量也随之激增。 如果您以前听说过“大数据”这个术语，那么这就属于业务分析的范畴。
 
 业务分析是业务情报的一个组成部分，它关注宏观的战略风险和机遇。 这是各家公司要在其行业中保持竞争力所必须具备的能力。
 
@@ -53,14 +72,14 @@ ht-degree: 100%
 
 * **描述性分析**：其中涉及使用历史数据发现组织业务的趋势。 例如，一家零售商需要在旺季或节假日之前预测产品需求，并需要优化库存以实现其业务目标。
 * **诊断性分析**：意外结果的背后有哪些原因？ 为什么在淡季仍对某件产品或某项服务有巨大需求？ 诊断性分析是描述性分析的一种更深层次的形式，旨在从数据找出关联。
-* **预测性分析**：其中使用历史数据判断可能产生的结果或事件。 一般使用机器学习 (ML) 和人工智能 (AI) 作出更准确的预测。 客户流失是预测性分析在实际应用中的一个例子。 此分析找出关联以确定有可能流失的客户的各种属性，以使您可采取措施以防止发生流失。
+* **预测性分析**：其中使用历史数据判断可能产生的结果或事件。 机器学习 (ML) 和人工智能 (AI) 通常用于作出更准确的预测。 客户流失是预测性分析在实际应用中的一个例子。 此分析找出关联以确定有可能流失的客户的各种属性，以使您可采取措施以防止发生流失。
 * **规范性分析**：这是预测分析的一种高级形式，旨在揭示最适合产生预期结果的途径。 这种类型的分析也使用 ML 和 AI 技术。 零售商使用规范性分析通过改变其运营方式而提高利润。
 
 ![data-analytics-types](../what-can-aa-do-for-me/assets/data_analytics_types.png)
 
 ## 数据分析的作用
 
-数据分析使用的多项技术与在业务分析中使用的相同，但范围更广泛且技术性更强。 例如，大数据分析依靠高质量和有条理的数据。 为数据排序、存储和清理数据的效率如何？ 数据科学家从事数据分析领域的工作。 他们转换大规模的数据集，然后业务分析师使用这些数据集将信息传递至组织以优化各种流程和指标。 数据科学家深入分析数据、判断趋势和联系。
+数据分析使用的多项技术与在业务分析中使用的相同，但范围更广泛且技术性更强。 例如，大数据分析依靠高质量和有条理的数据。 数据经过排序、存储和清理的效果如何？ 数据科学家从事数据分析领域的工作。 他们转换大规模的数据集，然后业务分析师使用这些数据集将信息传递至组织以优化各种流程和指标。 数据科学家深入分析数据、判断趋势和联系。
 
 ![data-analytics](../what-can-aa-do-for-me/assets/data_analytics.png)
 

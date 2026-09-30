@@ -9,25 +9,35 @@ last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
 exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
-TQID: https://experienceleague.adobe.com/YsHPJO-w7ZhVlI-xuZfF5fYj0q3HQGoypJsUQfoc5oc
+TQID: 'https://experienceleague.adobe.com/YsHPJO-w7ZhVlI-xuZfF5fYj0q3HQGoypJsUQfoc5oc'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1112
+source-wordcount: '1112'
 ht-degree: 3%
-
 ---
-
 # 使用直方图解锁洞察：超出Analytics中的平均值
 
 _发现Analytics中的直方图对平均值以外的分析的影响。 直方图可揭示客户行为、访客参与度、技术绩效和表单错误中的数据模式，从而在Adobe Workspace中实现更深入的洞察和明智的决策。_
 
-我们直接跳进去吧。 您应该使用[直方图](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=zh-Hans)。 我要解释为什么，但是我想回答你的第一个问题：什么是直方图？ 我明白。 大多数时候，当你看到一栈的条柱上升时，你可能会认为这是一个条状图。 是的，直方图看起来很相似，但我向你保证，它们是不一样的。 条形图可比较各种情况，而直方图则显示变量发生的频率。 看看吧。 下面是一个条形图：
+我们直接跳进去吧。 您应该使用[直方图](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html)。 我要解释为什么，但是我想回答你的第一个问题：什么是直方图？ 我明白。 大多数时候，当你看到一栈的条柱上升时，你可能会认为这是一个条状图。 是的，直方图看起来很相似，但我向你保证，它们是不一样的。 条形图可比较各种情况，而直方图则显示变量发生的频率。 看看吧。 下面是一个条形图：
 
 ![条形图1](assets/bar-chart-1.png)
 

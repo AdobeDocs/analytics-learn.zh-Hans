@@ -9,38 +9,53 @@ last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13268
 thumbnail: KT-13268.jpeg
 exl-id: 7743debd-57d8-4c79-a332-187180fc9701
-TQID: https://experienceleague.adobe.com/SqW3fb-f-er2nTJ1FbayhC4MjiYvrU5iEj5UvzfHiqU
+TQID: 'https://experienceleague.adobe.com/SqW3fb-f-er2nTJ1FbayhC4MjiYvrU5iEj5UvzfHiqU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+    internal-label: Workspace projects
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
 subfeature_v2:
   - id: a544b409-2610-410d-a842-474ac1d0d54e
+    internal-label: Segment Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: c47a19a5-f47b-4e53-afe0-e230da195ebe
+    internal-label: Segmentation
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 878
+source-wordcount: '878'
 ht-degree: 7%
-
 ---
-
 # 现在只需等待一个区段……使用区段在Analysis Workspace中发掘新见解
 
-无论您是新Adobe Analytics用户还是经验丰富的专家，您都将在您的Analysis Workspace项目中利用大量区段。 正如[Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hans)描述的那样，“区段允许您根据特性或网站交互情况识别访客的子集。” 虽然此功能的基本结果意味着隔离您网站的用户组、访问或点击，但像您自己这样的思维敏锐的分析人员可以使用此工具进行创意，并找到了解您网站活动的新方法。 可能的选项列表非常多，因此，您可以尝试创建自己的选项，并在组织内或在Experience League上的[Adobe Analytics社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hans)或[Slack](https://www.measure.chat/)社区等社区中与其他人在线共享#Measure
+无论您是新Adobe Analytics用户还是经验丰富的专家，您都将在您的Analysis Workspace项目中利用大量区段。 正如[Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hans)描述的那样，“区段允许您根据特性或网站交互情况识别访客的子集。” 虽然此功能的基本结果意味着隔离您网站的用户组、访问或点击，但像您自己这样的思维敏锐的分析人员可以使用此工具进行创意，并找到了解您网站活动的新方法。 可能的选项列表非常多，因此，您可以尝试创建自己的选项，并在组织内或在Experience League上的[Adobe Analytics社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或[Slack](https://www.measure.chat/)社区等社区中与其他人在线共享#Measure
 
-如果您需要有关如何创建区段的快速刷新程序，请查看Experience League关于在Analysis Workspace中使用[区段生成器](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=zh-Hans)的文档。
+如果您需要有关如何创建区段的快速刷新程序，请查看Experience League关于在Analysis Workspace中使用[区段生成器](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en)的文档。
 
 ## 比较和对比区段
 
@@ -98,7 +113,7 @@ ht-degree: 7%
 
 ![区段12](assets/s12.png)
 
-使用区段来查找新见解的可能性是无穷的！ 这只是个起点。 请自己尝试几个社区，让社区知道您发现的内容：[Experience League上的Adobe Analytics社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hans)或[#Measure Slack](https://www.measure.chat/)社区。
+使用区段来查找新见解的可能性是无穷的！ 这只是个起点。 请自己尝试几个社区，让社区知道您发现的内容：[Experience League上的Adobe Analytics社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或[#Measure Slack](https://www.measure.chat/)社区。
 
 分段快乐！
 

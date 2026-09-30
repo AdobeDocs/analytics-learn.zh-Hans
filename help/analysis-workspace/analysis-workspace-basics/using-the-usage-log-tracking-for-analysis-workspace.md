@@ -9,19 +9,20 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 65%
-
+source-wordcount: '152'
+ht-degree: 63%
 ---
-
 
 # 将[!UICONTROL 使用日志跟踪]用于 Analysis Workspace {#using-the-usage-log-tracking-for-analysis-workspace}
 
-本视频说明如何在[!UICONTROL 项目上使用]使用情况日志跟踪[!DNL Workspace]，这可以帮助您更好地了解用户对Adobe Analytics的使用情况。
+本视频说明如何在[!DNL Workspace]项目上使用[!UICONTROL 使用情况日志跟踪]，这可以帮助您更好地了解用户对Adobe Analytics的使用情况。
 
->[!VIDEO](https://video.tv.adobe.com/v/32854/?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 [!DNL Workspace] 跟踪选项包括：
 
@@ -36,7 +37,7 @@ ht-degree: 65%
 
 ## 其他资源 {#additional-resources}
 
-* [关于日志的详细信息](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=zh-Hans)
+* [有关日志的详细信息](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [下载演示仪表板](https://adobe.ly/2ygP5ws)
 
 新增功能：我们力争尽快在 [!DNL Analytics] 中用一个简单易用的 UI（并具有更多细节）展示这些信息。
