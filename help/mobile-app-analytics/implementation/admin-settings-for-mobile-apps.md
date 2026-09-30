@@ -37,4 +37,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
 
-有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=en)。
+有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=zh-Hans)。
