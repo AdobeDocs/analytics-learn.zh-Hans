@@ -50,7 +50,7 @@ ht-degree: 100%
 ---
 # 跨职能工作
 
->[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345450/?captions=chi_hans&quality=12&learn=on)
 
 Adobe Analytics 之旅始于良好的实施。 我们都知道“输入有问题，输出自然也有问题”这句话。 为了消除“产生无用数据”的实施，管理员必须监控输入到系统中的数据的每个细节。 也就是说，数据收集策略受到组织中许多利益相关者的影响，管理员必须日复一日地与这些利益相关者进行合作。
 

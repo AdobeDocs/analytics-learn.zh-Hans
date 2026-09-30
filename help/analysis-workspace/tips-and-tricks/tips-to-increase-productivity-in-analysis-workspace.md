@@ -41,4 +41,4 @@ ht-degree: 100%
 
 在本视频中，我们将介绍 4 个提示，帮助您提高在 Analysis Workspace 中的工作效率并节省时间。
 
->[!VIDEO](https://video.tv.adobe.com/v/31157/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33228/?captions=chi_hans&quality=12&learn=on)
